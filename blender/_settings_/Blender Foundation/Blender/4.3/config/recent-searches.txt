@@ -1,6 +1,6 @@
    Render Result
-   UV-sharp.png.001
-   UV-sharp.png
    Image
    UV-normal.png
    Material
+   UV-sharp.png
+   UV-sharp.png.001
