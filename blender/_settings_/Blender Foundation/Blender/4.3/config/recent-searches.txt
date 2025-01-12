@@ -1,8 +1,6 @@
    Render Result
- 0 Viewer Node
-Mesh ▸ Clean Up ▸ Decimate Geometry
-Window ▸ Show Status Bar
-   Material
-Mesh ▸ Split (Alt M) ▸ Selection|Y
-Generate ▸ Decimate
+   UV-sharp.png.001
    UV-sharp.png
+   Image
+   UV-normal.png
+   Material
