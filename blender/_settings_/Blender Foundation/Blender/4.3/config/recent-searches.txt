@@ -4,3 +4,5 @@
    Material
    UV-sharp.png
    UV-sharp.png.001
+Mesh ▸ Plane
+Generate ▸ Decimate
