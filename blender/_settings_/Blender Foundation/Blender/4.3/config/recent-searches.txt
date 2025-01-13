@@ -5,4 +5,5 @@
    UV-sharp.png
    UV-sharp.png.001
 Mesh ▸ Plane
+Light ▸ Sun
 Generate ▸ Decimate
