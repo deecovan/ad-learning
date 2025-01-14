@@ -1,7 +1,7 @@
 [Bookmarks]
 [Recent]
-C:\Projects\ad-learning\blender\assets\ImphenziaPalettes\
 C:\Projects\ad-learning\blender\assets\
+C:\Projects\ad-learning\blender\assets\ImphenziaPalettes\
 C:\Projects\ad-learning\blender\models\tree-000\
 C:\Projects\ad-learning\blender\models\
 C:\Projects\ad-learning\blender\models\land-001\
