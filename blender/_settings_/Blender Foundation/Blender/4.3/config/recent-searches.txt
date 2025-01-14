@@ -1,9 +1,16 @@
-   Render Result
    Image
-   UV-normal.png
    Material
    UV-sharp.png
    UV-sharp.png.001
 Mesh ▸ Plane
 Light ▸ Sun
 Generate ▸ Decimate
+   Render Result
+   brown
+   getColorRamp-UV.png
+ 0 UV-normal.png
+
+  Cube.001
+Generate ▸ Boolean
+   UV-normal.png
+Shader ▸ Mix Shader
