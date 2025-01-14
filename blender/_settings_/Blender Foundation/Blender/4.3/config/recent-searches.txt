@@ -5,12 +5,12 @@
 Mesh ▸ Plane
 Light ▸ Sun
 Generate ▸ Decimate
-   Render Result
    brown
    getColorRamp-UV.png
  0 UV-normal.png
 
   Cube.001
 Generate ▸ Boolean
-   UV-normal.png
 Shader ▸ Mix Shader
+   UV-normal.png
+   Render Result
