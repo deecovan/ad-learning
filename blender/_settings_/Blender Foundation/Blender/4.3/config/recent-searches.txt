@@ -2,8 +2,6 @@
    Material
    UV-sharp.png
    UV-sharp.png.001
-Mesh ▸ Plane
-Light ▸ Sun
 Generate ▸ Decimate
    brown
    getColorRamp-UV.png
@@ -14,3 +12,11 @@ Generate ▸ Boolean
 Shader ▸ Mix Shader
    UV-normal.png
    Render Result
+3D View Pie (Shift F) ▸ Lightmap Pack
+Mesh ▸ Normals (Alt N) ▸ Flip
+Mesh ▸ Plane
+   getColorRamp-9v.png
+Light ▸ Sun
+Light ▸ Point
+Mesh ▸ Cone
+Mesh ▸ Cube
