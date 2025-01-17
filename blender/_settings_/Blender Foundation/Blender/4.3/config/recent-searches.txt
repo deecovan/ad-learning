@@ -14,12 +14,14 @@ Shader ▸ Mix Shader
 3D View Pie (Shift F) ▸ Lightmap Pack
 Mesh ▸ Normals (Alt N) ▸ Flip
    getColorRamp-9v.png
-Light ▸ Sun
 Light ▸ Point
 Mesh ▸ Cone
 Mesh ▸ Cube
 Mesh ▸ Cylinder
 Mesh ▸ Plane
 0 LineStyle
+Light ▸ Sun
   LineStyle
 Generate ▸ Decimate
+   Material.002
+ 0 Material.001

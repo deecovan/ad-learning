@@ -1,5 +1,6 @@
 [Bookmarks]
 [Recent]
+C:\Projects\ad-learning\blender\models\top-and-iso-scene-000\
 C:\Projects\ad-learning\blender\models\land-stones-000\screens\
 C:\Projects\ad-learning\blender\models\land-stones-000\
 C:\Projects\ad-learning\blender\models\house-000\
@@ -9,4 +10,3 @@ C:\Projects\ad-learning\blender\models\land-001\
 C:\Projects\ad-learning\blender\models\land-000\
 C:\Projects\ad-learning\blender\assets\
 C:\Projects\ad-learning\blender\models\tree-000\
-C:\Projects\ad-learning\blender\assets\ImphenziaPalettes\

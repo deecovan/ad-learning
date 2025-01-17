@@ -1,3 +1,7 @@
+C:\Projects\ad-learning\blender\models\top-and-iso-scene-000\top-and-iso-scene-002-8x8m-64x64px-fixed.blend
+C:\Projects\ad-learning\blender\models\top-and-iso-scene-000\top-and-iso-scene-002-8x8m-64x64px.blend
+C:\Projects\ad-learning\blender\models\top-and-iso-scene-000\top-and-iso-scene-001-64x64.blend
+C:\Projects\ad-learning\blender\models\top-and-iso-scene-000\top-and-iso-scene-000.blend
 C:\Projects\ad-learning\blender\models\land-stones-000\land-stones-001-simple-64x64.blend
 C:\Projects\ad-learning\blender\models\land-stones-000\land-stones-000-simple-64x64.blend
 C:\Projects\ad-learning\blender\models\land-stones-000\land-stones-000.blend
