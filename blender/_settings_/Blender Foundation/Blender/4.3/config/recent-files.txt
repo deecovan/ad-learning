@@ -1,2 +1,5 @@
+C:\Projects\ad-learning\blender\models\land-stones-000\land-stones-001-simple-64x64.blend
+C:\Projects\ad-learning\blender\models\land-stones-000\land-stones-000-simple-64x64.blend
+C:\Projects\ad-learning\blender\models\land-stones-000\land-stones-000.blend
 C:\Projects\ad-learning\blender\models\house-000\stones-000.blend
 C:\Projects\ad-learning\blender\models\house-000\house-000.blend
