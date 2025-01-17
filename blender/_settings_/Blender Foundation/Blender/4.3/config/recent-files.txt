@@ -1,4 +1,2 @@
-C:\Projects\ad-learning\blender\models\car-000\car.blend
-C:\Projects\ad-learning\blender\models\land-001\land-001.blend
-C:\Projects\ad-learning\blender\models\land-000\land-000.blend
+C:\Projects\ad-learning\blender\models\house-000\stones-000.blend
 C:\Projects\ad-learning\blender\models\house-000\house-000.blend
