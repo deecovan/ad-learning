@@ -1,3 +1,14 @@
+C:\Projects\ad-learning\blender\models\assets-slappy-000\models\house-003-textured.blend
+C:\Projects\ad-learning\blender\models\assets-slappy-000\models\house-002-architecture-primitive.blend
+C:\Projects\ad-learning\blender\models\assets-slappy-000\models\house-001-128x128-view.blend
+C:\Projects\ad-learning\blender\models\assets-slappy-000\models\house-000.blend
+C:\Projects\ad-learning\blender\models\assets-slappy-000\models\tree-004.lights.blend
+C:\Projects\ad-learning\blender\models\assets-slappy-000\models\tree-003.lines.blend
+C:\Projects\ad-learning\blender\models\assets-slappy-000\models\tree-002.colors.blend
+C:\Projects\ad-learning\blender\models\assets-slappy-000\models\tree-001.colors.blend
+C:\Projects\ad-learning\blender\models\assets-slappy-000\models\tree-001.blend
+C:\Projects\ad-learning\blender\models\assets-slappy-000\screens\tree-001.blend
+C:\Projects\ad-learning\blender\models\assets-slappy-000\models\tree-000.blend
 C:\Projects\ad-learning\blender\models\assets-slappy-000\models\-source-.blend
 C:\Projects\ad-learning\blender\models\top-and-iso-scene-000\top-and-iso-scene-002-8x8m-64x64px-fixed.blend
 C:\Projects\ad-learning\blender\models\top-and-iso-scene-000\top-and-iso-scene-002-8x8m-64x64px.blend
@@ -7,4 +18,3 @@ C:\Projects\ad-learning\blender\models\land-stones-000\land-stones-001-simple-64
 C:\Projects\ad-learning\blender\models\land-stones-000\land-stones-000-simple-64x64.blend
 C:\Projects\ad-learning\blender\models\land-stones-000\land-stones-000.blend
 C:\Projects\ad-learning\blender\models\house-000\stones-000.blend
-C:\Projects\ad-learning\blender\models\house-000\house-000.blend

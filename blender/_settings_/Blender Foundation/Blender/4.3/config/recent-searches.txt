@@ -7,7 +7,6 @@
  0 UV-normal.png
 
   Cube.001
-Generate ▸ Boolean
 Shader ▸ Mix Shader
    UV-normal.png
    Render Result
@@ -16,7 +15,6 @@ Mesh ▸ Normals (Alt N) ▸ Flip
    getColorRamp-9v.png
 Light ▸ Point
 Mesh ▸ Cone
-Mesh ▸ Cube
 Mesh ▸ Cylinder
 Mesh ▸ Plane
 0 LineStyle
@@ -25,3 +23,7 @@ Light ▸ Sun
 Generate ▸ Decimate
    Material.002
  0 Material.001
+Add ▸ Camera
+Mesh ▸ Cube
+Physics ▸ Explode
+Generate ▸ Boolean
