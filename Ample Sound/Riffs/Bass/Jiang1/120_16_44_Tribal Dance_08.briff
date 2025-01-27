@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Riff Author="Ample Sound" Category="Rock" Time-Signature="4/4" Quantize="1/16"
+      Tempo="120" Key="C" Type="Riff" Chord="Am" Rating="0">
+  <Measure ID="1">
+    <String ID="4">
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="8" End="8" Articulation="PM"
+            Fret="5" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="11" End="12" Articulation="Sus"
+            Fret="3" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="16" End="16" Articulation="PM"
+            Fret="5" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="100"/>
+    </String>
+    <String ID="3">
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="1" End="2" Articulation="Sus"
+            Fret="0" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="3" End="4" Articulation="Sus"
+            Fret="0" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="0" Begin="5" End="5" Articulation="Sus"
+            Fret="0" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="9" End="10" Articulation="Sus"
+            Fret="0" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="0" Begin="13" End="13" Articulation="Sus"
+            Fret="0" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="100"/>
+    </String>
+  </Measure>
+</Riff>

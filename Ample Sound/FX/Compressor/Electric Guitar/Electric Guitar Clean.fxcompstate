@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Compressor Author="Ample Sound" Category="Other" Rating="0">
+  <Parameter Name="FX-Comp-Toggle" Value="1.00000000000000000000"/>
+  <Parameter Name="FX-Comp-AttackTime" Value="16.00000000000000000000"/>
+  <Parameter Name="FX-Comp-ReleaseTime" Value="500.00000000000000000000"/>
+  <Parameter Name="FX-Comp-SoftKnee" Value="1.00000000000000000000"/>
+  <Parameter Name="FX-Comp-Thres" Value="-24.00000190734863281250"/>
+  <Parameter Name="FX-Comp-Ratio" Value="4.00000000000000000000"/>
+  <Parameter Name="FX-Comp-RMSDetection" Value="0.00000000000000000000"/>
+  <Parameter Name="FX-Comp-AutoGain" Value="1.00000000000000000000"/>
+  <Parameter Name="FX-Comp-AutoRelease" Value="0.00000000000000000000"/>
+  <Parameter Name="FX-Comp-MakeupGain" Value="6.00000000000000000000"/>
+  <Parameter Name="FX-Comp-CFAttackTime" Value="0.20000000298023223877"/>
+  <Parameter Name="FX-Comp-CFReleaseTime" Value="1.00000000000000000000"/>
+</Compressor>

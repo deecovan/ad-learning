@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Riff Author="prodigyray" Category="Reggae" Time-Signature="8/4Tri"
+      Quantize="1/16" Tempo="70" Key="G">
+  <Measure ID="1">
+    <String ID="4">
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="3" End="3" Articulation="Sus"
+            Fret="0" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="95"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="4" End="5" Articulation="Sus"
+            Fret="0" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="95"/>
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="6" End="6" Articulation="Sus"
+            Fret="0" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="95"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="7" End="10" Articulation="Sus"
+            Fret="0" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="80"/>
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="27" End="28" Articulation="Sus"
+            Fret="7" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="95"/>
+    </String>
+    <String ID="3">
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="1" End="2" Articulation="Sus"
+            Fret="7" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="95"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="13" End="17" Articulation="Sus"
+            Fret="10" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="80"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="18" End="18" Articulation="Sus"
+            Fret="10" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="85"/>
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="21" End="21" Articulation="Sus"
+            Fret="9" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="90"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="22" End="23" Articulation="Sus"
+            Fret="10" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="95"/>
+      <Note FX="0" Velocity="62" Off-Velocity="65" Begin="24" End="24" Articulation="Sus"
+            Fret="9" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="85"/>
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="30" End="30" Articulation="Sus"
+            Fret="9" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="95"/>
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="31" End="31" Articulation="Sus"
+            Fret="10" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="95"/>
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="32" End="32" Articulation="Sus"
+            Fret="9" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="95"/>
+    </String>
+    <String ID="2">
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="12" End="12" Articulation="Sus"
+            Fret="9" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="75"/>
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="25" End="26" Articulation="Sus"
+            Fret="9" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="95"/>
+    </String>
+  </Measure>
+</Riff>

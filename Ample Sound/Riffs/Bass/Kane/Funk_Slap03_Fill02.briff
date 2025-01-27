@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Riff Author="Ample Sound" Category="Funk" Time-Signature="8/4" Quantize="1/16"
+      Tempo="115" Key="A" Type="Fill" Chord="D,C#7">
+  <Measure ID="1">
+    <String ID="3">
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="1" End="2" Articulation="Slap"
+            Fret="5" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="12" End="12" Articulation="Slap"
+            Fret="5" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="50"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="15" End="15" Articulation="Slap"
+            Fret="5" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="17" End="18" Articulation="Slap"
+            Fret="4" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="75"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="29" End="29" Articulation="Slap"
+            Fret="4" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="50"/>
+    </String>
+    <String ID="2">
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="11" End="11" Articulation="Pop"
+            Fret="5" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="14" End="14" Articulation="Pop"
+            Fret="7" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="50"/>
+    </String>
+    <Note FX="1" Velocity="80" Off-Velocity="65" Begin="13" End="13" Articulation="Slap Left"/>
+    <Note FX="1" Velocity="100" Off-Velocity="65" Begin="19" End="20" Articulation="FX Slide 3"/>
+    <Note FX="1" Velocity="90" Off-Velocity="65" Begin="21" End="22" Articulation="FX Slide 3"/>
+    <Note FX="1" Velocity="80" Off-Velocity="65" Begin="23" End="28" Articulation="FX Slide 1"/>
+    <Note FX="1" Velocity="90" Off-Velocity="65" Begin="30" End="30" Articulation="Slap Right"/>
+    <Note FX="1" Velocity="100" Off-Velocity="65" Begin="31" End="31" Articulation="Slap Left"/>
+  </Measure>
+</Riff>

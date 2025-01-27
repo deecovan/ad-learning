@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Riff Author="Ample Sound" Category="Jazz" Time-Signature="4/4" Quantize="1/16"
+      Tempo="120" Key="A" Type="Riff" Chord="A">
+  <Measure ID="1">
+    <String ID="3">
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="1" End="4" Articulation="Sus"
+            Fret="2" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="7" End="8" Articulation="Sus"
+            Fret="4" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="80"/>
+    </String>
+    <String ID="2">
+      <Note FX="0" Velocity="85" Off-Velocity="65" Begin="9" End="12" Articulation="Sus"
+            Fret="0" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="75" Off-Velocity="65" Begin="13" End="16" Articulation="Sus"
+            Fret="4" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+            Vibrato-Percentage="100" Duration-Percentage="90"/>
+    </String>
+    <Note FX="1" Velocity="60" Off-Velocity="65" Begin="5" End="5" Articulation="Slap Right"/>
+  </Measure>
+</Riff>

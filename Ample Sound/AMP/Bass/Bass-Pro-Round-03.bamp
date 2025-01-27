@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<amp Ver="3.0.0" Author="Ample Sound" Category="Alternative" Rating="0">
+  <Parameter Name="AMP-Enabled" Value="1" Index="0"/>
+  <Parameter Name="AMP-Type-Index" Value="BassPro" Index="1"/>
+  <Parameter Name="AMP-Vintage15-V66-Volume" Value="8" Index="2"/>
+  <Parameter Name="AMP-Vintage15-V66-Bass Gain" Value="2" Index="3"/>
+  <Parameter Name="AMP-Vintage15-V66-Treble Gain" Value="6.5" Index="4"/>
+  <Parameter Name="AMP-Vintage15-V64-Volume" Value="6" Index="5"/>
+  <Parameter Name="AMP-Vintage15-V64-Bass Gain" Value="3.5" Index="6"/>
+  <Parameter Name="AMP-Vintage15-V64-Treble Gain" Value="8" Index="7"/>
+  <Parameter Name="AMP-Vintage15-Ultra Low Enabled" Value="-1" Index="8"/>
+  <Parameter Name="AMP-Vintage15-V66 Enabled" Value="-1" Index="9"/>
+  <Parameter Name="AMP-BassPro-Gain" Value="5" Index="10"/>
+  <Parameter Name="AMP-BassPro-Compression Ratio" Value="2" Index="11"/>
+  <Parameter Name="AMP-BassPro-Bass Gain" Value="6" Index="12"/>
+  <Parameter Name="AMP-BassPro-Mid Gain" Value="1" Index="13"/>
+  <Parameter Name="AMP-BassPro-Mid Frequency Index" Value="2" Index="14"/>
+  <Parameter Name="AMP-BassPro-Treble Gain" Value="1.5" Index="15"/>
+  <Parameter Name="AMP-BassPro-Master" Value="4.5" Index="16"/>
+  <Parameter Name="AMP-BassPro-Ultra Hi" Value="-1" Index="17"/>
+  <Parameter Name="AMP-BassPro-Ultra Lo" Value="1" Index="18"/>
+  <Parameter Name="AMP-BassPro-Graphic EQ Enabled" Value="1" Index="19"/>
+  <Parameter Name="AMP-BassPro-Limiter Enabled" Value="1" Index="20"/>
+  <Parameter Name="AMP-BassPro-FX Bypassed" Value="-1" Index="21"/>
+  <Parameter Name="AMP-BassPro-Compression Enabled" Value="1" Index="22"/>
+  <Parameter Name="AMP-BassPro-Graphic EQ Gain 1" Value="3" Index="23"/>
+  <Parameter Name="AMP-BassPro-Graphic EQ Gain 2" Value="3" Index="24"/>
+  <Parameter Name="AMP-BassPro-Graphic EQ Gain 3" Value="0" Index="25"/>
+  <Parameter Name="AMP-BassPro-Graphic EQ Gain 4" Value="-3" Index="26"/>
+  <Parameter Name="AMP-BassPro-Graphic EQ Gain 5" Value="-6" Index="27"/>
+  <Parameter Name="AMP-BassPro-Graphic EQ Gain 6" Value="0" Index="28"/>
+  <Parameter Name="AMP-BassPro-Graphic EQ Gain 7" Value="0" Index="29"/>
+  <Parameter Name="AMP-BassPro-Graphic EQ Gain 8" Value="-3" Index="30"/>
+  <Parameter Name="AMP-BassPro-Graphic EQ Gain 9" Value="-5.5" Index="31"/>
+  <Parameter Name="AMP-BassPro-Graphic EQ Level" Value="0" Index="32"/>
+  <Parameter Name="AMP-Bass500-Ultra Hi" Value="1" Index="33"/>
+  <Parameter Name="AMP-Bass500-Ultra Lo" Value="1" Index="34"/>
+  <Parameter Name="AMP-Bass500-Limiter Enabled" Value="-1" Index="35"/>
+  <Parameter Name="AMP-Bass500-Graphic EQ Enabled" Value="1" Index="36"/>
+  <Parameter Name="AMP-Bass500-Gain" Value="5" Index="37"/>
+  <Parameter Name="AMP-Bass500-Bass Gain" Value="6.5" Index="38"/>
+  <Parameter Name="AMP-Bass500-Mid Gain" Value="0" Index="39"/>
+  <Parameter Name="AMP-Bass500-Treble Gain" Value="3" Index="40"/>
+  <Parameter Name="AMP-Bass500-Master" Value="5" Index="41"/>
+  <Parameter Name="AMP-Bass500-Graphic EQ Gain 1" Value="6" Index="42"/>
+  <Parameter Name="AMP-Bass500-Graphic EQ Gain 2" Value="5" Index="43"/>
+  <Parameter Name="AMP-Bass500-Graphic EQ Gain 3" Value="3" Index="44"/>
+  <Parameter Name="AMP-Bass500-Graphic EQ Gain 4" Value="0" Index="45"/>
+  <Parameter Name="AMP-Bass500-Graphic EQ Gain 5" Value="-3" Index="46"/>
+  <Parameter Name="AMP-Bass500-Graphic EQ Gain 6" Value="-12" Index="47"/>
+  <Parameter Name="AMP-Bass500-Graphic EQ Gain 7" Value="-12" Index="48"/>
+  <Parameter Name="AMP-Bass500-Graphic EQ Gain 8" Value="-12" Index="49"/>
+  <Parameter Name="AMP-Bass500-Graphic EQ Gain 9" Value="-12" Index="50"/>
+  <Parameter Name="AMP-Cabinet Mic1 Index" Value="Con414" Index="51"/>
+  <Parameter Name="AMP-Cabinet Mic2 Index" Value="Dyn57" Index="52"/>
+  <Parameter Name="AMP-Cabinet Type Index" Value="8x10" Index="53"/>
+  <Parameter Name="AMP-Cabinet Mic1 Pan" Value="0" Index="54"/>
+  <Parameter Name="AMP-Cabinet Mic2 Pan" Value="0" Index="55"/>
+  <Parameter Name="AMP-Cabinet Room Pan" Value="0" Index="56"/>
+  <Parameter Name="AMP-Cabinet DI Delay" Value="0" Index="57"/>
+  <Parameter Name="AMP-Cabinet Pan" Value="0" Index="58"/>
+  <Parameter Name="AMP-Cabinet Mic1 Gain" Value="0.8" Index="59"/>
+  <Parameter Name="AMP-Cabinet Mic2 Gain" Value="1" Index="60"/>
+  <Parameter Name="AMP-Cabinet Room Gain" Value="0.2" Index="61"/>
+  <Parameter Name="AMP-Cabinet DI Gain" Value="0.1" Index="62"/>
+  <Parameter Name="AMP-Cabinet Master" Value="1" Index="63"/>
+  <Parameter Name="AMP-Cabinet Mic1 Inverted" Value="-1" Index="64"/>
+  <Parameter Name="AMP-Cabinet Mic2 Inverted" Value="-1" Index="65"/>
+  <Parameter Name="AMP-Cabinet Room Inverted" Value="-1" Index="66"/>
+  <Parameter Name="AMP-Cabinet DI Inverted" Value="-1" Index="67"/>
+  <Parameter Name="AMP-Cabinet Mic1 Solo" Value="-1" Index="68"/>
+  <Parameter Name="AMP-Cabinet Mic2 Solo" Value="-1" Index="69"/>
+  <Parameter Name="AMP-Cabinet Room Solo" Value="-1" Index="70"/>
+  <Parameter Name="AMP-Cabinet DI Solo" Value="-1" Index="71"/>
+  <Parameter Name="AMP-Cabinet Solo" Value="-1" Index="72"/>
+  <Parameter Name="AMP-Cabinet Mic1 Mute" Value="-1" Index="73"/>
+  <Parameter Name="AMP-Cabinet Mic2 Mute" Value="1" Index="74"/>
+  <Parameter Name="AMP-Cabinet Room Mute" Value="-1" Index="75"/>
+  <Parameter Name="AMP-Cabinet DI Mute" Value="-1" Index="76"/>
+  <Parameter Name="AMP-Cabinet Mute" Value="-1" Index="77"/>
+</amp>

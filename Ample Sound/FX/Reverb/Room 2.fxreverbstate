@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Reverb Author="Ample Sound" Category="Alternative" Rating="0">
+  <Parameter Name="FX-Reverb-Toggle" Value="1.00000000000000000000"/>
+  <Parameter Name="FX-Reverb-BassGainEnabled" Value="1.00000000000000000000"/>
+  <Parameter Name="FX-Reverb-TrebleGainEnabled" Value="1.00000000000000000000"/>
+  <Parameter Name="FX-Reverb-IRType" Value="0.00000000000000000000"/>
+  <Parameter Name="FX-Reverb-Size" Value="100.00000000000000000000"/>
+  <Parameter Name="FX-Reverb-PreDelay" Value="0.00000000000000000000"/>
+  <Parameter Name="FX-Reverb-BassGain" Value="-2.99999976158142089844"/>
+  <Parameter Name="FX-Reverb-TrebleGain" Value="12.00000000000000000000"/>
+  <Parameter Name="FX-Reverb-VolumeGain" Value="6.00000095367431640625"/>
+  <Parameter Name="FX-Reverb-Send" Value="-8.99999904632568359375"/>
+  <third_IR path=""/>
+</Reverb>
