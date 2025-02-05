@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="Default" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Funk" cho="Cm7" type="Riff" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Default_Metal" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Metal" cho="" type="" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Slap 500 Funk C m7 120-16" ext=".briff" author="Ample Sound"
+        LMT="2025-01-27T01:39:50.898+02:00" bpm="120" cat="Funk" cho=""
+        type="Riff" db="" key="C" measures="2" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="Slap 500 Funk C m7 60-16" ext=".briff" author="Ample Sound"
+        LMT="2025-01-27T01:37:19.122+02:00" bpm="120" cat="Funk" cho=""
+        type="Riff" db="" key="C" measures="2" quantize="1/8" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="Slap Pro Funk E 120-16 Overdrive" ext=".briff" author="Ample Sound"
+        LMT="2025-01-27T01:53:59.804+02:00" bpm="130" cat="Other" cho=""
+        type="Riff" db="" key="E" measures="4" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+</cache>

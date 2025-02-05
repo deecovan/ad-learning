@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="Alternative01_Acoustic_ARP01" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="74" cat="Alternative"
+        cho="Em" type="ARP" db="" key="G" measures="1" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative01_Acoustic_ARP02" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="74" cat="Alternative"
+        cho="G, Am" type="ARP" db="" key="G" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative01_Acoustic_ARP03" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="74" cat="Alternative"
+        cho="Em" type="ARP" db="" key="G" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative01_Acoustic_ARP04" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="74" cat="Alternative"
+        cho="C, D" type="ARP" db="" key="G" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative01_Acoustic_Fill01" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="74" cat="Alternative"
+        cho="Em" type="Fill" db="" key="G" measures="1" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative01_Acoustic_Strum01" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="74" cat="Alternative"
+        cho="C, Am" type="Strum" db="" key="G" measures="2" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative01_Acoustic_Strum02" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="74" cat="Alternative"
+        cho="Em" type="Strum" db="" key="G" measures="2" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative01_Acoustic_Strum03" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="74" cat="Alternative"
+        cho="Em" type="Strum" db="" key="G" measures="2" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative01_Acoustic_Strum04" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="74" cat="Alternative"
+        cho="C, D" type="Strum" db="" key="G" measures="2" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative02_Electric_Mute01" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="70" cat="Alternative"
+        cho="#Fm, A" type="Riff" db="" key="A" measures="2" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative02_Electric_Mute02" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="70" cat="Alternative"
+        cho="E, #C, D" type="Riff" db="" key="A" measures="2" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative03_Acoustic_Strum01" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="88" cat="Alternative"
+        cho="B" type="Strum" db="" key="B" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative03_Acoustic_Strum02" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="88" cat="Alternative"
+        cho="B" type="Strum" db="" key="B" measures="1" quantize="1/8"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative03_Acoustic_Strum03" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="88" cat="Alternative"
+        cho="B" type="Strum" db="" key="B" measures="1" quantize="1/8"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative03_Electric_Strum01" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="88" cat="Alternative"
+        cho="B, #F7" type="Strum" db="" key="B" measures="1" quantize="1/8"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative03_Electric_Strum02" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="88" cat="Alternative"
+        cho="E, B" type="Strum" db="" key="B" measures="1" quantize="1/8"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative03_Electric_Strum03" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="88" cat="Alternative"
+        cho="E, #Gm, #F" type="Strum" db="" key="B" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative04_Electric_01" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Am, C, Dm" type="Riff" db="" key="C" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative04_Electric_02" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Am, C, Dm" type="Riff" db="" key="C" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative04_Electric_03" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Am, C" type="Riff" db="" key="C" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative04_Electric_04" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Am, G, F" type="Riff" db="" key="C" measures="2" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative04_Electric_05" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Am, G, F" type="Riff" db="" key="C" measures="2" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative04_Electric_06" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Am, G, F" type="Riff" db="" key="C" measures="2" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative04_Electric_07" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Am, G, F" type="Riff" db="" key="C" measures="2" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative04_Electric_08" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Em, C" type="Riff" db="" key="G" measures="2" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative04_Electric_09" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Em, C, D, C" type="Riff" db="" key="G" measures="2" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative04_Electric_10" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Em, C, D, C" type="Riff" db="" key="G" measures="2" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Alternative04_Electric_Mute01" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Em" type="Riff" db="" key="G" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative04_Electric_Mute02" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Em" type="Riff" db="" key="G" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative04_Electric_Mute03" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Em" type="Riff" db="" key="G" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative04_Electric_Mute04" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Em" type="Riff" db="" key="G" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative04_Electric_Mute05" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Am" type="Riff" db="" key="G" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative04_Electric_Mute06" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="130" cat="Alternative"
+        cho="Am" type="Riff" db="" key="G" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="Alternative05_Acoustic_01" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="125" cat="Alternative"
+        cho="Am" type="Riff" db="" key="C" measures="2" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="Blues01_Electric_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Blues" cho="A7" type="Fill" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Blues02_Acoustic_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Blues" cho="A7" type="Riff" db="" key="A" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri"/>
+  <item FName="Blues02_Acoustic_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Blues" cho="D7" type="Riff" db="" key="A" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri"/>
+  <item FName="Blues02_Acoustic_03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Blues" cho="D7" type="Riff" db="" key="A" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri"/>
+  <item FName="Blues03_Acoustic_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="E" type="Riff" db="" key="E" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues03_Acoustic_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="A" type="Riff" db="" key="E" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues03_Acoustic_03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="B, A, E" type="Riff" db="" key="E"
+        measures="2" quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues03_Acoustic_04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="E" type="Riff" db="" key="E" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues03_Acoustic_05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="#Fm9, B7, E, C7/bB" type="Riff" db=""
+        key="E" measures="2" quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues03_Acoustic_06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="#Fm9, B7, E7" type="Riff" db="" key="E"
+        measures="2" quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues03_Acoustic_07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="#Fm7, B7, E7" type="Riff" db="" key="E"
+        measures="2" quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues03_Acoustic_08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="E" type="Riff" db="" key="E" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues04_Acoustic_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="E" type="Fill" db="" key="E" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues04_Acoustic_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="E" type="Fill" db="" key="E" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues04_Acoustic_03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="A" type="Fill" db="" key="E" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues04_Acoustic_04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="B, A, E" type="Fill" db="" key="E"
+        measures="2" quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues04_Acoustic_05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="E" type="Fill" db="" key="E" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues04_Acoustic_06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="#Fm, B, E" type="Fill" db="" key="E"
+        measures="2" quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues04_Acoustic_07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="#Fm, B, E, bB" type="Fill" db="" key="E"
+        measures="2" quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues04_Acoustic_08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="#Fm, B, E" type="Fill" db="" key="E"
+        measures="2" quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues04_Acoustic_09" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="#Fm, B, E" type="Fill" db="" key="E"
+        measures="2" quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Blues04_Acoustic_10" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="97" cat="Blues" cho="E" type="Fill" db="" key="E" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Classic01_Nylon_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Cm" type="ARP" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="G/B" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="G7/D" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Cmadd11" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Cm/bB" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Adim" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="#G7" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="G7" type="ARP" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP09" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Cm/G" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP10" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="G7" type="ARP" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP11" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Cm7/G" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP12" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="G" type="ARP" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP13" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="G7/F" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP14" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Edim" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP15" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Fm" type="ARP" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP16" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="#G/#D" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP17" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="#A9/D" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP18" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="#D7" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP19" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Edim" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP20" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Fm" type="ARP" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP21" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Dm7" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP22" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="G7" type="ARP" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP23" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Cm" type="ARP" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP24" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Fm" type="ARP" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP25" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="bB7" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP26" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="#D" type="ARP" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP27" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="bB7" type="ARP" db="" key="D#"
+        measures="1" quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP28" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Cm" type="ARP" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP29" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="G7" type="ARP" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Classic01_Nylon_ARP30" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="84" cat="Classical" cho="Cm" type="ARP" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="6/4"/>
+  <item FName="Country01_Acoustic_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="118" cat="Country" cho="Am, D" type="Riff" db="" key="G"
+        measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Country01_Acoustic_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="118" cat="Country" cho="Am7, D" type="Riff" db="" key="G"
+        measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Country01_Acoustic_03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="118" cat="Country" cho="Am, D" type="Riff" db="" key="G"
+        measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Country01_Acoustic_Strum01" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="118" cat="Country" cho="G"
+        type="Strum" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="Country01_Acoustic_Strum02" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="118" cat="Country" cho="C, G"
+        type="Strum" db="" key="G" measures="2" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="Folk01_Acoustic_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Folk" cho="E" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Folk01_Acoustic_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Folk" cho="E" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Folk01_Electric_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Folk" cho="E, B, A" type="ARP" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Folk01_Electric_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Folk" cho="#Cm, A" type="ARP" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Folk01_Electric_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Folk" cho="#Cm, A" type="Fill" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Folk01_Electric_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Folk" cho="A, E" type="Fill" db="" key="E" measures="1"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Folk01_Electric_Fill03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Folk" cho="B, #Cm" type="Fill" db="" key="E" measures="1"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Folk01_Electric_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Folk" cho="E, B" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Folk01_Electric_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Folk" cho="#Cm, A" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Folk01_Electric_Strum03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Folk" cho="E, B" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Folk02_Acoustic_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Folk" cho="Bm" type="ARP" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Folk02_Acoustic_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Folk" cho="Bmsus2, Em7, A7, Dmaj7" type="ARP"
+        db="" key="D" measures="1" quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Folk02_Acoustic_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Folk" cho="Em, A, D, B" type="Strum" db="" key="D"
+        measures="1" quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Folk02_Acoustic_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Folk" cho="Em, A, D, B" type="Strum" db="" key="D"
+        measures="1" quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Folk02_Acoustic_Strum03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Folk" cho="Em, A, D, B" type="Strum" db="" key="D"
+        measures="1" quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Folk03_Acoustic_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="60" cat="Folk" cho="Emaj7, G#m" type="ARP" db="" key="E"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Folk03_Acoustic_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="65" cat="Folk" cho="Am, Asus2" type="ARP" db="" key="A"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Folk03_Acoustic_ARP03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="68" cat="Folk" cho="A6, Bm7" type="ARP" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Folk03_Acoustic_ARP04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="60" cat="Folk" cho="A6" type="ARP" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Folk04_Electric_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="65" cat="Folk" cho="Dsus2, E9" type="ARP" db="" key="D"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Folk04_Electric_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="65" cat="Folk" cho="G, D, G, A" type="ARP" db="" key="D"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Folk05_Acoustic_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="75" cat="Folk" cho="Bm" type="Strum" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Folk05_Acoustic_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="75" cat="Folk" cho="Bm" type="Strum" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Folk05_Acoustic_Strum03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="75" cat="Folk" cho="E" type="Strum" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Funk01_Acoustic_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="95" cat="Funk" cho="C7" type="Strum" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk01_Acoustic_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="95" cat="Funk" cho="C7" type="Strum" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk01_Acoustic_Strum03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="95" cat="Funk" cho="C7" type="Strum" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk02_Electric_Slide01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Funk" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk03_Electric_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="F" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk03_Electric_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="E, Am" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Funk03_Electric_Fill03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="Am, bB, C" type="Fill" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Funk03_Electric_Fill04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="F, E" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Funk03_Electric_Fill05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="Am" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk03_Electric_Fill06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="#F, F" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Funk03_Electric_Fill07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="#G" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk03_Electric_Fill08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="bB, F" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Funk03_Electric_Mute01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Jazz" cho="F" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk03_Electric_Mute02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="Am" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk03_Electric_Mute03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="F" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk03_Electric_Mute04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="Am" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk03_Electric_Mute06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="Am" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk03_Electric_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="FM7" type="Strum" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk03_Electric_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="Am7" type="Strum" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk03_Electric_Strum03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="FM7" type="Strum" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk03_Electric_Strum04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="Am7" type="Strum" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk03_Electric_Strum05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="Am7" type="Strum" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk04_Electric_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="F" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk04_Electric_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="F" type="Fill" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk04_Electric_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="Am" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk04_Electric_Fill03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="Am, F" type="Fill" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk04_Electric_Fill04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="F" type="Fill" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk04_Electric_Fill05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="Am, F" type="Fill" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk04_Electric_Fill06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="F" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk04_Electric_Fill07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="Am, F" type="Fill" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk04_Electric_Fill08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="F" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk04_Electric_Fill09" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="Am" type="Fill" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk04_Electric_Fill10" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="F" type="Fill" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk04_Electric_Fill11" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="F" type="Fill" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Funk04_Electric_Fill12" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Funk" cho="Am" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="D7, Gm7" type="Fill" db="" key="A#"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="Gm, Cm7" type="Fill" db="" key="A#"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="bB, bE" type="Fill" db="" key="A#"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="Gm, Cm" type="Fill" db="" key="A#"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="F, #A" type="Fill" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="Gm" type="Fill" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="F, bB" type="Fill" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="bE" type="Fill" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill09" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="Dm, Gm" type="Fill" db="" key="A#"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill10" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="Gm, A7" type="Fill" db="" key="A#"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill11" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="Gm7" type="Fill" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill12" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="Cm, F" type="Fill" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill13" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="bE, A7" type="Fill" db="" key="A#"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill14" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="Dm, Gm7" type="Fill" db="" key="A#"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill15" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="F, A7" type="Fill" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Fill16" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="F, A7" type="Fill" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion01_Electric_Mute01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="105" cat="Jazz" cho="Cm, Gm, F, Cm" type="Riff" db="" key="A#"
+        measures="1" quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Fusion03_Electric_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="78" cat="Jazz" cho="C, G" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion03_Electric_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="78" cat="Jazz" cho="C, F, Em, Am" type="Fill" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion03_Electric_Fill03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="78" cat="Jazz" cho="Dm, G, C, bB" type="Fill" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion03_Electric_Fill04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="78" cat="Jazz" cho="G, Am, Dm. G" type="Fill" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion03_Electric_Fill05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="78" cat="Jazz" cho="C, G" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion03_Electric_Fill06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="78" cat="Jazz" cho="Dm, G, C, bB" type="Fill" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion03_Electric_Fill07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="78" cat="Jazz" cho="G, Am" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Fusion03_Electric_Fill08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="78" cat="Jazz" cho="G, bB" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion03_Electric_Fill09" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="78" cat="Jazz" cho="bB, G, bB, C" type="Fill" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion04_Electric_Fingerstyle01" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="90" cat="Jazz" cho="Em, G"
+        type="Riff" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri"/>
+  <item FName="Fusion04_Electric_Fingerstyle02" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="90" cat="Jazz" cho="G, C"
+        type="Riff" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri"/>
+  <item FName="Fusion04_Electric_Fingerstyle03" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="90" cat="Jazz" cho="Em7"
+        type="Riff" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri"/>
+  <item FName="Fusion04_Electric_Fingerstyle04" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="90" cat="Jazz" cho="G, C"
+        type="Riff" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri"/>
+  <item FName="Fusion04_Electric_Fingerstyle05" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="90" cat="Jazz" cho="B"
+        type="Riff" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri"/>
+  <item FName="Fusion04_Electric_Fingerstyle06" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="90" cat="Jazz" cho="Em7"
+        type="Riff" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri"/>
+  <item FName="Fusion04_Electric_Fingerstyle_ARP01" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="90" cat="Jazz" cho="G, C"
+        type="ARP" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri"/>
+  <item FName="Fusion04_Electric_Fingerstyle_ARP02" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="90" cat="Jazz" cho="B"
+        type="ARP" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri"/>
+  <item FName="Fusion04_Electric_Fingerstyle_ARP03" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="90" cat="Jazz" cho="Em7"
+        type="ARP" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri"/>
+  <item FName="Fusion04_Electric_Fingerstyle_ARP04" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="90" cat="Jazz" cho="Em"
+        type="ARP" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri"/>
+  <item FName="Fusion05_Nylon_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm" type="Riff" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Fusion05_Nylon_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm" type="Riff" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion05_Nylon_03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm" type="Riff" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion05_Nylon_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="#D, Dm" type="Fill" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion05_Nylon_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm" type="Fill" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion05_Nylon_Fill03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm, Gm" type="Fill" db="" key="F" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri"/>
+  <item FName="Fusion05_Nylon_Fill04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Gm, #D" type="Fill" db="" key="F" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri"/>
+  <item FName="Fusion05_Nylon_Fill05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Am, Gm, bB, C" type="Fill" db="" key="F"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion05_Nylon_Fill06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Am, Gm, bB, C" type="Fill" db="" key="F"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion05_Nylon_Fill07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm" type="Fill" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion05_Nylon_Fill08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm" type="Fill" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion05_Nylon_Fill09" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Gm, #D" type="Fill" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion05_Nylon_Fill11" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Gm, #D" type="Fill" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion05_Nylon_Fill12" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Am, Gm, bB, C" type="Fill" db="" key="F"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion05_Nylon_Fill13" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm" type="Fill" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion05_Nylon_Fill14" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm" type="Fill" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Fusion06_Acoustic_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="Dm" type="Riff" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Fusion06_Acoustic_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="Dm, Gm, C, F" type="ARP" db="" key="F"
+        measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Fusion06_Acoustic_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="Gm6/E, Aaug, bBM7, A7/G" type="ARP"
+        db="" key="F" measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Fusion06_Acoustic_ARP03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="Gm6/E, Eaug, Aaug, A7" type="ARP" db=""
+        key="F" measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Fusion06_Acoustic_ARP04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="Gmadd9, Aaug, Dm7, C7" type="ARP" db=""
+        key="F" measures="2" quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Fusion06_Acoustic_ARP05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="bBM7, A7, Dm7" type="ARP" db="" key="F"
+        measures="2" quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Fusion06_Acoustic_ARP06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="bBM7, E7, Faug" type="ARP" db="" key="F"
+        measures="2" quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Fusion06_Acoustic_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="Dm, Gm" type="Fill" db="" key="F" measures="2"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Fusion06_Acoustic_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="C, F" type="Fill" db="" key="F" measures="1"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Fusion06_Acoustic_Fill03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="C, A, Dm, bB" type="Fill" db="" key="F"
+        measures="2" quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Fusion06_Acoustic_Fill04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="Dm, bB, Dm, Gm" type="Fill" db="" key="F"
+        measures="2" quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Fusion06_Acoustic_Fill05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="C, F, C" type="Fill" db="" key="F" measures="2"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Fusion06_Acoustic_Fill06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="C, A" type="Fill" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Fusion06_Acoustic_Fill07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="A, Gm, A" type="Fill" db="" key="F"
+        measures="2" quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Fusion06_Acoustic_Fill08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="Dm, Gm, bB" type="Fill" db="" key="F"
+        measures="2" quantize="1/32" rating="0" signature="8/4Tri"/>
+  <item FName="Fusion06_Acoustic_Fill09" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="bB, A, Dm" type="Fill" db="" key="F"
+        measures="2" quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Fusion06_Acoustic_Fill10" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="Gm, A" type="Fill" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Fusion06_Acoustic_Fill11" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="Dm, Gm" type="Fill" db="" key="F" measures="1"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Fusion06_Acoustic_Fill12" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="bB, C" type="Fill" db="" key="F" measures="1"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Fusion06_Acoustic_Fill13" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="A, Dm" type="Fill" db="" key="F" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Fusion06_Acoustic_Fill14" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="72" cat="Jazz" cho="Dm" type="Fill" db="" key="F" measures="2"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Fusion06_Acoustic_Strum01" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="72" cat="Jazz" cho="Gmadd9, Aaug, D7sus2, Gm6"
+        type="Strum" db="" key="F" measures="2" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="Fusion06_Acoustic_Strum02" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="72" cat="Jazz" cho="bBM7, A7, D7, E7sus4"
+        type="Strum" db="" key="F" measures="2" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="Metal01_Electric_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="145" cat="Metal" cho="Bm" type="ARP" db="" key="D" measures="1"
+        quantize="1/8" rating="0" signature="6/4"/>
+  <item FName="Metal01_Electric_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="145" cat="Metal" cho="Bm, #F" type="ARP" db="" key="D" measures="1"
+        quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Metal01_Electric_ARP03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="145" cat="Metal" cho="Em, Bm" type="ARP" db="" key="D" measures="1"
+        quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Metal01_Electric_ARP04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="145" cat="Metal" cho="Em, #F" type="ARP" db="" key="D" measures="1"
+        quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Metal01_Electric_ARP05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="145" cat="Metal" cho="Em, D, #F" type="ARP" db="" key="D"
+        measures="1" quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Metal01_Electric_ARP06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="145" cat="Metal" cho="Bm" type="ARP" db="" key="D" measures="1"
+        quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Metal01_Electric_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="145" cat="Metal" cho="Em, D, #F" type="Fill" db="" key="D"
+        measures="1" quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Metal01_Electric_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="145" cat="Metal" cho="Em, D, #F" type="Fill" db="" key="D"
+        measures="1" quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Metal01_Electric_Repeat01" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="145" cat="Metal" cho="Bm"
+        type="Riff" db="" key="D" measures="1" quantize="1/8" rating="0"
+        signature="8/4"/>
+  <item FName="Metal01_Electric_Repeat02" ext=".griff" author="Kane"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="145" cat="Metal" cho="A, G"
+        type="Riff" db="" key="D" measures="1" quantize="1/8" rating="0"
+        signature="8/4"/>
+  <item FName="Metal01_Electric_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="145" cat="Metal" cho="Bm" type="Strum" db="" key="D" measures="1"
+        quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Metal01_Electric_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="145" cat="Metal" cho="A, G" type="Strum" db="" key="D" measures="1"
+        quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Metal01_Electric_Strum03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="145" cat="Metal" cho="Bm, Em, #F" type="Strum" db="" key="D"
+        measures="1" quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Metal01_Electric_Strum04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="145" cat="Metal" cho="Em, Bm" type="Strum" db="" key="D"
+        measures="1" quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Metal04_Electric_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="200" cat="Metal" cho="Am, G, F" type="ARP" db="" key="C"
+        measures="1" quantize="1/8" rating="0" signature="6/4"/>
+  <item FName="Metal05_Electric_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Metal" cho="Em, G" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Metal05_Electric_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Metal" cho="D, C, D" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Metal05_Electric_03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Metal" cho="Em, G" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Metal05_Electric_04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Metal" cho="D, C, D" type="Riff" db="" key="G"
+        measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Metal06_Electric_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Metal" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Metal06_Electric_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Metal" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Metal06_Electric_03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Metal" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Metal06_Electric_04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Metal" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Metal07_Electric_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Metal" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop01_Acoustic_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Pop" cho="E, #Fm, #Gm, A, E" type="Riff" db=""
+        key="E" measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop01_Acoustic_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Pop" cho="#Fm, E, B" type="Riff" db="" key="E"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop01_Acoustic_03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Pop" cho="E, #Fm, #Gm, #Cm" type="Riff" db="" key="E"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop01_Acoustic_04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Pop" cho="#Fm, B7, E" type="Riff" db="" key="E"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop01_Acoustic_05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Pop" cho="#Cm, B, A, E" type="Riff" db="" key="E"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop01_Acoustic_06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Pop" cho="#Fm, #Gm-, #Cm, B" type="Riff" db=""
+        key="E" measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop01_Acoustic_07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Pop" cho="A, #Gm, #Fm, #Cm" type="Riff" db="" key="E"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop01_Acoustic_08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Pop" cho="E, #Fm, #Gm, #Cm" type="Riff" db="" key="E"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop01_Acoustic_09" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Pop" cho="#Fm, B, E" type="Riff" db="" key="E"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop01_Acoustic_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Pop" cho="#Cm, A" type="Fill" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop01_Acoustic_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Pop" cho="E" type="Fill" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop02_Acoustic_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="Bm7, E" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop02_Acoustic_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="#Cm7, #F7" type="Riff" db="" key="A"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop02_Acoustic_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="E" type="Fill" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop02_Acoustic_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="E, A" type="Fill" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop02_Acoustic_Fill03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="E" type="Fill" db="" key="A" measures="1"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop02_Acoustic_Fill04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="D" type="Fill" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Pop02_Acoustic_Fill05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="A" type="Fill" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Pop02_Acoustic_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="A, D, E, Dsus2" type="Strum" db="" key="A"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop02_Acoustic_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="A, D, E, Dsus2" type="Strum" db="" key="A"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop02_Acoustic_Strum03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="A, D, E, Dsus2" type="Strum" db="" key="A"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop02_Acoustic_Strum04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="A" type="Strum" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Pop02_Acoustic_Strum05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="#Cm, #Fm" type="Strum" db="" key="A"
+        measures="1" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Pop02_Acoustic_Strum06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="E" type="Strum" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Pop02_Acoustic_Strum07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="A" type="Strum" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop02_Acoustic_Strum08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="A" type="Strum" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop02_Acoustic_Strum09" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="127" cat="Pop" cho="E, A" type="Strum" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Pop" cho="#Dm" type="Riff" db="" key="F#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_01a" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Pop" cho="#Dm" type="Riff" db="" key="F#" measures="2"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Pop" cho="C7" type="Riff" db="" key="F#" measures="2"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Pop" cho="Dm" type="Riff" db="" key="F#" measures="3"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Pop" cho="#Gm7" type="Riff" db="" key="F#" measures="2"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Pop" cho="#CM7, C" type="Riff" db="" key="F#" measures="3"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Pop" cho="#F7" type="Riff" db="" key="F#" measures="2"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Pop" cho="B" type="Riff" db="" key="F#" measures="3"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Pop" cho="E7, AM7" type="Riff" db="" key="F#"
+        measures="2" quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_09" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="102" cat="Pop" cho="bB, #C" type="Riff" db="" key="F#" measures="2"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_10" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="118" cat="Pop" cho="#F" type="Riff" db="" key="F#" measures="4"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_11" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="118" cat="Pop" cho="E7, AM7" type="Riff" db="" key="F#"
+        measures="2" quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_12" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="112" cat="Pop" cho="E7, AM7" type="Riff" db="" key="F#"
+        measures="2" quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_13" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Pop" cho="Dm7" type="Riff" db="" key="F#" measures="2"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop03_Nylon_14" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Pop" cho="Dm7" type="Riff" db="" key="F#" measures="4"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop04_Nylon_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="65" cat="Pop" cho="#C, #F" type="Riff" db="" key="C#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop04_Nylon_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="65" cat="Pop" cho="#C, #F" type="Riff" db="" key="C#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop04_Nylon_03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="70" cat="Pop" cho="#Am, #Dm, #G, #C" type="Riff" db="" key="C#"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop04_Nylon_04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="70" cat="Pop" cho="#Am, #Dm, #F, #Am, #G" type="Riff" db=""
+        key="C#" measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop04_Nylon_05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="70" cat="Pop" cho="A7, #Dm, #F, #G, #F, #C" type="Riff"
+        db="" key="C#" measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop04_Nylon_06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="70" cat="Pop" cho="#F, F, #F" type="Riff" db="" key="C#"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop04_Nylon_07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="70" cat="Pop" cho="#Am, #Dm, #G, #C" type="Riff" db="" key="C#"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop04_Nylon_08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="70" cat="Pop" cho="#Am, #Dm, F7, #Am, #G" type="Riff" db=""
+        key="C#" measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop04_Nylon_09" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="70" cat="Pop" cho="A7, #Dm, #G, #C" type="Riff" db="" key="C#"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop04_Nylon_10" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="65" cat="Pop" cho="A7, #Dm, #G, #C" type="Riff" db="" key="C#"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop05_Nylon_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="A#, Cm" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop05_Nylon_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="A#" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop05_Nylon_ARP03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="Cm, Dm, #D, F" type="ARP" db="" key="A#"
+        measures="1" quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop05_Nylon_ARP04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="#D, Dm, Cm, F" type="ARP" db="" key="A#"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop05_Nylon_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="#A" type="Fill" db="" key="A#" measures="1"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="Cm, F" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="#A, Gm" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="Cm, F" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="#G, Gm" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="Cm, F" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="#A, Gm" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="Cm, F" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="#A, #A7" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP09" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="#D, #Dm" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP10" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="Dm, Gm" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP11" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="Cm, F" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP12" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="#A" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP13" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="#D, #Dm" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP14" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="Dm, Gm" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP15" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="Cm, F" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP16" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="75" cat="Pop" cho="#A" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP21" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="#D" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP22" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="#A" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_ARP23" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="#A" type="ARP" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="Gm, Cm" type="Fill" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop06_Nylon_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="Dm, Gm" type="Fill" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop07_Acoustic_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="G" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop07_Acoustic_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="C" type="Riff" db="" key="G" measures="2"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop07_Acoustic_03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="C" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop07_Acoustic_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="Bm, Em" type="ARP" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop07_Acoustic_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="Am7, Dsus2" type="ARP" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop07_Acoustic_ARP03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="G, Em" type="ARP" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop07_Acoustic_ARP04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="C, D" type="ARP" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop07_Acoustic_ARP05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="Bm, Em" type="ARP" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop07_Acoustic_ARP06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="Am, D" type="ARP" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop07_Acoustic_ARP07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="G, Em" type="ARP" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop07_Acoustic_ARP08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="C, D" type="ARP" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop07_Nylon_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="G" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop07_Nylon_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop07_Nylon_Fill03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="D" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Pop07_Nylon_Fill04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="G" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop07_Nylon_Fill05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="62" cat="Pop" cho="C" type="Fill" db="" key="G" measures="2"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Pop08_Acoustic_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="74" cat="Pop" cho="G, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop08_Acoustic_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="74" cat="Pop" cho="C, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop08_Acoustic_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="74" cat="Pop" cho="G, D" type="Strum" db="" key="G" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Pop08_Acoustic_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="74" cat="Pop" cho="Em, D" type="Strum" db="" key="G" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Pop08_Acoustic_Strum03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="74" cat="Pop" cho="C, D" type="Strum" db="" key="G" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Pop08_Acoustic_Strum04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="74" cat="Pop" cho="C, D" type="Strum" db="" key="G" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Pop08_Acoustic_Strum05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="74" cat="Pop" cho="C, D" type="Strum" db="" key="G" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Pop08_Acoustic_Strum06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="74" cat="Pop" cho="C, D" type="Strum" db="" key="G" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Pop08_Electric_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="74" cat="Pop" cho="G, Em, C, D" type="ARP" db="" key="G"
+        measures="2" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop08_Electric_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="74" cat="Pop" cho="G, D, Em, C" type="ARP" db="" key="G"
+        measures="2" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Pop09_Acoustic_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="86" cat="Pop" cho="G" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Rock01_Acoustic_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="200" cat="Rock" cho="Am" type="ARP" db="" key="C" measures="1"
+        quantize="1/8" rating="0" signature="6/4"/>
+  <item FName="Rock01_Acoustic_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="200" cat="Rock" cho="Am, G, F" type="ARP" db="" key="C"
+        measures="1" quantize="1/4" rating="0" signature="6/4"/>
+  <item FName="Rock01_Acoustic_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="200" cat="Rock" cho="Am, Em, C, Dsus4" type="Strum" db=""
+        key="C" measures="1" quantize="1/8" rating="0" signature="6/4"/>
+  <item FName="Rock01_Acoustic_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="200" cat="Rock" cho="Fsus2, C, G" type="Strum" db="" key="C"
+        measures="1" quantize="1/8" rating="0" signature="6/4"/>
+  <item FName="Rock01_Acoustic_Strum03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="200" cat="Rock" cho="Am, Em, C, Dsus4" type="Strum" db=""
+        key="C" measures="1" quantize="1/8" rating="0" signature="6/4"/>
+  <item FName="Rock01_Acoustic_Strum04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="200" cat="Rock" cho="Fsus2, C, G" type="Strum" db="" key="C"
+        measures="1" quantize="1/8" rating="0" signature="6/4"/>
+  <item FName="Rock02_Electric_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="60" cat="Rock" cho="Asus2, F, Em" type="ARP" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock02_Electric_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="60" cat="Rock" cho="G, Em, E, F" type="ARP" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock02_Electric_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="60" cat="Rock" cho="Am, F, Em" type="Fill" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock02_Electric_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="60" cat="Rock" cho="Am, F, Em" type="Fill" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock02_Electric_Fill03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="60" cat="Rock" cho="Am, F, Em" type="Fill" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock02_Electric_Fill04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="60" cat="Rock" cho="G, Em, E, F" type="Fill" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock03_Electric_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Rock" cho="Em, G" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock03_Electric_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Rock" cho="A, C, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock03_Electric_03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Rock" cho="A, C, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock03_Electric_04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Rock" cho="Em, G" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock03_Electric_05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Rock" cho="A, C, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock03_Electric_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Rock" cho="Em, G" type="ARP" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock03_Electric_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Rock" cho="Am, C, D" type="ARP" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock03_Electric_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Rock" cho="Am, G" type="Strum" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock03_Electric_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Rock" cho="Asus2, C, D" type="Strum" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock03_Electric_Strum03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Rock" cho="Em, G" type="Strum" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock03_Electric_Strum04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Rock" cho="A, C, D" type="Strum" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock03_Electric_Strum05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Rock" cho="Em, G" type="Strum" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock03_Electric_Strum06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Rock" cho="A, C, D" type="Strum" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock03_Electric_Strum07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Rock" cho="Asus2, C, D" type="Strum" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock04_Acoustic_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Rock" cho="Em, C" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock04_Acoustic_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Rock" cho="Em, C, G, D" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock04_Acoustic_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Rock" cho="C, Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock04_Acoustic_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Rock" cho="C, Em" type="Fill" db="" key="G" measures="2"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Rock04_Acoustic_Fill03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Rock" cho="C, Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock04_Acoustic_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Rock" cho="Em, C, G, D" type="Strum" db="" key="G"
+        measures="4" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Rock04_Acoustic_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Rock" cho="Em, C, Em, C" type="Strum" db="" key="G"
+        measures="4" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Rock04_Acoustic_Strum03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Rock" cho="Em, C, G, D" type="Strum" db="" key="G"
+        measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Rock04_Acoustic_Strum04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Rock" cho="Em, C" type="Strum" db="" key="G" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Rock04_Acoustic_Strum05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Rock" cho="Em, C, G, D" type="Strum" db="" key="G"
+        measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Rock04_Acoustic_Strum06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Rock" cho="Em, C" type="Strum" db="" key="G" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Rock05_Electric_ARP01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Rock" cho="Em, D" type="ARP" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock05_Electric_ARP02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Rock" cho="A, C" type="ARP" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock05_Electric_ARP03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Rock" cho="Em, D" type="ARP" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock05_Electric_ARP04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Rock" cho="A, C" type="ARP" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock05_Electric_Mute01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="100" cat="Rock" cho="Em, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock05_Electric_Mute02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="100" cat="Rock" cho="A, C" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock05_Electric_Mute03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="100" cat="Rock" cho="A, C" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock05_Electric_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="100" cat="Rock" cho="Em, A, C, D" type="Strum" db="" key="G"
+        measures="1" quantize="1/8" rating="0" signature="8/4"/>
+  <item FName="Rock05_Electric_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="100" cat="Rock" cho="Em, D, A, C" type="Strum" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock05_Electric_Strum03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="100" cat="Rock" cho="A, C, D" type="Strum" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock05_Electric_Strum04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="100" cat="Rock" cho="A, C, D" type="Strum" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock05_Electric_Strum05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="100" cat="Rock" cho="A, C" type="Strum" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock06_Electric_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="120" cat="Rock" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock06_Electric_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="120" cat="Rock" cho="D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock07_Acoustic_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="62" cat="Rock" cho="A7" type="Strum" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock07_Acoustic_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="62" cat="Rock" cho="G" type="Strum" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Rock07_Acoustic_Strum03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="62" cat="Rock" cho="G" type="Strum" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Rock08_Acoustic_Fill01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="86" cat="Pop" cho="D, Em" type="Fill" db="" key="G" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Rock08_Acoustic_Fill02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="86" cat="Pop" cho="D, Em" type="Fill" db="" key="G" measures="2"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Rock08_Acoustic_Fill03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="86" cat="Pop" cho="D, Em" type="Fill" db="" key="G" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Rock08_Acoustic_Fill04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="86" cat="Pop" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Rock08_Acoustic_Fill05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="86" cat="Pop" cho="D" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Rock09_Acoustic_Strum01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="115" cat="Rock" cho="Esus2" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock09_Acoustic_Strum02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="115" cat="Rock" cho="Bsus4" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock09_Acoustic_Strum03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="115" cat="Rock" cho="#Cm7" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock09_Acoustic_Strum04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="115" cat="Rock" cho="Asus2" type="Strum" db="" key="E" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Rock09_Acoustic_Strum05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="115" cat="Rock" cho="#F7" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock09_Acoustic_Strum06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="115" cat="Rock" cho="Asus2" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock09_Acoustic_Strum07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="115" cat="Rock" cho="#F7" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock09_Acoustic_Strum08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="115" cat="Rock" cho="Aadd9" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock09_Acoustic_Strum09" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="115" cat="Rock" cho="Bsus4" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock09_Acoustic_Strum10" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="115" cat="Rock" cho="#Cm7" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock09_Acoustic_Strum11" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="115" cat="Rock" cho="Aadd9" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock09_Acoustic_Strum12" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="115" cat="Rock" cho="Asus2" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock09_Acoustic_Strum13" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="115" cat="Rock" cho="#F7" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock09_Acoustic_Strum14" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="115" cat="Rock" cho="Aadd9" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock10_Acoustic_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="120" cat="Rock" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Rock11_Electric_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="135" cat="Rock" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/8" rating="0" signature="4/4"/>
+  <item FName="Rock11_Electric_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="135" cat="Rock" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/8" rating="0" signature="4/4"/>
+  <item FName="Rock11_Electric_03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="135" cat="Rock" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+</cache>

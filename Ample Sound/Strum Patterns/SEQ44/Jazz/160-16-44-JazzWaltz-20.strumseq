@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Pattern Author="Ample Sound" Category="Jazz" Time-Signature="4/4" Quantize="1/16"
+         BPM="160">
+  <Note Note="77" Velocity="60" Begin="8" End="8"/>
+  <Note Note="79" Velocity="80" Begin="1" End="1"/>
+  <Note Note="83" Velocity="50" Begin="4" End="4"/>
+  <Note Note="79" Velocity="80" Begin="5" End="5"/>
+  <Note Note="83" Velocity="60" Begin="12" End="12"/>
+  <Note Note="79" Velocity="80" Begin="13" End="13"/>
+  <Note Note="83" Velocity="50" Begin="16" End="16"/>
+</Pattern>

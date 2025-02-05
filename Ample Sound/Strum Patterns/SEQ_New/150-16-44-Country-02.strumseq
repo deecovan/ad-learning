@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Pattern Author="AmpleSound" Category="Country" Time-Signature="4/4" Quantize="1/16"
+         BPM="150">
+  <Note Note="72" Velocity="90" Begin="1" End="4"/>
+  <Note Note="74" Velocity="80" Begin="5" End="6"/>
+  <Note Note="76" Velocity="40" Begin="12" End="12"/>
+  <Note Note="72" Velocity="80" Begin="13" End="15"/>
+  <Note Note="74" Velocity="70" Begin="9" End="11"/>
+  <Note Note="78" Velocity="1" Begin="16" End="16"/>
+  <Note Note="77" Velocity="70" Begin="8" End="8"/>
+  <Note Note="77" Velocity="1" Begin="7" End="7"/>
+</Pattern>

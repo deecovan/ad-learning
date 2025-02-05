@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="060-16-44-Pop01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="060-16-44-Pop02a" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="060-16-44-Pop02b" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="060-16-44-Pop03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="060-16-44-Pop04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="060-16-44-Rock01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Pop01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Pop02a" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Pop02b" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-32-44-Pop01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/32" rating="0"
+        signature="4/4"/>
+  <item FName="080-16-44-Pop01a" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="080-16-44-Pop01b" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="080-16-44-Pop02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="080-16-44-Pop04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="080-16-44-Pop05" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-08-44-Rock01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/8" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Pop01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Pop02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Rock01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Rock02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Rock03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Rock04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Rock05a" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Rock05b" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Rock07" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Rock08" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Rock09" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Pop01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Pop02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Pop03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Pop04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Pop05a" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Pop05b" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Rock01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Rock02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Rock03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Rock04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Rock05" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Rock06" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Rock07" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Rock01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Rock02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Rock03a" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Rock03b" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Country01a" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Country" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Country01b" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Country" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Country03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Country" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Country04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Country" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Country05" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Country" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Country06a" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Country" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Country06b" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Country" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-DnU01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Pop01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Pop" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Rock01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Rock02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Rock03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Rock05" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Rock06" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Rock07" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Rock08a" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Rock08b" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Rock08c" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Rock09" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Rock11" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-32-44-Rock01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Rock" cho=""
+        type="" db="" key="" measures="76979248" quantize="1/32" rating="0"
+        signature="4/4"/>
+</cache>

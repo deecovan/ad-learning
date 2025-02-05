@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="All of Me" ext=".abpstate" author="John Legend" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Rhythm" db="Finger" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Another Brick in The Wall (Drop D)" ext=".abpstate" author="Pink Floyd"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="0" cat="Rock" cho=""
+        type="Rhythm" db="Pick" key="" measures="1154557584" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Billie Jean" ext=".abpstate" author="Micheal Jackson"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="0" cat="Funk" cho=""
+        type="Slap" db="Finger" key="" measures="1154557584" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Blues G" ext=".abpstate" author="Ray Brown" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="0" cat="Blues" cho="" type="Rhythm" db="Finger" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Bypass FXs" ext=".abpstate" author="Ample Sound" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Rhythm" db="Finger" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Cant Stand Losing You" ext=".abpstate" author="The Police"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="0" cat="Reggae" cho=""
+        type="Rhythm" db="Pick" key="" measures="1154557584" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Cold Rainy Night" ext=".abpstate" author="Beyond" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Lead" db="Finger" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Default" ext=".abpstate" author="Ample Sound" LMT="2023-03-27T12:24:36.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Rhythm" db="Finger" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Everything is not Lost" ext=".abpstate" author="Coldplay"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="0" cat="Rock" cho=""
+        type="Rhythm" db="Finger" key="" measures="1154557584" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Harmonic Ambience" ext=".abpstate" author="Ample Sound"
+        LMT="2023-03-27T12:24:36.000+02:00" bpm="0" cat="Pop" cho=""
+        type="Ambience" db="Finger" key="" measures="1154557584" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Isnt She Lovely" ext=".abpstate" author="Stevie Wonder"
+        LMT="2023-02-20T16:58:40.000+02:00" bpm="0" cat="Funk" cho=""
+        type="Rhythm" db="Finger" key="" measures="1154557584" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Magic" ext=".abpstate" author="Coldplay" LMT="2023-02-20T16:58:40.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Rhythm" db="Finger" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Metal Pro" ext=".abpstate" author="Ample Sound" LMT="2023-03-27T12:24:36.000+02:00"
+        bpm="0" cat="Metal" cho="" type="Rhythm" db="Pick" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Overdrive"/>
+  <item FName="Money" ext=".abpstate" author="Pink Floyd" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Rhythm" db="Pick" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="One of Those Days" ext=".abpstate" author="Pink Floyd"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="0" cat="Rock" cho=""
+        type="Rhythm" db="Finger" key="" measures="1154557584" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Overdrive Ambience" ext=".abpstate" author="Ample Sound"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="0" cat="Pop" cho=""
+        type="Ambience" db="Finger" key="" measures="1154557584" quantize=""
+        rating="0" signature="" dist="Overdrive"/>
+  <item FName="Prison Break" ext=".abpstate" author="Ample Sound" LMT="2023-02-20T16:58:40.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Rhythm" db="Finger" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Rock Pro" ext=".abpstate" author="Ample Sound" LMT="2023-03-27T12:24:36.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Rhythm" db="Pick" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Overdrive"/>
+  <item FName="Rocket Queen" ext=".abpstate" author="Guns N Roses" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Rhythm" db="Pick" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Overdrive"/>
+  <item FName="Slap 500" ext=".abpstate" author="Ample Sound" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="0" cat="Funk" cho="" type="Slap" db="Finger" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Slap Pro" ext=".abpstate" author="Ample Sound" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="0" cat="Funk" cho="" type="Slap" db="Finger" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Sweet Child O Mine" ext=".abpstate" author="Guns N Roses"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="0" cat="Rock" cho=""
+        type="Rhythm" db="Pick" key="" measures="1154557584" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="The Number of The Beast" ext=".abpstate" author="Iron Maiden"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="0" cat="Rock" cho=""
+        type="Rhythm" db="Finger" key="" measures="1154557584" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="The Trooper" ext=".abpstate" author="Iron Maiden" LMT="2023-03-27T12:24:36.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Rhythm" db="Finger" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Under Pressure" ext=".abpstate" author="The Queen" LMT="2023-02-27T13:16:16.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Rhythm" db="Pick" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Walking on the Moon" ext=".abpstate" author="The Police"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="0" cat="Rock" cho=""
+        type="Rhythm" db="Pick" key="" measures="1154557584" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="What is Going On" ext=".abpstate" author="Marvin Gaye"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="0" cat="Reggae" cho=""
+        type="Rhythm" db="Finger" key="" measures="1154557584" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Who Knows" ext=".abpstate" author="Jimi Hendrix" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="0" cat="Blues" cho="" type="Rhythm" db="Finger" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Yellow" ext=".abpstate" author="Coldplay" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Rhythm" db="Pick" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Yesterday" ext=".abpstate" author="The Beatles" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Lead" db="Finger" key="" measures="1154557584"
+        quantize="" rating="0" signature="" dist="Clean"/>
+</cache>

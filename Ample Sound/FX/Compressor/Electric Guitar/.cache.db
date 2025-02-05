@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="Electric Guitar Arp" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Pop" cho=""
+        type="" db="" key="" measures="500319088" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Guitar Clean" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Other" cho=""
+        type="" db="" key="" measures="500319088" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Guitar PM" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Rock" cho=""
+        type="" db="" key="" measures="500319088" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Guitar PM 2" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Rock" cho=""
+        type="" db="" key="" measures="500319088" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Guitar Strum" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500319088" quantize=""
+        rating="0" signature=""/>
+  <item FName="Funky Guitar" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Funk" cho=""
+        type="" db="" key="" measures="500319088" quantize="" rating="0"
+        signature=""/>
+  <item FName="Rock Guitar" ext=".fxcompstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Rock" cho="" type="" db="" key="" measures="500319088"
+        quantize="" rating="0" signature=""/>
+  <item FName="Strong Guitar" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Rock" cho=""
+        type="" db="" key="" measures="500319088" quantize="" rating="0"
+        signature=""/>
+</cache>

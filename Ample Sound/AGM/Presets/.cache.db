@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="All in Best" ext=".agmstate" author="Ample Sound" LMT="2023-05-25T12:59:28.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Strum" db="Strum" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+  <item FName="Amani" ext=".agmstate" author="Beyond" LMT="2022-09-30T15:55:44.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Rhythm" db="Pick" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+  <item FName="Blues AG" ext=".agmstate" author="Ample Sound" LMT="2022-09-30T15:55:46.000+02:00"
+        bpm="0" cat="Blues" cho="" type="Lead" db="Finger" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+  <item FName="Blues AG (Mute)" ext=".agmstate" author="Ample Sound"
+        LMT="2022-09-30T15:55:46.000+02:00" bpm="0" cat="Blues" cho=""
+        type="Rhythm" db="Strum" key="" measures="6520960" quantize=""
+        rating="0" signature=""/>
+  <item FName="Bypass FXs" ext=".agmstate" author="Ample Sound" LMT="2022-09-30T15:55:46.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Rhythm" db="Finger" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+  <item FName="Dear Ben" ext=".agmstate" author="Ample Sound" LMT="2022-09-30T15:55:46.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Strum" db="Strum" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+  <item FName="Default" ext=".agmstate" author="Daria Semikina" LMT="2022-09-30T15:55:46.000+02:00"
+        bpm="0" cat="Folk" cho="" type="Rhythm" db="Finger" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+  <item FName="God Bless" ext=".agmstate" author="Wei Dou" LMT="2022-09-30T15:55:46.000+02:00"
+        bpm="0" cat="Alternative" cho="" type="Rhythm" db="Finger" key=""
+        measures="6520960" quantize="" rating="0" signature=""/>
+  <item FName="Greenhouse Girl" ext=".agmstate" author="Jian Cui" LMT="2023-06-02T16:41:32.000+02:00"
+        bpm="0" cat="Folk" cho="" type="Strum" db="Strum" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+  <item FName="Harmonic Ambience" ext=".agmstate" author="Ample Sound"
+        LMT="2022-09-30T15:55:46.000+02:00" bpm="0" cat="Pop" cho=""
+        type="Rhythm" db="Finger" key="" measures="6520960" quantize=""
+        rating="0" signature=""/>
+  <item FName="Planet Caravan" ext=".agmstate" author="Black Sabbath"
+        LMT="2022-09-30T15:55:46.000+02:00" bpm="0" cat="Rock" cho=""
+        type="Lead" db="Pick" key="" measures="6520960" quantize="" rating="0"
+        signature=""/>
+  <item FName="Prairie Wind" ext=".agmstate" author="Ample Sound" LMT="2023-05-24T17:09:56.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Rhythm" db="Pick" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+  <item FName="Return" ext=".agmstate" author="Ample Sound" LMT="2022-09-30T15:55:46.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Strum" db="Strum" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+  <item FName="Return (Mute)" ext=".agmstate" author="Ample Sound" LMT="2022-09-30T15:55:46.000+02:00"
+        bpm="0" cat="Rock" cho="" type="Strum" db="Strum" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+  <item FName="Rylynn" ext=".agmstate" author="Andy McKee" LMT="2022-09-30T15:55:46.000+02:00"
+        bpm="0" cat="Folk" cho="" type="Lead" db="Finger" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+  <item FName="Stairway to Heaven" ext=".agmstate" author="Led Zeppelin"
+        LMT="2022-09-30T15:55:46.000+02:00" bpm="0" cat="Rock" cho=""
+        type="Rhythm" db="Finger" key="" measures="6520960" quantize=""
+        rating="0" signature=""/>
+  <item FName="Start" ext=".agmstate" author="Depapepe" LMT="2022-09-30T15:55:46.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Lead" db="Strum" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+  <item FName="Still Having You" ext=".agmstate" author="Wei Dou" LMT="2023-05-24T17:09:56.000+02:00"
+        bpm="0" cat="Alternative" cho="" type="Rhythm" db="Finger" key=""
+        measures="6520960" quantize="" rating="0" signature=""/>
+  <item FName="Suite 830" ext=".agmstate" author="Jonathan Butler" LMT="2022-09-30T15:55:46.000+02:00"
+        bpm="0" cat="Jazz" cho="" type="Lead" db="Finger" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+  <item FName="The Leaf Boat" ext=".agmstate" author="Ample Sound" LMT="2022-09-30T15:55:46.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Rhythm" db="Finger" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+  <item FName="To be with You" ext=".agmstate" author="Mr Big" LMT="2022-09-30T15:55:46.000+02:00"
+        bpm="0" cat="Folk" cho="" type="Lead" db="Finger" key="" measures="6520960"
+        quantize="" rating="0" signature=""/>
+</cache>

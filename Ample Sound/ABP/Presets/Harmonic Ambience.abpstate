@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<AEB_STATE Name="Harmonic Ambience" Ver="3.5.0" Author="Ample Sound" Category="Pop"
+<AEB_STATE Name="Harmonic Ambience" Ver="3.6.0" Author="Ample Sound" Category="Pop"
            Dist="Clean" Type="Ambience" Lib="Finger" Rating="0">
   <Articulation Value="Sus"/>
   <Position Value="0"/>
   <Riff-Path Value="C:\Users\ample\Documents\Ample Sound\Riffs\Bass\Test"/>
   <Riff Author="Ample Sound" Category="Other" Measures="2" Time-Signature="4/4"
         Quantize="1/8" Tempo="100" Key="D" Type="Riff" Chord="" Rating="0"
-        Path="C:\Users\ample\Documents\Ample Sound\Riffs\Bass\Test" Name="Harmonic Ambience">
-    <String ID="4">
+        numStr="4" Ver="1.1" Inst="ABP" Path="C:\Users\ample\Documents\Ample Sound\Riffs\Bass\Test"
+        Name="Harmonic Ambience" Ext="">
+    <String ID="4" note="40">
       <Note FX="0" Velocity="80" Off-Velocity="65" Begin="1" End="32" Articulation="Sus"
             Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
             Duration-Percentage="90"/>
     </String>
-    <String ID="2">
+    <String ID="2" note="50">
       <Note FX="0" Velocity="80" Off-Velocity="65" Begin="15" End="32" Articulation="NH"
             Fret="5" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
             Duration-Percentage="90"/>
     </String>
-    <String ID="1">
+    <String ID="1" note="55">
       <Note FX="0" Velocity="80" Off-Velocity="65" Begin="1" End="7" Articulation="Sus"
             Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
             Duration-Percentage="90"/>
@@ -43,7 +44,7 @@
   <Control ID="69" Parameter="Hold Pedal Tog"/>
   <Parameter Name="M-Mic 1 Vol" Value="1" Index="0"/>
   <Parameter Name="M-Mic 2 Vol" Value="1" Index="1"/>
-  <Parameter Name="M-Master Vol" Value="1" Index="2"/>
+  <Parameter Name="M-Master Vol" Value="0.8" Index="2"/>
   <Parameter Name="M-Pan" Value="0" Index="3"/>
   <Parameter Name="M-Slap Vol Ratio" Value="1" Index="4"/>
   <Parameter Name="M-Buzz Freq" Value="20" Index="5"/>
@@ -59,7 +60,6 @@
   <Parameter Name="M-Fret Sound" Value="1" Index="15"/>
   <Parameter Name="M-Fade In" Value="0" Index="16"/>
   <Parameter Name="M-Capo" Value="0" Index="17"/>
-  <Parameter Name="M-Pitch Bend" Value="0" Index="18"/>
   <Parameter Name="M-Vibrato" Value="0" Index="19"/>
   <Parameter Name="R-Feedback" Value="1" Index="20"/>
   <Parameter Name="R-Metronome" Value="1" Index="21"/>
@@ -327,7 +327,6 @@
   <Parameter Name="M-Sustain DB" Value="0" Index="283"/>
   <Parameter Name="M-Release Time" Value="50" Index="284"/>
   <Parameter Name="Num Host Params" Value="0" Index="285"/>
-  <Parameter Name="R-Play Toggle" Value="0" Index="286"/>
   <Parameter Name="T-Play Toggle" Value="0" Index="287"/>
   <Parameter Name="T-Playback Toggle" Value="0" Index="288"/>
   <Parameter Name="T-Track Index" Value="0" Index="289"/>

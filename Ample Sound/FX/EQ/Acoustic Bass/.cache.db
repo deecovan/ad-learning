@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="ABA EQ" ext=".fxeqstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Alternative" cho="" type="" db="" key="" measures="500319136"
+        quantize="" rating="0" signature=""/>
+  <item FName="ABA EQ02" ext=".fxeqstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Alternative" cho="" type="" db="" key="" measures="500319136"
+        quantize="" rating="0" signature=""/>
+  <item FName="ABA EQ03" ext=".fxeqstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Alternative" cho="" type="" db="" key="" measures="500319136"
+        quantize="" rating="0" signature=""/>
+  <item FName="Acoustic Bass" ext=".fxeqstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Alternative" cho="" type="" db="" key="" measures="500319136"
+        quantize="" rating="0" signature=""/>
+  <item FName="Acoustic Bass 1" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500319136" quantize=""
+        rating="0" signature=""/>
+  <item FName="Acoustic Bass 2" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500319136" quantize=""
+        rating="0" signature=""/>
+  <item FName="Acoustic Bass 3" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500319136" quantize=""
+        rating="0" signature=""/>
+  <item FName="Acoustic Bass 4" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500319136" quantize=""
+        rating="0" signature=""/>
+  <item FName="Acoustic Bass 5" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500319136" quantize=""
+        rating="0" signature=""/>
+</cache>

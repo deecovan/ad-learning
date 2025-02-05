@@ -1,0 +1,17 @@
+---------------------------
+Error
+---------------------------
+Something really unexpected happened (0xC0000005)!
+
+
+Details of the problem has been written into this MiniDump file:
+
+C:\Program Files (x86)\Orion\Error Logs\MiniDump-7603-20250131-005942757.dmp
+
+
+We would greatly appreciate at Synapse Audio if you would report about this problem and send the MiniDump file to us. MiniDumps are generally small enough to be sent through e-mail.
+
+Orion will now terminate.
+---------------------------
+OK   
+---------------------------

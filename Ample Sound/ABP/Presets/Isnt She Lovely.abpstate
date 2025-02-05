@@ -7,9 +7,9 @@
   <Riff-Path Value="C:\Users\ample\Documents\Ample Sound\Riffs\Bass\Test"/>
   <Riff Author="Stevie Wonder" Category="Funk" Measures="8" Time-Signature="8/4Tri"
         Quantize="1/16" Tempo="128" Key="A" Type="Riff" Chord="Dmaj7"
-        Rating="0" Path="C:\Users\ample\Documents\Ample Sound\Riffs\Bass\Test"
-        Name="Isnt She Lovely (Chord)">
-    <String ID="4">
+        Rating="0" numStr="4" Ver="1.1" Inst="ABP" Path="C:\Users\ample\Documents\Ample Sound\Riffs\Bass\Test"
+        Name="Isnt She Lovely (Chord)" Ext="">
+    <String ID="4" note="40">
       <Note FX="0" Velocity="60" Off-Velocity="65" Begin="155" End="156"
             Articulation="Sus" Fret="14" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
             Vibrato-Percentage="0" Duration-Percentage="100"/>
@@ -35,7 +35,7 @@
             Articulation="Sus" Fret="12" Legato="Hammer-On/Pull-Off" ExpPos="50"
             Bend-Type="No Bend" Vibrato-Percentage="0" Duration-Percentage="100"/>
     </String>
-    <String ID="3">
+    <String ID="3" note="45">
       <Note FX="0" Velocity="70" Off-Velocity="65" Begin="175" End="176"
             Articulation="Sus" Fret="12" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
             Vibrato-Percentage="0" Duration-Percentage="100"/>
@@ -88,7 +88,7 @@
             Articulation="Sus" Fret="12" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
             Vibrato-Percentage="0" Duration-Percentage="100"/>
     </String>
-    <String ID="2">
+    <String ID="2" note="50">
       <Note FX="0" Velocity="60" Off-Velocity="65" Begin="165" End="166"
             Articulation="Sus" Fret="16" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
             Vibrato-Percentage="0" Duration-Percentage="50"/>
@@ -180,7 +180,7 @@
             Articulation="Sus" Fret="14" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
             Vibrato-Percentage="0" Duration-Percentage="100"/>
     </String>
-    <String ID="1">
+    <String ID="1" note="55">
       <Note FX="0" Velocity="100" Off-Velocity="65" Begin="169" End="170"
             Articulation="Sus" Fret="14" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
             Vibrato-Percentage="0" Duration-Percentage="100"/>
@@ -272,26 +272,20 @@
             Articulation="Sus" Fret="14" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
             Vibrato-Percentage="0" Duration-Percentage="100"/>
     </String>
-    <Note FX="1" Velocity="50" Off-Velocity="-1" Begin="7" End="7" Articulation="Slap Left"/>
-    <Note FX="1" Velocity="50" Off-Velocity="-1" Begin="19" End="19" Articulation="Slap Left"/>
-    <Note FX="1" Velocity="50" Off-Velocity="-1" Begin="31" End="31" Articulation="Slap Left"/>
-    <Note FX="1" Velocity="50" Off-Velocity="-1" Begin="43" End="43" Articulation="Slap Left"/>
-    <Note FX="1" Velocity="50" Off-Velocity="-1" Begin="55" End="55" Articulation="Slap Left"/>
-    <Note FX="1" Velocity="50" Off-Velocity="-1" Begin="67" End="67" Articulation="Slap Left"/>
-    <Note FX="1" Velocity="50" Off-Velocity="-1" Begin="79" End="79" Articulation="Slap Left"/>
-    <Note FX="1" Velocity="50" Off-Velocity="-1" Begin="91" End="91" Articulation="Slap Left"/>
-    <Note FX="1" Velocity="50" Off-Velocity="-1" Begin="103" End="103"
-          Articulation="Slap Left"/>
-    <Note FX="1" Velocity="50" Off-Velocity="-1" Begin="115" End="115"
-          Articulation="Slap Left"/>
-    <Note FX="1" Velocity="60" Off-Velocity="-1" Begin="127" End="127"
-          Articulation="Slap Left"/>
-    <Note FX="1" Velocity="60" Off-Velocity="-1" Begin="139" End="139"
-          Articulation="Slap Left"/>
-    <Note FX="1" Velocity="60" Off-Velocity="-1" Begin="151" End="151"
-          Articulation="Slap Left"/>
-    <Note FX="1" Velocity="60" Off-Velocity="-1" Begin="163" End="163"
-          Articulation="Slap Left"/>
+    <Note FX="1" Velocity="50" Off-Velocity="0" Begin="7" End="7" Articulation="Slap Left"/>
+    <Note FX="1" Velocity="50" Off-Velocity="0" Begin="19" End="19" Articulation="Slap Left"/>
+    <Note FX="1" Velocity="50" Off-Velocity="0" Begin="31" End="31" Articulation="Slap Left"/>
+    <Note FX="1" Velocity="50" Off-Velocity="0" Begin="43" End="43" Articulation="Slap Left"/>
+    <Note FX="1" Velocity="50" Off-Velocity="0" Begin="55" End="55" Articulation="Slap Left"/>
+    <Note FX="1" Velocity="50" Off-Velocity="0" Begin="67" End="67" Articulation="Slap Left"/>
+    <Note FX="1" Velocity="50" Off-Velocity="0" Begin="79" End="79" Articulation="Slap Left"/>
+    <Note FX="1" Velocity="50" Off-Velocity="0" Begin="91" End="91" Articulation="Slap Left"/>
+    <Note FX="1" Velocity="50" Off-Velocity="0" Begin="103" End="103" Articulation="Slap Left"/>
+    <Note FX="1" Velocity="50" Off-Velocity="0" Begin="115" End="115" Articulation="Slap Left"/>
+    <Note FX="1" Velocity="60" Off-Velocity="0" Begin="127" End="127" Articulation="Slap Left"/>
+    <Note FX="1" Velocity="60" Off-Velocity="0" Begin="139" End="139" Articulation="Slap Left"/>
+    <Note FX="1" Velocity="60" Off-Velocity="0" Begin="151" End="151" Articulation="Slap Left"/>
+    <Note FX="1" Velocity="60" Off-Velocity="0" Begin="163" End="163" Articulation="Slap Left"/>
   </Riff>
   <Tab-Path Value="C:\Users\ample\Documents\Ample Sound\Tabs\Bass\Welcome to Bass Tab Player.gp5"/>
   <Layer ID="1" Value="64"/>
@@ -319,7 +313,6 @@
   <Parameter Name="M-Fret Sound" Value="1" Index="15"/>
   <Parameter Name="M-Fade In" Value="0" Index="16"/>
   <Parameter Name="M-Capo" Value="0" Index="17"/>
-  <Parameter Name="M-Pitch Bend" Value="0" Index="18"/>
   <Parameter Name="M-Vibrato" Value="0" Index="19"/>
   <Parameter Name="R-Feedback" Value="1" Index="20"/>
   <Parameter Name="R-Metronome" Value="0" Index="21"/>
@@ -403,16 +396,16 @@
   <Parameter Name="FX-EQ-Order8" Value="2" Index="99"/>
   <Parameter Name="FX-EQ-Activated1" Value="1" Index="100"/>
   <Parameter Name="FX-EQ-Activated2" Value="1" Index="101"/>
-  <Parameter Name="FX-EQ-Activated3" Value="1" Index="102"/>
-  <Parameter Name="FX-EQ-Activated4" Value="1" Index="103"/>
+  <Parameter Name="FX-EQ-Activated3" Value="-1" Index="102"/>
+  <Parameter Name="FX-EQ-Activated4" Value="-1" Index="103"/>
   <Parameter Name="FX-EQ-Activated5" Value="1" Index="104"/>
   <Parameter Name="FX-EQ-Activated6" Value="-1" Index="105"/>
   <Parameter Name="FX-EQ-Activated7" Value="-1" Index="106"/>
   <Parameter Name="FX-EQ-Activated8" Value="-1" Index="107"/>
   <Parameter Name="FX-EQ-Enabled1" Value="1" Index="108"/>
   <Parameter Name="FX-EQ-Enabled2" Value="1" Index="109"/>
-  <Parameter Name="FX-EQ-Enabled3" Value="1" Index="110"/>
-  <Parameter Name="FX-EQ-Enabled4" Value="1" Index="111"/>
+  <Parameter Name="FX-EQ-Enabled3" Value="-1" Index="110"/>
+  <Parameter Name="FX-EQ-Enabled4" Value="-1" Index="111"/>
   <Parameter Name="FX-EQ-Enabled5" Value="1" Index="112"/>
   <Parameter Name="FX-EQ-Enabled6" Value="-1" Index="113"/>
   <Parameter Name="FX-EQ-Enabled7" Value="-1" Index="114"/>
@@ -587,7 +580,6 @@
   <Parameter Name="M-Sustain DB" Value="0" Index="283"/>
   <Parameter Name="M-Release Time" Value="50" Index="284"/>
   <Parameter Name="Num Host Params" Value="0" Index="285"/>
-  <Parameter Name="R-Play Toggle" Value="0" Index="286"/>
   <Parameter Name="T-Play Toggle" Value="0" Index="287"/>
   <Parameter Name="T-Playback Toggle" Value="0" Index="288"/>
   <Parameter Name="T-Track Index" Value="0" Index="289"/>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="100_16_44_Metal_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Metal" cho="#Cm"
+        type="Riff" db="" key="E" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="100_16_44_Metal_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Metal" cho="#Cm"
+        type="Riff" db="" key="E" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="100_16_44_Metal_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Metal" cho="#Cm"
+        type="Riff" db="" key="E" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="100_16_44_Metal_04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Metal" cho="#Cm"
+        type="Riff" db="" key="E" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="100_16_44_Metal_05" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Metal" cho="#D F"
+        type="Riff" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="100_16_44_Metal_06" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Metal" cho="#D F"
+        type="Riff" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="100_16_44_Metal_07" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Metal" cho="#C"
+        type="Riff" db="" key="C#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="100_16_44_Metal_08" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Metal" cho="#C"
+        type="Riff" db="" key="C#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="100_16_44_Metal_09" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Metal" cho="#C"
+        type="Riff" db="" key="C#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="100_16_44_Metal_10" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Metal" cho="#C"
+        type="Riff" db="" key="C#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Metal_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Metal" cho="#C"
+        type="Riff" db="" key="C#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Metal_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Metal" cho="D B"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Metal_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Metal" cho="D B F"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Metal_04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Metal" cho="B"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Metal_05" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Metal" cho="D B F"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Metal_06" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Metal" cho="D B F"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Metal_07" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Metal" cho="B D E F"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Metal_08" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Metal" cho="B D E"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Metal_09" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Metal" cho="D E B"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Metal_10" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Metal" cho="B D"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Metal_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Metal" cho="B D E "
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Metal_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Metal" cho="D E B"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Metal_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Metal" cho="D B E"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Metal_04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Metal" cho="D E"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Metal_05" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Metal" cho="D E B"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Metal_06" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Metal" cho="D E B"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Metal_07" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Metal" cho="D E"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Metal_08" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Metal" cho="D E"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Metal_09" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Metal" cho="D E"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Metal_10" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Metal" cho="D E G"
+        type="Riff" db="" key="F#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D F"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D F"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D F"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D F"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_05" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D F"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_06" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D #D F G A"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_07" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_08" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D F"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_09" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D F G"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_10" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D F G"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_11" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D F G"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_12" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D F G"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_13" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D F G"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_14" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D F G"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_15" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D F G"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_16" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="B #F A"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_17" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="B A"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_18" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="B E D"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_19" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="B D"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_20" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="B D"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_21" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="B D"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_22" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D B E"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_23" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="D B E #F"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_24" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="B D E"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_25" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="B D E #F"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_26" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="B D E #F A"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_27" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="B D E #F A"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_28" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="B A D E"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_29" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="B A #F"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Metal_30" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Metal" cho="B #F A D"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="C D"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="C D"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="D C"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="D C"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_05" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="D C A G"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_06" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="D C"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_07" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="C D G F"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_08" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="C D G F"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_09" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="C D G F A"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_10" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="D C"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_11" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="B A G #F"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_12" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="B A G #F"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_13" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="B A G #F"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_14" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="B A G #F"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="140_16_84_Metal_15" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Metal" cho="B A #F"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="B A #F G E D #C"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="B D A E #C #F"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="B D G #F E"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="B D A #F E"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_05" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="B D A #F G E"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_06" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="B D A E #F"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_07" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="B D #F G A E"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_08" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="B #F A E"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_09" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="B A"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_10" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="B A  #F E D"
+        type="Riff" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_11" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="#C #D #A #G"
+        type="Riff" db="" key="C#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_12" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="#C #D #A #F"
+        type="Riff" db="" key="C#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_13" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="#D #A #C A #F"
+        type="Riff" db="" key="C#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_14" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="D E F G"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_15" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="D E F G"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_16" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="D E F G"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_17" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="D E G F"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="160_16_84_Metal_18" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Metal" cho="E D G F"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="90_16_84_Metal_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Metal" cho="E A C D" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="90_16_84_Metal_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Metal" cho="B D #C #F" type="Riff" db="" key="D"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="90_16_84_Metal_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Metal" cho="B D #C C #F" type="Riff" db="" key="D"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="90_16_84_Metal_04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Metal" cho="#C B E D" type="Riff" db="" key="D"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="90_16_84_Metal_05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Metal" cho="#C B D E" type="Riff" db="" key="D"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="90_16_84_Metal_06" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Metal" cho="#C B D #F" type="Riff" db="" key="D"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="90_16_84_Metal_07" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Metal" cho="D #C B A" type="Riff" db="" key="D"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="90_16_84_Metal_08" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Metal" cho="D #C B" type="Riff" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+</cache>

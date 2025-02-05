@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Riff Author="Kane" Category="Jazz" Measures="2" Time-Signature="8/4"
+      Quantize="1/32" Tempo="72" Key="F" Type="Fill" Chord="A, Gm, A"
+      Rating="0">
+  <String ID="5">
+    <Note FX="0" Velocity="60" Off-Velocity="65" Begin="46" End="46" Articulation="PM"
+          Fret="13" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="80" Off-Velocity="65" Begin="47" End="47" Articulation="Sus"
+          Fret="13" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="80" Off-Velocity="65" Begin="49" End="49" Articulation="Sus"
+          Fret="11" Legato="Legato Slide" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="80" Off-Velocity="65" Begin="50" End="53" Articulation="Sus"
+          Fret="12" Legato="1/4 Slide Out" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+  </String>
+  <String ID="4">
+    <Note FX="0" Velocity="80" Off-Velocity="65" Begin="43" End="43" Articulation="Sus"
+          Fret="10" Legato="Hammer-On/Pull-Off" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="80" Off-Velocity="65" Begin="44" End="44" Articulation="Sus"
+          Fret="11" Legato="Hammer-On/Pull-Off" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="80" Off-Velocity="65" Begin="45" End="45" Articulation="Sus"
+          Fret="10" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="80" Off-Velocity="65" Begin="48" End="48" Articulation="Sus"
+          Fret="10" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+  </String>
+  <String ID="3">
+    <Note FX="0" Velocity="60" Off-Velocity="65" Begin="11" End="11" Articulation="Sus"
+          Fret="13" Legato="Hammer-On/Pull-Off" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="50" Off-Velocity="65" Begin="12" End="12" Articulation="Sus"
+          Fret="12" Legato="Hammer-On/Pull-Off" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="40" Off-Velocity="65" Begin="13" End="14" Articulation="Sus"
+          Fret="10" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="90" Off-Velocity="65" Begin="17" End="18" Articulation="Sus"
+          Fret="12" Legato="Legato Slide" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="90" Off-Velocity="65" Begin="19" End="23" Articulation="Sus"
+          Fret="14" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="80" Off-Velocity="65" Begin="25" End="25" Articulation="Sus"
+          Fret="13" Legato="Hammer-On/Pull-Off" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="70" Off-Velocity="65" Begin="26" End="26" Articulation="Sus"
+          Fret="12" Legato="Hammer-On/Pull-Off" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="60" Off-Velocity="65" Begin="27" End="28" Articulation="Sus"
+          Fret="10" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="30" Off-Velocity="65" Begin="29" End="30" Articulation="Sus"
+          Fret="10" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+  </String>
+  <String ID="2">
+    <Note FX="0" Velocity="70" Off-Velocity="65" Begin="15" End="15" Articulation="Sus"
+          Fret="10" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="30" Off-Velocity="65" Begin="17" End="18" Articulation="Sus"
+          Fret="11" Legato="Legato Slide" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="90" Off-Velocity="65" Begin="19" End="23" Articulation="Sus"
+          Fret="13" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="90" Off-Velocity="65" Begin="31" End="31" Articulation="Sus"
+          Fret="11" Legato="Legato Slide" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="90" Off-Velocity="65" Begin="32" End="32" Articulation="Sus"
+          Fret="13" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="100" Off-Velocity="65" Begin="33" End="33" Articulation="Sus"
+          Fret="12" Legato="Legato Slide" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="100" Off-Velocity="65" Begin="34" End="39" Articulation="Sus"
+          Fret="13" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="Vib Rate 1/8"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="70" Off-Velocity="65" Begin="65" End="65" Articulation="Sus"
+          Fret="10" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="No Vibrato"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+  </String>
+</Riff>

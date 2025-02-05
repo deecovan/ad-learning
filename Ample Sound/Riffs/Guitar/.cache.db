@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="Default" ext=".griff" author="Kane" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="60" cat="Pop" cho="G C" type="Riff" db="" key="A#" measures="2"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="Default_Metal" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Metal" cho="C#" type="Riff" db="" key="C#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+</cache>

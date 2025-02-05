@@ -1,0 +1,2692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Infos>
+  <AuthorInfo Name="Ample Sound"/>
+  <InstDB DBName="AGLPBt"/>
+  <SampleInfo>
+    <sample ID="0" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="0"
+            Cycle="1" Tune="3" Gain="1"/>
+    <sample ID="2" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="0"
+            Cycle="2" Tune="-2" Gain="1"/>
+    <sample ID="3" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="0"
+            Cycle="3" Tune="-3" Gain="1"/>
+    <sample ID="4" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="3" Gain="1"/>
+    <sample ID="5" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="6" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="1"
+            Cycle="2" Tune="1" Gain="1"/>
+    <sample ID="7" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="8" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="2"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="9" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="2"
+            Cycle="1" Tune="2" Gain="1"/>
+    <sample ID="10" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="2"
+            Cycle="2" Tune="1" Gain="1"/>
+    <sample ID="11" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="2"
+            Cycle="3" Tune="1" Gain="1"/>
+    <sample ID="12" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="3"
+            Cycle="0" Tune="3" Gain="1"/>
+    <sample ID="13" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="3"
+            Cycle="1" Tune="2" Gain="1"/>
+    <sample ID="14" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="3"
+            Cycle="2" Tune="-3" Gain="1"/>
+    <sample ID="15" DBName="AGLPBt" Articulation="Sus1" RootNote="64" VelLayer="3"
+            Cycle="3" Tune="-3" Gain="1"/>
+    <sample ID="16" DBName="AGLPBt" Articulation="Sus1" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="17" DBName="AGLPBt" Articulation="Sus1" RootNote="65" VelLayer="0"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="18" DBName="AGLPBt" Articulation="Sus1" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="19" DBName="AGLPBt" Articulation="Sus1" RootNote="65" VelLayer="1"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="20" DBName="AGLPBt" Articulation="Sus1" RootNote="65" VelLayer="1"
+            Cycle="2" Tune="-3" Gain="1"/>
+    <sample ID="21" DBName="AGLPBt" Articulation="Sus1" RootNote="65" VelLayer="1"
+            Cycle="3" Tune="-4" Gain="1"/>
+    <sample ID="22" DBName="AGLPBt" Articulation="Sus1" RootNote="65" VelLayer="2"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="23" DBName="AGLPBt" Articulation="Sus1" RootNote="65" VelLayer="2"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="24" DBName="AGLPBt" Articulation="Sus1" RootNote="65" VelLayer="2"
+            Cycle="2" Tune="-5" Gain="1"/>
+    <sample ID="25" DBName="AGLPBt" Articulation="Sus1" RootNote="65" VelLayer="2"
+            Cycle="3" Tune="-5" Gain="1"/>
+    <sample ID="26" DBName="AGLPBt" Articulation="Sus1" RootNote="65" VelLayer="3"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="27" DBName="AGLPBt" Articulation="Sus1" RootNote="65" VelLayer="3"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="28" DBName="AGLPBt" Articulation="Sus1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="29" DBName="AGLPBt" Articulation="Sus1" RootNote="66" VelLayer="0"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="30" DBName="AGLPBt" Articulation="Sus1" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="31" DBName="AGLPBt" Articulation="Sus1" RootNote="66" VelLayer="1"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="32" DBName="AGLPBt" Articulation="Sus1" RootNote="66" VelLayer="1"
+            Cycle="2" Tune="-3" Gain="1"/>
+    <sample ID="33" DBName="AGLPBt" Articulation="Sus1" RootNote="66" VelLayer="1"
+            Cycle="3" Tune="-4" Gain="1"/>
+    <sample ID="34" DBName="AGLPBt" Articulation="Sus1" RootNote="66" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="35" DBName="AGLPBt" Articulation="Sus1" RootNote="66" VelLayer="2"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="36" DBName="AGLPBt" Articulation="Sus1" RootNote="66" VelLayer="2"
+            Cycle="2" Tune="-4" Gain="1"/>
+    <sample ID="37" DBName="AGLPBt" Articulation="Sus1" RootNote="66" VelLayer="2"
+            Cycle="3" Tune="-3" Gain="1"/>
+    <sample ID="38" DBName="AGLPBt" Articulation="Sus1" RootNote="66" VelLayer="3"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="39" DBName="AGLPBt" Articulation="Sus1" RootNote="66" VelLayer="3"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="40" DBName="AGLPBt" Articulation="Sus1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="41" DBName="AGLPBt" Articulation="Sus1" RootNote="67" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="42" DBName="AGLPBt" Articulation="Sus1" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="43" DBName="AGLPBt" Articulation="Sus1" RootNote="67" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="44" DBName="AGLPBt" Articulation="Sus1" RootNote="67" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="45" DBName="AGLPBt" Articulation="Sus1" RootNote="67" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="46" DBName="AGLPBt" Articulation="Sus1" RootNote="67" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="47" DBName="AGLPBt" Articulation="Sus1" RootNote="67" VelLayer="2"
+            Cycle="1" Tune="-1" Gain="1"/>
+    <sample ID="48" DBName="AGLPBt" Articulation="Sus1" RootNote="67" VelLayer="2"
+            Cycle="2" Tune="-1" Gain="1"/>
+    <sample ID="49" DBName="AGLPBt" Articulation="Sus1" RootNote="67" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="50" DBName="AGLPBt" Articulation="Sus1" RootNote="67" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="51" DBName="AGLPBt" Articulation="Sus1" RootNote="67" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="52" DBName="AGLPBt" Articulation="Sus1" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="53" DBName="AGLPBt" Articulation="Sus1" RootNote="68" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="54" DBName="AGLPBt" Articulation="Sus1" RootNote="68" VelLayer="1"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="55" DBName="AGLPBt" Articulation="Sus1" RootNote="68" VelLayer="2"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="56" DBName="AGLPBt" Articulation="Sus1" RootNote="68" VelLayer="2"
+            Cycle="1" Tune="-1" Gain="1"/>
+    <sample ID="57" DBName="AGLPBt" Articulation="Sus1" RootNote="68" VelLayer="3"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="58" DBName="AGLPBt" Articulation="Sus1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="59" DBName="AGLPBt" Articulation="Sus1" RootNote="69" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="60" DBName="AGLPBt" Articulation="Sus1" RootNote="69" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="61" DBName="AGLPBt" Articulation="Sus1" RootNote="69" VelLayer="2"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="62" DBName="AGLPBt" Articulation="Sus1" RootNote="69" VelLayer="2"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="63" DBName="AGLPBt" Articulation="Sus1" RootNote="69" VelLayer="3"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="64" DBName="AGLPBt" Articulation="Sus1" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="65" DBName="AGLPBt" Articulation="Sus1" RootNote="70" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="66" DBName="AGLPBt" Articulation="Sus1" RootNote="70" VelLayer="1"
+            Cycle="1" Tune="-1" Gain="1"/>
+    <sample ID="67" DBName="AGLPBt" Articulation="Sus1" RootNote="70" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="68" DBName="AGLPBt" Articulation="Sus1" RootNote="70" VelLayer="2"
+            Cycle="1" Tune="-1" Gain="1"/>
+    <sample ID="69" DBName="AGLPBt" Articulation="Sus1" RootNote="70" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="70" DBName="AGLPBt" Articulation="Sus1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="71" DBName="AGLPBt" Articulation="Sus1" RootNote="71" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="72" DBName="AGLPBt" Articulation="Sus1" RootNote="71" VelLayer="1"
+            Cycle="1" Tune="1" Gain="1"/>
+    <sample ID="73" DBName="AGLPBt" Articulation="Sus1" RootNote="71" VelLayer="2"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="74" DBName="AGLPBt" Articulation="Sus1" RootNote="71" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="75" DBName="AGLPBt" Articulation="Sus1" RootNote="71" VelLayer="3"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="76" DBName="AGLPBt" Articulation="Sus1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="77" DBName="AGLPBt" Articulation="Sus1" RootNote="72" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="78" DBName="AGLPBt" Articulation="Sus1" RootNote="72" VelLayer="2"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="79" DBName="AGLPBt" Articulation="Sus1" RootNote="72" VelLayer="3"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="80" DBName="AGLPBt" Articulation="Sus1" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="81" DBName="AGLPBt" Articulation="Sus1" RootNote="73" VelLayer="1"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="82" DBName="AGLPBt" Articulation="Sus1" RootNote="73" VelLayer="2"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="83" DBName="AGLPBt" Articulation="Sus1" RootNote="73" VelLayer="3"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="84" DBName="AGLPBt" Articulation="Sus1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="85" DBName="AGLPBt" Articulation="Sus1" RootNote="74" VelLayer="1"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="86" DBName="AGLPBt" Articulation="Sus1" RootNote="74" VelLayer="2"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="87" DBName="AGLPBt" Articulation="Sus1" RootNote="74" VelLayer="3"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="88" DBName="AGLPBt" Articulation="Sus1" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="89" DBName="AGLPBt" Articulation="Sus1" RootNote="75" VelLayer="1"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="90" DBName="AGLPBt" Articulation="Sus1" RootNote="75" VelLayer="2"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="91" DBName="AGLPBt" Articulation="Sus1" RootNote="75" VelLayer="3"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="92" DBName="AGLPBt" Articulation="Sus1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="93" DBName="AGLPBt" Articulation="Sus1" RootNote="76" VelLayer="1"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="94" DBName="AGLPBt" Articulation="Sus1" RootNote="76" VelLayer="2"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="95" DBName="AGLPBt" Articulation="Sus1" RootNote="76" VelLayer="3"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="96" DBName="AGLPBt" Articulation="Sus1" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="97" DBName="AGLPBt" Articulation="Sus1" RootNote="77" VelLayer="1"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="98" DBName="AGLPBt" Articulation="Sus1" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="99" DBName="AGLPBt" Articulation="Sus1" RootNote="78" VelLayer="1"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="100" DBName="AGLPBt" Articulation="Sus1" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="101" DBName="AGLPBt" Articulation="Sus1" RootNote="79" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="102" DBName="AGLPBt" Articulation="Sus1" RootNote="80" VelLayer="0"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="103" DBName="AGLPBt" Articulation="Sus1" RootNote="80" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="104" DBName="AGLPBt" Articulation="Sus1" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="105" DBName="AGLPBt" Articulation="Sus1" RootNote="81" VelLayer="1"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="106" DBName="AGLPBt" Articulation="Sus1" RootNote="82" VelLayer="0"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="107" DBName="AGLPBt" Articulation="Sus1" RootNote="82" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="108" DBName="AGLPBt" Articulation="Sus1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="109" DBName="AGLPBt" Articulation="Sus1" RootNote="83" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="110" DBName="AGLPBt" Articulation="Sus1" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="111" DBName="AGLPBt" Articulation="Sus1" RootNote="85" VelLayer="0"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="112" DBName="AGLPBt" Articulation="Sus1" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="113" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="114" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="0"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="115" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="0"
+            Cycle="2" Tune="-2" Gain="1"/>
+    <sample ID="116" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="0"
+            Cycle="3" Tune="-4" Gain="1"/>
+    <sample ID="117" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="118" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="1"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="119" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="1"
+            Cycle="2" Tune="-3" Gain="1"/>
+    <sample ID="120" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="1"
+            Cycle="3" Tune="-4" Gain="1"/>
+    <sample ID="121" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="2"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="122" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="2"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="123" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="2"
+            Cycle="2" Tune="-6" Gain="1"/>
+    <sample ID="124" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="2"
+            Cycle="3" Tune="-3" Gain="1"/>
+    <sample ID="125" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="126" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="3"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="127" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="3"
+            Cycle="2" Tune="-2" Gain="1"/>
+    <sample ID="128" DBName="AGLPBt" Articulation="Sus2" RootNote="59" VelLayer="3"
+            Cycle="3" Tune="-3" Gain="1"/>
+    <sample ID="129" DBName="AGLPBt" Articulation="Sus2" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="130" DBName="AGLPBt" Articulation="Sus2" RootNote="60" VelLayer="0"
+            Cycle="1" Tune="-7" Gain="1"/>
+    <sample ID="131" DBName="AGLPBt" Articulation="Sus2" RootNote="60" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="132" DBName="AGLPBt" Articulation="Sus2" RootNote="60" VelLayer="1"
+            Cycle="1" Tune="-10" Gain="1"/>
+    <sample ID="133" DBName="AGLPBt" Articulation="Sus2" RootNote="60" VelLayer="1"
+            Cycle="2" Tune="-10" Gain="1"/>
+    <sample ID="134" DBName="AGLPBt" Articulation="Sus2" RootNote="60" VelLayer="1"
+            Cycle="3" Tune="-9" Gain="1"/>
+    <sample ID="135" DBName="AGLPBt" Articulation="Sus2" RootNote="60" VelLayer="2"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="136" DBName="AGLPBt" Articulation="Sus2" RootNote="60" VelLayer="2"
+            Cycle="1" Tune="-10" Gain="1"/>
+    <sample ID="137" DBName="AGLPBt" Articulation="Sus2" RootNote="60" VelLayer="2"
+            Cycle="2" Tune="-10" Gain="1"/>
+    <sample ID="138" DBName="AGLPBt" Articulation="Sus2" RootNote="60" VelLayer="2"
+            Cycle="3" Tune="-10" Gain="1"/>
+    <sample ID="139" DBName="AGLPBt" Articulation="Sus2" RootNote="60" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="140" DBName="AGLPBt" Articulation="Sus2" RootNote="60" VelLayer="3"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="141" DBName="AGLPBt" Articulation="Sus2" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="142" DBName="AGLPBt" Articulation="Sus2" RootNote="61" VelLayer="0"
+            Cycle="1" Tune="-8" Gain="1"/>
+    <sample ID="143" DBName="AGLPBt" Articulation="Sus2" RootNote="61" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="144" DBName="AGLPBt" Articulation="Sus2" RootNote="61" VelLayer="1"
+            Cycle="1" Tune="-13" Gain="1"/>
+    <sample ID="145" DBName="AGLPBt" Articulation="Sus2" RootNote="61" VelLayer="1"
+            Cycle="2" Tune="-13" Gain="1"/>
+    <sample ID="146" DBName="AGLPBt" Articulation="Sus2" RootNote="61" VelLayer="1"
+            Cycle="3" Tune="-13" Gain="1"/>
+    <sample ID="147" DBName="AGLPBt" Articulation="Sus2" RootNote="61" VelLayer="2"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="148" DBName="AGLPBt" Articulation="Sus2" RootNote="61" VelLayer="2"
+            Cycle="1" Tune="-8" Gain="1"/>
+    <sample ID="149" DBName="AGLPBt" Articulation="Sus2" RootNote="61" VelLayer="2"
+            Cycle="2" Tune="-8" Gain="1"/>
+    <sample ID="150" DBName="AGLPBt" Articulation="Sus2" RootNote="61" VelLayer="2"
+            Cycle="3" Tune="-10" Gain="1"/>
+    <sample ID="151" DBName="AGLPBt" Articulation="Sus2" RootNote="61" VelLayer="3"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="152" DBName="AGLPBt" Articulation="Sus2" RootNote="61" VelLayer="3"
+            Cycle="1" Tune="-7" Gain="1"/>
+    <sample ID="153" DBName="AGLPBt" Articulation="Sus2" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="154" DBName="AGLPBt" Articulation="Sus2" RootNote="62" VelLayer="0"
+            Cycle="1" Tune="-7" Gain="1"/>
+    <sample ID="155" DBName="AGLPBt" Articulation="Sus2" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="156" DBName="AGLPBt" Articulation="Sus2" RootNote="62" VelLayer="1"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="157" DBName="AGLPBt" Articulation="Sus2" RootNote="62" VelLayer="1"
+            Cycle="2" Tune="-5" Gain="1"/>
+    <sample ID="158" DBName="AGLPBt" Articulation="Sus2" RootNote="62" VelLayer="1"
+            Cycle="3" Tune="-6" Gain="1"/>
+    <sample ID="159" DBName="AGLPBt" Articulation="Sus2" RootNote="62" VelLayer="2"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="160" DBName="AGLPBt" Articulation="Sus2" RootNote="62" VelLayer="2"
+            Cycle="1" Tune="-6" Gain="1"/>
+    <sample ID="161" DBName="AGLPBt" Articulation="Sus2" RootNote="62" VelLayer="2"
+            Cycle="2" Tune="-7" Gain="1"/>
+    <sample ID="162" DBName="AGLPBt" Articulation="Sus2" RootNote="62" VelLayer="2"
+            Cycle="3" Tune="-7" Gain="1"/>
+    <sample ID="163" DBName="AGLPBt" Articulation="Sus2" RootNote="62" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="164" DBName="AGLPBt" Articulation="Sus2" RootNote="62" VelLayer="3"
+            Cycle="1" Tune="-8" Gain="1"/>
+    <sample ID="165" DBName="AGLPBt" Articulation="Sus2" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="166" DBName="AGLPBt" Articulation="Sus2" RootNote="63" VelLayer="0"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="167" DBName="AGLPBt" Articulation="Sus2" RootNote="63" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="168" DBName="AGLPBt" Articulation="Sus2" RootNote="63" VelLayer="1"
+            Cycle="1" Tune="-6" Gain="1"/>
+    <sample ID="169" DBName="AGLPBt" Articulation="Sus2" RootNote="63" VelLayer="1"
+            Cycle="2" Tune="-5" Gain="1"/>
+    <sample ID="170" DBName="AGLPBt" Articulation="Sus2" RootNote="63" VelLayer="1"
+            Cycle="3" Tune="-4" Gain="1"/>
+    <sample ID="171" DBName="AGLPBt" Articulation="Sus2" RootNote="63" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="172" DBName="AGLPBt" Articulation="Sus2" RootNote="63" VelLayer="2"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="173" DBName="AGLPBt" Articulation="Sus2" RootNote="63" VelLayer="2"
+            Cycle="2" Tune="-4" Gain="1"/>
+    <sample ID="174" DBName="AGLPBt" Articulation="Sus2" RootNote="63" VelLayer="2"
+            Cycle="3" Tune="-3" Gain="1"/>
+    <sample ID="175" DBName="AGLPBt" Articulation="Sus2" RootNote="63" VelLayer="3"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="176" DBName="AGLPBt" Articulation="Sus2" RootNote="63" VelLayer="3"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="177" DBName="AGLPBt" Articulation="Sus2" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="178" DBName="AGLPBt" Articulation="Sus2" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="179" DBName="AGLPBt" Articulation="Sus2" RootNote="64" VelLayer="1"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="180" DBName="AGLPBt" Articulation="Sus2" RootNote="64" VelLayer="2"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="181" DBName="AGLPBt" Articulation="Sus2" RootNote="64" VelLayer="2"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="182" DBName="AGLPBt" Articulation="Sus2" RootNote="64" VelLayer="3"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="183" DBName="AGLPBt" Articulation="Sus2" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="184" DBName="AGLPBt" Articulation="Sus2" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="185" DBName="AGLPBt" Articulation="Sus2" RootNote="65" VelLayer="1"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="186" DBName="AGLPBt" Articulation="Sus2" RootNote="65" VelLayer="2"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="187" DBName="AGLPBt" Articulation="Sus2" RootNote="65" VelLayer="2"
+            Cycle="1" Tune="-8" Gain="1"/>
+    <sample ID="188" DBName="AGLPBt" Articulation="Sus2" RootNote="65" VelLayer="3"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="189" DBName="AGLPBt" Articulation="Sus2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="190" DBName="AGLPBt" Articulation="Sus2" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="191" DBName="AGLPBt" Articulation="Sus2" RootNote="66" VelLayer="1"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="192" DBName="AGLPBt" Articulation="Sus2" RootNote="66" VelLayer="2"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="193" DBName="AGLPBt" Articulation="Sus2" RootNote="66" VelLayer="2"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="194" DBName="AGLPBt" Articulation="Sus2" RootNote="66" VelLayer="3"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="195" DBName="AGLPBt" Articulation="Sus2" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="196" DBName="AGLPBt" Articulation="Sus2" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="197" DBName="AGLPBt" Articulation="Sus2" RootNote="67" VelLayer="1"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="198" DBName="AGLPBt" Articulation="Sus2" RootNote="67" VelLayer="2"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="199" DBName="AGLPBt" Articulation="Sus2" RootNote="67" VelLayer="2"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="200" DBName="AGLPBt" Articulation="Sus2" RootNote="67" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="201" DBName="AGLPBt" Articulation="Sus2" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="202" DBName="AGLPBt" Articulation="Sus2" RootNote="68" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="203" DBName="AGLPBt" Articulation="Sus2" RootNote="68" VelLayer="2"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="204" DBName="AGLPBt" Articulation="Sus2" RootNote="68" VelLayer="3"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="205" DBName="AGLPBt" Articulation="Sus2" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="206" DBName="AGLPBt" Articulation="Sus2" RootNote="69" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="207" DBName="AGLPBt" Articulation="Sus2" RootNote="69" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="208" DBName="AGLPBt" Articulation="Sus2" RootNote="69" VelLayer="3"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="209" DBName="AGLPBt" Articulation="Sus2" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="210" DBName="AGLPBt" Articulation="Sus2" RootNote="70" VelLayer="1"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="211" DBName="AGLPBt" Articulation="Sus2" RootNote="70" VelLayer="2"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="212" DBName="AGLPBt" Articulation="Sus2" RootNote="70" VelLayer="3"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="213" DBName="AGLPBt" Articulation="Sus2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="214" DBName="AGLPBt" Articulation="Sus2" RootNote="71" VelLayer="1"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="215" DBName="AGLPBt" Articulation="Sus2" RootNote="71" VelLayer="2"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="216" DBName="AGLPBt" Articulation="Sus2" RootNote="71" VelLayer="3"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="217" DBName="AGLPBt" Articulation="Sus2" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="218" DBName="AGLPBt" Articulation="Sus2" RootNote="72" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="219" DBName="AGLPBt" Articulation="Sus2" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="220" DBName="AGLPBt" Articulation="Sus2" RootNote="73" VelLayer="1"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="221" DBName="AGLPBt" Articulation="Sus2" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="222" DBName="AGLPBt" Articulation="Sus2" RootNote="74" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="223" DBName="AGLPBt" Articulation="Sus2" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="224" DBName="AGLPBt" Articulation="Sus2" RootNote="75" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="225" DBName="AGLPBt" Articulation="Sus2" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="226" DBName="AGLPBt" Articulation="Sus2" RootNote="76" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="227" DBName="AGLPBt" Articulation="Sus2" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="228" DBName="AGLPBt" Articulation="Sus2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="229" DBName="AGLPBt" Articulation="Sus2" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="230" DBName="AGLPBt" Articulation="Sus2" RootNote="80" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="231" DBName="AGLPBt" Articulation="Sus2" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="232" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="233" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="0"
+            Cycle="1" Tune="-6" Gain="1"/>
+    <sample ID="234" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="0"
+            Cycle="2" Tune="-8" Gain="1"/>
+    <sample ID="235" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="0"
+            Cycle="3" Tune="-9" Gain="1"/>
+    <sample ID="236" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="237" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="1"
+            Cycle="1" Tune="-8" Gain="1"/>
+    <sample ID="238" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="1"
+            Cycle="2" Tune="-9" Gain="1"/>
+    <sample ID="239" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="1"
+            Cycle="3" Tune="-6" Gain="1"/>
+    <sample ID="240" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="2"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="241" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="2"
+            Cycle="1" Tune="-8" Gain="1"/>
+    <sample ID="242" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="2"
+            Cycle="2" Tune="-10" Gain="1"/>
+    <sample ID="243" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="2"
+            Cycle="3" Tune="-7" Gain="1"/>
+    <sample ID="244" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="3"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="245" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="3"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="246" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="3"
+            Cycle="2" Tune="-1" Gain="1"/>
+    <sample ID="247" DBName="AGLPBt" Articulation="Sus3" RootNote="55" VelLayer="3"
+            Cycle="3" Tune="-2" Gain="1"/>
+    <sample ID="248" DBName="AGLPBt" Articulation="Sus3" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="249" DBName="AGLPBt" Articulation="Sus3" RootNote="56" VelLayer="0"
+            Cycle="1" Tune="-17" Gain="1"/>
+    <sample ID="250" DBName="AGLPBt" Articulation="Sus3" RootNote="56" VelLayer="1"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="251" DBName="AGLPBt" Articulation="Sus3" RootNote="56" VelLayer="1"
+            Cycle="1" Tune="-19" Gain="1"/>
+    <sample ID="252" DBName="AGLPBt" Articulation="Sus3" RootNote="56" VelLayer="1"
+            Cycle="2" Tune="-13" Gain="1"/>
+    <sample ID="253" DBName="AGLPBt" Articulation="Sus3" RootNote="56" VelLayer="1"
+            Cycle="3" Tune="-12" Gain="1"/>
+    <sample ID="254" DBName="AGLPBt" Articulation="Sus3" RootNote="56" VelLayer="2"
+            Cycle="0" Tune="-13" Gain="1"/>
+    <sample ID="255" DBName="AGLPBt" Articulation="Sus3" RootNote="56" VelLayer="2"
+            Cycle="1" Tune="-13" Gain="1"/>
+    <sample ID="256" DBName="AGLPBt" Articulation="Sus3" RootNote="56" VelLayer="2"
+            Cycle="2" Tune="-11" Gain="1"/>
+    <sample ID="257" DBName="AGLPBt" Articulation="Sus3" RootNote="56" VelLayer="2"
+            Cycle="3" Tune="-10" Gain="1"/>
+    <sample ID="258" DBName="AGLPBt" Articulation="Sus3" RootNote="56" VelLayer="3"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="259" DBName="AGLPBt" Articulation="Sus3" RootNote="56" VelLayer="3"
+            Cycle="1" Tune="-8" Gain="1"/>
+    <sample ID="260" DBName="AGLPBt" Articulation="Sus3" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="261" DBName="AGLPBt" Articulation="Sus3" RootNote="57" VelLayer="0"
+            Cycle="1" Tune="-9" Gain="1"/>
+    <sample ID="262" DBName="AGLPBt" Articulation="Sus3" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="-17" Gain="1"/>
+    <sample ID="263" DBName="AGLPBt" Articulation="Sus3" RootNote="57" VelLayer="1"
+            Cycle="1" Tune="-9" Gain="1"/>
+    <sample ID="264" DBName="AGLPBt" Articulation="Sus3" RootNote="57" VelLayer="1"
+            Cycle="2" Tune="-9" Gain="1"/>
+    <sample ID="265" DBName="AGLPBt" Articulation="Sus3" RootNote="57" VelLayer="1"
+            Cycle="3" Tune="-8" Gain="1"/>
+    <sample ID="266" DBName="AGLPBt" Articulation="Sus3" RootNote="57" VelLayer="2"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="267" DBName="AGLPBt" Articulation="Sus3" RootNote="57" VelLayer="2"
+            Cycle="1" Tune="-6" Gain="1"/>
+    <sample ID="268" DBName="AGLPBt" Articulation="Sus3" RootNote="57" VelLayer="2"
+            Cycle="2" Tune="-8" Gain="1"/>
+    <sample ID="269" DBName="AGLPBt" Articulation="Sus3" RootNote="57" VelLayer="2"
+            Cycle="3" Tune="-8" Gain="1"/>
+    <sample ID="270" DBName="AGLPBt" Articulation="Sus3" RootNote="57" VelLayer="3"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="271" DBName="AGLPBt" Articulation="Sus3" RootNote="57" VelLayer="3"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="272" DBName="AGLPBt" Articulation="Sus3" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="273" DBName="AGLPBt" Articulation="Sus3" RootNote="58" VelLayer="0"
+            Cycle="1" Tune="-10" Gain="1"/>
+    <sample ID="274" DBName="AGLPBt" Articulation="Sus3" RootNote="58" VelLayer="1"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="275" DBName="AGLPBt" Articulation="Sus3" RootNote="58" VelLayer="1"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="276" DBName="AGLPBt" Articulation="Sus3" RootNote="58" VelLayer="1"
+            Cycle="2" Tune="-4" Gain="1"/>
+    <sample ID="277" DBName="AGLPBt" Articulation="Sus3" RootNote="58" VelLayer="1"
+            Cycle="3" Tune="-5" Gain="1"/>
+    <sample ID="278" DBName="AGLPBt" Articulation="Sus3" RootNote="58" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="279" DBName="AGLPBt" Articulation="Sus3" RootNote="58" VelLayer="2"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="280" DBName="AGLPBt" Articulation="Sus3" RootNote="58" VelLayer="2"
+            Cycle="2" Tune="-4" Gain="1"/>
+    <sample ID="281" DBName="AGLPBt" Articulation="Sus3" RootNote="58" VelLayer="2"
+            Cycle="3" Tune="-6" Gain="1"/>
+    <sample ID="282" DBName="AGLPBt" Articulation="Sus3" RootNote="58" VelLayer="3"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="283" DBName="AGLPBt" Articulation="Sus3" RootNote="58" VelLayer="3"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="284" DBName="AGLPBt" Articulation="Sus3" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="285" DBName="AGLPBt" Articulation="Sus3" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="286" DBName="AGLPBt" Articulation="Sus3" RootNote="59" VelLayer="1"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="287" DBName="AGLPBt" Articulation="Sus3" RootNote="59" VelLayer="2"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="288" DBName="AGLPBt" Articulation="Sus3" RootNote="59" VelLayer="2"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="289" DBName="AGLPBt" Articulation="Sus3" RootNote="59" VelLayer="3"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="290" DBName="AGLPBt" Articulation="Sus3" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="291" DBName="AGLPBt" Articulation="Sus3" RootNote="60" VelLayer="1"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="292" DBName="AGLPBt" Articulation="Sus3" RootNote="60" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="293" DBName="AGLPBt" Articulation="Sus3" RootNote="60" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="294" DBName="AGLPBt" Articulation="Sus3" RootNote="60" VelLayer="2"
+            Cycle="1" Tune="-1" Gain="1"/>
+    <sample ID="295" DBName="AGLPBt" Articulation="Sus3" RootNote="60" VelLayer="3"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="296" DBName="AGLPBt" Articulation="Sus3" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="297" DBName="AGLPBt" Articulation="Sus3" RootNote="61" VelLayer="1"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="298" DBName="AGLPBt" Articulation="Sus3" RootNote="61" VelLayer="1"
+            Cycle="1" Tune="1" Gain="1"/>
+    <sample ID="299" DBName="AGLPBt" Articulation="Sus3" RootNote="61" VelLayer="2"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="300" DBName="AGLPBt" Articulation="Sus3" RootNote="61" VelLayer="2"
+            Cycle="1" Tune="-1" Gain="1"/>
+    <sample ID="301" DBName="AGLPBt" Articulation="Sus3" RootNote="61" VelLayer="3"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="302" DBName="AGLPBt" Articulation="Sus3" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="303" DBName="AGLPBt" Articulation="Sus3" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="304" DBName="AGLPBt" Articulation="Sus3" RootNote="62" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="305" DBName="AGLPBt" Articulation="Sus3" RootNote="62" VelLayer="2"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="306" DBName="AGLPBt" Articulation="Sus3" RootNote="62" VelLayer="2"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="307" DBName="AGLPBt" Articulation="Sus3" RootNote="62" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="308" DBName="AGLPBt" Articulation="Sus3" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="309" DBName="AGLPBt" Articulation="Sus3" RootNote="63" VelLayer="1"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="310" DBName="AGLPBt" Articulation="Sus3" RootNote="63" VelLayer="1"
+            Cycle="1" Tune="1" Gain="1"/>
+    <sample ID="311" DBName="AGLPBt" Articulation="Sus3" RootNote="63" VelLayer="2"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="312" DBName="AGLPBt" Articulation="Sus3" RootNote="63" VelLayer="2"
+            Cycle="1" Tune="1" Gain="1"/>
+    <sample ID="313" DBName="AGLPBt" Articulation="Sus3" RootNote="63" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="314" DBName="AGLPBt" Articulation="Sus3" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="315" DBName="AGLPBt" Articulation="Sus3" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="316" DBName="AGLPBt" Articulation="Sus3" RootNote="64" VelLayer="2"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="317" DBName="AGLPBt" Articulation="Sus3" RootNote="64" VelLayer="3"
+            Cycle="0" Tune="3" Gain="1"/>
+    <sample ID="318" DBName="AGLPBt" Articulation="Sus3" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="319" DBName="AGLPBt" Articulation="Sus3" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="320" DBName="AGLPBt" Articulation="Sus3" RootNote="65" VelLayer="2"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="321" DBName="AGLPBt" Articulation="Sus3" RootNote="65" VelLayer="3"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="322" DBName="AGLPBt" Articulation="Sus3" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="323" DBName="AGLPBt" Articulation="Sus3" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="324" DBName="AGLPBt" Articulation="Sus3" RootNote="66" VelLayer="2"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="325" DBName="AGLPBt" Articulation="Sus3" RootNote="66" VelLayer="3"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="326" DBName="AGLPBt" Articulation="Sus3" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="327" DBName="AGLPBt" Articulation="Sus3" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="328" DBName="AGLPBt" Articulation="Sus3" RootNote="67" VelLayer="2"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="329" DBName="AGLPBt" Articulation="Sus3" RootNote="67" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="330" DBName="AGLPBt" Articulation="Sus3" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="331" DBName="AGLPBt" Articulation="Sus3" RootNote="68" VelLayer="1"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="332" DBName="AGLPBt" Articulation="Sus3" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="333" DBName="AGLPBt" Articulation="Sus3" RootNote="69" VelLayer="1"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="334" DBName="AGLPBt" Articulation="Sus3" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="335" DBName="AGLPBt" Articulation="Sus3" RootNote="70" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="336" DBName="AGLPBt" Articulation="Sus3" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="337" DBName="AGLPBt" Articulation="Sus3" RootNote="71" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="338" DBName="AGLPBt" Articulation="Sus3" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="339" DBName="AGLPBt" Articulation="Sus3" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="340" DBName="AGLPBt" Articulation="Sus3" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="341" DBName="AGLPBt" Articulation="Sus3" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="342" DBName="AGLPBt" Articulation="Sus3" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="343" DBName="AGLPBt" Articulation="Sus3" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="344" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="345" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="0"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="346" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="0"
+            Cycle="2" Tune="-6" Gain="1"/>
+    <sample ID="347" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="0"
+            Cycle="3" Tune="-5" Gain="1"/>
+    <sample ID="348" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="349" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="1"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="350" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="1"
+            Cycle="2" Tune="-3" Gain="1"/>
+    <sample ID="351" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="1"
+            Cycle="3" Tune="-2" Gain="1"/>
+    <sample ID="352" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="2"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="353" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="2"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="354" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="2"
+            Cycle="2" Tune="-6" Gain="1"/>
+    <sample ID="355" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="2"
+            Cycle="3" Tune="-4" Gain="1"/>
+    <sample ID="356" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="3"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="357" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="3"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="358" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="3"
+            Cycle="2" Tune="-2" Gain="1"/>
+    <sample ID="359" DBName="AGLPBt" Articulation="Sus4" RootNote="50" VelLayer="3"
+            Cycle="3" Tune="-3" Gain="1"/>
+    <sample ID="360" DBName="AGLPBt" Articulation="Sus4" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="361" DBName="AGLPBt" Articulation="Sus4" RootNote="51" VelLayer="0"
+            Cycle="1" Tune="1" Gain="1"/>
+    <sample ID="362" DBName="AGLPBt" Articulation="Sus4" RootNote="51" VelLayer="1"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="363" DBName="AGLPBt" Articulation="Sus4" RootNote="51" VelLayer="1"
+            Cycle="1" Tune="-14" Gain="1"/>
+    <sample ID="364" DBName="AGLPBt" Articulation="Sus4" RootNote="51" VelLayer="1"
+            Cycle="2" Tune="-7" Gain="1"/>
+    <sample ID="365" DBName="AGLPBt" Articulation="Sus4" RootNote="51" VelLayer="1"
+            Cycle="3" Tune="-9" Gain="1"/>
+    <sample ID="366" DBName="AGLPBt" Articulation="Sus4" RootNote="51" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="367" DBName="AGLPBt" Articulation="Sus4" RootNote="51" VelLayer="2"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="368" DBName="AGLPBt" Articulation="Sus4" RootNote="51" VelLayer="2"
+            Cycle="2" Tune="1" Gain="1"/>
+    <sample ID="369" DBName="AGLPBt" Articulation="Sus4" RootNote="51" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="370" DBName="AGLPBt" Articulation="Sus4" RootNote="51" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="371" DBName="AGLPBt" Articulation="Sus4" RootNote="51" VelLayer="3"
+            Cycle="1" Tune="2" Gain="1"/>
+    <sample ID="372" DBName="AGLPBt" Articulation="Sus4" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="373" DBName="AGLPBt" Articulation="Sus4" RootNote="52" VelLayer="0"
+            Cycle="1" Tune="-13" Gain="1"/>
+    <sample ID="374" DBName="AGLPBt" Articulation="Sus4" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="375" DBName="AGLPBt" Articulation="Sus4" RootNote="52" VelLayer="1"
+            Cycle="1" Tune="-8" Gain="1"/>
+    <sample ID="376" DBName="AGLPBt" Articulation="Sus4" RootNote="52" VelLayer="1"
+            Cycle="2" Tune="-2" Gain="1"/>
+    <sample ID="377" DBName="AGLPBt" Articulation="Sus4" RootNote="52" VelLayer="1"
+            Cycle="3" Tune="-3" Gain="1"/>
+    <sample ID="378" DBName="AGLPBt" Articulation="Sus4" RootNote="52" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="379" DBName="AGLPBt" Articulation="Sus4" RootNote="52" VelLayer="2"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="380" DBName="AGLPBt" Articulation="Sus4" RootNote="52" VelLayer="2"
+            Cycle="2" Tune="-6" Gain="1"/>
+    <sample ID="381" DBName="AGLPBt" Articulation="Sus4" RootNote="52" VelLayer="2"
+            Cycle="3" Tune="-3" Gain="1"/>
+    <sample ID="382" DBName="AGLPBt" Articulation="Sus4" RootNote="52" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="383" DBName="AGLPBt" Articulation="Sus4" RootNote="52" VelLayer="3"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="384" DBName="AGLPBt" Articulation="Sus4" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="385" DBName="AGLPBt" Articulation="Sus4" RootNote="53" VelLayer="0"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="386" DBName="AGLPBt" Articulation="Sus4" RootNote="53" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="387" DBName="AGLPBt" Articulation="Sus4" RootNote="53" VelLayer="1"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="388" DBName="AGLPBt" Articulation="Sus4" RootNote="53" VelLayer="1"
+            Cycle="2" Tune="-2" Gain="1"/>
+    <sample ID="389" DBName="AGLPBt" Articulation="Sus4" RootNote="53" VelLayer="1"
+            Cycle="3" Tune="-8" Gain="1"/>
+    <sample ID="390" DBName="AGLPBt" Articulation="Sus4" RootNote="53" VelLayer="2"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="391" DBName="AGLPBt" Articulation="Sus4" RootNote="53" VelLayer="2"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="392" DBName="AGLPBt" Articulation="Sus4" RootNote="53" VelLayer="2"
+            Cycle="2" Tune="-3" Gain="1"/>
+    <sample ID="393" DBName="AGLPBt" Articulation="Sus4" RootNote="53" VelLayer="2"
+            Cycle="3" Tune="-3" Gain="1"/>
+    <sample ID="394" DBName="AGLPBt" Articulation="Sus4" RootNote="53" VelLayer="3"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="395" DBName="AGLPBt" Articulation="Sus4" RootNote="53" VelLayer="3"
+            Cycle="1" Tune="-7" Gain="1"/>
+    <sample ID="396" DBName="AGLPBt" Articulation="Sus4" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="397" DBName="AGLPBt" Articulation="Sus4" RootNote="54" VelLayer="0"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="398" DBName="AGLPBt" Articulation="Sus4" RootNote="54" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="399" DBName="AGLPBt" Articulation="Sus4" RootNote="54" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="400" DBName="AGLPBt" Articulation="Sus4" RootNote="54" VelLayer="1"
+            Cycle="2" Tune="-1" Gain="1"/>
+    <sample ID="401" DBName="AGLPBt" Articulation="Sus4" RootNote="54" VelLayer="1"
+            Cycle="3" Tune="-8" Gain="1"/>
+    <sample ID="402" DBName="AGLPBt" Articulation="Sus4" RootNote="54" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="403" DBName="AGLPBt" Articulation="Sus4" RootNote="54" VelLayer="2"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="404" DBName="AGLPBt" Articulation="Sus4" RootNote="54" VelLayer="2"
+            Cycle="2" Tune="-3" Gain="1"/>
+    <sample ID="405" DBName="AGLPBt" Articulation="Sus4" RootNote="54" VelLayer="2"
+            Cycle="3" Tune="-2" Gain="1"/>
+    <sample ID="406" DBName="AGLPBt" Articulation="Sus4" RootNote="54" VelLayer="3"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="407" DBName="AGLPBt" Articulation="Sus4" RootNote="54" VelLayer="3"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="408" DBName="AGLPBt" Articulation="Sus4" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="409" DBName="AGLPBt" Articulation="Sus4" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="410" DBName="AGLPBt" Articulation="Sus4" RootNote="55" VelLayer="1"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="411" DBName="AGLPBt" Articulation="Sus4" RootNote="55" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="412" DBName="AGLPBt" Articulation="Sus4" RootNote="55" VelLayer="2"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="413" DBName="AGLPBt" Articulation="Sus4" RootNote="55" VelLayer="3"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="414" DBName="AGLPBt" Articulation="Sus4" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="415" DBName="AGLPBt" Articulation="Sus4" RootNote="56" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="416" DBName="AGLPBt" Articulation="Sus4" RootNote="56" VelLayer="1"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="417" DBName="AGLPBt" Articulation="Sus4" RootNote="56" VelLayer="2"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="418" DBName="AGLPBt" Articulation="Sus4" RootNote="56" VelLayer="2"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="419" DBName="AGLPBt" Articulation="Sus4" RootNote="56" VelLayer="3"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="420" DBName="AGLPBt" Articulation="Sus4" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="421" DBName="AGLPBt" Articulation="Sus4" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="422" DBName="AGLPBt" Articulation="Sus4" RootNote="57" VelLayer="1"
+            Cycle="1" Tune="1" Gain="1"/>
+    <sample ID="423" DBName="AGLPBt" Articulation="Sus4" RootNote="57" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="424" DBName="AGLPBt" Articulation="Sus4" RootNote="57" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="425" DBName="AGLPBt" Articulation="Sus4" RootNote="57" VelLayer="3"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="426" DBName="AGLPBt" Articulation="Sus4" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="427" DBName="AGLPBt" Articulation="Sus4" RootNote="58" VelLayer="1"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="428" DBName="AGLPBt" Articulation="Sus4" RootNote="58" VelLayer="1"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="429" DBName="AGLPBt" Articulation="Sus4" RootNote="58" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="430" DBName="AGLPBt" Articulation="Sus4" RootNote="58" VelLayer="2"
+            Cycle="1" Tune="1" Gain="1"/>
+    <sample ID="431" DBName="AGLPBt" Articulation="Sus4" RootNote="58" VelLayer="3"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="432" DBName="AGLPBt" Articulation="Sus4" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="433" DBName="AGLPBt" Articulation="Sus4" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="434" DBName="AGLPBt" Articulation="Sus4" RootNote="59" VelLayer="2"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="435" DBName="AGLPBt" Articulation="Sus4" RootNote="59" VelLayer="3"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="436" DBName="AGLPBt" Articulation="Sus4" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="437" DBName="AGLPBt" Articulation="Sus4" RootNote="60" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="438" DBName="AGLPBt" Articulation="Sus4" RootNote="60" VelLayer="2"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="439" DBName="AGLPBt" Articulation="Sus4" RootNote="60" VelLayer="3"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="440" DBName="AGLPBt" Articulation="Sus4" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="441" DBName="AGLPBt" Articulation="Sus4" RootNote="61" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="442" DBName="AGLPBt" Articulation="Sus4" RootNote="61" VelLayer="2"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="443" DBName="AGLPBt" Articulation="Sus4" RootNote="61" VelLayer="3"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="444" DBName="AGLPBt" Articulation="Sus4" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="445" DBName="AGLPBt" Articulation="Sus4" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="446" DBName="AGLPBt" Articulation="Sus4" RootNote="62" VelLayer="2"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="447" DBName="AGLPBt" Articulation="Sus4" RootNote="62" VelLayer="3"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="448" DBName="AGLPBt" Articulation="Sus4" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="449" DBName="AGLPBt" Articulation="Sus4" RootNote="63" VelLayer="1"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="450" DBName="AGLPBt" Articulation="Sus4" RootNote="63" VelLayer="2"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="451" DBName="AGLPBt" Articulation="Sus4" RootNote="63" VelLayer="3"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="452" DBName="AGLPBt" Articulation="Sus4" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="453" DBName="AGLPBt" Articulation="Sus4" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="454" DBName="AGLPBt" Articulation="Sus4" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="455" DBName="AGLPBt" Articulation="Sus4" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="456" DBName="AGLPBt" Articulation="Sus4" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="457" DBName="AGLPBt" Articulation="Sus4" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="458" DBName="AGLPBt" Articulation="Sus4" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="459" DBName="AGLPBt" Articulation="Sus4" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="460" DBName="AGLPBt" Articulation="Sus4" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="461" DBName="AGLPBt" Articulation="Sus4" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-17" Gain="1"/>
+    <sample ID="462" DBName="AGLPBt" Articulation="Sus4" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="463" DBName="AGLPBt" Articulation="Sus4" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="464" DBName="AGLPBt" Articulation="Sus4" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="-23" Gain="1"/>
+    <sample ID="465" DBName="AGLPBt" Articulation="Sus5" RootNote="45" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="466" DBName="AGLPBt" Articulation="Sus5" RootNote="45" VelLayer="0"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="467" DBName="AGLPBt" Articulation="Sus5" RootNote="45" VelLayer="1"
+            Cycle="0" Tune="-13" Gain="1"/>
+    <sample ID="468" DBName="AGLPBt" Articulation="Sus5" RootNote="45" VelLayer="1"
+            Cycle="1" Tune="-12" Gain="1"/>
+    <sample ID="469" DBName="AGLPBt" Articulation="Sus5" RootNote="45" VelLayer="2"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="470" DBName="AGLPBt" Articulation="Sus5" RootNote="45" VelLayer="2"
+            Cycle="1" Tune="-11" Gain="1"/>
+    <sample ID="471" DBName="AGLPBt" Articulation="Sus5" RootNote="45" VelLayer="3"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="472" DBName="AGLPBt" Articulation="Sus5" RootNote="45" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="473" DBName="AGLPBt" Articulation="Sus5" RootNote="46" VelLayer="0"
+            Cycle="0" Tune="-20" Gain="1"/>
+    <sample ID="474" DBName="AGLPBt" Articulation="Sus5" RootNote="46" VelLayer="1"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="475" DBName="AGLPBt" Articulation="Sus5" RootNote="46" VelLayer="1"
+            Cycle="1" Tune="-16" Gain="1"/>
+    <sample ID="476" DBName="AGLPBt" Articulation="Sus5" RootNote="46" VelLayer="2"
+            Cycle="0" Tune="-16" Gain="1"/>
+    <sample ID="477" DBName="AGLPBt" Articulation="Sus5" RootNote="46" VelLayer="2"
+            Cycle="1" Tune="-19" Gain="1"/>
+    <sample ID="478" DBName="AGLPBt" Articulation="Sus5" RootNote="46" VelLayer="3"
+            Cycle="0" Tune="-16" Gain="1"/>
+    <sample ID="479" DBName="AGLPBt" Articulation="Sus5" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="480" DBName="AGLPBt" Articulation="Sus5" RootNote="47" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="481" DBName="AGLPBt" Articulation="Sus5" RootNote="47" VelLayer="1"
+            Cycle="1" Tune="-7" Gain="1"/>
+    <sample ID="482" DBName="AGLPBt" Articulation="Sus5" RootNote="47" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="483" DBName="AGLPBt" Articulation="Sus5" RootNote="47" VelLayer="2"
+            Cycle="1" Tune="-8" Gain="1"/>
+    <sample ID="484" DBName="AGLPBt" Articulation="Sus5" RootNote="47" VelLayer="3"
+            Cycle="0" Tune="-13" Gain="1"/>
+    <sample ID="485" DBName="AGLPBt" Articulation="Sus5" RootNote="48" VelLayer="0"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="486" DBName="AGLPBt" Articulation="Sus5" RootNote="48" VelLayer="1"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="487" DBName="AGLPBt" Articulation="Sus5" RootNote="48" VelLayer="1"
+            Cycle="1" Tune="-1" Gain="1"/>
+    <sample ID="488" DBName="AGLPBt" Articulation="Sus5" RootNote="48" VelLayer="2"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="489" DBName="AGLPBt" Articulation="Sus5" RootNote="48" VelLayer="2"
+            Cycle="1" Tune="2" Gain="1"/>
+    <sample ID="490" DBName="AGLPBt" Articulation="Sus5" RootNote="48" VelLayer="3"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="491" DBName="AGLPBt" Articulation="Sus5" RootNote="49" VelLayer="0"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="492" DBName="AGLPBt" Articulation="Sus5" RootNote="49" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="493" DBName="AGLPBt" Articulation="Sus5" RootNote="49" VelLayer="1"
+            Cycle="1" Tune="-1" Gain="1"/>
+    <sample ID="494" DBName="AGLPBt" Articulation="Sus5" RootNote="49" VelLayer="2"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="495" DBName="AGLPBt" Articulation="Sus5" RootNote="49" VelLayer="2"
+            Cycle="1" Tune="1" Gain="1"/>
+    <sample ID="496" DBName="AGLPBt" Articulation="Sus5" RootNote="49" VelLayer="3"
+            Cycle="0" Tune="3" Gain="1"/>
+    <sample ID="497" DBName="AGLPBt" Articulation="Sus5" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="498" DBName="AGLPBt" Articulation="Sus5" RootNote="50" VelLayer="1"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="499" DBName="AGLPBt" Articulation="Sus5" RootNote="50" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="500" DBName="AGLPBt" Articulation="Sus5" RootNote="50" VelLayer="3"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="501" DBName="AGLPBt" Articulation="Sus5" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="502" DBName="AGLPBt" Articulation="Sus5" RootNote="51" VelLayer="1"
+            Cycle="0" Tune="3" Gain="1"/>
+    <sample ID="503" DBName="AGLPBt" Articulation="Sus5" RootNote="51" VelLayer="2"
+            Cycle="0" Tune="3" Gain="1"/>
+    <sample ID="504" DBName="AGLPBt" Articulation="Sus5" RootNote="51" VelLayer="3"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="505" DBName="AGLPBt" Articulation="Sus5" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="506" DBName="AGLPBt" Articulation="Sus5" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="3" Gain="1"/>
+    <sample ID="507" DBName="AGLPBt" Articulation="Sus5" RootNote="52" VelLayer="2"
+            Cycle="0" Tune="3" Gain="1"/>
+    <sample ID="508" DBName="AGLPBt" Articulation="Sus5" RootNote="52" VelLayer="3"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="509" DBName="AGLPBt" Articulation="Sus5" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="510" DBName="AGLPBt" Articulation="Sus5" RootNote="53" VelLayer="1"
+            Cycle="0" Tune="3" Gain="1"/>
+    <sample ID="511" DBName="AGLPBt" Articulation="Sus5" RootNote="53" VelLayer="2"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="512" DBName="AGLPBt" Articulation="Sus5" RootNote="53" VelLayer="3"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="513" DBName="AGLPBt" Articulation="Sus5" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="514" DBName="AGLPBt" Articulation="Sus5" RootNote="54" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="515" DBName="AGLPBt" Articulation="Sus5" RootNote="54" VelLayer="2"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="516" DBName="AGLPBt" Articulation="Sus5" RootNote="54" VelLayer="3"
+            Cycle="0" Tune="4" Gain="1"/>
+    <sample ID="517" DBName="AGLPBt" Articulation="Sus5" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="518" DBName="AGLPBt" Articulation="Sus5" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="4" Gain="1"/>
+    <sample ID="519" DBName="AGLPBt" Articulation="Sus5" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="520" DBName="AGLPBt" Articulation="Sus5" RootNote="56" VelLayer="1"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="521" DBName="AGLPBt" Articulation="Sus5" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="522" DBName="AGLPBt" Articulation="Sus5" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="3" Gain="1"/>
+    <sample ID="523" DBName="AGLPBt" Articulation="Sus5" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="524" DBName="AGLPBt" Articulation="Sus5" RootNote="58" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="525" DBName="AGLPBt" Articulation="Sus5" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="526" DBName="AGLPBt" Articulation="Sus5" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="527" DBName="AGLPBt" Articulation="Sus5" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="528" DBName="AGLPBt" Articulation="Sus5" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="529" DBName="AGLPBt" Articulation="Sus5" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="530" DBName="AGLPBt" Articulation="Sus5" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="531" DBName="AGLPBt" Articulation="Sus5" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-16" Gain="1"/>
+    <sample ID="532" DBName="AGLPBt" Articulation="Sus5" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-17" Gain="1"/>
+    <sample ID="533" DBName="AGLPBt" Articulation="Sus5" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-17" Gain="1"/>
+    <sample ID="534" DBName="AGLPBt" Articulation="Sus6" RootNote="40" VelLayer="0"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="535" DBName="AGLPBt" Articulation="Sus6" RootNote="40" VelLayer="0"
+            Cycle="1" Tune="-11" Gain="1"/>
+    <sample ID="536" DBName="AGLPBt" Articulation="Sus6" RootNote="40" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="537" DBName="AGLPBt" Articulation="Sus6" RootNote="40" VelLayer="1"
+            Cycle="1" Tune="-12" Gain="1"/>
+    <sample ID="538" DBName="AGLPBt" Articulation="Sus6" RootNote="40" VelLayer="2"
+            Cycle="0" Tune="-17" Gain="1"/>
+    <sample ID="539" DBName="AGLPBt" Articulation="Sus6" RootNote="40" VelLayer="2"
+            Cycle="1" Tune="-18" Gain="1"/>
+    <sample ID="540" DBName="AGLPBt" Articulation="Sus6" RootNote="40" VelLayer="3"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="541" DBName="AGLPBt" Articulation="Sus6" RootNote="40" VelLayer="3"
+            Cycle="1" Tune="-1" Gain="1"/>
+    <sample ID="542" DBName="AGLPBt" Articulation="Sus6" RootNote="41" VelLayer="0"
+            Cycle="0" Tune="-13" Gain="1"/>
+    <sample ID="543" DBName="AGLPBt" Articulation="Sus6" RootNote="41" VelLayer="1"
+            Cycle="0" Tune="-23" Gain="1"/>
+    <sample ID="544" DBName="AGLPBt" Articulation="Sus6" RootNote="41" VelLayer="1"
+            Cycle="1" Tune="-14" Gain="1"/>
+    <sample ID="545" DBName="AGLPBt" Articulation="Sus6" RootNote="41" VelLayer="2"
+            Cycle="0" Tune="-16" Gain="1"/>
+    <sample ID="546" DBName="AGLPBt" Articulation="Sus6" RootNote="41" VelLayer="2"
+            Cycle="1" Tune="-14" Gain="1"/>
+    <sample ID="547" DBName="AGLPBt" Articulation="Sus6" RootNote="41" VelLayer="3"
+            Cycle="0" Tune="-19" Gain="1"/>
+    <sample ID="548" DBName="AGLPBt" Articulation="Sus6" RootNote="42" VelLayer="0"
+            Cycle="0" Tune="-13" Gain="1"/>
+    <sample ID="549" DBName="AGLPBt" Articulation="Sus6" RootNote="42" VelLayer="1"
+            Cycle="0" Tune="-19" Gain="1"/>
+    <sample ID="550" DBName="AGLPBt" Articulation="Sus6" RootNote="42" VelLayer="1"
+            Cycle="1" Tune="-13" Gain="1"/>
+    <sample ID="551" DBName="AGLPBt" Articulation="Sus6" RootNote="42" VelLayer="2"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="552" DBName="AGLPBt" Articulation="Sus6" RootNote="42" VelLayer="2"
+            Cycle="1" Tune="-10" Gain="1"/>
+    <sample ID="553" DBName="AGLPBt" Articulation="Sus6" RootNote="42" VelLayer="3"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="554" DBName="AGLPBt" Articulation="Sus6" RootNote="43" VelLayer="0"
+            Cycle="0" Tune="-20" Gain="1"/>
+    <sample ID="555" DBName="AGLPBt" Articulation="Sus6" RootNote="43" VelLayer="1"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="556" DBName="AGLPBt" Articulation="Sus6" RootNote="43" VelLayer="1"
+            Cycle="1" Tune="-12" Gain="1"/>
+    <sample ID="557" DBName="AGLPBt" Articulation="Sus6" RootNote="43" VelLayer="2"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="558" DBName="AGLPBt" Articulation="Sus6" RootNote="43" VelLayer="2"
+            Cycle="1" Tune="-7" Gain="1"/>
+    <sample ID="559" DBName="AGLPBt" Articulation="Sus6" RootNote="43" VelLayer="3"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="560" DBName="AGLPBt" Articulation="Sus6" RootNote="44" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="561" DBName="AGLPBt" Articulation="Sus6" RootNote="44" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="562" DBName="AGLPBt" Articulation="Sus6" RootNote="44" VelLayer="1"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="563" DBName="AGLPBt" Articulation="Sus6" RootNote="44" VelLayer="2"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="564" DBName="AGLPBt" Articulation="Sus6" RootNote="44" VelLayer="2"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="565" DBName="AGLPBt" Articulation="Sus6" RootNote="44" VelLayer="3"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="566" DBName="AGLPBt" Articulation="Sus6" RootNote="45" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="567" DBName="AGLPBt" Articulation="Sus6" RootNote="45" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="568" DBName="AGLPBt" Articulation="Sus6" RootNote="45" VelLayer="2"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="569" DBName="AGLPBt" Articulation="Sus6" RootNote="45" VelLayer="3"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="570" DBName="AGLPBt" Articulation="Sus6" RootNote="46" VelLayer="0"
+            Cycle="0" Tune="-2" Gain="1"/>
+    <sample ID="571" DBName="AGLPBt" Articulation="Sus6" RootNote="46" VelLayer="1"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="572" DBName="AGLPBt" Articulation="Sus6" RootNote="46" VelLayer="2"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="573" DBName="AGLPBt" Articulation="Sus6" RootNote="46" VelLayer="3"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="574" DBName="AGLPBt" Articulation="Sus6" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="575" DBName="AGLPBt" Articulation="Sus6" RootNote="47" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="576" DBName="AGLPBt" Articulation="Sus6" RootNote="47" VelLayer="2"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="577" DBName="AGLPBt" Articulation="Sus6" RootNote="47" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="578" DBName="AGLPBt" Articulation="Sus6" RootNote="48" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="579" DBName="AGLPBt" Articulation="Sus6" RootNote="48" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="580" DBName="AGLPBt" Articulation="Sus6" RootNote="48" VelLayer="2"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="581" DBName="AGLPBt" Articulation="Sus6" RootNote="48" VelLayer="3"
+            Cycle="0" Tune="-3" Gain="1"/>
+    <sample ID="582" DBName="AGLPBt" Articulation="Sus6" RootNote="49" VelLayer="0"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="583" DBName="AGLPBt" Articulation="Sus6" RootNote="49" VelLayer="1"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="584" DBName="AGLPBt" Articulation="Sus6" RootNote="49" VelLayer="2"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="585" DBName="AGLPBt" Articulation="Sus6" RootNote="49" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="586" DBName="AGLPBt" Articulation="Sus6" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="587" DBName="AGLPBt" Articulation="Sus6" RootNote="50" VelLayer="1"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="588" DBName="AGLPBt" Articulation="Sus6" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="589" DBName="AGLPBt" Articulation="Sus6" RootNote="51" VelLayer="1"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="590" DBName="AGLPBt" Articulation="Sus6" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="591" DBName="AGLPBt" Articulation="Sus6" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="592" DBName="AGLPBt" Articulation="Sus6" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="593" DBName="AGLPBt" Articulation="Sus6" RootNote="53" VelLayer="1"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="594" DBName="AGLPBt" Articulation="Sus6" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="595" DBName="AGLPBt" Articulation="Sus6" RootNote="54" VelLayer="1"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="596" DBName="AGLPBt" Articulation="Sus6" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="597" DBName="AGLPBt" Articulation="Sus6" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="598" DBName="AGLPBt" Articulation="Sus6" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="6" Gain="1"/>
+    <sample ID="599" DBName="AGLPBt" Articulation="Sus6" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="-1" Gain="1"/>
+    <sample ID="600" DBName="AGLPBt" Articulation="Sus6" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="601" DBName="AGLPBt" Articulation="Sus6" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="602" DBName="AGLPBt" Articulation="Sus6" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="603" DBName="AGLPBt" Articulation="Sus6" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="604" DBName="AGLPBt" Articulation="PM6" RootNote="40" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="605" DBName="AGLPBt" Articulation="PM6" RootNote="40" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="606" DBName="AGLPBt" Articulation="PM6" RootNote="40" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="607" DBName="AGLPBt" Articulation="PM6" RootNote="40" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="608" DBName="AGLPBt" Articulation="PM6" RootNote="41" VelLayer="0"
+            Cycle="0" Tune="-22" Gain="1"/>
+    <sample ID="609" DBName="AGLPBt" Articulation="PM6" RootNote="41" VelLayer="1"
+            Cycle="0" Tune="-17" Gain="1"/>
+    <sample ID="610" DBName="AGLPBt" Articulation="PM6" RootNote="41" VelLayer="2"
+            Cycle="0" Tune="-16" Gain="1"/>
+    <sample ID="611" DBName="AGLPBt" Articulation="PM6" RootNote="41" VelLayer="3"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="612" DBName="AGLPBt" Articulation="PM6" RootNote="42" VelLayer="0"
+            Cycle="0" Tune="-23" Gain="1"/>
+    <sample ID="613" DBName="AGLPBt" Articulation="PM6" RootNote="42" VelLayer="1"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="614" DBName="AGLPBt" Articulation="PM6" RootNote="42" VelLayer="2"
+            Cycle="0" Tune="-19" Gain="1"/>
+    <sample ID="615" DBName="AGLPBt" Articulation="PM6" RootNote="42" VelLayer="3"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="616" DBName="AGLPBt" Articulation="PM6" RootNote="43" VelLayer="0"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="617" DBName="AGLPBt" Articulation="PM6" RootNote="43" VelLayer="1"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="618" DBName="AGLPBt" Articulation="PM6" RootNote="43" VelLayer="2"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="619" DBName="AGLPBt" Articulation="PM6" RootNote="43" VelLayer="3"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="620" DBName="AGLPBt" Articulation="PM6" RootNote="44" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="621" DBName="AGLPBt" Articulation="PM6" RootNote="44" VelLayer="1"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="622" DBName="AGLPBt" Articulation="PM6" RootNote="44" VelLayer="2"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="623" DBName="AGLPBt" Articulation="PM6" RootNote="44" VelLayer="3"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="624" DBName="AGLPBt" Articulation="PM6" RootNote="45" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="625" DBName="AGLPBt" Articulation="PM6" RootNote="45" VelLayer="1"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="626" DBName="AGLPBt" Articulation="PM6" RootNote="45" VelLayer="2"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="627" DBName="AGLPBt" Articulation="PM6" RootNote="45" VelLayer="3"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="628" DBName="AGLPBt" Articulation="PM6" RootNote="46" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="629" DBName="AGLPBt" Articulation="PM6" RootNote="46" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="630" DBName="AGLPBt" Articulation="PM6" RootNote="46" VelLayer="2"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="631" DBName="AGLPBt" Articulation="PM6" RootNote="46" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="632" DBName="AGLPBt" Articulation="PM6" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="633" DBName="AGLPBt" Articulation="PM6" RootNote="47" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="634" DBName="AGLPBt" Articulation="PM6" RootNote="47" VelLayer="2"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="635" DBName="AGLPBt" Articulation="PM6" RootNote="47" VelLayer="3"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="636" DBName="AGLPBt" Articulation="PM6" RootNote="48" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="637" DBName="AGLPBt" Articulation="PM6" RootNote="48" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="638" DBName="AGLPBt" Articulation="PM6" RootNote="48" VelLayer="2"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="639" DBName="AGLPBt" Articulation="PM6" RootNote="48" VelLayer="3"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="640" DBName="AGLPBt" Articulation="PM6" RootNote="49" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="641" DBName="AGLPBt" Articulation="PM6" RootNote="49" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="642" DBName="AGLPBt" Articulation="PM6" RootNote="49" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="643" DBName="AGLPBt" Articulation="PM6" RootNote="49" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="644" DBName="AGLPBt" Articulation="PM6" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="645" DBName="AGLPBt" Articulation="PM6" RootNote="50" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="646" DBName="AGLPBt" Articulation="PM6" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="647" DBName="AGLPBt" Articulation="PM6" RootNote="51" VelLayer="1"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="648" DBName="AGLPBt" Articulation="PM6" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="649" DBName="AGLPBt" Articulation="PM6" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="650" DBName="AGLPBt" Articulation="PM6" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="651" DBName="AGLPBt" Articulation="PM6" RootNote="53" VelLayer="1"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="652" DBName="AGLPBt" Articulation="PM6" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="653" DBName="AGLPBt" Articulation="PM6" RootNote="54" VelLayer="1"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="654" DBName="AGLPBt" Articulation="PM6" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="655" DBName="AGLPBt" Articulation="PM6" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="656" DBName="AGLPBt" Articulation="PM6" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="-13" Gain="1"/>
+    <sample ID="657" DBName="AGLPBt" Articulation="PM6" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="658" DBName="AGLPBt" Articulation="PM6" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="-20" Gain="1"/>
+    <sample ID="659" DBName="AGLPBt" Articulation="PM6" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-17" Gain="1"/>
+    <sample ID="660" DBName="AGLPBt" Articulation="PM6" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="-30" Gain="1"/>
+    <sample ID="661" DBName="AGLPBt" Articulation="PM6" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="-30" Gain="1"/>
+    <sample ID="662" DBName="AGLPBt" Articulation="PM5" RootNote="45" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="663" DBName="AGLPBt" Articulation="PM5" RootNote="45" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="664" DBName="AGLPBt" Articulation="PM5" RootNote="45" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="665" DBName="AGLPBt" Articulation="PM5" RootNote="45" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="666" DBName="AGLPBt" Articulation="PM5" RootNote="46" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="667" DBName="AGLPBt" Articulation="PM5" RootNote="46" VelLayer="1"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="668" DBName="AGLPBt" Articulation="PM5" RootNote="46" VelLayer="2"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="669" DBName="AGLPBt" Articulation="PM5" RootNote="46" VelLayer="3"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="670" DBName="AGLPBt" Articulation="PM5" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="671" DBName="AGLPBt" Articulation="PM5" RootNote="47" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="672" DBName="AGLPBt" Articulation="PM5" RootNote="47" VelLayer="2"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="673" DBName="AGLPBt" Articulation="PM5" RootNote="47" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="674" DBName="AGLPBt" Articulation="PM5" RootNote="48" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="675" DBName="AGLPBt" Articulation="PM5" RootNote="48" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="676" DBName="AGLPBt" Articulation="PM5" RootNote="48" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="677" DBName="AGLPBt" Articulation="PM5" RootNote="48" VelLayer="3"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="678" DBName="AGLPBt" Articulation="PM5" RootNote="49" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="679" DBName="AGLPBt" Articulation="PM5" RootNote="49" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="680" DBName="AGLPBt" Articulation="PM5" RootNote="49" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="681" DBName="AGLPBt" Articulation="PM5" RootNote="49" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="682" DBName="AGLPBt" Articulation="PM5" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="683" DBName="AGLPBt" Articulation="PM5" RootNote="50" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="684" DBName="AGLPBt" Articulation="PM5" RootNote="50" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="685" DBName="AGLPBt" Articulation="PM5" RootNote="50" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="686" DBName="AGLPBt" Articulation="PM5" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="687" DBName="AGLPBt" Articulation="PM5" RootNote="51" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="688" DBName="AGLPBt" Articulation="PM5" RootNote="51" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="689" DBName="AGLPBt" Articulation="PM5" RootNote="51" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="690" DBName="AGLPBt" Articulation="PM5" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="691" DBName="AGLPBt" Articulation="PM5" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="692" DBName="AGLPBt" Articulation="PM5" RootNote="52" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="693" DBName="AGLPBt" Articulation="PM5" RootNote="52" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="694" DBName="AGLPBt" Articulation="PM5" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="695" DBName="AGLPBt" Articulation="PM5" RootNote="53" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="696" DBName="AGLPBt" Articulation="PM5" RootNote="53" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="697" DBName="AGLPBt" Articulation="PM5" RootNote="53" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="698" DBName="AGLPBt" Articulation="PM5" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="699" DBName="AGLPBt" Articulation="PM5" RootNote="54" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="700" DBName="AGLPBt" Articulation="PM5" RootNote="54" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="701" DBName="AGLPBt" Articulation="PM5" RootNote="54" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="702" DBName="AGLPBt" Articulation="PM5" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="703" DBName="AGLPBt" Articulation="PM5" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="704" DBName="AGLPBt" Articulation="PM5" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="705" DBName="AGLPBt" Articulation="PM5" RootNote="56" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="706" DBName="AGLPBt" Articulation="PM5" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="707" DBName="AGLPBt" Articulation="PM5" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="708" DBName="AGLPBt" Articulation="PM5" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="709" DBName="AGLPBt" Articulation="PM5" RootNote="58" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="710" DBName="AGLPBt" Articulation="PM5" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="711" DBName="AGLPBt" Articulation="PM5" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="712" DBName="AGLPBt" Articulation="PM5" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="713" DBName="AGLPBt" Articulation="PM5" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="714" DBName="AGLPBt" Articulation="PM5" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="715" DBName="AGLPBt" Articulation="PM5" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="716" DBName="AGLPBt" Articulation="PM5" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-18" Gain="1"/>
+    <sample ID="717" DBName="AGLPBt" Articulation="PM5" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-28" Gain="1"/>
+    <sample ID="718" DBName="AGLPBt" Articulation="PM5" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-18" Gain="1"/>
+    <sample ID="719" DBName="AGLPBt" Articulation="PM4" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="720" DBName="AGLPBt" Articulation="PM4" RootNote="50" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="721" DBName="AGLPBt" Articulation="PM4" RootNote="50" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="722" DBName="AGLPBt" Articulation="PM4" RootNote="50" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="723" DBName="AGLPBt" Articulation="PM4" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="724" DBName="AGLPBt" Articulation="PM4" RootNote="51" VelLayer="1"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="725" DBName="AGLPBt" Articulation="PM4" RootNote="51" VelLayer="2"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="726" DBName="AGLPBt" Articulation="PM4" RootNote="51" VelLayer="3"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="727" DBName="AGLPBt" Articulation="PM4" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="728" DBName="AGLPBt" Articulation="PM4" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="729" DBName="AGLPBt" Articulation="PM4" RootNote="52" VelLayer="2"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="730" DBName="AGLPBt" Articulation="PM4" RootNote="52" VelLayer="3"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="731" DBName="AGLPBt" Articulation="PM4" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="732" DBName="AGLPBt" Articulation="PM4" RootNote="53" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="733" DBName="AGLPBt" Articulation="PM4" RootNote="53" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="734" DBName="AGLPBt" Articulation="PM4" RootNote="53" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="735" DBName="AGLPBt" Articulation="PM4" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="736" DBName="AGLPBt" Articulation="PM4" RootNote="54" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="737" DBName="AGLPBt" Articulation="PM4" RootNote="54" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="738" DBName="AGLPBt" Articulation="PM4" RootNote="54" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="739" DBName="AGLPBt" Articulation="PM4" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="740" DBName="AGLPBt" Articulation="PM4" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="741" DBName="AGLPBt" Articulation="PM4" RootNote="55" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="742" DBName="AGLPBt" Articulation="PM4" RootNote="55" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="743" DBName="AGLPBt" Articulation="PM4" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="744" DBName="AGLPBt" Articulation="PM4" RootNote="56" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="745" DBName="AGLPBt" Articulation="PM4" RootNote="56" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="746" DBName="AGLPBt" Articulation="PM4" RootNote="56" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="747" DBName="AGLPBt" Articulation="PM4" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="748" DBName="AGLPBt" Articulation="PM4" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="749" DBName="AGLPBt" Articulation="PM4" RootNote="57" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="750" DBName="AGLPBt" Articulation="PM4" RootNote="57" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="751" DBName="AGLPBt" Articulation="PM4" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="752" DBName="AGLPBt" Articulation="PM4" RootNote="58" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="753" DBName="AGLPBt" Articulation="PM4" RootNote="58" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="754" DBName="AGLPBt" Articulation="PM4" RootNote="58" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="755" DBName="AGLPBt" Articulation="PM4" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="756" DBName="AGLPBt" Articulation="PM4" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="757" DBName="AGLPBt" Articulation="PM4" RootNote="59" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="758" DBName="AGLPBt" Articulation="PM4" RootNote="59" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="759" DBName="AGLPBt" Articulation="PM4" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="760" DBName="AGLPBt" Articulation="PM4" RootNote="60" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="761" DBName="AGLPBt" Articulation="PM4" RootNote="60" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="762" DBName="AGLPBt" Articulation="PM4" RootNote="60" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="763" DBName="AGLPBt" Articulation="PM4" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="764" DBName="AGLPBt" Articulation="PM4" RootNote="61" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="765" DBName="AGLPBt" Articulation="PM4" RootNote="61" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="766" DBName="AGLPBt" Articulation="PM4" RootNote="61" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="767" DBName="AGLPBt" Articulation="PM4" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="768" DBName="AGLPBt" Articulation="PM4" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="769" DBName="AGLPBt" Articulation="PM4" RootNote="62" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="770" DBName="AGLPBt" Articulation="PM4" RootNote="62" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="771" DBName="AGLPBt" Articulation="PM4" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="772" DBName="AGLPBt" Articulation="PM4" RootNote="63" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="773" DBName="AGLPBt" Articulation="PM4" RootNote="63" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="774" DBName="AGLPBt" Articulation="PM4" RootNote="63" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="775" DBName="AGLPBt" Articulation="PM4" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="776" DBName="AGLPBt" Articulation="PM4" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="777" DBName="AGLPBt" Articulation="PM4" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="778" DBName="AGLPBt" Articulation="PM4" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="779" DBName="AGLPBt" Articulation="PM4" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="780" DBName="AGLPBt" Articulation="PM4" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="781" DBName="AGLPBt" Articulation="PM4" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="782" DBName="AGLPBt" Articulation="PM4" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="783" DBName="AGLPBt" Articulation="PM4" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="784" DBName="AGLPBt" Articulation="PM4" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="785" DBName="AGLPBt" Articulation="PM4" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="786" DBName="AGLPBt" Articulation="PM4" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-16" Gain="1"/>
+    <sample ID="787" DBName="AGLPBt" Articulation="PM4" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="-18" Gain="1"/>
+    <sample ID="788" DBName="AGLPBt" Articulation="PM3" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="789" DBName="AGLPBt" Articulation="PM3" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="790" DBName="AGLPBt" Articulation="PM3" RootNote="55" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="791" DBName="AGLPBt" Articulation="PM3" RootNote="55" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="792" DBName="AGLPBt" Articulation="PM3" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="793" DBName="AGLPBt" Articulation="PM3" RootNote="56" VelLayer="1"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="794" DBName="AGLPBt" Articulation="PM3" RootNote="56" VelLayer="2"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="795" DBName="AGLPBt" Articulation="PM3" RootNote="56" VelLayer="3"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="796" DBName="AGLPBt" Articulation="PM3" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="797" DBName="AGLPBt" Articulation="PM3" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="798" DBName="AGLPBt" Articulation="PM3" RootNote="57" VelLayer="2"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="799" DBName="AGLPBt" Articulation="PM3" RootNote="57" VelLayer="3"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="800" DBName="AGLPBt" Articulation="PM3" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="801" DBName="AGLPBt" Articulation="PM3" RootNote="58" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="802" DBName="AGLPBt" Articulation="PM3" RootNote="58" VelLayer="2"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="803" DBName="AGLPBt" Articulation="PM3" RootNote="58" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="804" DBName="AGLPBt" Articulation="PM3" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="805" DBName="AGLPBt" Articulation="PM3" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="806" DBName="AGLPBt" Articulation="PM3" RootNote="59" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="807" DBName="AGLPBt" Articulation="PM3" RootNote="59" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="808" DBName="AGLPBt" Articulation="PM3" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="809" DBName="AGLPBt" Articulation="PM3" RootNote="60" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="810" DBName="AGLPBt" Articulation="PM3" RootNote="60" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="811" DBName="AGLPBt" Articulation="PM3" RootNote="60" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="812" DBName="AGLPBt" Articulation="PM3" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="813" DBName="AGLPBt" Articulation="PM3" RootNote="61" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="814" DBName="AGLPBt" Articulation="PM3" RootNote="61" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="815" DBName="AGLPBt" Articulation="PM3" RootNote="61" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="816" DBName="AGLPBt" Articulation="PM3" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="817" DBName="AGLPBt" Articulation="PM3" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="818" DBName="AGLPBt" Articulation="PM3" RootNote="62" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="819" DBName="AGLPBt" Articulation="PM3" RootNote="62" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="820" DBName="AGLPBt" Articulation="PM3" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="821" DBName="AGLPBt" Articulation="PM3" RootNote="63" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="822" DBName="AGLPBt" Articulation="PM3" RootNote="63" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="823" DBName="AGLPBt" Articulation="PM3" RootNote="63" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="824" DBName="AGLPBt" Articulation="PM3" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="825" DBName="AGLPBt" Articulation="PM3" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="826" DBName="AGLPBt" Articulation="PM3" RootNote="64" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="827" DBName="AGLPBt" Articulation="PM3" RootNote="64" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="828" DBName="AGLPBt" Articulation="PM3" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="829" DBName="AGLPBt" Articulation="PM3" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="830" DBName="AGLPBt" Articulation="PM3" RootNote="65" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="831" DBName="AGLPBt" Articulation="PM3" RootNote="65" VelLayer="3"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="832" DBName="AGLPBt" Articulation="PM3" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="833" DBName="AGLPBt" Articulation="PM3" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="834" DBName="AGLPBt" Articulation="PM3" RootNote="66" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="835" DBName="AGLPBt" Articulation="PM3" RootNote="66" VelLayer="3"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="836" DBName="AGLPBt" Articulation="PM3" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="837" DBName="AGLPBt" Articulation="PM3" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="838" DBName="AGLPBt" Articulation="PM3" RootNote="67" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="839" DBName="AGLPBt" Articulation="PM3" RootNote="67" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="840" DBName="AGLPBt" Articulation="PM3" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="841" DBName="AGLPBt" Articulation="PM3" RootNote="68" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="842" DBName="AGLPBt" Articulation="PM3" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="843" DBName="AGLPBt" Articulation="PM3" RootNote="69" VelLayer="1"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="844" DBName="AGLPBt" Articulation="PM3" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="845" DBName="AGLPBt" Articulation="PM3" RootNote="70" VelLayer="1"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="846" DBName="AGLPBt" Articulation="PM3" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="847" DBName="AGLPBt" Articulation="PM3" RootNote="71" VelLayer="1"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="848" DBName="AGLPBt" Articulation="PM3" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="-16" Gain="1"/>
+    <sample ID="849" DBName="AGLPBt" Articulation="PM3" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="-22" Gain="1"/>
+    <sample ID="850" DBName="AGLPBt" Articulation="PM3" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-23" Gain="1"/>
+    <sample ID="851" DBName="AGLPBt" Articulation="PM3" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="-22" Gain="1"/>
+    <sample ID="852" DBName="AGLPBt" Articulation="PM3" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-25" Gain="1"/>
+    <sample ID="853" DBName="AGLPBt" Articulation="PM3" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="-23" Gain="1"/>
+    <sample ID="854" DBName="AGLPBt" Articulation="PM2" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="855" DBName="AGLPBt" Articulation="PM2" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="856" DBName="AGLPBt" Articulation="PM2" RootNote="59" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="857" DBName="AGLPBt" Articulation="PM2" RootNote="59" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="858" DBName="AGLPBt" Articulation="PM2" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="859" DBName="AGLPBt" Articulation="PM2" RootNote="60" VelLayer="1"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="860" DBName="AGLPBt" Articulation="PM2" RootNote="60" VelLayer="2"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="861" DBName="AGLPBt" Articulation="PM2" RootNote="60" VelLayer="3"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="862" DBName="AGLPBt" Articulation="PM2" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="863" DBName="AGLPBt" Articulation="PM2" RootNote="61" VelLayer="1"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="864" DBName="AGLPBt" Articulation="PM2" RootNote="61" VelLayer="2"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="865" DBName="AGLPBt" Articulation="PM2" RootNote="61" VelLayer="3"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="866" DBName="AGLPBt" Articulation="PM2" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="867" DBName="AGLPBt" Articulation="PM2" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="868" DBName="AGLPBt" Articulation="PM2" RootNote="62" VelLayer="2"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="869" DBName="AGLPBt" Articulation="PM2" RootNote="62" VelLayer="3"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="870" DBName="AGLPBt" Articulation="PM2" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="871" DBName="AGLPBt" Articulation="PM2" RootNote="63" VelLayer="1"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="872" DBName="AGLPBt" Articulation="PM2" RootNote="63" VelLayer="2"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="873" DBName="AGLPBt" Articulation="PM2" RootNote="63" VelLayer="3"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="874" DBName="AGLPBt" Articulation="PM2" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="875" DBName="AGLPBt" Articulation="PM2" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="876" DBName="AGLPBt" Articulation="PM2" RootNote="64" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="877" DBName="AGLPBt" Articulation="PM2" RootNote="64" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="878" DBName="AGLPBt" Articulation="PM2" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="879" DBName="AGLPBt" Articulation="PM2" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="880" DBName="AGLPBt" Articulation="PM2" RootNote="65" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="881" DBName="AGLPBt" Articulation="PM2" RootNote="65" VelLayer="3"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="882" DBName="AGLPBt" Articulation="PM2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="883" DBName="AGLPBt" Articulation="PM2" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="884" DBName="AGLPBt" Articulation="PM2" RootNote="66" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="885" DBName="AGLPBt" Articulation="PM2" RootNote="66" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="886" DBName="AGLPBt" Articulation="PM2" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="887" DBName="AGLPBt" Articulation="PM2" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="888" DBName="AGLPBt" Articulation="PM2" RootNote="67" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="889" DBName="AGLPBt" Articulation="PM2" RootNote="67" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="890" DBName="AGLPBt" Articulation="PM2" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="891" DBName="AGLPBt" Articulation="PM2" RootNote="68" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="892" DBName="AGLPBt" Articulation="PM2" RootNote="68" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="893" DBName="AGLPBt" Articulation="PM2" RootNote="68" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="894" DBName="AGLPBt" Articulation="PM2" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="895" DBName="AGLPBt" Articulation="PM2" RootNote="69" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="896" DBName="AGLPBt" Articulation="PM2" RootNote="69" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="897" DBName="AGLPBt" Articulation="PM2" RootNote="69" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="898" DBName="AGLPBt" Articulation="PM2" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="899" DBName="AGLPBt" Articulation="PM2" RootNote="70" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="900" DBName="AGLPBt" Articulation="PM2" RootNote="70" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="901" DBName="AGLPBt" Articulation="PM2" RootNote="70" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="902" DBName="AGLPBt" Articulation="PM2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="903" DBName="AGLPBt" Articulation="PM2" RootNote="71" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="904" DBName="AGLPBt" Articulation="PM2" RootNote="71" VelLayer="2"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="905" DBName="AGLPBt" Articulation="PM2" RootNote="71" VelLayer="3"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="906" DBName="AGLPBt" Articulation="PM2" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="907" DBName="AGLPBt" Articulation="PM2" RootNote="72" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="908" DBName="AGLPBt" Articulation="PM2" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="909" DBName="AGLPBt" Articulation="PM2" RootNote="73" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="910" DBName="AGLPBt" Articulation="PM2" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="911" DBName="AGLPBt" Articulation="PM2" RootNote="74" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="912" DBName="AGLPBt" Articulation="PM2" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="913" DBName="AGLPBt" Articulation="PM2" RootNote="75" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="914" DBName="AGLPBt" Articulation="PM2" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="915" DBName="AGLPBt" Articulation="PM2" RootNote="76" VelLayer="1"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="916" DBName="AGLPBt" Articulation="PM2" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="917" DBName="AGLPBt" Articulation="PM2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="918" DBName="AGLPBt" Articulation="PM2" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="919" DBName="AGLPBt" Articulation="PM2" RootNote="80" VelLayer="0"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="920" DBName="AGLPBt" Articulation="PM2" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="921" DBName="AGLPBt" Articulation="PM1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="922" DBName="AGLPBt" Articulation="PM1" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="923" DBName="AGLPBt" Articulation="PM1" RootNote="64" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="924" DBName="AGLPBt" Articulation="PM1" RootNote="64" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="925" DBName="AGLPBt" Articulation="PM1" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="926" DBName="AGLPBt" Articulation="PM1" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="927" DBName="AGLPBt" Articulation="PM1" RootNote="65" VelLayer="2"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="928" DBName="AGLPBt" Articulation="PM1" RootNote="65" VelLayer="3"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="929" DBName="AGLPBt" Articulation="PM1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="930" DBName="AGLPBt" Articulation="PM1" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="931" DBName="AGLPBt" Articulation="PM1" RootNote="66" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="932" DBName="AGLPBt" Articulation="PM1" RootNote="66" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="933" DBName="AGLPBt" Articulation="PM1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="934" DBName="AGLPBt" Articulation="PM1" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="935" DBName="AGLPBt" Articulation="PM1" RootNote="67" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="936" DBName="AGLPBt" Articulation="PM1" RootNote="67" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="937" DBName="AGLPBt" Articulation="PM1" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="938" DBName="AGLPBt" Articulation="PM1" RootNote="68" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="939" DBName="AGLPBt" Articulation="PM1" RootNote="68" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="940" DBName="AGLPBt" Articulation="PM1" RootNote="68" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="941" DBName="AGLPBt" Articulation="PM1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="942" DBName="AGLPBt" Articulation="PM1" RootNote="69" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="943" DBName="AGLPBt" Articulation="PM1" RootNote="69" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="944" DBName="AGLPBt" Articulation="PM1" RootNote="69" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="945" DBName="AGLPBt" Articulation="PM1" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="946" DBName="AGLPBt" Articulation="PM1" RootNote="70" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="947" DBName="AGLPBt" Articulation="PM1" RootNote="70" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="948" DBName="AGLPBt" Articulation="PM1" RootNote="70" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="949" DBName="AGLPBt" Articulation="PM1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="950" DBName="AGLPBt" Articulation="PM1" RootNote="71" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="951" DBName="AGLPBt" Articulation="PM1" RootNote="71" VelLayer="2"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="952" DBName="AGLPBt" Articulation="PM1" RootNote="71" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="953" DBName="AGLPBt" Articulation="PM1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="954" DBName="AGLPBt" Articulation="PM1" RootNote="72" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="955" DBName="AGLPBt" Articulation="PM1" RootNote="72" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="956" DBName="AGLPBt" Articulation="PM1" RootNote="72" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="957" DBName="AGLPBt" Articulation="PM1" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="958" DBName="AGLPBt" Articulation="PM1" RootNote="73" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="959" DBName="AGLPBt" Articulation="PM1" RootNote="73" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="960" DBName="AGLPBt" Articulation="PM1" RootNote="73" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="961" DBName="AGLPBt" Articulation="PM1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="962" DBName="AGLPBt" Articulation="PM1" RootNote="74" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="963" DBName="AGLPBt" Articulation="PM1" RootNote="74" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="964" DBName="AGLPBt" Articulation="PM1" RootNote="74" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="965" DBName="AGLPBt" Articulation="PM1" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="966" DBName="AGLPBt" Articulation="PM1" RootNote="75" VelLayer="1"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="967" DBName="AGLPBt" Articulation="PM1" RootNote="75" VelLayer="2"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="968" DBName="AGLPBt" Articulation="PM1" RootNote="75" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="969" DBName="AGLPBt" Articulation="PM1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="970" DBName="AGLPBt" Articulation="PM1" RootNote="76" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="971" DBName="AGLPBt" Articulation="PM1" RootNote="76" VelLayer="2"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="972" DBName="AGLPBt" Articulation="PM1" RootNote="76" VelLayer="3"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="973" DBName="AGLPBt" Articulation="PM1" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="974" DBName="AGLPBt" Articulation="PM1" RootNote="77" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="975" DBName="AGLPBt" Articulation="PM1" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="976" DBName="AGLPBt" Articulation="PM1" RootNote="78" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="977" DBName="AGLPBt" Articulation="PM1" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="978" DBName="AGLPBt" Articulation="PM1" RootNote="79" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="979" DBName="AGLPBt" Articulation="PM1" RootNote="80" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="980" DBName="AGLPBt" Articulation="PM1" RootNote="80" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="981" DBName="AGLPBt" Articulation="PM1" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="982" DBName="AGLPBt" Articulation="PM1" RootNote="81" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="983" DBName="AGLPBt" Articulation="PM1" RootNote="82" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="984" DBName="AGLPBt" Articulation="PM1" RootNote="82" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="985" DBName="AGLPBt" Articulation="PM1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="986" DBName="AGLPBt" Articulation="PM1" RootNote="83" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="987" DBName="AGLPBt" Articulation="PM1" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="988" DBName="AGLPBt" Articulation="PM1" RootNote="85" VelLayer="0"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="989" DBName="AGLPBt" Articulation="PM1" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="990" DBName="AGLPBt" Articulation="NH6" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="991" DBName="AGLPBt" Articulation="NH6" RootNote="47" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="992" DBName="AGLPBt" Articulation="NH6" RootNote="47" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="993" DBName="AGLPBt" Articulation="NH6" RootNote="47" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="994" DBName="AGLPBt" Articulation="NH6" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="13" Gain="1"/>
+    <sample ID="995" DBName="AGLPBt" Articulation="NH6" RootNote="56" VelLayer="1"
+            Cycle="0" Tune="14" Gain="1"/>
+    <sample ID="996" DBName="AGLPBt" Articulation="NH6" RootNote="56" VelLayer="2"
+            Cycle="0" Tune="12" Gain="1"/>
+    <sample ID="997" DBName="AGLPBt" Articulation="NH6" RootNote="56" VelLayer="3"
+            Cycle="0" Tune="12" Gain="1"/>
+    <sample ID="998" DBName="AGLPBt" Articulation="NH6" RootNote="40" VelLayer="0"
+            Cycle="0" Tune="8" Gain="1"/>
+    <sample ID="999" DBName="AGLPBt" Articulation="NH6" RootNote="40" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1000" DBName="AGLPBt" Articulation="NH6" RootNote="40" VelLayer="2"
+            Cycle="0" Tune="10" Gain="1"/>
+    <sample ID="1001" DBName="AGLPBt" Articulation="NH6" RootNote="40" VelLayer="3"
+            Cycle="0" Tune="9" Gain="1"/>
+    <sample ID="1002" DBName="AGLPBt" Articulation="NH5" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1003" DBName="AGLPBt" Articulation="NH5" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1004" DBName="AGLPBt" Articulation="NH5" RootNote="52" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1005" DBName="AGLPBt" Articulation="NH5" RootNote="52" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1006" DBName="AGLPBt" Articulation="NH5" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="14" Gain="1"/>
+    <sample ID="1007" DBName="AGLPBt" Articulation="NH5" RootNote="61" VelLayer="1"
+            Cycle="0" Tune="14" Gain="1"/>
+    <sample ID="1008" DBName="AGLPBt" Articulation="NH5" RootNote="61" VelLayer="2"
+            Cycle="0" Tune="15" Gain="1"/>
+    <sample ID="1009" DBName="AGLPBt" Articulation="NH5" RootNote="61" VelLayer="3"
+            Cycle="0" Tune="13" Gain="1"/>
+    <sample ID="1010" DBName="AGLPBt" Articulation="NH5" RootNote="45" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="1011" DBName="AGLPBt" Articulation="NH5" RootNote="45" VelLayer="1"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="1012" DBName="AGLPBt" Articulation="NH5" RootNote="45" VelLayer="2"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="1013" DBName="AGLPBt" Articulation="NH5" RootNote="45" VelLayer="3"
+            Cycle="0" Tune="4" Gain="1"/>
+    <sample ID="1014" DBName="AGLPBt" Articulation="NH4" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-13" Gain="1"/>
+    <sample ID="1015" DBName="AGLPBt" Articulation="NH4" RootNote="69" VelLayer="1"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="1016" DBName="AGLPBt" Articulation="NH4" RootNote="69" VelLayer="2"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="1017" DBName="AGLPBt" Articulation="NH4" RootNote="69" VelLayer="3"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="1018" DBName="AGLPBt" Articulation="NH4" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="1019" DBName="AGLPBt" Articulation="NH4" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="1020" DBName="AGLPBt" Articulation="NH4" RootNote="57" VelLayer="2"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1021" DBName="AGLPBt" Articulation="NH4" RootNote="57" VelLayer="3"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="1022" DBName="AGLPBt" Articulation="NH4" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1023" DBName="AGLPBt" Articulation="NH4" RootNote="50" VelLayer="1"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1024" DBName="AGLPBt" Articulation="NH4" RootNote="50" VelLayer="2"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1025" DBName="AGLPBt" Articulation="NH4" RootNote="50" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1026" DBName="AGLPBt" Articulation="NH3" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="1027" DBName="AGLPBt" Articulation="NH3" RootNote="74" VelLayer="1"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="1028" DBName="AGLPBt" Articulation="NH3" RootNote="74" VelLayer="2"
+            Cycle="0" Tune="-13" Gain="1"/>
+    <sample ID="1029" DBName="AGLPBt" Articulation="NH3" RootNote="74" VelLayer="3"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="1030" DBName="AGLPBt" Articulation="NH3" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1031" DBName="AGLPBt" Articulation="NH3" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1032" DBName="AGLPBt" Articulation="NH3" RootNote="67" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1033" DBName="AGLPBt" Articulation="NH3" RootNote="67" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1034" DBName="AGLPBt" Articulation="NH3" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1035" DBName="AGLPBt" Articulation="NH3" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1036" DBName="AGLPBt" Articulation="NH3" RootNote="62" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1037" DBName="AGLPBt" Articulation="NH3" RootNote="62" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1038" DBName="AGLPBt" Articulation="NH3" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="4" Gain="1"/>
+    <sample ID="1039" DBName="AGLPBt" Articulation="NH3" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="4" Gain="1"/>
+    <sample ID="1040" DBName="AGLPBt" Articulation="NH3" RootNote="55" VelLayer="2"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="1041" DBName="AGLPBt" Articulation="NH3" RootNote="55" VelLayer="3"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="1042" DBName="AGLPBt" Articulation="NH2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1043" DBName="AGLPBt" Articulation="NH2" RootNote="78" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1044" DBName="AGLPBt" Articulation="NH2" RootNote="78" VelLayer="2"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1045" DBName="AGLPBt" Articulation="NH2" RootNote="78" VelLayer="3"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1046" DBName="AGLPBt" Articulation="NH2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1047" DBName="AGLPBt" Articulation="NH2" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1048" DBName="AGLPBt" Articulation="NH2" RootNote="66" VelLayer="2"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1049" DBName="AGLPBt" Articulation="NH2" RootNote="66" VelLayer="3"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1050" DBName="AGLPBt" Articulation="NH2" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="9" Gain="1"/>
+    <sample ID="1051" DBName="AGLPBt" Articulation="NH2" RootNote="75" VelLayer="1"
+            Cycle="0" Tune="9" Gain="1"/>
+    <sample ID="1052" DBName="AGLPBt" Articulation="NH2" RootNote="75" VelLayer="2"
+            Cycle="0" Tune="9" Gain="1"/>
+    <sample ID="1053" DBName="AGLPBt" Articulation="NH2" RootNote="75" VelLayer="3"
+            Cycle="0" Tune="8" Gain="1"/>
+    <sample ID="1054" DBName="AGLPBt" Articulation="NH2" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1055" DBName="AGLPBt" Articulation="NH2" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1056" DBName="AGLPBt" Articulation="NH2" RootNote="59" VelLayer="2"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1057" DBName="AGLPBt" Articulation="NH2" RootNote="59" VelLayer="3"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1058" DBName="AGLPBt" Articulation="NH1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1059" DBName="AGLPBt" Articulation="NH1" RootNote="83" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1060" DBName="AGLPBt" Articulation="NH1" RootNote="83" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1061" DBName="AGLPBt" Articulation="NH1" RootNote="83" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1062" DBName="AGLPBt" Articulation="NH1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1063" DBName="AGLPBt" Articulation="NH1" RootNote="76" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1064" DBName="AGLPBt" Articulation="NH1" RootNote="76" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1065" DBName="AGLPBt" Articulation="NH1" RootNote="76" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1066" DBName="AGLPBt" Articulation="NH1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1067" DBName="AGLPBt" Articulation="NH1" RootNote="71" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1068" DBName="AGLPBt" Articulation="NH1" RootNote="71" VelLayer="2"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1069" DBName="AGLPBt" Articulation="NH1" RootNote="71" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1070" DBName="AGLPBt" Articulation="NH1" RootNote="80" VelLayer="0"
+            Cycle="0" Tune="17" Gain="1"/>
+    <sample ID="1071" DBName="AGLPBt" Articulation="NH1" RootNote="80" VelLayer="1"
+            Cycle="0" Tune="15" Gain="1"/>
+    <sample ID="1072" DBName="AGLPBt" Articulation="NH1" RootNote="80" VelLayer="2"
+            Cycle="0" Tune="15" Gain="1"/>
+    <sample ID="1073" DBName="AGLPBt" Articulation="NH1" RootNote="80" VelLayer="3"
+            Cycle="0" Tune="16" Gain="1"/>
+    <sample ID="1074" DBName="AGLPBt" Articulation="NH1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1075" DBName="AGLPBt" Articulation="NH1" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1076" DBName="AGLPBt" Articulation="NH1" RootNote="64" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1077" DBName="AGLPBt" Articulation="NH1" RootNote="64" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1078" DBName="AGLPBt" Articulation="PO6" RootNote="40" VelLayer="0"
+            Cycle="0" Tune="6" Gain="1"/>
+    <sample ID="1079" DBName="AGLPBt" Articulation="PO6" RootNote="41" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1080" DBName="AGLPBt" Articulation="PO6" RootNote="42" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1081" DBName="AGLPBt" Articulation="PO6" RootNote="43" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1082" DBName="AGLPBt" Articulation="PO6" RootNote="44" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1083" DBName="AGLPBt" Articulation="PO6" RootNote="45" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1084" DBName="AGLPBt" Articulation="PO6" RootNote="46" VelLayer="0"
+            Cycle="0" Tune="4" Gain="1"/>
+    <sample ID="1085" DBName="AGLPBt" Articulation="PO6" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1086" DBName="AGLPBt" Articulation="PO6" RootNote="48" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1087" DBName="AGLPBt" Articulation="PO6" RootNote="49" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1088" DBName="AGLPBt" Articulation="PO6" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1089" DBName="AGLPBt" Articulation="PO6" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1090" DBName="AGLPBt" Articulation="PO6" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1091" DBName="AGLPBt" Articulation="PO6" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1092" DBName="AGLPBt" Articulation="PO6" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="1093" DBName="AGLPBt" Articulation="PO6" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="1094" DBName="AGLPBt" Articulation="PO6" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1095" DBName="AGLPBt" Articulation="PO6" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1096" DBName="AGLPBt" Articulation="PO6" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1097" DBName="AGLPBt" Articulation="PO6" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1098" DBName="AGLPBt" Articulation="PO6" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1099" DBName="AGLPBt" Articulation="PO6" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="-13" Gain="1"/>
+    <sample ID="1100" DBName="AGLPBt" Articulation="PO5" RootNote="45" VelLayer="0"
+            Cycle="0" Tune="7" Gain="1"/>
+    <sample ID="1101" DBName="AGLPBt" Articulation="PO5" RootNote="46" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1102" DBName="AGLPBt" Articulation="PO5" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1103" DBName="AGLPBt" Articulation="PO5" RootNote="48" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1104" DBName="AGLPBt" Articulation="PO5" RootNote="49" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1105" DBName="AGLPBt" Articulation="PO5" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="4" Gain="1"/>
+    <sample ID="1106" DBName="AGLPBt" Articulation="PO5" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1107" DBName="AGLPBt" Articulation="PO5" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1108" DBName="AGLPBt" Articulation="PO5" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="7" Gain="1"/>
+    <sample ID="1109" DBName="AGLPBt" Articulation="PO5" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="1110" DBName="AGLPBt" Articulation="PO5" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="7" Gain="1"/>
+    <sample ID="1111" DBName="AGLPBt" Articulation="PO5" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="1112" DBName="AGLPBt" Articulation="PO5" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1113" DBName="AGLPBt" Articulation="PO5" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="6" Gain="1"/>
+    <sample ID="1114" DBName="AGLPBt" Articulation="PO5" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1115" DBName="AGLPBt" Articulation="PO5" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1116" DBName="AGLPBt" Articulation="PO5" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1117" DBName="AGLPBt" Articulation="PO5" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1118" DBName="AGLPBt" Articulation="PO5" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1119" DBName="AGLPBt" Articulation="PO5" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="1120" DBName="AGLPBt" Articulation="PO5" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="1121" DBName="AGLPBt" Articulation="PO5" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="1122" DBName="AGLPBt" Articulation="PO4" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1123" DBName="AGLPBt" Articulation="PO4" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="1124" DBName="AGLPBt" Articulation="PO4" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="1125" DBName="AGLPBt" Articulation="PO4" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1126" DBName="AGLPBt" Articulation="PO4" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1127" DBName="AGLPBt" Articulation="PO4" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1128" DBName="AGLPBt" Articulation="PO4" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1129" DBName="AGLPBt" Articulation="PO4" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1130" DBName="AGLPBt" Articulation="PO4" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1131" DBName="AGLPBt" Articulation="PO4" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1132" DBName="AGLPBt" Articulation="PO4" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1133" DBName="AGLPBt" Articulation="PO4" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1134" DBName="AGLPBt" Articulation="PO4" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1135" DBName="AGLPBt" Articulation="PO4" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1136" DBName="AGLPBt" Articulation="PO4" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="1137" DBName="AGLPBt" Articulation="PO4" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1138" DBName="AGLPBt" Articulation="PO4" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1139" DBName="AGLPBt" Articulation="PO4" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-16" Gain="1"/>
+    <sample ID="1140" DBName="AGLPBt" Articulation="PO4" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="-17" Gain="1"/>
+    <sample ID="1141" DBName="AGLPBt" Articulation="PO4" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-20" Gain="1"/>
+    <sample ID="1142" DBName="AGLPBt" Articulation="PO4" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="-20" Gain="1"/>
+    <sample ID="1143" DBName="AGLPBt" Articulation="PO4" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-24" Gain="1"/>
+    <sample ID="1144" DBName="AGLPBt" Articulation="PO3" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="1145" DBName="AGLPBt" Articulation="PO3" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1146" DBName="AGLPBt" Articulation="PO3" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1147" DBName="AGLPBt" Articulation="PO3" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1148" DBName="AGLPBt" Articulation="PO3" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1149" DBName="AGLPBt" Articulation="PO3" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1150" DBName="AGLPBt" Articulation="PO3" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="6" Gain="1"/>
+    <sample ID="1151" DBName="AGLPBt" Articulation="PO3" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1152" DBName="AGLPBt" Articulation="PO3" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1153" DBName="AGLPBt" Articulation="PO3" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1154" DBName="AGLPBt" Articulation="PO3" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1155" DBName="AGLPBt" Articulation="PO3" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1156" DBName="AGLPBt" Articulation="PO3" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1157" DBName="AGLPBt" Articulation="PO3" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1158" DBName="AGLPBt" Articulation="PO3" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1159" DBName="AGLPBt" Articulation="PO3" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1160" DBName="AGLPBt" Articulation="PO3" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1161" DBName="AGLPBt" Articulation="PO3" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1162" DBName="AGLPBt" Articulation="PO3" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="1163" DBName="AGLPBt" Articulation="PO3" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="1164" DBName="AGLPBt" Articulation="PO3" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="1165" DBName="AGLPBt" Articulation="PO3" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-16" Gain="1"/>
+    <sample ID="1166" DBName="AGLPBt" Articulation="PO2" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1167" DBName="AGLPBt" Articulation="PO2" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1168" DBName="AGLPBt" Articulation="PO2" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="1169" DBName="AGLPBt" Articulation="PO2" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1170" DBName="AGLPBt" Articulation="PO2" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="1171" DBName="AGLPBt" Articulation="PO2" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="1172" DBName="AGLPBt" Articulation="PO2" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1173" DBName="AGLPBt" Articulation="PO2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1174" DBName="AGLPBt" Articulation="PO2" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1175" DBName="AGLPBt" Articulation="PO2" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1176" DBName="AGLPBt" Articulation="PO2" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1177" DBName="AGLPBt" Articulation="PO2" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1178" DBName="AGLPBt" Articulation="PO2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1179" DBName="AGLPBt" Articulation="PO2" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1180" DBName="AGLPBt" Articulation="PO2" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1181" DBName="AGLPBt" Articulation="PO2" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1182" DBName="AGLPBt" Articulation="PO2" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1183" DBName="AGLPBt" Articulation="PO2" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="1184" DBName="AGLPBt" Articulation="PO2" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="1185" DBName="AGLPBt" Articulation="PO2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="1186" DBName="AGLPBt" Articulation="PO2" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1187" DBName="AGLPBt" Articulation="PO2" RootNote="80" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="1188" DBName="AGLPBt" Articulation="PO1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1189" DBName="AGLPBt" Articulation="PO1" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1190" DBName="AGLPBt" Articulation="PO1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1191" DBName="AGLPBt" Articulation="PO1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1192" DBName="AGLPBt" Articulation="PO1" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1193" DBName="AGLPBt" Articulation="PO1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1194" DBName="AGLPBt" Articulation="PO1" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1195" DBName="AGLPBt" Articulation="PO1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1196" DBName="AGLPBt" Articulation="PO1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1197" DBName="AGLPBt" Articulation="PO1" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1198" DBName="AGLPBt" Articulation="PO1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1199" DBName="AGLPBt" Articulation="PO1" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1200" DBName="AGLPBt" Articulation="PO1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1201" DBName="AGLPBt" Articulation="PO1" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1202" DBName="AGLPBt" Articulation="PO1" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1203" DBName="AGLPBt" Articulation="PO1" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1204" DBName="AGLPBt" Articulation="PO1" RootNote="80" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1205" DBName="AGLPBt" Articulation="PO1" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1206" DBName="AGLPBt" Articulation="PO1" RootNote="82" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1207" DBName="AGLPBt" Articulation="PO1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1208" DBName="AGLPBt" Articulation="PO1" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1209" DBName="AGLPBt" Articulation="PO1" RootNote="85" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1210" DBName="AGLPBt" Articulation="HO6" RootNote="41" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="1211" DBName="AGLPBt" Articulation="HO6" RootNote="42" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="1212" DBName="AGLPBt" Articulation="HO6" RootNote="43" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1213" DBName="AGLPBt" Articulation="HO6" RootNote="44" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1214" DBName="AGLPBt" Articulation="HO6" RootNote="45" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1215" DBName="AGLPBt" Articulation="HO6" RootNote="46" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1216" DBName="AGLPBt" Articulation="HO6" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1217" DBName="AGLPBt" Articulation="HO6" RootNote="48" VelLayer="0"
+            Cycle="0" Tune="4" Gain="1"/>
+    <sample ID="1218" DBName="AGLPBt" Articulation="HO6" RootNote="49" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1219" DBName="AGLPBt" Articulation="HO6" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1220" DBName="AGLPBt" Articulation="HO6" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1221" DBName="AGLPBt" Articulation="HO6" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1222" DBName="AGLPBt" Articulation="HO6" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1223" DBName="AGLPBt" Articulation="HO6" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1224" DBName="AGLPBt" Articulation="HO6" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1225" DBName="AGLPBt" Articulation="HO6" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1226" DBName="AGLPBt" Articulation="HO6" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1227" DBName="AGLPBt" Articulation="HO6" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1228" DBName="AGLPBt" Articulation="HO6" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="1229" DBName="AGLPBt" Articulation="HO6" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-17" Gain="1"/>
+    <sample ID="1230" DBName="AGLPBt" Articulation="HO6" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="-20" Gain="1"/>
+    <sample ID="1231" DBName="AGLPBt" Articulation="HO6" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="-23" Gain="1"/>
+    <sample ID="1232" DBName="AGLPBt" Articulation="HO5" RootNote="46" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1233" DBName="AGLPBt" Articulation="HO5" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1234" DBName="AGLPBt" Articulation="HO5" RootNote="48" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1235" DBName="AGLPBt" Articulation="HO5" RootNote="49" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="1236" DBName="AGLPBt" Articulation="HO5" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="9" Gain="1"/>
+    <sample ID="1237" DBName="AGLPBt" Articulation="HO5" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="4" Gain="1"/>
+    <sample ID="1238" DBName="AGLPBt" Articulation="HO5" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="9" Gain="1"/>
+    <sample ID="1239" DBName="AGLPBt" Articulation="HO5" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="9" Gain="1"/>
+    <sample ID="1240" DBName="AGLPBt" Articulation="HO5" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="4" Gain="1"/>
+    <sample ID="1241" DBName="AGLPBt" Articulation="HO5" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="8" Gain="1"/>
+    <sample ID="1242" DBName="AGLPBt" Articulation="HO5" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="6" Gain="1"/>
+    <sample ID="1243" DBName="AGLPBt" Articulation="HO5" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="1244" DBName="AGLPBt" Articulation="HO5" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="7" Gain="1"/>
+    <sample ID="1245" DBName="AGLPBt" Articulation="HO5" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="4" Gain="1"/>
+    <sample ID="1246" DBName="AGLPBt" Articulation="HO5" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="4" Gain="1"/>
+    <sample ID="1247" DBName="AGLPBt" Articulation="HO5" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1248" DBName="AGLPBt" Articulation="HO5" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1249" DBName="AGLPBt" Articulation="HO5" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1250" DBName="AGLPBt" Articulation="HO5" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1251" DBName="AGLPBt" Articulation="HO5" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1252" DBName="AGLPBt" Articulation="HO5" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="1253" DBName="AGLPBt" Articulation="HO5" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-13" Gain="1"/>
+    <sample ID="1254" DBName="AGLPBt" Articulation="HO4" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="-22" Gain="1"/>
+    <sample ID="1255" DBName="AGLPBt" Articulation="HO4" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="1256" DBName="AGLPBt" Articulation="HO4" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="1257" DBName="AGLPBt" Articulation="HO4" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1258" DBName="AGLPBt" Articulation="HO4" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1259" DBName="AGLPBt" Articulation="HO4" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1260" DBName="AGLPBt" Articulation="HO4" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="1261" DBName="AGLPBt" Articulation="HO4" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1262" DBName="AGLPBt" Articulation="HO4" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1263" DBName="AGLPBt" Articulation="HO4" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1264" DBName="AGLPBt" Articulation="HO4" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1265" DBName="AGLPBt" Articulation="HO4" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1266" DBName="AGLPBt" Articulation="HO4" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="1267" DBName="AGLPBt" Articulation="HO4" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="1268" DBName="AGLPBt" Articulation="HO4" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="1269" DBName="AGLPBt" Articulation="HO4" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="1270" DBName="AGLPBt" Articulation="HO4" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-17" Gain="1"/>
+    <sample ID="1271" DBName="AGLPBt" Articulation="HO4" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1272" DBName="AGLPBt" Articulation="HO4" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-16" Gain="1"/>
+    <sample ID="1273" DBName="AGLPBt" Articulation="HO4" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="-16" Gain="1"/>
+    <sample ID="1274" DBName="AGLPBt" Articulation="HO4" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-25" Gain="1"/>
+    <sample ID="1275" DBName="AGLPBt" Articulation="HO4" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="-22" Gain="1"/>
+    <sample ID="1276" DBName="AGLPBt" Articulation="HO3" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1277" DBName="AGLPBt" Articulation="HO3" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1278" DBName="AGLPBt" Articulation="HO3" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1279" DBName="AGLPBt" Articulation="HO3" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1280" DBName="AGLPBt" Articulation="HO3" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1281" DBName="AGLPBt" Articulation="HO3" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1282" DBName="AGLPBt" Articulation="HO3" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1283" DBName="AGLPBt" Articulation="HO3" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1284" DBName="AGLPBt" Articulation="HO3" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1285" DBName="AGLPBt" Articulation="HO3" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1286" DBName="AGLPBt" Articulation="HO3" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1287" DBName="AGLPBt" Articulation="HO3" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1288" DBName="AGLPBt" Articulation="HO3" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1289" DBName="AGLPBt" Articulation="HO3" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1290" DBName="AGLPBt" Articulation="HO3" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1291" DBName="AGLPBt" Articulation="HO3" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="1292" DBName="AGLPBt" Articulation="HO3" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="-13" Gain="1"/>
+    <sample ID="1293" DBName="AGLPBt" Articulation="HO3" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="1294" DBName="AGLPBt" Articulation="HO3" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="1295" DBName="AGLPBt" Articulation="HO3" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="-18" Gain="1"/>
+    <sample ID="1296" DBName="AGLPBt" Articulation="HO3" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-20" Gain="1"/>
+    <sample ID="1297" DBName="AGLPBt" Articulation="HO3" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="-17" Gain="1"/>
+    <sample ID="1298" DBName="AGLPBt" Articulation="HO2" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1299" DBName="AGLPBt" Articulation="HO2" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="-13" Gain="1"/>
+    <sample ID="1300" DBName="AGLPBt" Articulation="HO2" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="1301" DBName="AGLPBt" Articulation="HO2" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1302" DBName="AGLPBt" Articulation="HO2" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1303" DBName="AGLPBt" Articulation="HO2" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1304" DBName="AGLPBt" Articulation="HO2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1305" DBName="AGLPBt" Articulation="HO2" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1306" DBName="AGLPBt" Articulation="HO2" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1307" DBName="AGLPBt" Articulation="HO2" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1308" DBName="AGLPBt" Articulation="HO2" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1309" DBName="AGLPBt" Articulation="HO2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="1310" DBName="AGLPBt" Articulation="HO2" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1311" DBName="AGLPBt" Articulation="HO2" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1312" DBName="AGLPBt" Articulation="HO2" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="1313" DBName="AGLPBt" Articulation="HO2" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="1314" DBName="AGLPBt" Articulation="HO2" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="1315" DBName="AGLPBt" Articulation="HO2" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="1316" DBName="AGLPBt" Articulation="HO2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="-17" Gain="1"/>
+    <sample ID="1317" DBName="AGLPBt" Articulation="HO2" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="-18" Gain="1"/>
+    <sample ID="1318" DBName="AGLPBt" Articulation="HO2" RootNote="80" VelLayer="0"
+            Cycle="0" Tune="-22" Gain="1"/>
+    <sample ID="1319" DBName="AGLPBt" Articulation="HO2" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="-17" Gain="1"/>
+    <sample ID="1320" DBName="AGLPBt" Articulation="HO1" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1321" DBName="AGLPBt" Articulation="HO1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="1322" DBName="AGLPBt" Articulation="HO1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1323" DBName="AGLPBt" Articulation="HO1" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1324" DBName="AGLPBt" Articulation="HO1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1325" DBName="AGLPBt" Articulation="HO1" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1326" DBName="AGLPBt" Articulation="HO1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1327" DBName="AGLPBt" Articulation="HO1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1328" DBName="AGLPBt" Articulation="HO1" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1329" DBName="AGLPBt" Articulation="HO1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1330" DBName="AGLPBt" Articulation="HO1" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1331" DBName="AGLPBt" Articulation="HO1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1332" DBName="AGLPBt" Articulation="HO1" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1"/>
+    <sample ID="1333" DBName="AGLPBt" Articulation="HO1" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1334" DBName="AGLPBt" Articulation="HO1" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1335" DBName="AGLPBt" Articulation="HO1" RootNote="80" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="1336" DBName="AGLPBt" Articulation="HO1" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="1337" DBName="AGLPBt" Articulation="HO1" RootNote="82" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="1338" DBName="AGLPBt" Articulation="HO1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="1339" DBName="AGLPBt" Articulation="HO1" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="1340" DBName="AGLPBt" Articulation="HO1" RootNote="85" VelLayer="0"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="1341" DBName="AGLPBt" Articulation="HO1" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1"/>
+  </SampleInfo>
+</Infos>

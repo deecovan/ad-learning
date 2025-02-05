@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="060-16-44Tri-Pop01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Pop" cho=""
+        type="" db="" key="" measures="77411472" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="060-16-44Tri-Pop02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Pop" cho=""
+        type="" db="" key="" measures="77411472" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="060-16-44Tri-Rock01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Pop" cho=""
+        type="" db="" key="" measures="77411472" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="070-16-44Tri-Pop01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Pop" cho=""
+        type="" db="" key="" measures="77411472" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="070-16-44Tri-Pop02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Pop" cho=""
+        type="" db="" key="" measures="77411472" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="070-16-44Tri-Pop03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Pop" cho=""
+        type="" db="" key="" measures="77411472" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="070-16-44Tri-Pop04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Pop" cho=""
+        type="" db="" key="" measures="77411472" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="080-08-44Tri-Pop01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77411472" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="090-16Tri-44-Rock01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Pop" cho=""
+        type="" db="" key="" measures="77411472" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="100-16-44Tri-Pop01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Pop" cho=""
+        type="" db="" key="" measures="77411472" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="120-08-44Tri-Pop01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Pop" cho=""
+        type="" db="" key="" measures="77411472" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+</cache>

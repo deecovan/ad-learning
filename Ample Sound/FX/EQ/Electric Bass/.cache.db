@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="Electric Bass 1" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Jazz" cho=""
+        type="" db="" key="" measures="500328352" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Bass 2" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Jazz" cho=""
+        type="" db="" key="" measures="500328352" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Bass 3" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Jazz" cho=""
+        type="" db="" key="" measures="500328352" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Bass 4" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Jazz" cho=""
+        type="" db="" key="" measures="500328352" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Bass Arp" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Other" cho=""
+        type="" db="" key="" measures="500328352" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Bass Chord" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Metal" cho=""
+        type="" db="" key="" measures="500328352" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Bass Slap" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Funk" cho=""
+        type="" db="" key="" measures="500328352" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Bass Solo" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Jazz" cho=""
+        type="" db="" key="" measures="500328352" quantize="" rating="0"
+        signature=""/>
+  <item FName="Metal Bass 1" ext=".fxeqstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Metal" cho="" type="" db="" key="" measures="500328352"
+        quantize="" rating="0" signature=""/>
+  <item FName="Metal Bass 2" ext=".fxeqstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Metal" cho="" type="" db="" key="" measures="500328352"
+        quantize="" rating="0" signature=""/>
+</cache>

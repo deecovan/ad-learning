@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="C_11_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C11" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_11_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C11" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_13b9_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C13b9" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_13b9_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C13b9" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_6 9 11_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C6 9 11" type="Riff" db="" key="C"
+        measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_69#11_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C 69#11" type="ARP" db="" key="C"
+        measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_69_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C 69" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_7#11_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C7#11" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_7#11_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C7#11" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_7#5b9_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C7#5b9" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_7#9_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C7#9" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_7#9_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C7#9" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_7b9_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C7b9" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_7b9_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C7b9" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_7sus4_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C7sus4" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_7sus4_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C7sus4" type="Riff" db="" key="C"
+        measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_7_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C7" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_7_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C7" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_9_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C9" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_9_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C9" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_add9_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cadd9" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_add9_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cadd9" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_aug7_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Caug7" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_aug7_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Caug7" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_aug_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Caug" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_aug_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Caug" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_Classic_Ryh_01" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Rock" cho="C 5" type="Riff" db="" key="A" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_Classic_Ryh_02" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Rock" cho="C 5" type="Riff" db="" key="A" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_Classic_Ryh_03" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Rock" cho="C 5" type="Riff" db="" key="A" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_Classic_Ryh_04" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Rock" cho="C 5" type="Riff" db="" key="A" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_Classic_Ryh_05" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Rock" cho="C 5" type="Riff" db="" key="A" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_dim7_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cdim7" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_dim7_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cdim7" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_dim_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cdim" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_dim_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cdim" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_m11_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cm11" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_m11_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cm11" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_m6_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cm6" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_M6_Mute_Arp_01" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Rock" cho="CM6" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_m7b5_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cm7b5" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_m7b5_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C m7b5" type="Riff" db="" key="C"
+        measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_m7_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cm7" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_m7_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cm7" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_m9 _Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cm9" type="Riff" db="" key="C" measures="4"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_m9_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C m9" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_M9_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C M9" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_madd9_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cmadd9" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_madd9_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cmadd 9" type="Riff" db="" key="C"
+        measures="4" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_maj6_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="CM6" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_maj7#5_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="CM7#5" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_maj7#5_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="CM7#5" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_maj7b5_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="CM7b5" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_maj7b5_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="CM7b5" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_maj7_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C M7" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_maj7_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C Maj7" type="Riff" db="" key="C"
+        measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_maj9_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="C M9" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_mM7_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="CmM7" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_mM7_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="CmM7" type="Riff" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_Mute_Arp_01" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Rock" cho="C" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_m_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Cm" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_m_Mute_Arp_01" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Rock" cho="Cm" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_sus2_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Csus2" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_sus2_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Csus2" type="Riff" db="" key="C" measures="4"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_sus4_Arp" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Csus4" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="C_sus4_Riff" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="120" cat="Metal" cho="Csus4" type="Riff" db="" key="C" measures="4"
+        quantize="1/16" rating="0" signature="4/4"/>
+</cache>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PROPERTIES>
+  <VALUE name="BufSize" val="22050"/>
+  <VALUE name="HasCmInst" val="0"/>
+  <VALUE name="NumComs" val="2"/>
+  <VALUE name="PurgeAtStart" val="0"/>
+  <VALUE name="Version" val="1.0.1"/>
+  <VALUE name="Language" val="English"/>
+</PROPERTIES>

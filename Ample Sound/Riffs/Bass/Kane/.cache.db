@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="Blues01_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Blues" cho="A7" type="Riff" db="" key="A" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk01_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#m" type="Riff" db="" key="B" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk01_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#m" type="Riff" db="" key="B" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk01_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#m" type="Riff" db="" key="B" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk01_Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#m" type="Fill" db="" key="B" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk01_Fill02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#m" type="Fill" db="" key="B" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk02_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#m" type="Riff" db="" key="B" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk02_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#m" type="Riff" db="" key="B" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk02_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#m" type="Riff" db="" key="B" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk02_Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#m" type="Fill" db="" key="B" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk02_Fill02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#m" type="Fill" db="" key="B" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk02_Fill03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#m" type="Fill" db="" key="B" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk02_Fill04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#m" type="Fill" db="" key="B" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk03_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#" type="Riff" db="" key="G#" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk03_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#" type="Riff" db="" key="G#" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk03_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#" type="Riff" db="" key="G#" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk03_Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#" type="Fill" db="" key="G#" measures="1"
+        quantize="1/32" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk03_Fill02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#" type="Fill" db="" key="G#" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk03_Fill03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#" type="Fill" db="" key="G#" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk04_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="115" cat="Funk" cho="G#" type="Riff" db="" key="B" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk05_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="115" cat="Funk" cho="G#" type="Riff" db="" key="G#" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk06_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="G#" type="Riff" db="" key="G#" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk07_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="115" cat="Funk" cho="F#m" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk07_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="115" cat="Funk" cho="C#m" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk07_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="115" cat="Funk" cho="Bm" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk07_Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="115" cat="Funk" cho="E" type="Fill" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk08_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="95" cat="Funk" cho="Dm" type="Riff" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk08_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="95" cat="Funk" cho="Dm" type="Riff" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk09_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="110" cat="Funk" cho="C7" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk10_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="95" cat="Funk" cho="Cm" type="Riff" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk10_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="95" cat="Funk" cho="Cm" type="Riff" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk10_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="95" cat="Funk" cho="Cm" type="Riff" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk10_Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="95" cat="Funk" cho="Cm" type="Fill" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk10_Fill02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="95" cat="Funk" cho="Cm" type="Fill" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk10_Fill03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="95" cat="Funk" cho="Cm" type="Fill" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk10_Fill04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="95" cat="Funk" cho="Cm" type="Fill" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk10_Fill05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="95" cat="Funk" cho="Cm" type="Fill" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk10_Fill06" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="95" cat="Funk" cho="Cm" type="Fill" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk_Chord01_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="Dmaj7" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk_Chord01_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="E7" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk_Chord01_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="F#m7" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk_Chord01_04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Funk" cho="F#m7" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Funk_Slap01_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="116" cat="Funk" cho="F#m" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap02_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="115" cat="Funk" cho="F#m" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap02_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="115" cat="Funk" cho="F#m" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap02_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="115" cat="Funk" cho="Bm" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap02_04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="115" cat="Funk" cho="F#m" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap02_Fill01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="116" cat="Funk" cho="F#m"
+        type="Fill" db="" key="A" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="Funk_Slap02_Fill02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="116" cat="Funk" cho="F#m"
+        type="Fill" db="" key="A" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="Funk_Slap02_Fill03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="116" cat="Funk" cho="F#m"
+        type="Fill" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="Funk_Slap03_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="115" cat="Funk" cho="D,F#m" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap03_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="115" cat="Funk" cho="D,F#m" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap03_Fill01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="116" cat="Funk" cho="F#m"
+        type="Fill" db="" key="A" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="Funk_Slap03_Fill02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="115" cat="Funk" cho="D,C#7"
+        type="Fill" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="Funk_Slap04_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/32" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap04_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/32" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap04_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/32" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap04_04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/32" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap04_05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/32" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap04_06" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/32" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap04_07" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk_Slap04_08" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk_Slap04_09" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk_Slap04_10" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/32" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap04_11" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap04_Fill01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="105" cat="Funk" cho="D"
+        type="Fill" db="" key="D" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="Funk_Slap04_Fill02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="105" cat="Funk" cho="D"
+        type="Fill" db="" key="D" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="Funk_Slap04_Fill03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="105" cat="Funk" cho="D"
+        type="Fill" db="" key="D" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="Funk_Slap04_Fill04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="105" cat="Funk" cho="D"
+        type="Fill" db="" key="D" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="Funk_Slap05_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/32" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap05_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="104" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap05_Fill01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="105" cat="Funk" cho="D"
+        type="Fill" db="" key="D" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="Funk_Slap05_Fill02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="105" cat="Funk" cho="D"
+        type="Fill" db="" key="D" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="Funk_Slap06_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap06_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk_Slap06_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Funk_Slap06_04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Funk" cho="D" type="Riff" db="" key="D" measures="1"
+        quantize="1/32" rating="0" signature="8/4" dist=""/>
+  <item FName="Funk_Slap06_Fill01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="105" cat="Funk" cho="D"
+        type="Fill" db="" key="D" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="Fusion01_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Jazz" cho="Am" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion01_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Jazz" cho="F" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion01_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Jazz" cho="F" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion01_04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Jazz" cho="F" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion01_Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Jazz" cho="F" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion01_Fill02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Jazz" cho="F" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion02_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="70" cat="Jazz" cho="Dm7, Gm7, C, F" type="Riff" db="" key="F"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion02_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="70" cat="Jazz" cho="E7-5, Aaug" type="Riff" db="" key="F"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion02_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="70" cat="Jazz" cho="Gm, A7, Dm, Gm" type="Riff" db="" key="F"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion02_04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="70" cat="Jazz" cho="bB, E7, A7" type="Riff" db="" key="F"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion02_Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="70" cat="Jazz" cho="Dm7" type="Fill" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Fusion02_Fill02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="70" cat="Jazz" cho="Dm7" type="Fill" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Fusion02_Fill03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="70" cat="Jazz" cho="bB, Dm" type="Fill" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion03_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm7, bB" type="Riff" db="" key="F"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion03_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm7" type="Riff" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion03_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm7" type="Riff" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion03_04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Jazz" cho="Gm7, bE" type="Riff" db="" key="F"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion03_05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm7" type="Riff" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion03_Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Jazz" cho="Gm7, bE" type="Fill" db="" key="F"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion04_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm7" type="Riff" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion04_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm7" type="Riff" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion04_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm7" type="Riff" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion04_04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Jazz" cho="Gm7, bEM7+11" type="Riff" db="" key="F"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion04_05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm7" type="Riff" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion04_Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Jazz" cho="Dm7" type="Fill" db="" key="F" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion05_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="C" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion05_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="Csus2, Fsus2, Em7, Am7" type="Riff"
+        db="" key="C" measures="1" quantize="1/16" rating="0" signature="8/4"
+        dist=""/>
+  <item FName="Fusion05_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="Dm7, Gsus2, Csus2, bBsus2 " type="Riff"
+        db="" key="C" measures="1" quantize="1/16" rating="0" signature="8/4"
+        dist=""/>
+  <item FName="Fusion05_04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="G, Am, F, Dm" type="Riff" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion05_05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="C, G, C, G" type="Riff" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion05_06" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="C, F, Em, Am" type="Riff" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion05_07" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="Dm, G, C, bB" type="Riff" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion06_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Cm7, F7" type="Riff" db="" key="A#"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion06_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Gm" type="Riff" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion07_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="G, D, G, D" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion07_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="C, Bm7" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion07_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="C, Bm7" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion07_04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="Bm7, G" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion07_05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="G" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion07_Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="G" type="Fill" db="" key="G" measures="1"
+        quantize="1/32" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion07_Fill02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="G" type="Fill" db="" key="G" measures="1"
+        quantize="1/32" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion07_Fill03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Jazz" cho="G" type="Fill" db="" key="G" measures="1"
+        quantize="1/32" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion08_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion08_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion08_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion08_Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion08_Fill02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion08_Fill03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion08_Fill04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="G" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Fusion09_Fill05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill06" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill07" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill08" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill09" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill10" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill11" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill12" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill13" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill14" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill15" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill16" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill17" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill18" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill19" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill20" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill21" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill22" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill23" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion09_Fill24 " ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Fusion09_Fill25" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion10_Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Am" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion10_Fill02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="D" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion10_Fill03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="G" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion10_Fill04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion10_Fill05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="Am" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion10_Fill06" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="D" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Fusion10_Fill07" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="G" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Fusion10_Fill08" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="105" cat="Jazz" cho="C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Jazz_Walking01_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Jazz" cho="Am7, D7, Gmaj7, D7/C" type="Riff" db=""
+        key="G" measures="1" quantize="1/16" rating="0" signature="8/4"
+        dist=""/>
+  <item FName="Jazz_Walking01_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Jazz" cho="Am/#F, B7" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Jazz_Walking01_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Jazz" cho="Am7, D7, Gmaj7, CMaj7" type="Riff" db=""
+        key="G" measures="1" quantize="1/16" rating="0" signature="8/4"
+        dist=""/>
+  <item FName="Jazz_Walking01_04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Jazz" cho="Am/#F, B7" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Jazz_Walking01_05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Jazz" cho="B7/#F, Em" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Jazz_Walking01_05a" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Jazz" cho="Em"
+        type="Riff" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking01_06" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Jazz" cho="Am, D7, Gmaj7, Cmaj7" type="Riff" db=""
+        key="G" measures="1" quantize="1/16" rating="0" signature="8/4"
+        dist=""/>
+  <item FName="Jazz_Walking01_06a" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Jazz" cho="Gmaj7, Cmaj7"
+        type="Riff" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking01_07" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Jazz" cho="D7/#F, B7" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking01_08" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Jazz" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking01_09" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Jazz" cho="C7, B7/#F, Em7/D" type="Riff" db=""
+        key="G" measures="1" quantize="1/16" rating="0" signature="8/4"
+        dist=""/>
+  <item FName="Jazz_Walking01_09a" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Jazz" cho="Em7/D"
+        type="Riff" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking01_Fill01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Jazz" cho="Em7"
+        type="Fill" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking01_Fill02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Jazz" cho="Em7"
+        type="Fill" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking02_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Jazz" cho="C7, F7" type="Riff" db="" key="C" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking02_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Jazz" cho="C7, G7" type="Riff" db="" key="C" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking02_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Jazz" cho="F7" type="Riff" db="" key="C" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking02_04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Jazz" cho="C7" type="Riff" db="" key="C" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking02_05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Jazz" cho="G7" type="Riff" db="" key="C" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking02_06" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Jazz" cho="C7, G7" type="Riff" db="" key="C" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking02_07" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Jazz" cho="C7, F7" type="Riff" db="" key="C" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking02_08" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Jazz" cho="C7" type="Riff" db="" key="C" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking02_09" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Jazz" cho="F7" type="Riff" db="" key="C" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Jazz_Walking02_10" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Jazz" cho="G7" type="Riff" db="" key="C" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="Metal02_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Metal" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Metal02_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Metal" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Metal02_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Metal" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Metal03_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="145" cat="Metal" cho="Bm" type="Riff" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="6/4" dist=""/>
+  <item FName="Metal03_Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="145" cat="Metal" cho="Bm" type="Fill" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="6/4" dist=""/>
+  <item FName="Metal04_02(5Str)" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Metal" cho="" type="" db="" key="D#" measures="1"
+        quantize="1/32" rating="0" signature="8/4" dist=""/>
+  <item FName="Metal04_03(5Str)" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Metal" cho="" type="" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Metal04_04(5Str)" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Metal" cho="" type="" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Metal05_01(5Str)" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Metal" cho="" type="" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Metal06_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="145" cat="Metal" cho="Em, #F7" type="Riff" db="" key="D"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Metal06_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="145" cat="Metal" cho="G" type="Riff" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop01_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Pop" cho="Bm" type="Riff" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop01_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="125" cat="Pop" cho="D, Bm" type="Riff" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop02_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Pop" cho="C,G,Am,F" type="Riff" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop03_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="46" cat="Pop" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop04_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Pop" cho="G, Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop04_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Pop" cho="C, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop04_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Pop" cho="Em, C" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop05-01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="60" cat="Pop" cho="G" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop05-02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="60" cat="Pop" cho="G" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop05-03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="60" cat="Pop" cho="G" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop05-04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="60" cat="Pop" cho="G" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop05-05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="60" cat="Pop" cho="G, Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop05-06" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="60" cat="Pop" cho="G, Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop05-07" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="60" cat="Pop" cho="G, Em" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop05-Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="60" cat="Pop" cho="C, Bm" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop05-Fill02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="60" cat="Pop" cho="Am, D" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop06-01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="65" cat="Pop" cho="E, B" type="Riff" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop06-02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="65" cat="Pop" cho="C#m, A" type="Riff" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop_Chord01_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Pop" cho="Em" type="Riff" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop_Chord02_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Pop" cho="Em, C" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop_Chord02_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Pop" cho="G, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop_Chord02_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Pop" cho="G, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop_Chord02_04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Pop" cho="Em, C" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Pop_Chord02_05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Pop" cho="G, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Reggae_Chord01_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Reggae" cho="E, A, B" type="Riff" db="" key="E"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Reggae_Chord01_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Reggae" cho="Cm7, F7, B7, E" type="Riff" db=""
+        key="E" measures="1" quantize="1/16" rating="0" signature="8/4"
+        dist=""/>
+  <item FName="Reggae_Chord01_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Reggae" cho="Cm7, F7, B7, E" type="Riff" db=""
+        key="E" measures="1" quantize="1/16" rating="0" signature="8/4"
+        dist=""/>
+  <item FName="Reggae_Chord01_Fill01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Reggae" cho="B7, E"
+        type="Fill" db="" key="E" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="Reggae_Chord01_Fill02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Reggae" cho="E"
+        type="Fill" db="" key="E" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="Reggae_Chord01_Fill03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Reggae" cho="E"
+        type="Fill" db="" key="E" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="Reggae_Chord01_Fill04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Reggae" cho="B7"
+        type="Fill" db="" key="E" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="Rock01-01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="200" cat="Rock" cho="Am" type="Riff" db="" key="C" measures="1"
+        quantize="1/8" rating="0" signature="6/4" dist=""/>
+  <item FName="Rock01-02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="200" cat="Rock" cho="G,F" type="Riff" db="" key="C" measures="1"
+        quantize="1/8" rating="0" signature="6/4" dist=""/>
+  <item FName="Rock01-03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="200" cat="Rock" cho="G,F" type="Riff" db="" key="C" measures="1"
+        quantize="1/8" rating="0" signature="6/4" dist=""/>
+  <item FName="Rock01-04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="200" cat="Rock" cho="Am, G/B, C, Dm" type="Riff" db="" key="C"
+        measures="1" quantize="1/8" rating="0" signature="6/4" dist=""/>
+  <item FName="Rock01-05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="200" cat="Rock" cho="F, C, G" type="Riff" db="" key="C"
+        measures="1" quantize="1/8" rating="0" signature="6/4" dist=""/>
+  <item FName="Rock02-01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="74" cat="Rock" cho="C, Am" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock02-02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Rock" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock02-03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Rock" cho="C, Am" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock02-04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="75" cat="Rock" cho="C, Am" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock03-01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="85" cat="Rock" cho="Em, C" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock03-02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="85" cat="Rock" cho="Em, C" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock03-03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="85" cat="Rock" cho="Em, C, G, D" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock03-04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="85" cat="Rock" cho="Em, C, G, D" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock03-05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="85" cat="Rock" cho="C, Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock03-Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="85" cat="Rock" cho="Am" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="4/4" dist=""/>
+  <item FName="Rock03-Fill02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="85" cat="Rock" cho="C, Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock04-01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="70" cat="Rock" cho="F#1, A" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock05-01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="130" cat="Rock" cho="Am, G, F" type="Riff" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock05-02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="130" cat="Rock" cho="Am, G, F" type="Riff" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock05-03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="130" cat="Rock" cho="Em, C" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock05-04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="130" cat="Rock" cho="Em, C" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock06-01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Rock" cho="Em, G" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock06-02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Rock" cho="D, C, D" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock06-03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Rock" cho="Em, G" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock06-04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Rock" cho="D, C, D" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock07-01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="115" cat="Rock" cho="E" type="Riff" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock07-02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="115" cat="Rock" cho="#Fm" type="Riff" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock08-01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="85" cat="Rock" cho="Em, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock08-02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="85" cat="Rock" cho="Em, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock09-01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Rock" cho="Em, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock09-02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Rock" cho="Am, C, D" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock09-03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Rock" cho="Em, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock09-04" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Rock" cho="C, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock09-05" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Rock" cho="C, D" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock09-Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Rock" cho="Am, C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock09-Fill02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="100" cat="Rock" cho="Am, C" type="Fill" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock10-01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Rock" cho="Am, C, D" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock10-02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Rock" cho="Em, G" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock10-03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Rock" cho="Am, C, D" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock10-Fill01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="90" cat="Rock" cho="Am, C, D" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock11-01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="85" cat="Rock" cho="E, F#, G#m, F#" type="Riff" db="" key="B"
+        measures="1" quantize="1/16" rating="0" signature="8/4" dist=""/>
+  <item FName="Rock12-01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="85" cat="Funk" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4" dist=""/>
+</cache>

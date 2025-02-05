@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Pattern Author="Ample Sound" Category="Folk" Time-Signature="3/4Tri"
+         Quantize="1/16" BPM="80">
+  <Note Note="74" Velocity="90" Begin="13" End="13"/>
+  <Note Note="76" Velocity="90" Begin="15" End="15"/>
+  <Note Note="74" Velocity="60" Begin="4" End="4"/>
+  <Note Note="74" Velocity="80" Begin="7" End="7"/>
+  <Note Note="72" Velocity="70" Begin="10" End="10"/>
+  <Note Note="76" Velocity="40" Begin="12" End="12"/>
+  <Note Note="72" Velocity="80" Begin="1" End="1"/>
+</Pattern>

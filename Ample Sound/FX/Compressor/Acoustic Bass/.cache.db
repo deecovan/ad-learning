@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="Acoustic Bass" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Jazz" cho=""
+        type="" db="" key="" measures="500307760" quantize="" rating="0"
+        signature=""/>
+  <item FName="Acoustic Bass 1" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Jazz" cho=""
+        type="" db="" key="" measures="500307760" quantize="" rating="0"
+        signature=""/>
+  <item FName="Acoustic Bass 2" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Jazz" cho=""
+        type="" db="" key="" measures="500307760" quantize="" rating="0"
+        signature=""/>
+  <item FName="Acoustic Bass 3" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Jazz" cho=""
+        type="" db="" key="" measures="500307760" quantize="" rating="0"
+        signature=""/>
+  <item FName="Acoustic Bass Finger" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Folk" cho=""
+        type="" db="" key="" measures="500307760" quantize="" rating="0"
+        signature=""/>
+  <item FName="Acoustic Bass Hard Comp" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Funk" cho=""
+        type="" db="" key="" measures="500307760" quantize="" rating="0"
+        signature=""/>
+  <item FName="Acoustic Bass Up" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Other" cho=""
+        type="" db="" key="" measures="500307760" quantize="" rating="0"
+        signature=""/>
+  <item FName="Acoustic_Bass" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Jazz" cho=""
+        type="" db="" key="" measures="500307760" quantize="" rating="0"
+        signature=""/>
+  <item FName="Acoustic_Bass_1" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Jazz" cho=""
+        type="" db="" key="" measures="500307760" quantize="" rating="0"
+        signature=""/>
+  <item FName="Acoustic_Bass_2" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Jazz" cho=""
+        type="" db="" key="" measures="500307760" quantize="" rating="0"
+        signature=""/>
+  <item FName="Acoustic_Bass_3" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Jazz" cho=""
+        type="" db="" key="" measures="500307760" quantize="" rating="0"
+        signature=""/>
+  <item FName="Acoustic_Bass_Finger" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Folk" cho=""
+        type="" db="" key="" measures="500307760" quantize="" rating="0"
+        signature=""/>
+  <item FName="Acoustic_Bass_Hard_Comp" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Funk" cho=""
+        type="" db="" key="" measures="500307760" quantize="" rating="0"
+        signature=""/>
+  <item FName="Acoustic_Bass_Up" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Other" cho=""
+        type="" db="" key="" measures="500307760" quantize="" rating="0"
+        signature=""/>
+</cache>

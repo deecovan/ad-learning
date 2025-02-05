@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="110_16_44_PM_01" ext=".griff" author="ruifeng0229" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Other" cho="Em" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="ARP-Am7-001" ext=".griff" author="djjiajudd1" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="70" cat="Pop" cho="Am7" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="ARP-Am7-002" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="70" cat="Pop" cho="Am7" type="ARP" db="" key="C" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="ARP-Em7-001" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Pop" cho="Em7" type="ARP" db="" key="G" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Country02" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Country" cho="G, C, Em, G" type="Riff" db="" key="G"
+        measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="funk-01" ext=".griff" author="ruifeng0229" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Alternative" cho="G, Am" type="ARP" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="funk-02" ext=".griff" author="ruifeng0229" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Alternative" cho="G, Am" type="ARP" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="funk-03" ext=".griff" author="ruifeng0229" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Alternative" cho="G, Am" type="ARP" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Slide Guitar 01" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Blues" cho="A7" type="Fill" db="" key="A" measures="2"
+        quantize="1/16" rating="0" signature="4/4Tri"/>
+</cache>

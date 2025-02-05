@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="126_16_84_Pick_Alternative_Chord_01" ext=".griff" author="Huang"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="126" cat="Alternative"
+        cho="Em" type="ARP" db="" key="G" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="126_16_84_Pick_Alternative_Chord_02" ext=".griff" author="Huang"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="126" cat="Alternative"
+        cho="Em" type="ARP" db="" key="G" measures="1" quantize="1/16"
+        rating="0" signature="8/4"/>
+  <item FName="80_16_84_Reggae_01" ext=".griff" author="Huang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Reggae" cho="A  Bm" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="80_16_84_Reggae_02" ext=".griff" author="Huang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Reggae" cho="A  Bm" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="80_16_84_Reggae_03" ext=".griff" author="Huang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Reggae" cho="G  C  D  C" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="80_16_84_Reggae_04" ext=".griff" author="Huang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Reggae" cho="G  C  D  C" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="80_16_84_Reggae_05" ext=".griff" author="Huang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Reggae" cho="G  C  D  C" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="80_16_84_Reggae_06" ext=".griff" author="Huang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Reggae" cho="G  C  D  C" type="Riff" db="" key="G"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="80_16_84_Reggae_07" ext=".griff" author="Huang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Reggae" cho="Am G" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="80_16_84_Reggae_08" ext=".griff" author="Huang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Reggae" cho="Am G" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="80_16_84_Reggae_09" ext=".griff" author="Huang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Reggae" cho="Am G" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="80_16_84_Reggae_10" ext=".griff" author="Huang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="80" cat="Reggae" cho="Am G" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="80_8_44Tri_Strum_Blues_Shuffle_01" ext=".griff" author="Huang"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="80" cat="Blues" cho="E"
+        type="Riff" db="" key="E" measures="1" quantize="1/8" rating="0"
+        signature="4/4Tri"/>
+  <item FName="80_8_44Tri_Strum_Blues_Shuffle_02" ext=".griff" author="Huang"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="80" cat="Blues" cho="E"
+        type="Riff" db="" key="E" measures="1" quantize="1/8" rating="0"
+        signature="4/4Tri"/>
+  <item FName="80_8_44Tri_Strum_Blues_Shuffle_03" ext=".griff" author="Huang"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="80" cat="Blues" cho="A"
+        type="Riff" db="" key="E" measures="1" quantize="1/8" rating="0"
+        signature="4/4Tri"/>
+  <item FName="80_8_44Tri_Strum_Blues_Shuffle_04" ext=".griff" author="Huang"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="80" cat="Blues" cho="A"
+        type="Riff" db="" key="E" measures="1" quantize="1/8" rating="0"
+        signature="4/4Tri"/>
+  <item FName="80_8_44Tri_Strum_Blues_Shuffle_05" ext=".griff" author="Huang"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="80" cat="Blues" cho="B"
+        type="Riff" db="" key="E" measures="1" quantize="1/8" rating="0"
+        signature="4/4Tri"/>
+  <item FName="80_8_44Tri_Strum_Blues_Shuffle_06" ext=".griff" author="Huang"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="80" cat="Blues" cho="A"
+        type="Riff" db="" key="E" measures="1" quantize="1/8" rating="0"
+        signature="4/4Tri"/>
+  <item FName="80_8_44Tri_Strum_Blues_Shuffle_07" ext=".griff" author="Huang"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="80" cat="Blues" cho="B"
+        type="Riff" db="" key="E" measures="1" quantize="1/8" rating="0"
+        signature="4/4Tri"/>
+  <item FName="80_8_44Tri_Strum_Blues_Shuffle_08" ext=".griff" author="Huang"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="80" cat="Blues" cho="E"
+        type="Riff" db="" key="E" measures="1" quantize="1/8" rating="0"
+        signature="4/4Tri"/>
+  <item FName="80_8_44Tri_Strum_Blues_Shuffle_09" ext=".griff" author="Huang"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="80" cat="Blues" cho="E"
+        type="Riff" db="" key="E" measures="1" quantize="1/8" rating="0"
+        signature="4/4Tri"/>
+</cache>

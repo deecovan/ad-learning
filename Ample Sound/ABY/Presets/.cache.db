@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="All of Me" ext=".abystate" author="John Legend" LMT="2023-02-27T12:23:48.000+02:00"
+        bpm="365" cat="Pop" cho="" type="Lead" db="Both" key="" measures="-43178160"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="All of Me (Chord)" ext=".abystate" author="John Legend"
+        LMT="2023-02-27T12:23:48.000+02:00" bpm="365" cat="Pop" cho=""
+        type="Rhythm" db="Both" key="" measures="-43178160" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Amazing Grace" ext=".abystate" author="Jonathan Aitken"
+        LMT="2023-02-28T17:27:18.000+02:00" bpm="365" cat="Funk" cho=""
+        type="Lead" db="Both" key="" measures="-43178160" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Bypass FXs" ext=".abystate" author="Ample Sound" LMT="2023-02-27T12:23:48.000+02:00"
+        bpm="365" cat="Funk" cho="" type="Rhythm" db="Both" key="" measures="-43178160"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Default" ext=".abystate" author="Ample Sound" LMT="2023-02-27T12:23:48.000+02:00"
+        bpm="365" cat="Funk" cho="" type="Rhythm" db="Both" key="" measures="-43178160"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Echo" ext=".abystate" author="Ample Sound" LMT="2023-02-27T12:23:48.000+02:00"
+        bpm="365" cat="Pop" cho="" type="Ambience" db="Both" key="" measures="-43178160"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Harmonic Ambience" ext=".abystate" author="Ample Sound"
+        LMT="2023-02-27T12:23:48.000+02:00" bpm="365" cat="Pop" cho=""
+        type="Ambience" db="Both" key="" measures="-43178160" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Improvised Performance D" ext=".abystate" author="Victor Wooten"
+        LMT="2023-02-27T12:23:48.000+02:00" bpm="365" cat="Jazz" cho=""
+        type="Lead" db="Both" key="" measures="-43178160" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Isnt She Lovely" ext=".abystate" author="Stevie Wonder"
+        LMT="2023-02-27T12:23:48.000+02:00" bpm="365" cat="Funk" cho=""
+        type="Rhythm" db="Both" key="" measures="-43178160" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Isnt She Lovely (Chord)" ext=".abystate" author="Stevie Wonder"
+        LMT="2023-02-27T12:23:48.000+02:00" bpm="365" cat="Funk" cho=""
+        type="Rhythm" db="Both" key="" measures="-43178160" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Natural Harmonic" ext=".abystate" author="Ample Sound"
+        LMT="2023-02-27T12:23:48.000+02:00" bpm="365" cat="Pop" cho=""
+        type="Rhythm" db="Both" key="" measures="-43178160" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="November Groove" ext=".abystate" author="Elie Kh" LMT="2023-02-27T12:23:48.000+02:00"
+        bpm="365" cat="Funk" cho="" type="Slap" db="Both" key="" measures="-43178160"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Outer Drive" ext=".abystate" author="Michael Manson" LMT="2023-02-27T12:23:48.000+02:00"
+        bpm="365" cat="Jazz" cho="" type="Rhythm" db="Both" key="" measures="-43178160"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Outer Drive (Solo)" ext=".abystate" author="Michael Manson"
+        LMT="2023-02-27T12:23:48.000+02:00" bpm="365" cat="Jazz" cho=""
+        type="Lead" db="Both" key="" measures="-43178160" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Red Baron" ext=".abystate" author="Billy Cobham" LMT="2023-02-27T12:23:48.000+02:00"
+        bpm="365" cat="Jazz" cho="" type="Lead" db="Both" key="" measures="-43178160"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="See You in the Shed" ext=".abystate" author="Guy Bernfeld"
+        LMT="2023-02-27T12:23:48.000+02:00" bpm="365" cat="Funk" cho=""
+        type="Rhythm" db="Both" key="" measures="-43178160" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Sex in a Pan" ext=".abystate" author="Victor Wooten" LMT="2023-02-27T12:23:48.000+02:00"
+        bpm="365" cat="Funk" cho="" type="Rhythm" db="Both" key="" measures="-43178160"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Slap Improvision A" ext=".abystate" author="Victor Wooten"
+        LMT="2023-02-27T12:23:48.000+02:00" bpm="365" cat="Funk" cho=""
+        type="Slap" db="Both" key="" measures="-43178160" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Slap Jam" ext=".abystate" author="Victor Wooten" LMT="2023-02-27T12:23:48.000+02:00"
+        bpm="365" cat="Funk" cho="" type="Slap" db="Both" key="" measures="-43178160"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Slap Jam (Active)" ext=".abystate" author="Victor Wooten"
+        LMT="2023-02-27T12:23:48.000+02:00" bpm="365" cat="Funk" cho=""
+        type="Slap" db="Both" key="" measures="-43178160" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="The Lesson" ext=".abystate" author="Victor Wooten" LMT="2023-02-27T12:23:48.000+02:00"
+        bpm="365" cat="Jazz" cho="" type="Lead" db="Both" key="" measures="-43178160"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="The Lesson ARP" ext=".abystate" author="Victor Wooten"
+        LMT="2023-02-27T12:23:48.000+02:00" bpm="365" cat="Jazz" cho=""
+        type="Lead" db="Both" key="" measures="-43178160" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="The Vortex" ext=".abystate" author="Ample Sound" LMT="2023-02-27T12:23:48.000+02:00"
+        bpm="365" cat="Pop" cho="" type="Rhythm" db="Both" key="" measures="-43178160"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Thunder" ext=".abystate" author="SMV" LMT="2023-02-27T12:23:48.000+02:00"
+        bpm="365" cat="Funk" cho="" type="Lead" db="Both" key="" measures="-43178160"
+        quantize="" rating="0" signature="" dist="Overdrive"/>
+  <item FName="U Cant Hold No Groove" ext=".abystate" author="Victor Wooten"
+        LMT="2023-02-27T12:23:48.000+02:00" bpm="365" cat="Funk" cho=""
+        type="Slap" db="Both" key="" measures="-43178160" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Yesterday" ext=".abystate" author="The Beatles" LMT="2023-02-27T12:23:48.000+02:00"
+        bpm="365" cat="Pop" cho="" type="Rhythm" db="Both" key="" measures="-43178160"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Yesterday (Solo)" ext=".abystate" author="The Beatles"
+        LMT="2023-02-27T12:23:48.000+02:00" bpm="365" cat="Pop" cho=""
+        type="Lead" db="Both" key="" measures="-43178160" quantize=""
+        rating="0" signature="" dist="Clean"/>
+</cache>

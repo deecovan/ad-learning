@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="Electric Guitar Clean" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Pop" cho=""
+        type="" db="" key="" measures="500329936" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Guitar Dist Rhy 1" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Rock" cho=""
+        type="" db="" key="" measures="500329936" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Guitar Dist Rhy 2" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Rock" cho=""
+        type="" db="" key="" measures="500329936" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Guitar NH" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Other" cho=""
+        type="" db="" key="" measures="500329936" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Guitar NH 2" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Other" cho=""
+        type="" db="" key="" measures="500329936" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Guitar PM" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Other" cho=""
+        type="" db="" key="" measures="500329936" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Guitar Solo" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Other" cho=""
+        type="" db="" key="" measures="500329936" quantize="" rating="0"
+        signature=""/>
+</cache>

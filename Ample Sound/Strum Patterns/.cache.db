@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="Default1" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="130" cat="Pop" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Default2" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="100" cat="Pop" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Default3" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="100" cat="Pop" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Default4" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="100" cat="Pop" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Default5" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="100" cat="Pop" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Default6" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="100" cat="Pop" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Default7" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="100" cat="Pop" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Default8" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="100" cat="Pop" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Metal_Default1" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="130" cat="Metal" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Metal_Default2" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="120" cat="Metal" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Metal_Default3" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="120" cat="Metal" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Metal_Default4" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="130" cat="Metal" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Metal_Default5" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="130" cat="Metal" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Metal_Default6" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="130" cat="Metal" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Metal_Default7" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="130" cat="Metal" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="Metal_Default8" ext=".strumseq" author="Ample Sound" LMT="2019-01-28T13:55:26.000+02:00"
+        bpm="130" cat="Metal" cho="" type="" db="" key="" measures="76942048"
+        quantize="1/16" rating="0" signature="4/4"/>
+</cache>

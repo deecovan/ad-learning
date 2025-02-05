@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="100_16_84T_Other_Upright_Groove_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Other" cho=""
+        type="Riff" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_16_84T_Other_Upright_Groove_06" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Other" cho=""
+        type="Riff" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_8_84T_Jazz_CoolJazz_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Jazz" cho=""
+        type="" db="" key="D" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_8_84T_Jazz_CoolJazz_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Jazz" cho=""
+        type="" db="" key="D" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_8_84T_Jazz_CoolJazz_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Jazz" cho=""
+        type="" db="" key="D" measures="1" quantize="1/8" rating="5"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_8_84T_Jazz_CoolJazz_04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Jazz" cho=""
+        type="" db="" key="D" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="110_16_24_Other_Upright_Groove_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Other" cho=""
+        type="Riff" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="110_16_84_Jazz_Upright_Bossa_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Jazz" cho="C69"
+        type="Riff" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Jazz_Upright_Bossa_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Jazz" cho="C69"
+        type="Riff" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Jazz_Upright_Bossa_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Jazz" cho="C69"
+        type="Riff" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_24_Other_Groove_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_16_24_Other_Groove_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_16_24_Other_Groove_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_16_24_Other_Groove_04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_16_24_Other_Groove_05" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_16_24_Other_Groove_06" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_16_24_Other_Groove_07" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_16_24_Other_Groove_08" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_16_24_Other_Groove_09" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_16_24_Other_Groove_10" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_16_24_Other_Groove_11" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="E" measures="1" quantize="1/16" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_16_24_Other_Groove_12" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_16_24_Other_Upright_Groove_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Jazz" cho=""
+        type="Riff" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_16_44_Jazz_Upright_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Jazz" cho="A"
+        type="Riff" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="120_16_44_Jazz_Upright_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Jazz" cho="A"
+        type="Riff" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="120_16_44_Jazz_Upright_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Jazz" cho="A"
+        type="Riff" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="120_16_44_Jazz_Upright_04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Jazz" cho="A"
+        type="Riff" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="120_16_54_Other_Upright_Groove_04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="Riff" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="5/4" dist=""/>
+  <item FName="120_16_74_Jazz_WH_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="7/4" dist=""/>
+  <item FName="120_16_74_Jazz_WH_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="7/4" dist=""/>
+  <item FName="120_16_84_Jazz_Funk_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Jazz_Funk_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Jazz_Funk_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Jazz_Funk_04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_32_84_Jazz_Upright_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Jazz" cho=""
+        type="Riff" db="" key="D#" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_8_24_Other_Groove_13" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_8_24_Other_Groove_14" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_8_24_Other_Groove_15" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_8_24_Other_Groove_16" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_8_24_Other_Groove_17" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="120_8_84T_Jazz_01" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Jazz" cho="" type="" db="" key="A#" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="120_8_84T_Jazz_02" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Jazz" cho="" type="" db="" key="A#" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="120_8_84T_Jazz_03" ext=".briff" author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00"
+        bpm="120" cat="Jazz" cho="" type="" db="" key="F" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="140_16_64_Jazz_Upright_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Jazz" cho="Cmaj7  Bbmaj7"
+        type="Riff" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="6/4" dist=""/>
+  <item FName="140_16_64_Jazz_Upright_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Jazz" cho="Cmaj7  Bbmaj7"
+        type="Riff" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="6/4" dist=""/>
+  <item FName="140_16_64_Jazz_Upright_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Jazz" cho="Cmaj7  Bb7sus"
+        type="Riff" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="6/4" dist=""/>
+  <item FName="140_16_64_Jazz_Upright_04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Jazz" cho="Cmaj7  "
+        type="Riff" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="6/4" dist=""/>
+  <item FName="140_8_34_Jazz_CoolJazz_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="3/4" dist=""/>
+  <item FName="140_8_34_Jazz_CoolJazz_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="3/4" dist=""/>
+  <item FName="140_8_84Tri_Jazz_Upright_Walking_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Jazz" cho="Fm7  Bb7"
+        type="Riff" db="" key="D#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="140_8_84Tri_Jazz_Upright_Walking_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Jazz" cho="Fm7  Bb7"
+        type="Riff" db="" key="D#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="140_8_84Tri_Jazz_Upright_Walking_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Jazz" cho="Ebmaj7"
+        type="Riff" db="" key="D#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="140_8_84Tri_Jazz_Upright_Walking_04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Jazz" cho="Ebmaj7"
+        type="Riff" db="" key="D#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="140_8_84T_Jazz_Walking_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="140_8_84T_Jazz_Walking_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="140_8_84T_Jazz__01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="140_8_84T_Jazz__02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="140" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="150_8_24_Other_Upright_Groove_07" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="150" cat="Other" cho=""
+        type="Riff" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="2/4" dist=""/>
+  <item FName="160_16_64_Jazz_Upright_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Jazz" cho="Dm7  Bb7"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="6/4" dist=""/>
+  <item FName="160_16_64_Jazz_Upright_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="160" cat="Jazz" cho="A7  Dm7  "
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="6/4" dist=""/>
+  <item FName="160_8_84Tri_Jazz_Upright_Blues_Walking_01" ext=".briff"
+        author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00" bpm="160"
+        cat="Jazz" cho="Bb7  Eb7" type="Riff" db="" key="A#" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="160_8_84Tri_Jazz_Upright_Blues_Walking_02" ext=".briff"
+        author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00" bpm="160"
+        cat="Jazz" cho="Bb7  " type="Riff" db="" key="A#" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="160_8_84Tri_Jazz_Upright_Blues_Walking_03" ext=".briff"
+        author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00" bpm="160"
+        cat="Jazz" cho="Eb7  Em7b5" type="Riff" db="" key="A#" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="160_8_84Tri_Jazz_Upright_Blues_Walking_04" ext=".briff"
+        author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00" bpm="160"
+        cat="Jazz" cho="Bb7   Dm7b5 G7" type="Riff" db="" key="A#" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="160_8_84Tri_Jazz_Upright_Blues_Walking_05" ext=".briff"
+        author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00" bpm="160"
+        cat="Jazz" cho="Cm7 F7" type="Riff" db="" key="A#" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="160_8_84Tri_Jazz_Upright_Blues_Walking_06" ext=".briff"
+        author="Ample Sound" LMT="2019-01-28T13:55:22.000+02:00" bpm="160"
+        cat="Jazz" cho="Bb7 G7  Cm7 F7" type="Riff" db="" key="A#" measures="1"
+        quantize="1/8" rating="0" signature="8/4Tri" dist=""/>
+  <item FName="195_8_84T_Jazz_Walking_RC_A01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="195" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="195_8_84T_Jazz_Walking_RC_A02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="195" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="195_8_84T_Jazz_Walking_RC_A03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="195" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="195_8_84T_Jazz_Walking_RC_A04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="195" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="195_8_84T_Jazz_Walking_RC_A05" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="195" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="195_8_84T_Jazz_Walking_RC_B01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="195" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="195_8_84T_Jazz_Walking_RC_B02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="195" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="195_8_84T_Jazz_Walking_RC_B03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="195" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="195_8_84T_Jazz_Walking_RC_B04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="195" cat="Jazz" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="75_8_84Tri_Jazz_Upright_01" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="75" cat="Jazz" cho="Bbmaj7  Cm7"
+        type="Riff" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="75_8_84Tri_Jazz_Upright_02" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="75" cat="Jazz" cho="Dm7  Cm7"
+        type="Riff" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="75_8_84Tri_Jazz_Upright_03" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="75" cat="Jazz" cho="Bbmaj7  Cm7"
+        type="Riff" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="75_8_84Tri_Jazz_Upright_04" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="75" cat="Jazz" cho="Bbmaj7  F7b9"
+        type="Riff" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="98_16_34_Other_Upright_Groove_05" ext=".briff" author="Ample Sound"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="96" cat="Other" cho=""
+        type="Riff" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="3/4" dist=""/>
+</cache>

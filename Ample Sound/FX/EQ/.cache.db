@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="Default" ext=".fxeqstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Other" cho="" type="" db="" key="" measures="500313376"
+        quantize="" rating="0" signature=""/>
+  <item FName="High Boost" ext=".fxeqstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Other" cho="" type="" db="" key="" measures="500313376"
+        quantize="" rating="0" signature=""/>
+  <item FName="High Cut" ext=".fxeqstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Other" cho="" type="" db="" key="" measures="500313376"
+        quantize="" rating="0" signature=""/>
+  <item FName="High Shelf" ext=".fxeqstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Other" cho="" type="" db="" key="" measures="500313376"
+        quantize="" rating="0" signature=""/>
+  <item FName="High Shelf Brickwall" ext=".fxeqstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Other" cho=""
+        type="" db="" key="" measures="500313376" quantize="" rating="0"
+        signature=""/>
+  <item FName="Low Boost" ext=".fxeqstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Other" cho="" type="" db="" key="" measures="500313376"
+        quantize="" rating="0" signature=""/>
+  <item FName="Low Cut" ext=".fxeqstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Other" cho="" type="" db="" key="" measures="500313376"
+        quantize="" rating="0" signature=""/>
+  <item FName="Low Shelf" ext=".fxeqstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Other" cho="" type="" db="" key="" measures="500313376"
+        quantize="" rating="0" signature=""/>
+  <item FName="Telephone" ext=".fxeqstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Other" cho="" type="" db="" key="" measures="500313376"
+        quantize="" rating="0" signature=""/>
+</cache>

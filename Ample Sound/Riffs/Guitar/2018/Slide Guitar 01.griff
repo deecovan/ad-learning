@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Riff Author="Ample Sound" Category="Blues" Measures="2" Time-Signature="4/4Tri"
+      Quantize="1/16" Tempo="100" Key="A" Type="Fill" Chord="A7" Rating="0">
+  <String ID="4">
+    <Note FX="0" Velocity="50" Off-Velocity="65" Begin="16" End="24" Articulation="SG"
+          Fret="7" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="Vib Rate 1/16"
+          Vibrato-Percentage="60" Duration-Percentage="100"/>
+  </String>
+  <String ID="3">
+    <Note FX="0" Velocity="50" Off-Velocity="65" Begin="7" End="9" Articulation="SG"
+          Fret="5" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="NV"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+    <Note FX="0" Velocity="70" Off-Velocity="65" Begin="10" End="24" Articulation="SG"
+          Fret="5" Legato="No Legato" Bend-Type="Bend" Vibrato-Type="Vib Rate 1/16"
+          Vibrato-Percentage="60" Duration-Percentage="100">
+      <Bend-Point Position="0.00000000000000000000" Value="0"/>
+      <Bend-Point Position="0.50000000000000000000" Value="4"/>
+    </Note>
+  </String>
+  <String ID="2">
+    <Note FX="0" Velocity="60" Off-Velocity="65" Begin="4" End="24" Articulation="SG"
+          Fret="5" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="NV"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+  </String>
+  <String ID="1">
+    <Note FX="0" Velocity="80" Off-Velocity="65" Begin="1" End="24" Articulation="Sus"
+          Fret="5" Legato="No Legato" Bend-Type="No Bend" Vibrato-Type="NV"
+          Vibrato-Percentage="100" Duration-Percentage="100"/>
+  </String>
+</Riff>

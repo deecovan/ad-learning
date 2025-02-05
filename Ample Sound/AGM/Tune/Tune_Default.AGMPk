@@ -1,0 +1,2046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Infos>
+  <AuthorInfo Name="Ample Sound"/>
+  <InstDB DBName="AGMPk"/>
+  <SampleInfo>
+    <sample ID="0" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="0"
+            Cycle="1" Tune="-7" Gain="1"/>
+    <sample ID="2" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="0"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="3" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="0"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="4" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="5" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="6" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="7" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="8" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="9" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="10" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="11" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="12" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="13" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="14" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="3"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="15" DBName="AGMPk" Articulation="Sus1" RootNote="64" VelLayer="3"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="16" DBName="AGMPk" Articulation="Sus1" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="17" DBName="AGMPk" Articulation="Sus1" RootNote="65" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="18" DBName="AGMPk" Articulation="Sus1" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="19" DBName="AGMPk" Articulation="Sus1" RootNote="65" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="20" DBName="AGMPk" Articulation="Sus1" RootNote="65" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="21" DBName="AGMPk" Articulation="Sus1" RootNote="65" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="22" DBName="AGMPk" Articulation="Sus1" RootNote="65" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="23" DBName="AGMPk" Articulation="Sus1" RootNote="65" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="24" DBName="AGMPk" Articulation="Sus1" RootNote="65" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="25" DBName="AGMPk" Articulation="Sus1" RootNote="65" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="26" DBName="AGMPk" Articulation="Sus1" RootNote="65" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="27" DBName="AGMPk" Articulation="Sus1" RootNote="65" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="28" DBName="AGMPk" Articulation="Sus1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="29" DBName="AGMPk" Articulation="Sus1" RootNote="66" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="30" DBName="AGMPk" Articulation="Sus1" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="31" DBName="AGMPk" Articulation="Sus1" RootNote="66" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="32" DBName="AGMPk" Articulation="Sus1" RootNote="66" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="33" DBName="AGMPk" Articulation="Sus1" RootNote="66" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="34" DBName="AGMPk" Articulation="Sus1" RootNote="66" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="35" DBName="AGMPk" Articulation="Sus1" RootNote="66" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="36" DBName="AGMPk" Articulation="Sus1" RootNote="66" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="37" DBName="AGMPk" Articulation="Sus1" RootNote="66" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="38" DBName="AGMPk" Articulation="Sus1" RootNote="66" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="39" DBName="AGMPk" Articulation="Sus1" RootNote="66" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="40" DBName="AGMPk" Articulation="Sus1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="41" DBName="AGMPk" Articulation="Sus1" RootNote="67" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="42" DBName="AGMPk" Articulation="Sus1" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="43" DBName="AGMPk" Articulation="Sus1" RootNote="67" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="44" DBName="AGMPk" Articulation="Sus1" RootNote="67" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="45" DBName="AGMPk" Articulation="Sus1" RootNote="67" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="46" DBName="AGMPk" Articulation="Sus1" RootNote="67" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="47" DBName="AGMPk" Articulation="Sus1" RootNote="67" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="48" DBName="AGMPk" Articulation="Sus1" RootNote="67" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="49" DBName="AGMPk" Articulation="Sus1" RootNote="67" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="50" DBName="AGMPk" Articulation="Sus1" RootNote="67" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="51" DBName="AGMPk" Articulation="Sus1" RootNote="67" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="52" DBName="AGMPk" Articulation="Sus1" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="53" DBName="AGMPk" Articulation="Sus1" RootNote="68" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="54" DBName="AGMPk" Articulation="Sus1" RootNote="68" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="55" DBName="AGMPk" Articulation="Sus1" RootNote="68" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="56" DBName="AGMPk" Articulation="Sus1" RootNote="68" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="57" DBName="AGMPk" Articulation="Sus1" RootNote="68" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="58" DBName="AGMPk" Articulation="Sus1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="59" DBName="AGMPk" Articulation="Sus1" RootNote="69" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="60" DBName="AGMPk" Articulation="Sus1" RootNote="69" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="61" DBName="AGMPk" Articulation="Sus1" RootNote="69" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="62" DBName="AGMPk" Articulation="Sus1" RootNote="69" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="63" DBName="AGMPk" Articulation="Sus1" RootNote="69" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="64" DBName="AGMPk" Articulation="Sus1" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="65" DBName="AGMPk" Articulation="Sus1" RootNote="70" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="66" DBName="AGMPk" Articulation="Sus1" RootNote="70" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="67" DBName="AGMPk" Articulation="Sus1" RootNote="70" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="68" DBName="AGMPk" Articulation="Sus1" RootNote="70" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="69" DBName="AGMPk" Articulation="Sus1" RootNote="70" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="70" DBName="AGMPk" Articulation="Sus1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="71" DBName="AGMPk" Articulation="Sus1" RootNote="71" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="72" DBName="AGMPk" Articulation="Sus1" RootNote="71" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="73" DBName="AGMPk" Articulation="Sus1" RootNote="71" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="74" DBName="AGMPk" Articulation="Sus1" RootNote="71" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="75" DBName="AGMPk" Articulation="Sus1" RootNote="71" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="76" DBName="AGMPk" Articulation="Sus1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="77" DBName="AGMPk" Articulation="Sus1" RootNote="72" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="78" DBName="AGMPk" Articulation="Sus1" RootNote="72" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="79" DBName="AGMPk" Articulation="Sus1" RootNote="72" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="80" DBName="AGMPk" Articulation="Sus1" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="81" DBName="AGMPk" Articulation="Sus1" RootNote="73" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="82" DBName="AGMPk" Articulation="Sus1" RootNote="73" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="83" DBName="AGMPk" Articulation="Sus1" RootNote="73" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="84" DBName="AGMPk" Articulation="Sus1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="85" DBName="AGMPk" Articulation="Sus1" RootNote="74" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="86" DBName="AGMPk" Articulation="Sus1" RootNote="74" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="87" DBName="AGMPk" Articulation="Sus1" RootNote="74" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="88" DBName="AGMPk" Articulation="Sus1" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="89" DBName="AGMPk" Articulation="Sus1" RootNote="75" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="90" DBName="AGMPk" Articulation="Sus1" RootNote="75" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="91" DBName="AGMPk" Articulation="Sus1" RootNote="75" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="92" DBName="AGMPk" Articulation="Sus1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="93" DBName="AGMPk" Articulation="Sus1" RootNote="76" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="94" DBName="AGMPk" Articulation="Sus1" RootNote="76" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="95" DBName="AGMPk" Articulation="Sus1" RootNote="76" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="96" DBName="AGMPk" Articulation="Sus1" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="97" DBName="AGMPk" Articulation="Sus1" RootNote="77" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="98" DBName="AGMPk" Articulation="Sus1" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="99" DBName="AGMPk" Articulation="Sus1" RootNote="78" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="100" DBName="AGMPk" Articulation="Sus1" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="101" DBName="AGMPk" Articulation="Sus1" RootNote="79" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="102" DBName="AGMPk" Articulation="Sus1" RootNote="80" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="103" DBName="AGMPk" Articulation="Sus1" RootNote="80" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="104" DBName="AGMPk" Articulation="Sus1" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="105" DBName="AGMPk" Articulation="Sus1" RootNote="81" VelLayer="1"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="106" DBName="AGMPk" Articulation="Sus1" RootNote="82" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="107" DBName="AGMPk" Articulation="Sus1" RootNote="82" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="108" DBName="AGMPk" Articulation="Sus1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="109" DBName="AGMPk" Articulation="Sus1" RootNote="83" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="110" DBName="AGMPk" Articulation="Sus1" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="111" DBName="AGMPk" Articulation="Sus1" RootNote="84" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="112" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="113" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="114" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="0"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="115" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="0"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="116" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="117" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="118" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="119" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="120" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="121" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="122" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="123" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="124" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="125" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="126" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="3"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="127" DBName="AGMPk" Articulation="Sus2" RootNote="59" VelLayer="3"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="128" DBName="AGMPk" Articulation="Sus2" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="129" DBName="AGMPk" Articulation="Sus2" RootNote="60" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="130" DBName="AGMPk" Articulation="Sus2" RootNote="60" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="131" DBName="AGMPk" Articulation="Sus2" RootNote="60" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="132" DBName="AGMPk" Articulation="Sus2" RootNote="60" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="133" DBName="AGMPk" Articulation="Sus2" RootNote="60" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="134" DBName="AGMPk" Articulation="Sus2" RootNote="60" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="135" DBName="AGMPk" Articulation="Sus2" RootNote="60" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="136" DBName="AGMPk" Articulation="Sus2" RootNote="60" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="137" DBName="AGMPk" Articulation="Sus2" RootNote="60" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="138" DBName="AGMPk" Articulation="Sus2" RootNote="60" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="139" DBName="AGMPk" Articulation="Sus2" RootNote="60" VelLayer="3"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="140" DBName="AGMPk" Articulation="Sus2" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="141" DBName="AGMPk" Articulation="Sus2" RootNote="61" VelLayer="0"
+            Cycle="1" Tune="-10" Gain="1"/>
+    <sample ID="142" DBName="AGMPk" Articulation="Sus2" RootNote="61" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="143" DBName="AGMPk" Articulation="Sus2" RootNote="61" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="144" DBName="AGMPk" Articulation="Sus2" RootNote="61" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="145" DBName="AGMPk" Articulation="Sus2" RootNote="61" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="146" DBName="AGMPk" Articulation="Sus2" RootNote="61" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="147" DBName="AGMPk" Articulation="Sus2" RootNote="61" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="148" DBName="AGMPk" Articulation="Sus2" RootNote="61" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="149" DBName="AGMPk" Articulation="Sus2" RootNote="61" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="150" DBName="AGMPk" Articulation="Sus2" RootNote="61" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="151" DBName="AGMPk" Articulation="Sus2" RootNote="61" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="152" DBName="AGMPk" Articulation="Sus2" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="153" DBName="AGMPk" Articulation="Sus2" RootNote="62" VelLayer="0"
+            Cycle="1" Tune="-10" Gain="1"/>
+    <sample ID="154" DBName="AGMPk" Articulation="Sus2" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="155" DBName="AGMPk" Articulation="Sus2" RootNote="62" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="156" DBName="AGMPk" Articulation="Sus2" RootNote="62" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="157" DBName="AGMPk" Articulation="Sus2" RootNote="62" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="158" DBName="AGMPk" Articulation="Sus2" RootNote="62" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="159" DBName="AGMPk" Articulation="Sus2" RootNote="62" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="160" DBName="AGMPk" Articulation="Sus2" RootNote="62" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="161" DBName="AGMPk" Articulation="Sus2" RootNote="62" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="162" DBName="AGMPk" Articulation="Sus2" RootNote="62" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="163" DBName="AGMPk" Articulation="Sus2" RootNote="62" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="164" DBName="AGMPk" Articulation="Sus2" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="165" DBName="AGMPk" Articulation="Sus2" RootNote="63" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="166" DBName="AGMPk" Articulation="Sus2" RootNote="63" VelLayer="1"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="167" DBName="AGMPk" Articulation="Sus2" RootNote="63" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="168" DBName="AGMPk" Articulation="Sus2" RootNote="63" VelLayer="1"
+            Cycle="2" Tune="-8" Gain="1"/>
+    <sample ID="169" DBName="AGMPk" Articulation="Sus2" RootNote="63" VelLayer="1"
+            Cycle="3" Tune="-7" Gain="1"/>
+    <sample ID="170" DBName="AGMPk" Articulation="Sus2" RootNote="63" VelLayer="2"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="171" DBName="AGMPk" Articulation="Sus2" RootNote="63" VelLayer="2"
+            Cycle="1" Tune="-6" Gain="1"/>
+    <sample ID="172" DBName="AGMPk" Articulation="Sus2" RootNote="63" VelLayer="2"
+            Cycle="2" Tune="-7" Gain="1"/>
+    <sample ID="173" DBName="AGMPk" Articulation="Sus2" RootNote="63" VelLayer="2"
+            Cycle="3" Tune="-6" Gain="1"/>
+    <sample ID="174" DBName="AGMPk" Articulation="Sus2" RootNote="63" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="175" DBName="AGMPk" Articulation="Sus2" RootNote="63" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="176" DBName="AGMPk" Articulation="Sus2" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="177" DBName="AGMPk" Articulation="Sus2" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="178" DBName="AGMPk" Articulation="Sus2" RootNote="64" VelLayer="1"
+            Cycle="1" Tune="-9" Gain="1"/>
+    <sample ID="179" DBName="AGMPk" Articulation="Sus2" RootNote="64" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="180" DBName="AGMPk" Articulation="Sus2" RootNote="64" VelLayer="2"
+            Cycle="1" Tune="-6" Gain="1"/>
+    <sample ID="181" DBName="AGMPk" Articulation="Sus2" RootNote="64" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="182" DBName="AGMPk" Articulation="Sus2" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="183" DBName="AGMPk" Articulation="Sus2" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="184" DBName="AGMPk" Articulation="Sus2" RootNote="65" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="185" DBName="AGMPk" Articulation="Sus2" RootNote="65" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="186" DBName="AGMPk" Articulation="Sus2" RootNote="65" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="187" DBName="AGMPk" Articulation="Sus2" RootNote="65" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="188" DBName="AGMPk" Articulation="Sus2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="189" DBName="AGMPk" Articulation="Sus2" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="190" DBName="AGMPk" Articulation="Sus2" RootNote="66" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="191" DBName="AGMPk" Articulation="Sus2" RootNote="66" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="192" DBName="AGMPk" Articulation="Sus2" RootNote="66" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="193" DBName="AGMPk" Articulation="Sus2" RootNote="66" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="194" DBName="AGMPk" Articulation="Sus2" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="195" DBName="AGMPk" Articulation="Sus2" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="196" DBName="AGMPk" Articulation="Sus2" RootNote="67" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="197" DBName="AGMPk" Articulation="Sus2" RootNote="67" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="198" DBName="AGMPk" Articulation="Sus2" RootNote="67" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="199" DBName="AGMPk" Articulation="Sus2" RootNote="67" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="200" DBName="AGMPk" Articulation="Sus2" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="201" DBName="AGMPk" Articulation="Sus2" RootNote="68" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="202" DBName="AGMPk" Articulation="Sus2" RootNote="68" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="203" DBName="AGMPk" Articulation="Sus2" RootNote="68" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="204" DBName="AGMPk" Articulation="Sus2" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="205" DBName="AGMPk" Articulation="Sus2" RootNote="69" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="206" DBName="AGMPk" Articulation="Sus2" RootNote="69" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="207" DBName="AGMPk" Articulation="Sus2" RootNote="69" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="208" DBName="AGMPk" Articulation="Sus2" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="209" DBName="AGMPk" Articulation="Sus2" RootNote="70" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="210" DBName="AGMPk" Articulation="Sus2" RootNote="70" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="211" DBName="AGMPk" Articulation="Sus2" RootNote="70" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="212" DBName="AGMPk" Articulation="Sus2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="213" DBName="AGMPk" Articulation="Sus2" RootNote="71" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="214" DBName="AGMPk" Articulation="Sus2" RootNote="71" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="215" DBName="AGMPk" Articulation="Sus2" RootNote="71" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="216" DBName="AGMPk" Articulation="Sus2" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="217" DBName="AGMPk" Articulation="Sus2" RootNote="72" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="218" DBName="AGMPk" Articulation="Sus2" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="219" DBName="AGMPk" Articulation="Sus2" RootNote="73" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="220" DBName="AGMPk" Articulation="Sus2" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="221" DBName="AGMPk" Articulation="Sus2" RootNote="74" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="222" DBName="AGMPk" Articulation="Sus2" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="223" DBName="AGMPk" Articulation="Sus2" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="224" DBName="AGMPk" Articulation="Sus2" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="225" DBName="AGMPk" Articulation="Sus2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="226" DBName="AGMPk" Articulation="Sus2" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="227" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="228" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="229" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="0"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="230" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="0"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="231" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="232" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="233" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="234" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="235" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="236" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="237" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="238" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="239" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="240" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="241" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="3"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="242" DBName="AGMPk" Articulation="Sus3" RootNote="55" VelLayer="3"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="243" DBName="AGMPk" Articulation="Sus3" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="244" DBName="AGMPk" Articulation="Sus3" RootNote="56" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="245" DBName="AGMPk" Articulation="Sus3" RootNote="56" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="246" DBName="AGMPk" Articulation="Sus3" RootNote="56" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="247" DBName="AGMPk" Articulation="Sus3" RootNote="56" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="248" DBName="AGMPk" Articulation="Sus3" RootNote="56" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="249" DBName="AGMPk" Articulation="Sus3" RootNote="56" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="250" DBName="AGMPk" Articulation="Sus3" RootNote="56" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="251" DBName="AGMPk" Articulation="Sus3" RootNote="56" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="252" DBName="AGMPk" Articulation="Sus3" RootNote="56" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="253" DBName="AGMPk" Articulation="Sus3" RootNote="56" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="254" DBName="AGMPk" Articulation="Sus3" RootNote="56" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="255" DBName="AGMPk" Articulation="Sus3" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="256" DBName="AGMPk" Articulation="Sus3" RootNote="57" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="257" DBName="AGMPk" Articulation="Sus3" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="258" DBName="AGMPk" Articulation="Sus3" RootNote="57" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="259" DBName="AGMPk" Articulation="Sus3" RootNote="57" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="260" DBName="AGMPk" Articulation="Sus3" RootNote="57" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="261" DBName="AGMPk" Articulation="Sus3" RootNote="57" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="262" DBName="AGMPk" Articulation="Sus3" RootNote="57" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="263" DBName="AGMPk" Articulation="Sus3" RootNote="57" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="264" DBName="AGMPk" Articulation="Sus3" RootNote="57" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="265" DBName="AGMPk" Articulation="Sus3" RootNote="57" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="266" DBName="AGMPk" Articulation="Sus3" RootNote="57" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="267" DBName="AGMPk" Articulation="Sus3" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="268" DBName="AGMPk" Articulation="Sus3" RootNote="58" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="269" DBName="AGMPk" Articulation="Sus3" RootNote="58" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="270" DBName="AGMPk" Articulation="Sus3" RootNote="58" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="271" DBName="AGMPk" Articulation="Sus3" RootNote="58" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="272" DBName="AGMPk" Articulation="Sus3" RootNote="58" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="273" DBName="AGMPk" Articulation="Sus3" RootNote="58" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="274" DBName="AGMPk" Articulation="Sus3" RootNote="58" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="275" DBName="AGMPk" Articulation="Sus3" RootNote="58" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="276" DBName="AGMPk" Articulation="Sus3" RootNote="58" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="277" DBName="AGMPk" Articulation="Sus3" RootNote="58" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="278" DBName="AGMPk" Articulation="Sus3" RootNote="58" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="279" DBName="AGMPk" Articulation="Sus3" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="280" DBName="AGMPk" Articulation="Sus3" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="281" DBName="AGMPk" Articulation="Sus3" RootNote="59" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="282" DBName="AGMPk" Articulation="Sus3" RootNote="59" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="283" DBName="AGMPk" Articulation="Sus3" RootNote="59" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="284" DBName="AGMPk" Articulation="Sus3" RootNote="59" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="285" DBName="AGMPk" Articulation="Sus3" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="286" DBName="AGMPk" Articulation="Sus3" RootNote="60" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="287" DBName="AGMPk" Articulation="Sus3" RootNote="60" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="288" DBName="AGMPk" Articulation="Sus3" RootNote="60" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="289" DBName="AGMPk" Articulation="Sus3" RootNote="60" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="290" DBName="AGMPk" Articulation="Sus3" RootNote="60" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="291" DBName="AGMPk" Articulation="Sus3" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="292" DBName="AGMPk" Articulation="Sus3" RootNote="61" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="293" DBName="AGMPk" Articulation="Sus3" RootNote="61" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="294" DBName="AGMPk" Articulation="Sus3" RootNote="61" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="295" DBName="AGMPk" Articulation="Sus3" RootNote="61" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="296" DBName="AGMPk" Articulation="Sus3" RootNote="61" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="297" DBName="AGMPk" Articulation="Sus3" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="298" DBName="AGMPk" Articulation="Sus3" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="299" DBName="AGMPk" Articulation="Sus3" RootNote="62" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="300" DBName="AGMPk" Articulation="Sus3" RootNote="62" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="301" DBName="AGMPk" Articulation="Sus3" RootNote="62" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="302" DBName="AGMPk" Articulation="Sus3" RootNote="62" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="303" DBName="AGMPk" Articulation="Sus3" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="304" DBName="AGMPk" Articulation="Sus3" RootNote="63" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="305" DBName="AGMPk" Articulation="Sus3" RootNote="63" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="306" DBName="AGMPk" Articulation="Sus3" RootNote="63" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="307" DBName="AGMPk" Articulation="Sus3" RootNote="63" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="308" DBName="AGMPk" Articulation="Sus3" RootNote="63" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="309" DBName="AGMPk" Articulation="Sus3" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="310" DBName="AGMPk" Articulation="Sus3" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="311" DBName="AGMPk" Articulation="Sus3" RootNote="64" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="312" DBName="AGMPk" Articulation="Sus3" RootNote="64" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="313" DBName="AGMPk" Articulation="Sus3" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="314" DBName="AGMPk" Articulation="Sus3" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="315" DBName="AGMPk" Articulation="Sus3" RootNote="65" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="316" DBName="AGMPk" Articulation="Sus3" RootNote="65" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="317" DBName="AGMPk" Articulation="Sus3" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="318" DBName="AGMPk" Articulation="Sus3" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="319" DBName="AGMPk" Articulation="Sus3" RootNote="66" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="320" DBName="AGMPk" Articulation="Sus3" RootNote="66" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="321" DBName="AGMPk" Articulation="Sus3" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="322" DBName="AGMPk" Articulation="Sus3" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="323" DBName="AGMPk" Articulation="Sus3" RootNote="67" VelLayer="2"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="324" DBName="AGMPk" Articulation="Sus3" RootNote="67" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="325" DBName="AGMPk" Articulation="Sus3" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="326" DBName="AGMPk" Articulation="Sus3" RootNote="68" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="327" DBName="AGMPk" Articulation="Sus3" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="328" DBName="AGMPk" Articulation="Sus3" RootNote="69" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="329" DBName="AGMPk" Articulation="Sus3" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="330" DBName="AGMPk" Articulation="Sus3" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="331" DBName="AGMPk" Articulation="Sus3" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="332" DBName="AGMPk" Articulation="Sus3" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="333" DBName="AGMPk" Articulation="Sus3" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="334" DBName="AGMPk" Articulation="Sus3" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="335" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="336" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="0"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="337" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="0"
+            Cycle="2" Tune="-5" Gain="1"/>
+    <sample ID="338" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="0"
+            Cycle="3" Tune="-5" Gain="1"/>
+    <sample ID="339" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="1"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="340" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="1"
+            Cycle="1" Tune="-6" Gain="1"/>
+    <sample ID="341" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="1"
+            Cycle="2" Tune="-6" Gain="1"/>
+    <sample ID="342" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="1"
+            Cycle="3" Tune="-5" Gain="1"/>
+    <sample ID="343" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="2"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="344" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="345" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="2"
+            Cycle="2" Tune="-5" Gain="1"/>
+    <sample ID="346" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="2"
+            Cycle="3" Tune="-5" Gain="1"/>
+    <sample ID="347" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="348" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="349" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="3"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="350" DBName="AGMPk" Articulation="Sus4" RootNote="50" VelLayer="3"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="351" DBName="AGMPk" Articulation="Sus4" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="352" DBName="AGMPk" Articulation="Sus4" RootNote="51" VelLayer="0"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="353" DBName="AGMPk" Articulation="Sus4" RootNote="51" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="354" DBName="AGMPk" Articulation="Sus4" RootNote="51" VelLayer="1"
+            Cycle="1" Tune="-6" Gain="1"/>
+    <sample ID="355" DBName="AGMPk" Articulation="Sus4" RootNote="51" VelLayer="1"
+            Cycle="2" Tune="-6" Gain="1"/>
+    <sample ID="356" DBName="AGMPk" Articulation="Sus4" RootNote="51" VelLayer="1"
+            Cycle="3" Tune="-7" Gain="1"/>
+    <sample ID="357" DBName="AGMPk" Articulation="Sus4" RootNote="51" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="358" DBName="AGMPk" Articulation="Sus4" RootNote="51" VelLayer="2"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="359" DBName="AGMPk" Articulation="Sus4" RootNote="51" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="360" DBName="AGMPk" Articulation="Sus4" RootNote="51" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="361" DBName="AGMPk" Articulation="Sus4" RootNote="51" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="362" DBName="AGMPk" Articulation="Sus4" RootNote="51" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="363" DBName="AGMPk" Articulation="Sus4" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="364" DBName="AGMPk" Articulation="Sus4" RootNote="52" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="365" DBName="AGMPk" Articulation="Sus4" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="366" DBName="AGMPk" Articulation="Sus4" RootNote="52" VelLayer="1"
+            Cycle="1" Tune="-7" Gain="1"/>
+    <sample ID="367" DBName="AGMPk" Articulation="Sus4" RootNote="52" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="368" DBName="AGMPk" Articulation="Sus4" RootNote="52" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="369" DBName="AGMPk" Articulation="Sus4" RootNote="52" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="370" DBName="AGMPk" Articulation="Sus4" RootNote="52" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="371" DBName="AGMPk" Articulation="Sus4" RootNote="52" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="372" DBName="AGMPk" Articulation="Sus4" RootNote="52" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="373" DBName="AGMPk" Articulation="Sus4" RootNote="52" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="374" DBName="AGMPk" Articulation="Sus4" RootNote="52" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="375" DBName="AGMPk" Articulation="Sus4" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="376" DBName="AGMPk" Articulation="Sus4" RootNote="53" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="377" DBName="AGMPk" Articulation="Sus4" RootNote="53" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="378" DBName="AGMPk" Articulation="Sus4" RootNote="53" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="379" DBName="AGMPk" Articulation="Sus4" RootNote="53" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="380" DBName="AGMPk" Articulation="Sus4" RootNote="53" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="381" DBName="AGMPk" Articulation="Sus4" RootNote="53" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="382" DBName="AGMPk" Articulation="Sus4" RootNote="53" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="383" DBName="AGMPk" Articulation="Sus4" RootNote="53" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="384" DBName="AGMPk" Articulation="Sus4" RootNote="53" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="385" DBName="AGMPk" Articulation="Sus4" RootNote="53" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="386" DBName="AGMPk" Articulation="Sus4" RootNote="53" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="387" DBName="AGMPk" Articulation="Sus4" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="388" DBName="AGMPk" Articulation="Sus4" RootNote="54" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="389" DBName="AGMPk" Articulation="Sus4" RootNote="54" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="390" DBName="AGMPk" Articulation="Sus4" RootNote="54" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="391" DBName="AGMPk" Articulation="Sus4" RootNote="54" VelLayer="1"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="392" DBName="AGMPk" Articulation="Sus4" RootNote="54" VelLayer="1"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="393" DBName="AGMPk" Articulation="Sus4" RootNote="54" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="394" DBName="AGMPk" Articulation="Sus4" RootNote="54" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="395" DBName="AGMPk" Articulation="Sus4" RootNote="54" VelLayer="2"
+            Cycle="2" Tune="0" Gain="1"/>
+    <sample ID="396" DBName="AGMPk" Articulation="Sus4" RootNote="54" VelLayer="2"
+            Cycle="3" Tune="0" Gain="1"/>
+    <sample ID="397" DBName="AGMPk" Articulation="Sus4" RootNote="54" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="398" DBName="AGMPk" Articulation="Sus4" RootNote="54" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="399" DBName="AGMPk" Articulation="Sus4" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="400" DBName="AGMPk" Articulation="Sus4" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="401" DBName="AGMPk" Articulation="Sus4" RootNote="55" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="402" DBName="AGMPk" Articulation="Sus4" RootNote="55" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="403" DBName="AGMPk" Articulation="Sus4" RootNote="55" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="404" DBName="AGMPk" Articulation="Sus4" RootNote="55" VelLayer="3"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="405" DBName="AGMPk" Articulation="Sus4" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="406" DBName="AGMPk" Articulation="Sus4" RootNote="56" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="407" DBName="AGMPk" Articulation="Sus4" RootNote="56" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="408" DBName="AGMPk" Articulation="Sus4" RootNote="56" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="409" DBName="AGMPk" Articulation="Sus4" RootNote="56" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="410" DBName="AGMPk" Articulation="Sus4" RootNote="56" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="411" DBName="AGMPk" Articulation="Sus4" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="412" DBName="AGMPk" Articulation="Sus4" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="413" DBName="AGMPk" Articulation="Sus4" RootNote="57" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="414" DBName="AGMPk" Articulation="Sus4" RootNote="57" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="415" DBName="AGMPk" Articulation="Sus4" RootNote="57" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="416" DBName="AGMPk" Articulation="Sus4" RootNote="57" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="417" DBName="AGMPk" Articulation="Sus4" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="418" DBName="AGMPk" Articulation="Sus4" RootNote="58" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="419" DBName="AGMPk" Articulation="Sus4" RootNote="58" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="420" DBName="AGMPk" Articulation="Sus4" RootNote="58" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="421" DBName="AGMPk" Articulation="Sus4" RootNote="58" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="422" DBName="AGMPk" Articulation="Sus4" RootNote="58" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="423" DBName="AGMPk" Articulation="Sus4" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="424" DBName="AGMPk" Articulation="Sus4" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="425" DBName="AGMPk" Articulation="Sus4" RootNote="59" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="426" DBName="AGMPk" Articulation="Sus4" RootNote="59" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="427" DBName="AGMPk" Articulation="Sus4" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="428" DBName="AGMPk" Articulation="Sus4" RootNote="60" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="429" DBName="AGMPk" Articulation="Sus4" RootNote="60" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="430" DBName="AGMPk" Articulation="Sus4" RootNote="60" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="431" DBName="AGMPk" Articulation="Sus4" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="432" DBName="AGMPk" Articulation="Sus4" RootNote="61" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="433" DBName="AGMPk" Articulation="Sus4" RootNote="61" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="434" DBName="AGMPk" Articulation="Sus4" RootNote="61" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="435" DBName="AGMPk" Articulation="Sus4" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="436" DBName="AGMPk" Articulation="Sus4" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="437" DBName="AGMPk" Articulation="Sus4" RootNote="62" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="438" DBName="AGMPk" Articulation="Sus4" RootNote="62" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="439" DBName="AGMPk" Articulation="Sus4" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="440" DBName="AGMPk" Articulation="Sus4" RootNote="63" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="441" DBName="AGMPk" Articulation="Sus4" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="442" DBName="AGMPk" Articulation="Sus4" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="443" DBName="AGMPk" Articulation="Sus4" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="444" DBName="AGMPk" Articulation="Sus4" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="445" DBName="AGMPk" Articulation="Sus4" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="446" DBName="AGMPk" Articulation="Sus4" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="447" DBName="AGMPk" Articulation="Sus4" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="8" Gain="1"/>
+    <sample ID="448" DBName="AGMPk" Articulation="Sus4" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="449" DBName="AGMPk" Articulation="Sus5" RootNote="45" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="450" DBName="AGMPk" Articulation="Sus5" RootNote="45" VelLayer="0"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="451" DBName="AGMPk" Articulation="Sus5" RootNote="45" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="452" DBName="AGMPk" Articulation="Sus5" RootNote="45" VelLayer="1"
+            Cycle="1" Tune="-6" Gain="1"/>
+    <sample ID="453" DBName="AGMPk" Articulation="Sus5" RootNote="45" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="454" DBName="AGMPk" Articulation="Sus5" RootNote="45" VelLayer="2"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="455" DBName="AGMPk" Articulation="Sus5" RootNote="45" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="456" DBName="AGMPk" Articulation="Sus5" RootNote="45" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="457" DBName="AGMPk" Articulation="Sus5" RootNote="46" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="458" DBName="AGMPk" Articulation="Sus5" RootNote="46" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="459" DBName="AGMPk" Articulation="Sus5" RootNote="46" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="460" DBName="AGMPk" Articulation="Sus5" RootNote="46" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="461" DBName="AGMPk" Articulation="Sus5" RootNote="46" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="462" DBName="AGMPk" Articulation="Sus5" RootNote="46" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="463" DBName="AGMPk" Articulation="Sus5" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="464" DBName="AGMPk" Articulation="Sus5" RootNote="47" VelLayer="1"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="465" DBName="AGMPk" Articulation="Sus5" RootNote="47" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="466" DBName="AGMPk" Articulation="Sus5" RootNote="47" VelLayer="2"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="467" DBName="AGMPk" Articulation="Sus5" RootNote="47" VelLayer="2"
+            Cycle="1" Tune="-6" Gain="1"/>
+    <sample ID="468" DBName="AGMPk" Articulation="Sus5" RootNote="47" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="469" DBName="AGMPk" Articulation="Sus5" RootNote="48" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="470" DBName="AGMPk" Articulation="Sus5" RootNote="48" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="471" DBName="AGMPk" Articulation="Sus5" RootNote="48" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="472" DBName="AGMPk" Articulation="Sus5" RootNote="48" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="473" DBName="AGMPk" Articulation="Sus5" RootNote="48" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="474" DBName="AGMPk" Articulation="Sus5" RootNote="48" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="475" DBName="AGMPk" Articulation="Sus5" RootNote="49" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="476" DBName="AGMPk" Articulation="Sus5" RootNote="49" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="477" DBName="AGMPk" Articulation="Sus5" RootNote="49" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="478" DBName="AGMPk" Articulation="Sus5" RootNote="49" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="479" DBName="AGMPk" Articulation="Sus5" RootNote="49" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="480" DBName="AGMPk" Articulation="Sus5" RootNote="49" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="481" DBName="AGMPk" Articulation="Sus5" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="482" DBName="AGMPk" Articulation="Sus5" RootNote="50" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="483" DBName="AGMPk" Articulation="Sus5" RootNote="50" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="484" DBName="AGMPk" Articulation="Sus5" RootNote="50" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="485" DBName="AGMPk" Articulation="Sus5" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="486" DBName="AGMPk" Articulation="Sus5" RootNote="51" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="487" DBName="AGMPk" Articulation="Sus5" RootNote="51" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="488" DBName="AGMPk" Articulation="Sus5" RootNote="51" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="489" DBName="AGMPk" Articulation="Sus5" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="490" DBName="AGMPk" Articulation="Sus5" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="491" DBName="AGMPk" Articulation="Sus5" RootNote="52" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="492" DBName="AGMPk" Articulation="Sus5" RootNote="52" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="493" DBName="AGMPk" Articulation="Sus5" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="494" DBName="AGMPk" Articulation="Sus5" RootNote="53" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="495" DBName="AGMPk" Articulation="Sus5" RootNote="53" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="496" DBName="AGMPk" Articulation="Sus5" RootNote="53" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="497" DBName="AGMPk" Articulation="Sus5" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="498" DBName="AGMPk" Articulation="Sus5" RootNote="54" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="499" DBName="AGMPk" Articulation="Sus5" RootNote="54" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="500" DBName="AGMPk" Articulation="Sus5" RootNote="54" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="501" DBName="AGMPk" Articulation="Sus5" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="502" DBName="AGMPk" Articulation="Sus5" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="503" DBName="AGMPk" Articulation="Sus5" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="504" DBName="AGMPk" Articulation="Sus5" RootNote="56" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="505" DBName="AGMPk" Articulation="Sus5" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="506" DBName="AGMPk" Articulation="Sus5" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="507" DBName="AGMPk" Articulation="Sus5" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="508" DBName="AGMPk" Articulation="Sus5" RootNote="58" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="509" DBName="AGMPk" Articulation="Sus5" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="510" DBName="AGMPk" Articulation="Sus5" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="511" DBName="AGMPk" Articulation="Sus5" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="512" DBName="AGMPk" Articulation="Sus5" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="8" Gain="1"/>
+    <sample ID="513" DBName="AGMPk" Articulation="Sus5" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="514" DBName="AGMPk" Articulation="Sus5" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="515" DBName="AGMPk" Articulation="Sus5" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="516" DBName="AGMPk" Articulation="Sus6" RootNote="40" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="517" DBName="AGMPk" Articulation="Sus6" RootNote="40" VelLayer="0"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="518" DBName="AGMPk" Articulation="Sus6" RootNote="40" VelLayer="1"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="519" DBName="AGMPk" Articulation="Sus6" RootNote="40" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="520" DBName="AGMPk" Articulation="Sus6" RootNote="40" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="521" DBName="AGMPk" Articulation="Sus6" RootNote="40" VelLayer="2"
+            Cycle="1" Tune="-11" Gain="1"/>
+    <sample ID="522" DBName="AGMPk" Articulation="Sus6" RootNote="40" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="523" DBName="AGMPk" Articulation="Sus6" RootNote="40" VelLayer="3"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="524" DBName="AGMPk" Articulation="Sus6" RootNote="41" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="525" DBName="AGMPk" Articulation="Sus6" RootNote="41" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="526" DBName="AGMPk" Articulation="Sus6" RootNote="41" VelLayer="1"
+            Cycle="1" Tune="-9" Gain="1"/>
+    <sample ID="527" DBName="AGMPk" Articulation="Sus6" RootNote="41" VelLayer="2"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="528" DBName="AGMPk" Articulation="Sus6" RootNote="41" VelLayer="2"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="529" DBName="AGMPk" Articulation="Sus6" RootNote="41" VelLayer="3"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="530" DBName="AGMPk" Articulation="Sus6" RootNote="42" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="531" DBName="AGMPk" Articulation="Sus6" RootNote="42" VelLayer="1"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="532" DBName="AGMPk" Articulation="Sus6" RootNote="42" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="533" DBName="AGMPk" Articulation="Sus6" RootNote="42" VelLayer="2"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="534" DBName="AGMPk" Articulation="Sus6" RootNote="42" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="535" DBName="AGMPk" Articulation="Sus6" RootNote="42" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="536" DBName="AGMPk" Articulation="Sus6" RootNote="43" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="537" DBName="AGMPk" Articulation="Sus6" RootNote="43" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="538" DBName="AGMPk" Articulation="Sus6" RootNote="43" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="539" DBName="AGMPk" Articulation="Sus6" RootNote="43" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="540" DBName="AGMPk" Articulation="Sus6" RootNote="43" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="541" DBName="AGMPk" Articulation="Sus6" RootNote="43" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="542" DBName="AGMPk" Articulation="Sus6" RootNote="44" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="543" DBName="AGMPk" Articulation="Sus6" RootNote="44" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="544" DBName="AGMPk" Articulation="Sus6" RootNote="44" VelLayer="1"
+            Cycle="1" Tune="5" Gain="1"/>
+    <sample ID="545" DBName="AGMPk" Articulation="Sus6" RootNote="44" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="546" DBName="AGMPk" Articulation="Sus6" RootNote="44" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="547" DBName="AGMPk" Articulation="Sus6" RootNote="44" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="548" DBName="AGMPk" Articulation="Sus6" RootNote="45" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="549" DBName="AGMPk" Articulation="Sus6" RootNote="45" VelLayer="1"
+            Cycle="0" Tune="7" Gain="1"/>
+    <sample ID="550" DBName="AGMPk" Articulation="Sus6" RootNote="45" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="551" DBName="AGMPk" Articulation="Sus6" RootNote="45" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="552" DBName="AGMPk" Articulation="Sus6" RootNote="46" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="553" DBName="AGMPk" Articulation="Sus6" RootNote="46" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="554" DBName="AGMPk" Articulation="Sus6" RootNote="46" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="555" DBName="AGMPk" Articulation="Sus6" RootNote="46" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="556" DBName="AGMPk" Articulation="Sus6" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="557" DBName="AGMPk" Articulation="Sus6" RootNote="47" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="558" DBName="AGMPk" Articulation="Sus6" RootNote="47" VelLayer="2"
+            Cycle="0" Tune="-13" Gain="1"/>
+    <sample ID="559" DBName="AGMPk" Articulation="Sus6" RootNote="47" VelLayer="3"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="560" DBName="AGMPk" Articulation="Sus6" RootNote="48" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="561" DBName="AGMPk" Articulation="Sus6" RootNote="48" VelLayer="1"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="562" DBName="AGMPk" Articulation="Sus6" RootNote="48" VelLayer="2"
+            Cycle="0" Tune="5" Gain="1"/>
+    <sample ID="563" DBName="AGMPk" Articulation="Sus6" RootNote="48" VelLayer="3"
+            Cycle="0" Tune="6" Gain="1"/>
+    <sample ID="564" DBName="AGMPk" Articulation="Sus6" RootNote="49" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="565" DBName="AGMPk" Articulation="Sus6" RootNote="49" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="566" DBName="AGMPk" Articulation="Sus6" RootNote="49" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="567" DBName="AGMPk" Articulation="Sus6" RootNote="49" VelLayer="3"
+            Cycle="0" Tune="9" Gain="1"/>
+    <sample ID="568" DBName="AGMPk" Articulation="Sus6" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="569" DBName="AGMPk" Articulation="Sus6" RootNote="50" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="570" DBName="AGMPk" Articulation="Sus6" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="571" DBName="AGMPk" Articulation="Sus6" RootNote="51" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="572" DBName="AGMPk" Articulation="Sus6" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="11" Gain="1"/>
+    <sample ID="573" DBName="AGMPk" Articulation="Sus6" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="12" Gain="1"/>
+    <sample ID="574" DBName="AGMPk" Articulation="Sus6" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="575" DBName="AGMPk" Articulation="Sus6" RootNote="53" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="576" DBName="AGMPk" Articulation="Sus6" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="577" DBName="AGMPk" Articulation="Sus6" RootNote="54" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="578" DBName="AGMPk" Articulation="Sus6" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="-16" Gain="1"/>
+    <sample ID="579" DBName="AGMPk" Articulation="Sus6" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="580" DBName="AGMPk" Articulation="Sus6" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="581" DBName="AGMPk" Articulation="Sus6" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="6" Gain="1"/>
+    <sample ID="582" DBName="AGMPk" Articulation="Sus6" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="-15" Gain="1"/>
+    <sample ID="583" DBName="AGMPk" Articulation="Sus6" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="584" DBName="AGMPk" Articulation="NH1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="585" DBName="AGMPk" Articulation="NH1" RootNote="71" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="586" DBName="AGMPk" Articulation="NH1" RootNote="71" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="587" DBName="AGMPk" Articulation="NH1" RootNote="71" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="588" DBName="AGMPk" Articulation="NH1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="589" DBName="AGMPk" Articulation="NH1" RootNote="76" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="590" DBName="AGMPk" Articulation="NH1" RootNote="76" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="591" DBName="AGMPk" Articulation="NH1" RootNote="76" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="592" DBName="AGMPk" Articulation="NH2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="593" DBName="AGMPk" Articulation="NH2" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="594" DBName="AGMPk" Articulation="NH2" RootNote="66" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="595" DBName="AGMPk" Articulation="NH2" RootNote="66" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="596" DBName="AGMPk" Articulation="NH2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="597" DBName="AGMPk" Articulation="NH2" RootNote="71" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="598" DBName="AGMPk" Articulation="NH2" RootNote="71" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="599" DBName="AGMPk" Articulation="NH2" RootNote="71" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="600" DBName="AGMPk" Articulation="NH3" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="601" DBName="AGMPk" Articulation="NH3" RootNote="60" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="602" DBName="AGMPk" Articulation="NH3" RootNote="60" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="603" DBName="AGMPk" Articulation="NH3" RootNote="60" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="604" DBName="AGMPk" Articulation="NH3" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="605" DBName="AGMPk" Articulation="NH3" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="606" DBName="AGMPk" Articulation="NH3" RootNote="62" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="607" DBName="AGMPk" Articulation="NH3" RootNote="62" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="608" DBName="AGMPk" Articulation="NH3" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="609" DBName="AGMPk" Articulation="NH3" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="610" DBName="AGMPk" Articulation="NH3" RootNote="67" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="611" DBName="AGMPk" Articulation="NH3" RootNote="67" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="612" DBName="AGMPk" Articulation="NH4" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="613" DBName="AGMPk" Articulation="NH4" RootNote="53" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="614" DBName="AGMPk" Articulation="NH4" RootNote="53" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="615" DBName="AGMPk" Articulation="NH4" RootNote="53" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="616" DBName="AGMPk" Articulation="NH4" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="617" DBName="AGMPk" Articulation="NH4" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="618" DBName="AGMPk" Articulation="NH4" RootNote="57" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="619" DBName="AGMPk" Articulation="NH4" RootNote="57" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="620" DBName="AGMPk" Articulation="NH4" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="621" DBName="AGMPk" Articulation="NH4" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="622" DBName="AGMPk" Articulation="NH4" RootNote="62" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="623" DBName="AGMPk" Articulation="NH4" RootNote="62" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="624" DBName="AGMPk" Articulation="NH5" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="625" DBName="AGMPk" Articulation="NH5" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="626" DBName="AGMPk" Articulation="NH5" RootNote="52" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="627" DBName="AGMPk" Articulation="NH5" RootNote="52" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="628" DBName="AGMPk" Articulation="NH5" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="629" DBName="AGMPk" Articulation="NH5" RootNote="54" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="630" DBName="AGMPk" Articulation="NH5" RootNote="54" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="631" DBName="AGMPk" Articulation="NH5" RootNote="54" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="632" DBName="AGMPk" Articulation="NH5" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="633" DBName="AGMPk" Articulation="NH5" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="634" DBName="AGMPk" Articulation="NH5" RootNote="57" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="635" DBName="AGMPk" Articulation="NH5" RootNote="57" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="636" DBName="AGMPk" Articulation="NH6" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="637" DBName="AGMPk" Articulation="NH6" RootNote="47" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="638" DBName="AGMPk" Articulation="NH6" RootNote="47" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="639" DBName="AGMPk" Articulation="NH6" RootNote="47" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="640" DBName="AGMPk" Articulation="NH6" RootNote="49" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="641" DBName="AGMPk" Articulation="NH6" RootNote="49" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="642" DBName="AGMPk" Articulation="NH6" RootNote="49" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="643" DBName="AGMPk" Articulation="NH6" RootNote="49" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="644" DBName="AGMPk" Articulation="NH6" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="645" DBName="AGMPk" Articulation="NH6" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="646" DBName="AGMPk" Articulation="NH6" RootNote="52" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="647" DBName="AGMPk" Articulation="NH6" RootNote="52" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="648" DBName="AGMPk" Articulation="PM1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="649" DBName="AGMPk" Articulation="PM1" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="650" DBName="AGMPk" Articulation="PM1" RootNote="64" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="651" DBName="AGMPk" Articulation="PM1" RootNote="64" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="652" DBName="AGMPk" Articulation="PM1" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="653" DBName="AGMPk" Articulation="PM1" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="654" DBName="AGMPk" Articulation="PM1" RootNote="65" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="655" DBName="AGMPk" Articulation="PM1" RootNote="65" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="656" DBName="AGMPk" Articulation="PM1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="657" DBName="AGMPk" Articulation="PM1" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="658" DBName="AGMPk" Articulation="PM1" RootNote="66" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="659" DBName="AGMPk" Articulation="PM1" RootNote="66" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="660" DBName="AGMPk" Articulation="PM1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="661" DBName="AGMPk" Articulation="PM1" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="662" DBName="AGMPk" Articulation="PM1" RootNote="67" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="663" DBName="AGMPk" Articulation="PM1" RootNote="67" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="664" DBName="AGMPk" Articulation="PM1" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="665" DBName="AGMPk" Articulation="PM1" RootNote="68" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="666" DBName="AGMPk" Articulation="PM1" RootNote="68" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="667" DBName="AGMPk" Articulation="PM1" RootNote="68" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="668" DBName="AGMPk" Articulation="PM1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="669" DBName="AGMPk" Articulation="PM1" RootNote="69" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="670" DBName="AGMPk" Articulation="PM1" RootNote="69" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="671" DBName="AGMPk" Articulation="PM1" RootNote="69" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="672" DBName="AGMPk" Articulation="PM1" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="673" DBName="AGMPk" Articulation="PM1" RootNote="70" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="674" DBName="AGMPk" Articulation="PM1" RootNote="70" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="675" DBName="AGMPk" Articulation="PM1" RootNote="70" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="676" DBName="AGMPk" Articulation="PM1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="677" DBName="AGMPk" Articulation="PM1" RootNote="71" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="678" DBName="AGMPk" Articulation="PM1" RootNote="71" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="679" DBName="AGMPk" Articulation="PM1" RootNote="71" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="680" DBName="AGMPk" Articulation="PM1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="681" DBName="AGMPk" Articulation="PM1" RootNote="72" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="682" DBName="AGMPk" Articulation="PM1" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="683" DBName="AGMPk" Articulation="PM1" RootNote="73" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="684" DBName="AGMPk" Articulation="PM1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="685" DBName="AGMPk" Articulation="PM1" RootNote="74" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="686" DBName="AGMPk" Articulation="PM1" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="687" DBName="AGMPk" Articulation="PM1" RootNote="75" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="688" DBName="AGMPk" Articulation="PM1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="689" DBName="AGMPk" Articulation="PM1" RootNote="76" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="690" DBName="AGMPk" Articulation="PM1" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="691" DBName="AGMPk" Articulation="PM1" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="692" DBName="AGMPk" Articulation="PM1" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="693" DBName="AGMPk" Articulation="PM1" RootNote="80" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="694" DBName="AGMPk" Articulation="PM1" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="695" DBName="AGMPk" Articulation="PM1" RootNote="82" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="696" DBName="AGMPk" Articulation="PM1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="697" DBName="AGMPk" Articulation="PM1" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="698" DBName="AGMPk" Articulation="PM2" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="699" DBName="AGMPk" Articulation="PM2" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="700" DBName="AGMPk" Articulation="PM2" RootNote="59" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="701" DBName="AGMPk" Articulation="PM2" RootNote="59" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="702" DBName="AGMPk" Articulation="PM2" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="703" DBName="AGMPk" Articulation="PM2" RootNote="60" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="704" DBName="AGMPk" Articulation="PM2" RootNote="60" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="705" DBName="AGMPk" Articulation="PM2" RootNote="60" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="706" DBName="AGMPk" Articulation="PM2" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="707" DBName="AGMPk" Articulation="PM2" RootNote="61" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="708" DBName="AGMPk" Articulation="PM2" RootNote="61" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="709" DBName="AGMPk" Articulation="PM2" RootNote="61" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="710" DBName="AGMPk" Articulation="PM2" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="711" DBName="AGMPk" Articulation="PM2" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="712" DBName="AGMPk" Articulation="PM2" RootNote="62" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="713" DBName="AGMPk" Articulation="PM2" RootNote="62" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="714" DBName="AGMPk" Articulation="PM2" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="715" DBName="AGMPk" Articulation="PM2" RootNote="63" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="716" DBName="AGMPk" Articulation="PM2" RootNote="63" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="717" DBName="AGMPk" Articulation="PM2" RootNote="63" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="718" DBName="AGMPk" Articulation="PM2" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="719" DBName="AGMPk" Articulation="PM2" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="720" DBName="AGMPk" Articulation="PM2" RootNote="64" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="721" DBName="AGMPk" Articulation="PM2" RootNote="64" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="722" DBName="AGMPk" Articulation="PM2" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="723" DBName="AGMPk" Articulation="PM2" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="724" DBName="AGMPk" Articulation="PM2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="725" DBName="AGMPk" Articulation="PM2" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="726" DBName="AGMPk" Articulation="PM2" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="727" DBName="AGMPk" Articulation="PM2" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="728" DBName="AGMPk" Articulation="PM2" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="729" DBName="AGMPk" Articulation="PM2" RootNote="68" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="730" DBName="AGMPk" Articulation="PM2" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="731" DBName="AGMPk" Articulation="PM2" RootNote="69" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="732" DBName="AGMPk" Articulation="PM2" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="733" DBName="AGMPk" Articulation="PM2" RootNote="70" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="734" DBName="AGMPk" Articulation="PM2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="735" DBName="AGMPk" Articulation="PM2" RootNote="71" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="736" DBName="AGMPk" Articulation="PM2" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="737" DBName="AGMPk" Articulation="PM2" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="738" DBName="AGMPk" Articulation="PM2" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="739" DBName="AGMPk" Articulation="PM2" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="740" DBName="AGMPk" Articulation="PM2" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="741" DBName="AGMPk" Articulation="PM2" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="742" DBName="AGMPk" Articulation="PM2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="743" DBName="AGMPk" Articulation="PM2" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="744" DBName="AGMPk" Articulation="PM3" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="745" DBName="AGMPk" Articulation="PM3" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="746" DBName="AGMPk" Articulation="PM3" RootNote="55" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="747" DBName="AGMPk" Articulation="PM3" RootNote="55" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="748" DBName="AGMPk" Articulation="PM3" RootNote="55" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="749" DBName="AGMPk" Articulation="PM3" RootNote="55" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="750" DBName="AGMPk" Articulation="PM3" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="751" DBName="AGMPk" Articulation="PM3" RootNote="56" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="752" DBName="AGMPk" Articulation="PM3" RootNote="56" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="753" DBName="AGMPk" Articulation="PM3" RootNote="56" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="754" DBName="AGMPk" Articulation="PM3" RootNote="56" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="755" DBName="AGMPk" Articulation="PM3" RootNote="56" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="756" DBName="AGMPk" Articulation="PM3" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="757" DBName="AGMPk" Articulation="PM3" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="758" DBName="AGMPk" Articulation="PM3" RootNote="57" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="759" DBName="AGMPk" Articulation="PM3" RootNote="57" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="760" DBName="AGMPk" Articulation="PM3" RootNote="57" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="761" DBName="AGMPk" Articulation="PM3" RootNote="57" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="762" DBName="AGMPk" Articulation="PM3" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="763" DBName="AGMPk" Articulation="PM3" RootNote="58" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="764" DBName="AGMPk" Articulation="PM3" RootNote="58" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="765" DBName="AGMPk" Articulation="PM3" RootNote="58" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="766" DBName="AGMPk" Articulation="PM3" RootNote="58" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="767" DBName="AGMPk" Articulation="PM3" RootNote="58" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="768" DBName="AGMPk" Articulation="PM3" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="769" DBName="AGMPk" Articulation="PM3" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="770" DBName="AGMPk" Articulation="PM3" RootNote="59" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="771" DBName="AGMPk" Articulation="PM3" RootNote="59" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="772" DBName="AGMPk" Articulation="PM3" RootNote="59" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="773" DBName="AGMPk" Articulation="PM3" RootNote="59" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="774" DBName="AGMPk" Articulation="PM3" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="775" DBName="AGMPk" Articulation="PM3" RootNote="60" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="776" DBName="AGMPk" Articulation="PM3" RootNote="60" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="777" DBName="AGMPk" Articulation="PM3" RootNote="60" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="778" DBName="AGMPk" Articulation="PM3" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="779" DBName="AGMPk" Articulation="PM3" RootNote="61" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="780" DBName="AGMPk" Articulation="PM3" RootNote="61" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="781" DBName="AGMPk" Articulation="PM3" RootNote="61" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="782" DBName="AGMPk" Articulation="PM3" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="783" DBName="AGMPk" Articulation="PM3" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="784" DBName="AGMPk" Articulation="PM3" RootNote="62" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="785" DBName="AGMPk" Articulation="PM3" RootNote="62" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="786" DBName="AGMPk" Articulation="PM3" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="787" DBName="AGMPk" Articulation="PM3" RootNote="63" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="788" DBName="AGMPk" Articulation="PM3" RootNote="63" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="789" DBName="AGMPk" Articulation="PM3" RootNote="63" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="790" DBName="AGMPk" Articulation="PM3" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="791" DBName="AGMPk" Articulation="PM3" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="792" DBName="AGMPk" Articulation="PM3" RootNote="64" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="793" DBName="AGMPk" Articulation="PM3" RootNote="64" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="794" DBName="AGMPk" Articulation="PM3" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="795" DBName="AGMPk" Articulation="PM3" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="796" DBName="AGMPk" Articulation="PM3" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="797" DBName="AGMPk" Articulation="PM3" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="798" DBName="AGMPk" Articulation="PM3" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="799" DBName="AGMPk" Articulation="PM3" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="800" DBName="AGMPk" Articulation="PM3" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="801" DBName="AGMPk" Articulation="PM3" RootNote="68" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="802" DBName="AGMPk" Articulation="PM3" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="803" DBName="AGMPk" Articulation="PM3" RootNote="69" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="804" DBName="AGMPk" Articulation="PM3" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="805" DBName="AGMPk" Articulation="PM3" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="806" DBName="AGMPk" Articulation="PM3" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="807" DBName="AGMPk" Articulation="PM3" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="808" DBName="AGMPk" Articulation="PM3" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="809" DBName="AGMPk" Articulation="PM3" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="810" DBName="AGMPk" Articulation="PM4" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="811" DBName="AGMPk" Articulation="PM4" RootNote="50" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="812" DBName="AGMPk" Articulation="PM4" RootNote="50" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="813" DBName="AGMPk" Articulation="PM4" RootNote="50" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="814" DBName="AGMPk" Articulation="PM4" RootNote="50" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="815" DBName="AGMPk" Articulation="PM4" RootNote="50" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="816" DBName="AGMPk" Articulation="PM4" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="817" DBName="AGMPk" Articulation="PM4" RootNote="51" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="818" DBName="AGMPk" Articulation="PM4" RootNote="51" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="819" DBName="AGMPk" Articulation="PM4" RootNote="51" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="820" DBName="AGMPk" Articulation="PM4" RootNote="51" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="821" DBName="AGMPk" Articulation="PM4" RootNote="51" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="822" DBName="AGMPk" Articulation="PM4" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="823" DBName="AGMPk" Articulation="PM4" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="824" DBName="AGMPk" Articulation="PM4" RootNote="52" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="825" DBName="AGMPk" Articulation="PM4" RootNote="52" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="826" DBName="AGMPk" Articulation="PM4" RootNote="52" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="827" DBName="AGMPk" Articulation="PM4" RootNote="52" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="828" DBName="AGMPk" Articulation="PM4" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="829" DBName="AGMPk" Articulation="PM4" RootNote="53" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="830" DBName="AGMPk" Articulation="PM4" RootNote="53" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="831" DBName="AGMPk" Articulation="PM4" RootNote="53" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="832" DBName="AGMPk" Articulation="PM4" RootNote="53" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="833" DBName="AGMPk" Articulation="PM4" RootNote="53" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="834" DBName="AGMPk" Articulation="PM4" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="835" DBName="AGMPk" Articulation="PM4" RootNote="54" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="836" DBName="AGMPk" Articulation="PM4" RootNote="54" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="837" DBName="AGMPk" Articulation="PM4" RootNote="54" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="838" DBName="AGMPk" Articulation="PM4" RootNote="54" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="839" DBName="AGMPk" Articulation="PM4" RootNote="54" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="840" DBName="AGMPk" Articulation="PM4" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="841" DBName="AGMPk" Articulation="PM4" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="842" DBName="AGMPk" Articulation="PM4" RootNote="55" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="843" DBName="AGMPk" Articulation="PM4" RootNote="55" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="844" DBName="AGMPk" Articulation="PM4" RootNote="55" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="845" DBName="AGMPk" Articulation="PM4" RootNote="55" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="846" DBName="AGMPk" Articulation="PM4" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="847" DBName="AGMPk" Articulation="PM4" RootNote="56" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="848" DBName="AGMPk" Articulation="PM4" RootNote="56" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="849" DBName="AGMPk" Articulation="PM4" RootNote="56" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="850" DBName="AGMPk" Articulation="PM4" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="851" DBName="AGMPk" Articulation="PM4" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="852" DBName="AGMPk" Articulation="PM4" RootNote="57" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="853" DBName="AGMPk" Articulation="PM4" RootNote="57" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="854" DBName="AGMPk" Articulation="PM4" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="855" DBName="AGMPk" Articulation="PM4" RootNote="58" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="856" DBName="AGMPk" Articulation="PM4" RootNote="58" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="857" DBName="AGMPk" Articulation="PM4" RootNote="58" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="858" DBName="AGMPk" Articulation="PM4" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="859" DBName="AGMPk" Articulation="PM4" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="860" DBName="AGMPk" Articulation="PM4" RootNote="59" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="861" DBName="AGMPk" Articulation="PM4" RootNote="59" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="862" DBName="AGMPk" Articulation="PM4" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="863" DBName="AGMPk" Articulation="PM4" RootNote="60" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="864" DBName="AGMPk" Articulation="PM4" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="865" DBName="AGMPk" Articulation="PM4" RootNote="61" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="866" DBName="AGMPk" Articulation="PM4" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="867" DBName="AGMPk" Articulation="PM4" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="868" DBName="AGMPk" Articulation="PM4" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="869" DBName="AGMPk" Articulation="PM4" RootNote="63" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="870" DBName="AGMPk" Articulation="PM4" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="871" DBName="AGMPk" Articulation="PM4" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="872" DBName="AGMPk" Articulation="PM4" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="873" DBName="AGMPk" Articulation="PM4" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="874" DBName="AGMPk" Articulation="PM4" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="875" DBName="AGMPk" Articulation="PM4" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="876" DBName="AGMPk" Articulation="PM4" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="877" DBName="AGMPk" Articulation="PM4" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="878" DBName="AGMPk" Articulation="PM5" RootNote="45" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="879" DBName="AGMPk" Articulation="PM5" RootNote="45" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="880" DBName="AGMPk" Articulation="PM5" RootNote="45" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="881" DBName="AGMPk" Articulation="PM5" RootNote="45" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="882" DBName="AGMPk" Articulation="PM5" RootNote="45" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="883" DBName="AGMPk" Articulation="PM5" RootNote="45" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="884" DBName="AGMPk" Articulation="PM5" RootNote="46" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="885" DBName="AGMPk" Articulation="PM5" RootNote="46" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="886" DBName="AGMPk" Articulation="PM5" RootNote="46" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="887" DBName="AGMPk" Articulation="PM5" RootNote="46" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="888" DBName="AGMPk" Articulation="PM5" RootNote="46" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="889" DBName="AGMPk" Articulation="PM5" RootNote="46" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="890" DBName="AGMPk" Articulation="PM5" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="891" DBName="AGMPk" Articulation="PM5" RootNote="47" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="892" DBName="AGMPk" Articulation="PM5" RootNote="47" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="893" DBName="AGMPk" Articulation="PM5" RootNote="47" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="894" DBName="AGMPk" Articulation="PM5" RootNote="47" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="895" DBName="AGMPk" Articulation="PM5" RootNote="47" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="896" DBName="AGMPk" Articulation="PM5" RootNote="48" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="897" DBName="AGMPk" Articulation="PM5" RootNote="48" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="898" DBName="AGMPk" Articulation="PM5" RootNote="48" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="899" DBName="AGMPk" Articulation="PM5" RootNote="48" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="900" DBName="AGMPk" Articulation="PM5" RootNote="48" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="901" DBName="AGMPk" Articulation="PM5" RootNote="48" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="902" DBName="AGMPk" Articulation="PM5" RootNote="49" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="903" DBName="AGMPk" Articulation="PM5" RootNote="49" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="904" DBName="AGMPk" Articulation="PM5" RootNote="49" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="905" DBName="AGMPk" Articulation="PM5" RootNote="49" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="906" DBName="AGMPk" Articulation="PM5" RootNote="49" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="907" DBName="AGMPk" Articulation="PM5" RootNote="49" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="908" DBName="AGMPk" Articulation="PM5" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="909" DBName="AGMPk" Articulation="PM5" RootNote="50" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="910" DBName="AGMPk" Articulation="PM5" RootNote="50" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="911" DBName="AGMPk" Articulation="PM5" RootNote="50" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="912" DBName="AGMPk" Articulation="PM5" RootNote="50" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="913" DBName="AGMPk" Articulation="PM5" RootNote="50" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="914" DBName="AGMPk" Articulation="PM5" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="915" DBName="AGMPk" Articulation="PM5" RootNote="51" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="916" DBName="AGMPk" Articulation="PM5" RootNote="51" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="917" DBName="AGMPk" Articulation="PM5" RootNote="51" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="918" DBName="AGMPk" Articulation="PM5" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="919" DBName="AGMPk" Articulation="PM5" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="920" DBName="AGMPk" Articulation="PM5" RootNote="52" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="921" DBName="AGMPk" Articulation="PM5" RootNote="52" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="922" DBName="AGMPk" Articulation="PM5" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="923" DBName="AGMPk" Articulation="PM5" RootNote="53" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="924" DBName="AGMPk" Articulation="PM5" RootNote="53" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="925" DBName="AGMPk" Articulation="PM5" RootNote="53" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="926" DBName="AGMPk" Articulation="PM5" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="927" DBName="AGMPk" Articulation="PM5" RootNote="54" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="928" DBName="AGMPk" Articulation="PM5" RootNote="54" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="929" DBName="AGMPk" Articulation="PM5" RootNote="54" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="930" DBName="AGMPk" Articulation="PM5" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="931" DBName="AGMPk" Articulation="PM5" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="932" DBName="AGMPk" Articulation="PM5" RootNote="55" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="933" DBName="AGMPk" Articulation="PM5" RootNote="55" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="934" DBName="AGMPk" Articulation="PM5" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="935" DBName="AGMPk" Articulation="PM5" RootNote="56" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="936" DBName="AGMPk" Articulation="PM5" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="937" DBName="AGMPk" Articulation="PM5" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="938" DBName="AGMPk" Articulation="PM5" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="939" DBName="AGMPk" Articulation="PM5" RootNote="58" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="940" DBName="AGMPk" Articulation="PM5" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="941" DBName="AGMPk" Articulation="PM5" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="942" DBName="AGMPk" Articulation="PM5" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="943" DBName="AGMPk" Articulation="PM5" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="944" DBName="AGMPk" Articulation="PM5" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="945" DBName="AGMPk" Articulation="PM5" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="946" DBName="AGMPk" Articulation="PM5" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="947" DBName="AGMPk" Articulation="PM5" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="948" DBName="AGMPk" Articulation="PM6" RootNote="40" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="949" DBName="AGMPk" Articulation="PM6" RootNote="40" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="950" DBName="AGMPk" Articulation="PM6" RootNote="40" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="951" DBName="AGMPk" Articulation="PM6" RootNote="40" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="952" DBName="AGMPk" Articulation="PM6" RootNote="40" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="953" DBName="AGMPk" Articulation="PM6" RootNote="40" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="954" DBName="AGMPk" Articulation="PM6" RootNote="41" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="955" DBName="AGMPk" Articulation="PM6" RootNote="41" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="956" DBName="AGMPk" Articulation="PM6" RootNote="41" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="957" DBName="AGMPk" Articulation="PM6" RootNote="41" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="958" DBName="AGMPk" Articulation="PM6" RootNote="41" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="959" DBName="AGMPk" Articulation="PM6" RootNote="41" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="960" DBName="AGMPk" Articulation="PM6" RootNote="42" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="961" DBName="AGMPk" Articulation="PM6" RootNote="42" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="962" DBName="AGMPk" Articulation="PM6" RootNote="42" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="963" DBName="AGMPk" Articulation="PM6" RootNote="42" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="964" DBName="AGMPk" Articulation="PM6" RootNote="42" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="965" DBName="AGMPk" Articulation="PM6" RootNote="42" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="966" DBName="AGMPk" Articulation="PM6" RootNote="43" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="967" DBName="AGMPk" Articulation="PM6" RootNote="43" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="968" DBName="AGMPk" Articulation="PM6" RootNote="43" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="969" DBName="AGMPk" Articulation="PM6" RootNote="43" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="970" DBName="AGMPk" Articulation="PM6" RootNote="43" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="971" DBName="AGMPk" Articulation="PM6" RootNote="43" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="972" DBName="AGMPk" Articulation="PM6" RootNote="44" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="973" DBName="AGMPk" Articulation="PM6" RootNote="44" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="974" DBName="AGMPk" Articulation="PM6" RootNote="44" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="975" DBName="AGMPk" Articulation="PM6" RootNote="44" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="976" DBName="AGMPk" Articulation="PM6" RootNote="44" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="977" DBName="AGMPk" Articulation="PM6" RootNote="44" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="978" DBName="AGMPk" Articulation="PM6" RootNote="45" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="979" DBName="AGMPk" Articulation="PM6" RootNote="45" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="980" DBName="AGMPk" Articulation="PM6" RootNote="45" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="981" DBName="AGMPk" Articulation="PM6" RootNote="45" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="982" DBName="AGMPk" Articulation="PM6" RootNote="45" VelLayer="2"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="983" DBName="AGMPk" Articulation="PM6" RootNote="45" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="984" DBName="AGMPk" Articulation="PM6" RootNote="46" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="985" DBName="AGMPk" Articulation="PM6" RootNote="46" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="986" DBName="AGMPk" Articulation="PM6" RootNote="46" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="987" DBName="AGMPk" Articulation="PM6" RootNote="46" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="988" DBName="AGMPk" Articulation="PM6" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="989" DBName="AGMPk" Articulation="PM6" RootNote="47" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="990" DBName="AGMPk" Articulation="PM6" RootNote="47" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="991" DBName="AGMPk" Articulation="PM6" RootNote="47" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="992" DBName="AGMPk" Articulation="PM6" RootNote="48" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="993" DBName="AGMPk" Articulation="PM6" RootNote="48" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="994" DBName="AGMPk" Articulation="PM6" RootNote="48" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="995" DBName="AGMPk" Articulation="PM6" RootNote="48" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="996" DBName="AGMPk" Articulation="PM6" RootNote="49" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="997" DBName="AGMPk" Articulation="PM6" RootNote="49" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="998" DBName="AGMPk" Articulation="PM6" RootNote="49" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="999" DBName="AGMPk" Articulation="PM6" RootNote="49" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1000" DBName="AGMPk" Articulation="PM6" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1001" DBName="AGMPk" Articulation="PM6" RootNote="50" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1002" DBName="AGMPk" Articulation="PM6" RootNote="50" VelLayer="2"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1003" DBName="AGMPk" Articulation="PM6" RootNote="50" VelLayer="3"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1004" DBName="AGMPk" Articulation="PM6" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1005" DBName="AGMPk" Articulation="PM6" RootNote="51" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1006" DBName="AGMPk" Articulation="PM6" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1007" DBName="AGMPk" Articulation="PM6" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1008" DBName="AGMPk" Articulation="PM6" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1009" DBName="AGMPk" Articulation="PM6" RootNote="53" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1010" DBName="AGMPk" Articulation="PM6" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1011" DBName="AGMPk" Articulation="PM6" RootNote="54" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1012" DBName="AGMPk" Articulation="PM6" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1013" DBName="AGMPk" Articulation="PM6" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1014" DBName="AGMPk" Articulation="PM6" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1015" DBName="AGMPk" Articulation="PM6" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1016" DBName="AGMPk" Articulation="PM6" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1017" DBName="AGMPk" Articulation="PM6" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="1018" DBName="AGMPk" Articulation="PM6" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+  </SampleInfo>
+</Infos>

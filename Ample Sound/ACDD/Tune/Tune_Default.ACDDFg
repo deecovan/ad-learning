@@ -1,0 +1,2243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Infos>
+  <AuthorInfo Name="Ample Sound"/>
+  <SampleInfo>
+    <Sample ID="0" DBName="ACDDFg" Articulation="Sus1" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1.0"/>
+    <Sample ID="1" DBName="ACDDFg" Articulation="Sus2" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1.0"/>
+    <Sample ID="2" DBName="ACDDFg" Articulation="Sus3" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="3" DBName="ACDDFg" Articulation="Sus4" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="4" DBName="ACDDFg" Articulation="Sus1" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="5" DBName="ACDDFg" Articulation="Sus2" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="6" DBName="ACDDFg" Articulation="Sus3" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="8" Gain="1.0"/>
+    <Sample ID="7" DBName="ACDDFg" Articulation="Sus4" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="8" DBName="ACDDFg" Articulation="Sus1" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="9" DBName="ACDDFg" Articulation="Sus2" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="10" DBName="ACDDFg" Articulation="Sus3" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="11" DBName="ACDDFg" Articulation="Sus4" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="12" DBName="ACDDFg" Articulation="Sus1" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="13" DBName="ACDDFg" Articulation="Sus2" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="14" DBName="ACDDFg" Articulation="Sus3" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="15" DBName="ACDDFg" Articulation="Sus4" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="16" DBName="ACDDFg" Articulation="Sus1" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="17" DBName="ACDDFg" Articulation="Sus2" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1.0"/>
+    <Sample ID="18" DBName="ACDDFg" Articulation="Sus3" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="19" DBName="ACDDFg" Articulation="Sus4" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="20" DBName="ACDDFg" Articulation="Sus1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="21" DBName="ACDDFg" Articulation="Sus2" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="22" DBName="ACDDFg" Articulation="Sus3" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="23" DBName="ACDDFg" Articulation="Sus4" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="24" DBName="ACDDFg" Articulation="Sus1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="25" DBName="ACDDFg" Articulation="Sus2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="26" DBName="ACDDFg" Articulation="Sus3" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="27" DBName="ACDDFg" Articulation="Sus4" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="28" DBName="ACDDFg" Articulation="Sus1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="29" DBName="ACDDFg" Articulation="Sus2" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="30" DBName="ACDDFg" Articulation="Sus3" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="31" DBName="ACDDFg" Articulation="Sus4" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1.0"/>
+    <Sample ID="32" DBName="ACDDFg" Articulation="Sus1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="33" DBName="ACDDFg" Articulation="Sus2" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="34" DBName="ACDDFg" Articulation="Sus3" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="35" DBName="ACDDFg" Articulation="Sus4" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="36" DBName="ACDDFg" Articulation="Sus1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="37" DBName="ACDDFg" Articulation="Sus2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1.0"/>
+    <Sample ID="38" DBName="ACDDFg" Articulation="Sus3" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1.0"/>
+    <Sample ID="39" DBName="ACDDFg" Articulation="Sus4" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1.0"/>
+    <Sample ID="40" DBName="ACDDFg" Articulation="Sus1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="41" DBName="ACDDFg" Articulation="Sus2" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1.0"/>
+    <Sample ID="42" DBName="ACDDFg" Articulation="Sus3" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="43" DBName="ACDDFg" Articulation="Sus4" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="7" Gain="1.0"/>
+    <Sample ID="44" DBName="ACDDFg" Articulation="Sus1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="45" DBName="ACDDFg" Articulation="Sus2" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-18" Gain="1.0"/>
+    <Sample ID="46" DBName="ACDDFg" Articulation="Sus3" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="47" DBName="ACDDFg" Articulation="Sus4" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="48" DBName="ACDDFg" Articulation="Sus1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="49" DBName="ACDDFg" Articulation="Sus2" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1.0"/>
+    <Sample ID="50" DBName="ACDDFg" Articulation="Sus3" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1.0"/>
+    <Sample ID="51" DBName="ACDDFg" Articulation="Sus4" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1.0"/>
+    <Sample ID="52" DBName="ACDDFg" Articulation="Sus1" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="53" DBName="ACDDFg" Articulation="Sus2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="-17" Gain="1.0"/>
+    <Sample ID="54" DBName="ACDDFg" Articulation="Sus3" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1.0"/>
+    <Sample ID="55" DBName="ACDDFg" Articulation="Sus4" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="56" DBName="ACDDFg" Articulation="Sus1" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="-17" Gain="1.0"/>
+    <Sample ID="57" DBName="ACDDFg" Articulation="Sus2" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1.0"/>
+    <Sample ID="58" DBName="ACDDFg" Articulation="Sus3" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="59" DBName="ACDDFg" Articulation="Sus4" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="60" DBName="ACDDFg" Articulation="Sus1" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="61" DBName="ACDDFg" Articulation="Sus2" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="62" DBName="ACDDFg" Articulation="Sus3" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="4" Gain="1.0"/>
+    <Sample ID="63" DBName="ACDDFg" Articulation="Sus4" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="8" Gain="1.0"/>
+    <Sample ID="64" DBName="ACDDFg" Articulation="Sus1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1.0"/>
+    <Sample ID="65" DBName="ACDDFg" Articulation="Sus2" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="4" Gain="1.0"/>
+    <Sample ID="66" DBName="ACDDFg" Articulation="Sus3" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="67" DBName="ACDDFg" Articulation="Sus4" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="68" DBName="ACDDFg" Articulation="Sus1" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="69" DBName="ACDDFg" Articulation="Sus2" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1.0"/>
+    <Sample ID="70" DBName="ACDDFg" Articulation="Sus3" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="71" DBName="ACDDFg" Articulation="Sus4" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1.0"/>
+    <Sample ID="72" DBName="ACDDFg" Articulation="Sus1" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="-15" Gain="1.0"/>
+    <Sample ID="73" DBName="ACDDFg" Articulation="Sus2" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="-18" Gain="1.0"/>
+    <Sample ID="74" DBName="ACDDFg" Articulation="Sus3" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="-13" Gain="1.0"/>
+    <Sample ID="75" DBName="ACDDFg" Articulation="Sus4" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="-12" Gain="1.0"/>
+    <Sample ID="76" DBName="ACDDFg" Articulation="Sus1" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1.0"/>
+    <Sample ID="77" DBName="ACDDFg" Articulation="Sus2" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1.0"/>
+    <Sample ID="78" DBName="ACDDFg" Articulation="Sus3" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="79" DBName="ACDDFg" Articulation="Sus4" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="80" DBName="ACDDFg" Articulation="Exp1" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="81" DBName="ACDDFg" Articulation="Exp2" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="82" DBName="ACDDFg" Articulation="Exp1" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="83" DBName="ACDDFg" Articulation="Exp2" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="84" DBName="ACDDFg" Articulation="Exp1" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="85" DBName="ACDDFg" Articulation="Exp2" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="86" DBName="ACDDFg" Articulation="Exp1" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="87" DBName="ACDDFg" Articulation="Exp2" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="88" DBName="ACDDFg" Articulation="Exp1" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="89" DBName="ACDDFg" Articulation="Exp2" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="90" DBName="ACDDFg" Articulation="Exp1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="91" DBName="ACDDFg" Articulation="Exp2" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="92" DBName="ACDDFg" Articulation="Exp1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="93" DBName="ACDDFg" Articulation="Exp2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="94" DBName="ACDDFg" Articulation="Exp1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="95" DBName="ACDDFg" Articulation="Exp2" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="96" DBName="ACDDFg" Articulation="Exp1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="97" DBName="ACDDFg" Articulation="Exp2" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="98" DBName="ACDDFg" Articulation="Exp1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="99" DBName="ACDDFg" Articulation="Exp2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="100" DBName="ACDDFg" Articulation="Exp1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="101" DBName="ACDDFg" Articulation="Exp2" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="102" DBName="ACDDFg" Articulation="Exp1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="103" DBName="ACDDFg" Articulation="Exp2" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="104" DBName="ACDDFg" Articulation="Exp1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="105" DBName="ACDDFg" Articulation="Exp2" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="106" DBName="ACDDFg" Articulation="Exp1" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="-16" Gain="1.0"/>
+    <Sample ID="107" DBName="ACDDFg" Articulation="Exp2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="108" DBName="ACDDFg" Articulation="Exp1" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1.0"/>
+    <Sample ID="109" DBName="ACDDFg" Articulation="Exp2" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="110" DBName="ACDDFg" Articulation="Exp1" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="111" DBName="ACDDFg" Articulation="Exp2" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="112" DBName="ACDDFg" Articulation="Exp1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="113" DBName="ACDDFg" Articulation="Exp2" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="114" DBName="ACDDFg" Articulation="Exp1" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="115" DBName="ACDDFg" Articulation="Exp2" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="116" DBName="ACDDFg" Articulation="Exp1" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="117" DBName="ACDDFg" Articulation="Exp2" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="118" DBName="ACDDFg" Articulation="Exp1" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="119" DBName="ACDDFg" Articulation="Exp2" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="120" DBName="ACDDFg" Articulation="Imp1" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="121" DBName="ACDDFg" Articulation="Imp2" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="122" DBName="ACDDFg" Articulation="Imp3" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="123" DBName="ACDDFg" Articulation="Imp1" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="124" DBName="ACDDFg" Articulation="Imp2" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="125" DBName="ACDDFg" Articulation="Imp3" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="126" DBName="ACDDFg" Articulation="Imp1" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="127" DBName="ACDDFg" Articulation="Imp2" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="128" DBName="ACDDFg" Articulation="Imp3" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="129" DBName="ACDDFg" Articulation="Imp1" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="130" DBName="ACDDFg" Articulation="Imp2" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="131" DBName="ACDDFg" Articulation="Imp3" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="132" DBName="ACDDFg" Articulation="Imp1" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="133" DBName="ACDDFg" Articulation="Imp2" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="134" DBName="ACDDFg" Articulation="Imp3" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="135" DBName="ACDDFg" Articulation="Imp1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="136" DBName="ACDDFg" Articulation="Imp2" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="137" DBName="ACDDFg" Articulation="Imp3" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="138" DBName="ACDDFg" Articulation="Imp1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="139" DBName="ACDDFg" Articulation="Imp2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="140" DBName="ACDDFg" Articulation="Imp3" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="141" DBName="ACDDFg" Articulation="Imp1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="142" DBName="ACDDFg" Articulation="Imp2" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="143" DBName="ACDDFg" Articulation="Imp3" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="144" DBName="ACDDFg" Articulation="Imp1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="145" DBName="ACDDFg" Articulation="Imp2" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="146" DBName="ACDDFg" Articulation="Imp3" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="147" DBName="ACDDFg" Articulation="Imp1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="148" DBName="ACDDFg" Articulation="Imp2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="149" DBName="ACDDFg" Articulation="Imp3" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="150" DBName="ACDDFg" Articulation="Imp1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="151" DBName="ACDDFg" Articulation="Imp2" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="152" DBName="ACDDFg" Articulation="Imp3" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="153" DBName="ACDDFg" Articulation="Imp1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="154" DBName="ACDDFg" Articulation="Imp2" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="155" DBName="ACDDFg" Articulation="Imp3" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="156" DBName="ACDDFg" Articulation="Imp1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="157" DBName="ACDDFg" Articulation="Imp2" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="158" DBName="ACDDFg" Articulation="Imp3" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="159" DBName="ACDDFg" Articulation="Imp1" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="160" DBName="ACDDFg" Articulation="Imp2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="161" DBName="ACDDFg" Articulation="Imp3" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="162" DBName="ACDDFg" Articulation="Imp1" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="163" DBName="ACDDFg" Articulation="Imp2" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="164" DBName="ACDDFg" Articulation="Imp3" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="165" DBName="ACDDFg" Articulation="Imp1" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="166" DBName="ACDDFg" Articulation="Imp2" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="167" DBName="ACDDFg" Articulation="Imp3" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="168" DBName="ACDDFg" Articulation="Imp1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="169" DBName="ACDDFg" Articulation="Imp2" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="170" DBName="ACDDFg" Articulation="Imp3" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="171" DBName="ACDDFg" Articulation="Imp1" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="172" DBName="ACDDFg" Articulation="Imp2" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="173" DBName="ACDDFg" Articulation="Imp3" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="174" DBName="ACDDFg" Articulation="Imp1" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="175" DBName="ACDDFg" Articulation="Imp2" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="176" DBName="ACDDFg" Articulation="Imp3" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="177" DBName="ACDDFg" Articulation="Imp1" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="178" DBName="ACDDFg" Articulation="Imp2" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="179" DBName="ACDDFg" Articulation="Imp3" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="180" DBName="ACDDFg" Articulation="PenD" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="181" DBName="ACDDFg" Articulation="PenD" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="182" DBName="ACDDFg" Articulation="PenD" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="183" DBName="ACDDFg" Articulation="PenD" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="184" DBName="ACDDFg" Articulation="PenD" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="185" DBName="ACDDFg" Articulation="PenD" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="186" DBName="ACDDFg" Articulation="PenD" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="187" DBName="ACDDFg" Articulation="PenD" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="188" DBName="ACDDFg" Articulation="PenD" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="189" DBName="ACDDFg" Articulation="PenD" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="190" DBName="ACDDFg" Articulation="PenD" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="191" DBName="ACDDFg" Articulation="PenD" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="192" DBName="ACDDFg" Articulation="PenD" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="193" DBName="ACDDFg" Articulation="PenD" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="194" DBName="ACDDFg" Articulation="PenD" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="195" DBName="ACDDFg" Articulation="PenD" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="196" DBName="ACDDFg" Articulation="PenD" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="197" DBName="ACDDFg" Articulation="PenD" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="198" DBName="ACDDFg" Articulation="PenD" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="199" DBName="ACDDFg" Articulation="PenDI" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="200" DBName="ACDDFg" Articulation="PenDI" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="201" DBName="ACDDFg" Articulation="PenDI" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="202" DBName="ACDDFg" Articulation="PenDI" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="203" DBName="ACDDFg" Articulation="PenDI" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="204" DBName="ACDDFg" Articulation="PenDI" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="205" DBName="ACDDFg" Articulation="PenDI" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="206" DBName="ACDDFg" Articulation="PenDI" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="207" DBName="ACDDFg" Articulation="PenDI" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="208" DBName="ACDDFg" Articulation="PenDI" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="209" DBName="ACDDFg" Articulation="PenDI" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="210" DBName="ACDDFg" Articulation="PenDI" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="211" DBName="ACDDFg" Articulation="PenDI" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="212" DBName="ACDDFg" Articulation="PenDI" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="213" DBName="ACDDFg" Articulation="PenDI" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="214" DBName="ACDDFg" Articulation="PenDI" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="215" DBName="ACDDFg" Articulation="PenDI" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="216" DBName="ACDDFg" Articulation="PenDI" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="217" DBName="ACDDFg" Articulation="PenDI" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="218" DBName="ACDDFg" Articulation="PenU" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="219" DBName="ACDDFg" Articulation="PenU" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="220" DBName="ACDDFg" Articulation="PenU" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="221" DBName="ACDDFg" Articulation="PenU" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="222" DBName="ACDDFg" Articulation="PenU" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="223" DBName="ACDDFg" Articulation="PenU" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="224" DBName="ACDDFg" Articulation="PenU" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="225" DBName="ACDDFg" Articulation="PenU" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="226" DBName="ACDDFg" Articulation="PenU" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="227" DBName="ACDDFg" Articulation="PenU" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="228" DBName="ACDDFg" Articulation="PenU" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="229" DBName="ACDDFg" Articulation="PenU" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="230" DBName="ACDDFg" Articulation="PenU" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="231" DBName="ACDDFg" Articulation="PenU" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="232" DBName="ACDDFg" Articulation="PenU" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="233" DBName="ACDDFg" Articulation="PenU" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="234" DBName="ACDDFg" Articulation="PenU" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="235" DBName="ACDDFg" Articulation="PenU" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="236" DBName="ACDDFg" Articulation="PenUI" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="237" DBName="ACDDFg" Articulation="PenUI" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="238" DBName="ACDDFg" Articulation="PenUI" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="239" DBName="ACDDFg" Articulation="PenUI" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="240" DBName="ACDDFg" Articulation="PenUI" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="241" DBName="ACDDFg" Articulation="PenUI" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="242" DBName="ACDDFg" Articulation="PenUI" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="243" DBName="ACDDFg" Articulation="PenUI" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="244" DBName="ACDDFg" Articulation="PenUI" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="245" DBName="ACDDFg" Articulation="PenUI" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="246" DBName="ACDDFg" Articulation="PenUI" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="247" DBName="ACDDFg" Articulation="PenUI" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="248" DBName="ACDDFg" Articulation="PenUI" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="249" DBName="ACDDFg" Articulation="PenUI" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="250" DBName="ACDDFg" Articulation="PenUI" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="251" DBName="ACDDFg" Articulation="PenUI" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="252" DBName="ACDDFg" Articulation="PenUI" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="253" DBName="ACDDFg" Articulation="PenUI" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="254" DBName="ACDDFg" Articulation="Rip1" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="255" DBName="ACDDFg" Articulation="Rip2" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="256" DBName="ACDDFg" Articulation="Rip1" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="257" DBName="ACDDFg" Articulation="Rip2" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="258" DBName="ACDDFg" Articulation="Rip1" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="259" DBName="ACDDFg" Articulation="Rip2" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="260" DBName="ACDDFg" Articulation="Rip1" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="261" DBName="ACDDFg" Articulation="Rip2" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="262" DBName="ACDDFg" Articulation="Rip1" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="263" DBName="ACDDFg" Articulation="Rip2" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="264" DBName="ACDDFg" Articulation="Rip1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="265" DBName="ACDDFg" Articulation="Rip2" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="266" DBName="ACDDFg" Articulation="Rip1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="267" DBName="ACDDFg" Articulation="Rip2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="268" DBName="ACDDFg" Articulation="Rip1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="269" DBName="ACDDFg" Articulation="Rip2" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="270" DBName="ACDDFg" Articulation="Rip1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="271" DBName="ACDDFg" Articulation="Rip2" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="272" DBName="ACDDFg" Articulation="Rip1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="273" DBName="ACDDFg" Articulation="Rip2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="274" DBName="ACDDFg" Articulation="Rip1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="275" DBName="ACDDFg" Articulation="Rip2" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="276" DBName="ACDDFg" Articulation="Rip1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="277" DBName="ACDDFg" Articulation="Rip2" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="278" DBName="ACDDFg" Articulation="Rip1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="279" DBName="ACDDFg" Articulation="Rip2" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="280" DBName="ACDDFg" Articulation="Rip1" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="281" DBName="ACDDFg" Articulation="Rip2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="282" DBName="ACDDFg" Articulation="Rip1" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="283" DBName="ACDDFg" Articulation="Rip2" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="284" DBName="ACDDFg" Articulation="Rip1" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="285" DBName="ACDDFg" Articulation="Rip2" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="286" DBName="ACDDFg" Articulation="Rip1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="287" DBName="ACDDFg" Articulation="Rip2" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="288" DBName="ACDDFg" Articulation="Rip1" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="289" DBName="ACDDFg" Articulation="Rip2" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="290" DBName="ACDDFg" Articulation="Rip1" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="291" DBName="ACDDFg" Articulation="Rip2" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="292" DBName="ACDDFg" Articulation="ScaD" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="293" DBName="ACDDFg" Articulation="ScaD" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="294" DBName="ACDDFg" Articulation="ScaD" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="295" DBName="ACDDFg" Articulation="ScaD" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="296" DBName="ACDDFg" Articulation="ScaD" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="297" DBName="ACDDFg" Articulation="ScaD" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="298" DBName="ACDDFg" Articulation="ScaD" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="299" DBName="ACDDFg" Articulation="ScaD" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="300" DBName="ACDDFg" Articulation="ScaD" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="301" DBName="ACDDFg" Articulation="ScaD" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="302" DBName="ACDDFg" Articulation="ScaD" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="303" DBName="ACDDFg" Articulation="ScaD" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="304" DBName="ACDDFg" Articulation="ScaD" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="305" DBName="ACDDFg" Articulation="ScaD" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="306" DBName="ACDDFg" Articulation="ScaD" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="307" DBName="ACDDFg" Articulation="ScaD" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="308" DBName="ACDDFg" Articulation="ScaD" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="309" DBName="ACDDFg" Articulation="ScaD" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="310" DBName="ACDDFg" Articulation="ScaU" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="311" DBName="ACDDFg" Articulation="ScaU" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="312" DBName="ACDDFg" Articulation="ScaU" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="313" DBName="ACDDFg" Articulation="ScaU" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="314" DBName="ACDDFg" Articulation="ScaU" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="315" DBName="ACDDFg" Articulation="ScaU" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="316" DBName="ACDDFg" Articulation="ScaU" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="317" DBName="ACDDFg" Articulation="ScaU" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="318" DBName="ACDDFg" Articulation="ScaU" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="319" DBName="ACDDFg" Articulation="ScaU" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="320" DBName="ACDDFg" Articulation="ScaU" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="321" DBName="ACDDFg" Articulation="ScaU" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="322" DBName="ACDDFg" Articulation="ScaU" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="323" DBName="ACDDFg" Articulation="ScaU" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="324" DBName="ACDDFg" Articulation="ScaU" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="325" DBName="ACDDFg" Articulation="ScaU" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="326" DBName="ACDDFg" Articulation="ScaU" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="327" DBName="ACDDFg" Articulation="ScaU" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="328" DBName="ACDDFg" Articulation="Ton1" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="329" DBName="ACDDFg" Articulation="Ton2" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="330" DBName="ACDDFg" Articulation="Ton1" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="331" DBName="ACDDFg" Articulation="Ton2" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="332" DBName="ACDDFg" Articulation="Ton1" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="333" DBName="ACDDFg" Articulation="Ton2" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="334" DBName="ACDDFg" Articulation="Ton1" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="335" DBName="ACDDFg" Articulation="Ton2" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="336" DBName="ACDDFg" Articulation="Ton1" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="337" DBName="ACDDFg" Articulation="Ton2" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="338" DBName="ACDDFg" Articulation="Ton1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="339" DBName="ACDDFg" Articulation="Ton2" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="340" DBName="ACDDFg" Articulation="Ton1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="341" DBName="ACDDFg" Articulation="Ton2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="342" DBName="ACDDFg" Articulation="Ton1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="343" DBName="ACDDFg" Articulation="Ton2" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="344" DBName="ACDDFg" Articulation="Ton1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="6" Gain="1.0"/>
+    <Sample ID="345" DBName="ACDDFg" Articulation="Ton2" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="346" DBName="ACDDFg" Articulation="Ton1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="347" DBName="ACDDFg" Articulation="Ton2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="348" DBName="ACDDFg" Articulation="Ton1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="349" DBName="ACDDFg" Articulation="Ton2" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="350" DBName="ACDDFg" Articulation="Ton1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="351" DBName="ACDDFg" Articulation="Ton2" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="352" DBName="ACDDFg" Articulation="Ton1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="353" DBName="ACDDFg" Articulation="Ton2" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="354" DBName="ACDDFg" Articulation="Ton1" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="355" DBName="ACDDFg" Articulation="Ton2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="356" DBName="ACDDFg" Articulation="Ton1" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="357" DBName="ACDDFg" Articulation="Ton2" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="358" DBName="ACDDFg" Articulation="Ton1" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="359" DBName="ACDDFg" Articulation="Ton2" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="360" DBName="ACDDFg" Articulation="Ton1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="361" DBName="ACDDFg" Articulation="Ton2" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="362" DBName="ACDDFg" Articulation="Ton1" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="363" DBName="ACDDFg" Articulation="Ton2" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="364" DBName="ACDDFg" Articulation="Ton1" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="365" DBName="ACDDFg" Articulation="Ton2" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="366" DBName="ACDDFg" Articulation="Ton1" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="367" DBName="ACDDFg" Articulation="Ton2" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="368" DBName="ACDDFg" Articulation="Tre2L" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="369" DBName="ACDDFg" Articulation="Tre2L" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="370" DBName="ACDDFg" Articulation="Tre2L" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="371" DBName="ACDDFg" Articulation="Tre2L" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="372" DBName="ACDDFg" Articulation="Tre2L" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="373" DBName="ACDDFg" Articulation="Tre2L" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="374" DBName="ACDDFg" Articulation="Tre2L" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="375" DBName="ACDDFg" Articulation="Tre2L" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="376" DBName="ACDDFg" Articulation="Tre2L" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="377" DBName="ACDDFg" Articulation="Tre2L" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="378" DBName="ACDDFg" Articulation="Tre2L" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="379" DBName="ACDDFg" Articulation="Tre2L" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="380" DBName="ACDDFg" Articulation="Tre2L" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-13" Gain="1.0"/>
+    <Sample ID="381" DBName="ACDDFg" Articulation="Tre2L" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="382" DBName="ACDDFg" Articulation="Tre2L" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="383" DBName="ACDDFg" Articulation="Tre2L" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="384" DBName="ACDDFg" Articulation="Tre2L" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="385" DBName="ACDDFg" Articulation="Tre2L" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="386" DBName="ACDDFg" Articulation="Tre2L" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="387" DBName="ACDDFg" Articulation="Tre2S" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="388" DBName="ACDDFg" Articulation="Tre2S" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="389" DBName="ACDDFg" Articulation="Tre2S" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="390" DBName="ACDDFg" Articulation="Tre2S" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="391" DBName="ACDDFg" Articulation="Tre2S" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="392" DBName="ACDDFg" Articulation="Tre2S" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="393" DBName="ACDDFg" Articulation="Tre2S" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="394" DBName="ACDDFg" Articulation="Tre2S" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="395" DBName="ACDDFg" Articulation="Tre2S" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="396" DBName="ACDDFg" Articulation="Tre2S" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="397" DBName="ACDDFg" Articulation="Tre2S" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="398" DBName="ACDDFg" Articulation="Tre2S" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="399" DBName="ACDDFg" Articulation="Tre2S" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-23" Gain="1.0"/>
+    <Sample ID="400" DBName="ACDDFg" Articulation="Tre2S" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="-20" Gain="1.0"/>
+    <Sample ID="401" DBName="ACDDFg" Articulation="Tre2S" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="-13" Gain="1.0"/>
+    <Sample ID="402" DBName="ACDDFg" Articulation="Tre2S" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="403" DBName="ACDDFg" Articulation="Tre2S" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="404" DBName="ACDDFg" Articulation="Tre2S" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="405" DBName="ACDDFg" Articulation="Tre2S" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="406" DBName="ACDDFg" Articulation="VibF" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="407" DBName="ACDDFg" Articulation="VibF" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="408" DBName="ACDDFg" Articulation="VibF" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="409" DBName="ACDDFg" Articulation="VibF" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="410" DBName="ACDDFg" Articulation="VibF" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="411" DBName="ACDDFg" Articulation="VibF" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="412" DBName="ACDDFg" Articulation="VibF" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="413" DBName="ACDDFg" Articulation="VibF" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="414" DBName="ACDDFg" Articulation="VibF" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="415" DBName="ACDDFg" Articulation="VibF" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="416" DBName="ACDDFg" Articulation="VibF" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="417" DBName="ACDDFg" Articulation="VibF" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="418" DBName="ACDDFg" Articulation="VibF" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="419" DBName="ACDDFg" Articulation="VibF" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="420" DBName="ACDDFg" Articulation="VibF" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="421" DBName="ACDDFg" Articulation="VibF" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="422" DBName="ACDDFg" Articulation="VibF" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="423" DBName="ACDDFg" Articulation="VibF" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="424" DBName="ACDDFg" Articulation="VibF" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="425" DBName="ACDDFg" Articulation="VibF" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="426" DBName="ACDDFg" Articulation="VibSF" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="427" DBName="ACDDFg" Articulation="VibSF" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="428" DBName="ACDDFg" Articulation="VibSF" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="429" DBName="ACDDFg" Articulation="VibSF" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="430" DBName="ACDDFg" Articulation="VibSF" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="431" DBName="ACDDFg" Articulation="VibSF" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="432" DBName="ACDDFg" Articulation="VibSF" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="433" DBName="ACDDFg" Articulation="VibSF" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="434" DBName="ACDDFg" Articulation="VibSF" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="435" DBName="ACDDFg" Articulation="VibSF" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="436" DBName="ACDDFg" Articulation="VibSF" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="437" DBName="ACDDFg" Articulation="VibSF" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="438" DBName="ACDDFg" Articulation="VibSF" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="439" DBName="ACDDFg" Articulation="VibSF" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="440" DBName="ACDDFg" Articulation="VibSF" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="441" DBName="ACDDFg" Articulation="VibSF" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="442" DBName="ACDDFg" Articulation="VibSF" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="443" DBName="ACDDFg" Articulation="VibSF" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="444" DBName="ACDDFg" Articulation="VibSF" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="445" DBName="ACDDFg" Articulation="VibSF" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="446" DBName="ACDDFg" Articulation="Flu1" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="447" DBName="ACDDFg" Articulation="Flu1" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="448" DBName="ACDDFg" Articulation="Flu1" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="449" DBName="ACDDFg" Articulation="Flu1" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="-15" Gain="1.0"/>
+    <Sample ID="450" DBName="ACDDFg" Articulation="Flu1" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="451" DBName="ACDDFg" Articulation="Flu1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="452" DBName="ACDDFg" Articulation="Flu1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="453" DBName="ACDDFg" Articulation="Flu1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="454" DBName="ACDDFg" Articulation="Flu1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="455" DBName="ACDDFg" Articulation="Flu1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-33" Gain="1.0"/>
+    <Sample ID="456" DBName="ACDDFg" Articulation="Flu1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="457" DBName="ACDDFg" Articulation="Flu1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="458" DBName="ACDDFg" Articulation="Flu1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="459" DBName="ACDDFg" Articulation="Flu1" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="460" DBName="ACDDFg" Articulation="Flu1" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="461" DBName="ACDDFg" Articulation="Flu1" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="462" DBName="ACDDFg" Articulation="Flu1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="463" DBName="ACDDFg" Articulation="Flu1" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="464" DBName="ACDDFg" Articulation="Flu1" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="465" DBName="ACDDFg" Articulation="Flu1" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="466" DBName="ACDDFg" Articulation="Flu2" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="17" Gain="1.0"/>
+    <Sample ID="467" DBName="ACDDFg" Articulation="Flu2" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="468" DBName="ACDDFg" Articulation="Flu2" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="469" DBName="ACDDFg" Articulation="Flu2" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="10" Gain="1.0"/>
+    <Sample ID="470" DBName="ACDDFg" Articulation="Flu2" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="471" DBName="ACDDFg" Articulation="Flu2" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="472" DBName="ACDDFg" Articulation="Flu2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="473" DBName="ACDDFg" Articulation="Flu2" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="474" DBName="ACDDFg" Articulation="Flu2" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="475" DBName="ACDDFg" Articulation="Flu2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="476" DBName="ACDDFg" Articulation="Flu2" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="477" DBName="ACDDFg" Articulation="Flu2" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="478" DBName="ACDDFg" Articulation="Flu2" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="479" DBName="ACDDFg" Articulation="Flu2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="480" DBName="ACDDFg" Articulation="Flu2" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="481" DBName="ACDDFg" Articulation="Flu2" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="482" DBName="ACDDFg" Articulation="Flu2" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="483" DBName="ACDDFg" Articulation="Flu2" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="484" DBName="ACDDFg" Articulation="Flu2" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="485" DBName="ACDDFg" Articulation="Flu2" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="-16" Gain="1.0"/>
+    <Sample ID="486" DBName="ACDDFg" Articulation="Howl1" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="487" DBName="ACDDFg" Articulation="Howl1" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="488" DBName="ACDDFg" Articulation="Howl1" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="489" DBName="ACDDFg" Articulation="Howl1" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="490" DBName="ACDDFg" Articulation="Howl1" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="491" DBName="ACDDFg" Articulation="Howl1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="492" DBName="ACDDFg" Articulation="Howl1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="493" DBName="ACDDFg" Articulation="Howl1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="494" DBName="ACDDFg" Articulation="Howl1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="495" DBName="ACDDFg" Articulation="Howl1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="496" DBName="ACDDFg" Articulation="Howl1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="497" DBName="ACDDFg" Articulation="Howl1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="498" DBName="ACDDFg" Articulation="Howl1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="499" DBName="ACDDFg" Articulation="Howl1" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="500" DBName="ACDDFg" Articulation="Howl1" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="501" DBName="ACDDFg" Articulation="Howl1" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="502" DBName="ACDDFg" Articulation="Howl1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="503" DBName="ACDDFg" Articulation="Howl1" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="504" DBName="ACDDFg" Articulation="Howl1" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="505" DBName="ACDDFg" Articulation="Howl1" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="506" DBName="ACDDFg" Articulation="Howl2" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="507" DBName="ACDDFg" Articulation="Howl2" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="508" DBName="ACDDFg" Articulation="Howl2" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="509" DBName="ACDDFg" Articulation="Howl2" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="510" DBName="ACDDFg" Articulation="Howl2" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="511" DBName="ACDDFg" Articulation="Howl2" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="512" DBName="ACDDFg" Articulation="Howl2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="513" DBName="ACDDFg" Articulation="Howl2" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="514" DBName="ACDDFg" Articulation="Howl2" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="515" DBName="ACDDFg" Articulation="Howl2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="516" DBName="ACDDFg" Articulation="Howl2" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="517" DBName="ACDDFg" Articulation="Howl2" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="518" DBName="ACDDFg" Articulation="Howl2" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="519" DBName="ACDDFg" Articulation="Howl2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="520" DBName="ACDDFg" Articulation="Howl2" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="521" DBName="ACDDFg" Articulation="Howl2" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="522" DBName="ACDDFg" Articulation="Howl2" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="523" DBName="ACDDFg" Articulation="Howl2" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="524" DBName="ACDDFg" Articulation="Howl2" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="525" DBName="ACDDFg" Articulation="Howl2" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="526" DBName="ACDDFg" Articulation="Lay" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="527" DBName="ACDDFg" Articulation="Lay" RootNote="55" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="528" DBName="ACDDFg" Articulation="Lay" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="10" Gain="1.0"/>
+    <Sample ID="529" DBName="ACDDFg" Articulation="Lay" RootNote="57" VelLayer="0"
+            Cycle="1" Tune="12" Gain="1.0"/>
+    <Sample ID="530" DBName="ACDDFg" Articulation="Lay" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="-21" Gain="1.0"/>
+    <Sample ID="531" DBName="ACDDFg" Articulation="Lay" RootNote="59" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="532" DBName="ACDDFg" Articulation="Lay" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1.0"/>
+    <Sample ID="533" DBName="ACDDFg" Articulation="Lay" RootNote="60" VelLayer="0"
+            Cycle="1" Tune="5" Gain="1.0"/>
+    <Sample ID="534" DBName="ACDDFg" Articulation="Lay" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="7" Gain="1.0"/>
+    <Sample ID="535" DBName="ACDDFg" Articulation="Lay" RootNote="62" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="536" DBName="ACDDFg" Articulation="Lay" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="537" DBName="ACDDFg" Articulation="Lay" RootNote="64" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="538" DBName="ACDDFg" Articulation="Lay" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="539" DBName="ACDDFg" Articulation="Lay" RootNote="66" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="540" DBName="ACDDFg" Articulation="Lay" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="541" DBName="ACDDFg" Articulation="Lay" RootNote="67" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="542" DBName="ACDDFg" Articulation="Lay" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="543" DBName="ACDDFg" Articulation="Lay" RootNote="69" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="544" DBName="ACDDFg" Articulation="Lay" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="8" Gain="1.0"/>
+    <Sample ID="545" DBName="ACDDFg" Articulation="Lay" RootNote="71" VelLayer="0"
+            Cycle="1" Tune="4" Gain="1.0"/>
+    <Sample ID="546" DBName="ACDDFg" Articulation="Lay" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="6" Gain="1.0"/>
+    <Sample ID="547" DBName="ACDDFg" Articulation="Lay" RootNote="72" VelLayer="0"
+            Cycle="1" Tune="-5" Gain="1.0"/>
+    <Sample ID="548" DBName="ACDDFg" Articulation="Lay" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1.0"/>
+    <Sample ID="549" DBName="ACDDFg" Articulation="Lay" RootNote="74" VelLayer="0"
+            Cycle="1" Tune="-10" Gain="1.0"/>
+    <Sample ID="550" DBName="ACDDFg" Articulation="Lay" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-16" Gain="1.0"/>
+    <Sample ID="551" DBName="ACDDFg" Articulation="Lay" RootNote="76" VelLayer="0"
+            Cycle="1" Tune="-13" Gain="1.0"/>
+    <Sample ID="552" DBName="ACDDFg" Articulation="Lay" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1.0"/>
+    <Sample ID="553" DBName="ACDDFg" Articulation="Lay" RootNote="78" VelLayer="0"
+            Cycle="1" Tune="-6" Gain="1.0"/>
+    <Sample ID="554" DBName="ACDDFg" Articulation="Lay" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1.0"/>
+    <Sample ID="555" DBName="ACDDFg" Articulation="Lay" RootNote="79" VelLayer="0"
+            Cycle="1" Tune="-7" Gain="1.0"/>
+    <Sample ID="556" DBName="ACDDFg" Articulation="Lay" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="557" DBName="ACDDFg" Articulation="Lay" RootNote="81" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="558" DBName="ACDDFg" Articulation="Lay" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="10" Gain="1.0"/>
+    <Sample ID="559" DBName="ACDDFg" Articulation="Lay" RootNote="83" VelLayer="0"
+            Cycle="1" Tune="9" Gain="1.0"/>
+    <Sample ID="560" DBName="ACDDFg" Articulation="Lay" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1.0"/>
+    <Sample ID="561" DBName="ACDDFg" Articulation="Lay" RootNote="84" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="562" DBName="ACDDFg" Articulation="Lay" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="563" DBName="ACDDFg" Articulation="Lay" RootNote="86" VelLayer="0"
+            Cycle="1" Tune="-16" Gain="1.0"/>
+    <Sample ID="564" DBName="ACDDFg" Articulation="Lay" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="565" DBName="ACDDFg" Articulation="Lay" RootNote="88" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="566" DBName="ACDDFg" Articulation="Leg2D1" RootNote="55"
+            VelLayer="0" Cycle="0" Tune="0" Gain="0.800000011920929"/>
+    <Sample ID="567" DBName="ACDDFg" Articulation="Leg2D1" RootNote="57"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="568" DBName="ACDDFg" Articulation="Leg2D1" RootNote="59"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="569" DBName="ACDDFg" Articulation="Leg2D1" RootNote="60"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="570" DBName="ACDDFg" Articulation="Leg2D1" RootNote="62"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="571" DBName="ACDDFg" Articulation="Leg2D1" RootNote="64"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="572" DBName="ACDDFg" Articulation="Leg2D1" RootNote="66"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="573" DBName="ACDDFg" Articulation="Leg2D1" RootNote="67"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="574" DBName="ACDDFg" Articulation="Leg2D1" RootNote="69"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="575" DBName="ACDDFg" Articulation="Leg2D1" RootNote="71"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="576" DBName="ACDDFg" Articulation="Leg2D1" RootNote="72"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="577" DBName="ACDDFg" Articulation="Leg2D1" RootNote="74"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="578" DBName="ACDDFg" Articulation="Leg2D1" RootNote="76"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="579" DBName="ACDDFg" Articulation="Leg2D1" RootNote="78"
+            VelLayer="0" Cycle="0" Tune="-18" Gain="1.0"/>
+    <Sample ID="580" DBName="ACDDFg" Articulation="Leg2D1" RootNote="79"
+            VelLayer="0" Cycle="0" Tune="-6" Gain="1.0"/>
+    <Sample ID="581" DBName="ACDDFg" Articulation="Leg2D1" RootNote="81"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="582" DBName="ACDDFg" Articulation="Leg2D1" RootNote="83"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="583" DBName="ACDDFg" Articulation="Leg2D1" RootNote="84"
+            VelLayer="0" Cycle="0" Tune="-16" Gain="1.0"/>
+    <Sample ID="584" DBName="ACDDFg" Articulation="Leg2D1" RootNote="86"
+            VelLayer="0" Cycle="0" Tune="-11" Gain="1.0"/>
+    <Sample ID="585" DBName="ACDDFg" Articulation="Leg2D2" RootNote="55"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="586" DBName="ACDDFg" Articulation="Leg2D2" RootNote="57"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="587" DBName="ACDDFg" Articulation="Leg2D2" RootNote="59"
+            VelLayer="0" Cycle="0" Tune="-6" Gain="1.0"/>
+    <Sample ID="588" DBName="ACDDFg" Articulation="Leg2D2" RootNote="60"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="589" DBName="ACDDFg" Articulation="Leg2D2" RootNote="62"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="590" DBName="ACDDFg" Articulation="Leg2D2" RootNote="64"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="591" DBName="ACDDFg" Articulation="Leg2D2" RootNote="66"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="592" DBName="ACDDFg" Articulation="Leg2D2" RootNote="67"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="593" DBName="ACDDFg" Articulation="Leg2D2" RootNote="69"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="594" DBName="ACDDFg" Articulation="Leg2D2" RootNote="71"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="595" DBName="ACDDFg" Articulation="Leg2D2" RootNote="72"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="596" DBName="ACDDFg" Articulation="Leg2D2" RootNote="74"
+            VelLayer="0" Cycle="0" Tune="-9" Gain="1.0"/>
+    <Sample ID="597" DBName="ACDDFg" Articulation="Leg2D2" RootNote="76"
+            VelLayer="0" Cycle="0" Tune="-14" Gain="1.0"/>
+    <Sample ID="598" DBName="ACDDFg" Articulation="Leg2D2" RootNote="78"
+            VelLayer="0" Cycle="0" Tune="-11" Gain="1.0"/>
+    <Sample ID="599" DBName="ACDDFg" Articulation="Leg2D2" RootNote="79"
+            VelLayer="0" Cycle="0" Tune="-8" Gain="1.0"/>
+    <Sample ID="600" DBName="ACDDFg" Articulation="Leg2D2" RootNote="81"
+            VelLayer="0" Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="601" DBName="ACDDFg" Articulation="Leg2D2" RootNote="83"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="602" DBName="ACDDFg" Articulation="Leg2D2" RootNote="84"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="603" DBName="ACDDFg" Articulation="Leg2D2" RootNote="86"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="604" DBName="ACDDFg" Articulation="Leg2U1" RootNote="57"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="605" DBName="ACDDFg" Articulation="Leg2U1" RootNote="59"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="606" DBName="ACDDFg" Articulation="Leg2U1" RootNote="60"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="607" DBName="ACDDFg" Articulation="Leg2U1" RootNote="62"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="608" DBName="ACDDFg" Articulation="Leg2U1" RootNote="64"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="609" DBName="ACDDFg" Articulation="Leg2U1" RootNote="66"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="610" DBName="ACDDFg" Articulation="Leg2U1" RootNote="67"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="611" DBName="ACDDFg" Articulation="Leg2U1" RootNote="69"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="612" DBName="ACDDFg" Articulation="Leg2U1" RootNote="71"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="613" DBName="ACDDFg" Articulation="Leg2U1" RootNote="72"
+            VelLayer="0" Cycle="0" Tune="-16" Gain="1.0"/>
+    <Sample ID="614" DBName="ACDDFg" Articulation="Leg2U1" RootNote="74"
+            VelLayer="0" Cycle="0" Tune="-14" Gain="0.800000011920929"/>
+    <Sample ID="615" DBName="ACDDFg" Articulation="Leg2U1" RootNote="76"
+            VelLayer="0" Cycle="0" Tune="-22" Gain="1.0"/>
+    <Sample ID="616" DBName="ACDDFg" Articulation="Leg2U1" RootNote="78"
+            VelLayer="0" Cycle="0" Tune="0" Gain="0.800000011920929"/>
+    <Sample ID="617" DBName="ACDDFg" Articulation="Leg2U1" RootNote="79"
+            VelLayer="0" Cycle="0" Tune="0" Gain="0.9000000357627869"/>
+    <Sample ID="618" DBName="ACDDFg" Articulation="Leg2U1" RootNote="81"
+            VelLayer="0" Cycle="0" Tune="0" Gain="0.800000011920929"/>
+    <Sample ID="619" DBName="ACDDFg" Articulation="Leg2U1" RootNote="83"
+            VelLayer="0" Cycle="0" Tune="0" Gain="0.699999988079071"/>
+    <Sample ID="620" DBName="ACDDFg" Articulation="Leg2U1" RootNote="84"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="621" DBName="ACDDFg" Articulation="Leg2U1" RootNote="86"
+            VelLayer="0" Cycle="0" Tune="0" Gain="0.800000011920929"/>
+    <Sample ID="622" DBName="ACDDFg" Articulation="Leg2U1" RootNote="88"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="623" DBName="ACDDFg" Articulation="Leg2U2" RootNote="57"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="624" DBName="ACDDFg" Articulation="Leg2U2" RootNote="59"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="625" DBName="ACDDFg" Articulation="Leg2U2" RootNote="60"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="626" DBName="ACDDFg" Articulation="Leg2U2" RootNote="62"
+            VelLayer="0" Cycle="0" Tune="0" Gain="0.800000011920929"/>
+    <Sample ID="627" DBName="ACDDFg" Articulation="Leg2U2" RootNote="64"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="628" DBName="ACDDFg" Articulation="Leg2U2" RootNote="66"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="629" DBName="ACDDFg" Articulation="Leg2U2" RootNote="67"
+            VelLayer="0" Cycle="0" Tune="-11" Gain="1.0"/>
+    <Sample ID="630" DBName="ACDDFg" Articulation="Leg2U2" RootNote="69"
+            VelLayer="0" Cycle="0" Tune="-12" Gain="1.0"/>
+    <Sample ID="631" DBName="ACDDFg" Articulation="Leg2U2" RootNote="71"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="632" DBName="ACDDFg" Articulation="Leg2U2" RootNote="72"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="633" DBName="ACDDFg" Articulation="Leg2U2" RootNote="74"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="634" DBName="ACDDFg" Articulation="Leg2U2" RootNote="76"
+            VelLayer="0" Cycle="0" Tune="-15" Gain="1.0"/>
+    <Sample ID="635" DBName="ACDDFg" Articulation="Leg2U2" RootNote="78"
+            VelLayer="0" Cycle="0" Tune="-11" Gain="1.0"/>
+    <Sample ID="636" DBName="ACDDFg" Articulation="Leg2U2" RootNote="79"
+            VelLayer="0" Cycle="0" Tune="-7" Gain="1.0"/>
+    <Sample ID="637" DBName="ACDDFg" Articulation="Leg2U2" RootNote="81"
+            VelLayer="0" Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="638" DBName="ACDDFg" Articulation="Leg2U2" RootNote="83"
+            VelLayer="0" Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="639" DBName="ACDDFg" Articulation="Leg2U2" RootNote="84"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="640" DBName="ACDDFg" Articulation="Leg2U2" RootNote="86"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="641" DBName="ACDDFg" Articulation="Leg2U2" RootNote="88"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="642" DBName="ACDDFg" Articulation="Leg3D1" RootNote="55"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="643" DBName="ACDDFg" Articulation="Leg3D1" RootNote="57"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="644" DBName="ACDDFg" Articulation="Leg3D1" RootNote="59"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="645" DBName="ACDDFg" Articulation="Leg3D1" RootNote="60"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="646" DBName="ACDDFg" Articulation="Leg3D1" RootNote="62"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="647" DBName="ACDDFg" Articulation="Leg3D1" RootNote="64"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="648" DBName="ACDDFg" Articulation="Leg3D1" RootNote="66"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="649" DBName="ACDDFg" Articulation="Leg3D1" RootNote="67"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="650" DBName="ACDDFg" Articulation="Leg3D1" RootNote="69"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="651" DBName="ACDDFg" Articulation="Leg3D1" RootNote="71"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="652" DBName="ACDDFg" Articulation="Leg3D1" RootNote="72"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="653" DBName="ACDDFg" Articulation="Leg3D1" RootNote="74"
+            VelLayer="0" Cycle="0" Tune="-9" Gain="1.0"/>
+    <Sample ID="654" DBName="ACDDFg" Articulation="Leg3D1" RootNote="76"
+            VelLayer="0" Cycle="0" Tune="-16" Gain="1.0"/>
+    <Sample ID="655" DBName="ACDDFg" Articulation="Leg3D1" RootNote="78"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="656" DBName="ACDDFg" Articulation="Leg3D1" RootNote="79"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="657" DBName="ACDDFg" Articulation="Leg3D1" RootNote="81"
+            VelLayer="0" Cycle="0" Tune="4" Gain="1.0"/>
+    <Sample ID="658" DBName="ACDDFg" Articulation="Leg3D1" RootNote="83"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="659" DBName="ACDDFg" Articulation="Leg3D1" RootNote="84"
+            VelLayer="0" Cycle="0" Tune="-26" Gain="1.0"/>
+    <Sample ID="660" DBName="ACDDFg" Articulation="Leg3D2" RootNote="55"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="661" DBName="ACDDFg" Articulation="Leg3D2" RootNote="57"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="662" DBName="ACDDFg" Articulation="Leg3D2" RootNote="59"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="663" DBName="ACDDFg" Articulation="Leg3D2" RootNote="60"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="664" DBName="ACDDFg" Articulation="Leg3D2" RootNote="62"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="665" DBName="ACDDFg" Articulation="Leg3D2" RootNote="64"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="666" DBName="ACDDFg" Articulation="Leg3D2" RootNote="66"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="667" DBName="ACDDFg" Articulation="Leg3D2" RootNote="67"
+            VelLayer="0" Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="668" DBName="ACDDFg" Articulation="Leg3D2" RootNote="69"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="669" DBName="ACDDFg" Articulation="Leg3D2" RootNote="71"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="670" DBName="ACDDFg" Articulation="Leg3D2" RootNote="72"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="671" DBName="ACDDFg" Articulation="Leg3D2" RootNote="74"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="672" DBName="ACDDFg" Articulation="Leg3D2" RootNote="76"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="673" DBName="ACDDFg" Articulation="Leg3D2" RootNote="78"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="674" DBName="ACDDFg" Articulation="Leg3D2" RootNote="79"
+            VelLayer="0" Cycle="0" Tune="-8" Gain="1.0"/>
+    <Sample ID="675" DBName="ACDDFg" Articulation="Leg3D2" RootNote="81"
+            VelLayer="0" Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="676" DBName="ACDDFg" Articulation="Leg3D2" RootNote="83"
+            VelLayer="0" Cycle="0" Tune="7" Gain="1.0"/>
+    <Sample ID="677" DBName="ACDDFg" Articulation="Leg3D2" RootNote="84"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="678" DBName="ACDDFg" Articulation="Leg3U1" RootNote="59"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="679" DBName="ACDDFg" Articulation="Leg3U1" RootNote="60"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="680" DBName="ACDDFg" Articulation="Leg3U1" RootNote="62"
+            VelLayer="0" Cycle="0" Tune="-7" Gain="1.0"/>
+    <Sample ID="681" DBName="ACDDFg" Articulation="Leg3U1" RootNote="64"
+            VelLayer="0" Cycle="0" Tune="-14" Gain="1.0"/>
+    <Sample ID="682" DBName="ACDDFg" Articulation="Leg3U1" RootNote="66"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="683" DBName="ACDDFg" Articulation="Leg3U1" RootNote="67"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="684" DBName="ACDDFg" Articulation="Leg3U1" RootNote="69"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="685" DBName="ACDDFg" Articulation="Leg3U1" RootNote="71"
+            VelLayer="0" Cycle="0" Tune="6" Gain="1.0"/>
+    <Sample ID="686" DBName="ACDDFg" Articulation="Leg3U1" RootNote="72"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="687" DBName="ACDDFg" Articulation="Leg3U1" RootNote="74"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="688" DBName="ACDDFg" Articulation="Leg3U1" RootNote="76"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="689" DBName="ACDDFg" Articulation="Leg3U1" RootNote="78"
+            VelLayer="0" Cycle="0" Tune="0" Gain="0.800000011920929"/>
+    <Sample ID="690" DBName="ACDDFg" Articulation="Leg3U1" RootNote="79"
+            VelLayer="0" Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="691" DBName="ACDDFg" Articulation="Leg3U1" RootNote="81"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="692" DBName="ACDDFg" Articulation="Leg3U1" RootNote="83"
+            VelLayer="0" Cycle="0" Tune="0" Gain="0.800000011920929"/>
+    <Sample ID="693" DBName="ACDDFg" Articulation="Leg3U1" RootNote="84"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="694" DBName="ACDDFg" Articulation="Leg3U1" RootNote="86"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="695" DBName="ACDDFg" Articulation="Leg3U1" RootNote="88"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="696" DBName="ACDDFg" Articulation="Leg3U2" RootNote="59"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="697" DBName="ACDDFg" Articulation="Leg3U2" RootNote="60"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="698" DBName="ACDDFg" Articulation="Leg3U2" RootNote="62"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="699" DBName="ACDDFg" Articulation="Leg3U2" RootNote="64"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="700" DBName="ACDDFg" Articulation="Leg3U2" RootNote="66"
+            VelLayer="0" Cycle="0" Tune="-17" Gain="1.0"/>
+    <Sample ID="701" DBName="ACDDFg" Articulation="Leg3U2" RootNote="67"
+            VelLayer="0" Cycle="0" Tune="0" Gain="0.9000000357627869"/>
+    <Sample ID="702" DBName="ACDDFg" Articulation="Leg3U2" RootNote="69"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="703" DBName="ACDDFg" Articulation="Leg3U2" RootNote="71"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="704" DBName="ACDDFg" Articulation="Leg3U2" RootNote="72"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="705" DBName="ACDDFg" Articulation="Leg3U2" RootNote="74"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="706" DBName="ACDDFg" Articulation="Leg3U2" RootNote="76"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="707" DBName="ACDDFg" Articulation="Leg3U2" RootNote="78"
+            VelLayer="0" Cycle="0" Tune="-17" Gain="1.0"/>
+    <Sample ID="708" DBName="ACDDFg" Articulation="Leg3U2" RootNote="79"
+            VelLayer="0" Cycle="0" Tune="-6" Gain="1.0"/>
+    <Sample ID="709" DBName="ACDDFg" Articulation="Leg3U2" RootNote="81"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="710" DBName="ACDDFg" Articulation="Leg3U2" RootNote="83"
+            VelLayer="0" Cycle="0" Tune="6" Gain="1.0"/>
+    <Sample ID="711" DBName="ACDDFg" Articulation="Leg3U2" RootNote="84"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="712" DBName="ACDDFg" Articulation="Leg3U2" RootNote="86"
+            VelLayer="0" Cycle="0" Tune="0" Gain="0.9000000357627869"/>
+    <Sample ID="713" DBName="ACDDFg" Articulation="Leg3U2" RootNote="88"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="714" DBName="ACDDFg" Articulation="LegH" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="715" DBName="ACDDFg" Articulation="LegH" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="716" DBName="ACDDFg" Articulation="LegH" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="717" DBName="ACDDFg" Articulation="LegH" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="718" DBName="ACDDFg" Articulation="LegH" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="719" DBName="ACDDFg" Articulation="LegH" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="720" DBName="ACDDFg" Articulation="LegH" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="721" DBName="ACDDFg" Articulation="LegH" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="722" DBName="ACDDFg" Articulation="LegH" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="723" DBName="ACDDFg" Articulation="LegH" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="724" DBName="ACDDFg" Articulation="LegH" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="725" DBName="ACDDFg" Articulation="LegH" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="726" DBName="ACDDFg" Articulation="LegH" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="727" DBName="ACDDFg" Articulation="LegH" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="728" DBName="ACDDFg" Articulation="LegH" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="729" DBName="ACDDFg" Articulation="LegH" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="730" DBName="ACDDFg" Articulation="LegH" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="731" DBName="ACDDFg" Articulation="LegH" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="732" DBName="ACDDFg" Articulation="LegH" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="733" DBName="ACDDFg" Articulation="LegH" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="734" DBName="ACDDFg" Articulation="LegHD" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="735" DBName="ACDDFg" Articulation="LegHD" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="736" DBName="ACDDFg" Articulation="LegHD" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="737" DBName="ACDDFg" Articulation="LegHD" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="738" DBName="ACDDFg" Articulation="LegHD" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="739" DBName="ACDDFg" Articulation="LegHD" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="740" DBName="ACDDFg" Articulation="LegHD" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="741" DBName="ACDDFg" Articulation="LegHD" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="742" DBName="ACDDFg" Articulation="LegHD" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="743" DBName="ACDDFg" Articulation="LegHD" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="744" DBName="ACDDFg" Articulation="LegHD" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="745" DBName="ACDDFg" Articulation="LegHD" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="746" DBName="ACDDFg" Articulation="LegHD" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="747" DBName="ACDDFg" Articulation="LegHD" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="748" DBName="ACDDFg" Articulation="LegHD" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="749" DBName="ACDDFg" Articulation="LegHD" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="750" DBName="ACDDFg" Articulation="LegHD" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="751" DBName="ACDDFg" Articulation="LegHD" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="752" DBName="ACDDFg" Articulation="LegHD" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="753" DBName="ACDDFg" Articulation="LegHU" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="754" DBName="ACDDFg" Articulation="LegHU" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="755" DBName="ACDDFg" Articulation="LegHU" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="756" DBName="ACDDFg" Articulation="LegHU" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="757" DBName="ACDDFg" Articulation="LegHU" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="758" DBName="ACDDFg" Articulation="LegHU" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="759" DBName="ACDDFg" Articulation="LegHU" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="760" DBName="ACDDFg" Articulation="LegHU" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="761" DBName="ACDDFg" Articulation="LegHU" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="762" DBName="ACDDFg" Articulation="LegHU" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="763" DBName="ACDDFg" Articulation="LegHU" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="764" DBName="ACDDFg" Articulation="LegHU" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="765" DBName="ACDDFg" Articulation="LegHU" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="766" DBName="ACDDFg" Articulation="LegHU" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="767" DBName="ACDDFg" Articulation="LegHU" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="768" DBName="ACDDFg" Articulation="LegHU" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="769" DBName="ACDDFg" Articulation="LegHU" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="770" DBName="ACDDFg" Articulation="LegHU" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="771" DBName="ACDDFg" Articulation="LegHU" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="772" DBName="ACDDFg" Articulation="Mark" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="773" DBName="ACDDFg" Articulation="Mark" RootNote="57" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="774" DBName="ACDDFg" Articulation="Mark" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="775" DBName="ACDDFg" Articulation="Mark" RootNote="59" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="776" DBName="ACDDFg" Articulation="Mark" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="777" DBName="ACDDFg" Articulation="Mark" RootNote="60" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="778" DBName="ACDDFg" Articulation="Mark" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="779" DBName="ACDDFg" Articulation="Mark" RootNote="62" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="780" DBName="ACDDFg" Articulation="Mark" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="781" DBName="ACDDFg" Articulation="Mark" RootNote="64" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="782" DBName="ACDDFg" Articulation="Mark" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="783" DBName="ACDDFg" Articulation="Mark" RootNote="66" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="784" DBName="ACDDFg" Articulation="Mark" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="785" DBName="ACDDFg" Articulation="Mark" RootNote="67" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="786" DBName="ACDDFg" Articulation="Mark" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="787" DBName="ACDDFg" Articulation="Mark" RootNote="69" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="788" DBName="ACDDFg" Articulation="Mark" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="789" DBName="ACDDFg" Articulation="Mark" RootNote="71" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="790" DBName="ACDDFg" Articulation="Mark" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="791" DBName="ACDDFg" Articulation="Mark" RootNote="72" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="792" DBName="ACDDFg" Articulation="Mark" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="793" DBName="ACDDFg" Articulation="Mark" RootNote="74" VelLayer="0"
+            Cycle="1" Tune="-7" Gain="1.0"/>
+    <Sample ID="794" DBName="ACDDFg" Articulation="Mark" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-13" Gain="1.0"/>
+    <Sample ID="795" DBName="ACDDFg" Articulation="Mark" RootNote="76" VelLayer="0"
+            Cycle="1" Tune="-12" Gain="1.0"/>
+    <Sample ID="796" DBName="ACDDFg" Articulation="Mark" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="797" DBName="ACDDFg" Articulation="Mark" RootNote="78" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="798" DBName="ACDDFg" Articulation="Mark" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="-6" Gain="1.0"/>
+    <Sample ID="799" DBName="ACDDFg" Articulation="Mark" RootNote="79" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="800" DBName="ACDDFg" Articulation="Mark" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="801" DBName="ACDDFg" Articulation="Mark" RootNote="81" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="802" DBName="ACDDFg" Articulation="Mark" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="6" Gain="1.0"/>
+    <Sample ID="803" DBName="ACDDFg" Articulation="Mark" RootNote="83" VelLayer="0"
+            Cycle="1" Tune="5" Gain="1.0"/>
+    <Sample ID="804" DBName="ACDDFg" Articulation="Mark" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="-37" Gain="1.0"/>
+    <Sample ID="805" DBName="ACDDFg" Articulation="Mark" RootNote="84" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="806" DBName="ACDDFg" Articulation="Mark" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="807" DBName="ACDDFg" Articulation="Mark" RootNote="86" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="808" DBName="ACDDFg" Articulation="Mark" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="809" DBName="ACDDFg" Articulation="Mark" RootNote="88" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="810" DBName="ACDDFg" Articulation="SFZ1" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="811" DBName="ACDDFg" Articulation="SFZ1" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="812" DBName="ACDDFg" Articulation="SFZ1" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="813" DBName="ACDDFg" Articulation="SFZ1" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="814" DBName="ACDDFg" Articulation="SFZ1" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="815" DBName="ACDDFg" Articulation="SFZ1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="816" DBName="ACDDFg" Articulation="SFZ1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="817" DBName="ACDDFg" Articulation="SFZ1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="818" DBName="ACDDFg" Articulation="SFZ1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="819" DBName="ACDDFg" Articulation="SFZ1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="820" DBName="ACDDFg" Articulation="SFZ1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="821" DBName="ACDDFg" Articulation="SFZ1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="822" DBName="ACDDFg" Articulation="SFZ1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="823" DBName="ACDDFg" Articulation="SFZ1" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="824" DBName="ACDDFg" Articulation="SFZ1" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="825" DBName="ACDDFg" Articulation="SFZ1" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="826" DBName="ACDDFg" Articulation="SFZ1" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="827" DBName="ACDDFg" Articulation="SFZ1" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="828" DBName="ACDDFg" Articulation="SFZ1" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="829" DBName="ACDDFg" Articulation="SFZ1" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="830" DBName="ACDDFg" Articulation="SFZ2" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="831" DBName="ACDDFg" Articulation="SFZ2" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="832" DBName="ACDDFg" Articulation="SFZ2" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="833" DBName="ACDDFg" Articulation="SFZ2" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="834" DBName="ACDDFg" Articulation="SFZ2" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="835" DBName="ACDDFg" Articulation="SFZ2" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="836" DBName="ACDDFg" Articulation="SFZ2" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="837" DBName="ACDDFg" Articulation="SFZ2" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="838" DBName="ACDDFg" Articulation="SFZ2" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="839" DBName="ACDDFg" Articulation="SFZ2" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="840" DBName="ACDDFg" Articulation="SFZ2" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="841" DBName="ACDDFg" Articulation="SFZ2" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="842" DBName="ACDDFg" Articulation="SFZ2" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="843" DBName="ACDDFg" Articulation="SFZ2" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="844" DBName="ACDDFg" Articulation="SFZ2" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="845" DBName="ACDDFg" Articulation="SFZ2" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="846" DBName="ACDDFg" Articulation="SFZ2" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="847" DBName="ACDDFg" Articulation="SFZ2" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="848" DBName="ACDDFg" Articulation="SFZ2" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="849" DBName="ACDDFg" Articulation="SFZ2" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="850" DBName="ACDDFg" Articulation="SliOF" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="851" DBName="ACDDFg" Articulation="SliOF" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="852" DBName="ACDDFg" Articulation="SliOF" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="853" DBName="ACDDFg" Articulation="SliOF" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="854" DBName="ACDDFg" Articulation="SliOF" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="855" DBName="ACDDFg" Articulation="SliOF" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="856" DBName="ACDDFg" Articulation="SliOF" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-29" Gain="1.0"/>
+    <Sample ID="857" DBName="ACDDFg" Articulation="SliOF" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-29" Gain="1.0"/>
+    <Sample ID="858" DBName="ACDDFg" Articulation="SliOF" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="859" DBName="ACDDFg" Articulation="SliOF" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="860" DBName="ACDDFg" Articulation="SliOF" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="861" DBName="ACDDFg" Articulation="SliOF" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="862" DBName="ACDDFg" Articulation="SliOF" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-23" Gain="1.0"/>
+    <Sample ID="863" DBName="ACDDFg" Articulation="SliOF" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="864" DBName="ACDDFg" Articulation="SliOF" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="865" DBName="ACDDFg" Articulation="SliOF" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="866" DBName="ACDDFg" Articulation="SliOF" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="867" DBName="ACDDFg" Articulation="SliOF" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="868" DBName="ACDDFg" Articulation="SliOF" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="869" DBName="ACDDFg" Articulation="SliOF" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="-31" Gain="1.0"/>
+    <Sample ID="870" DBName="ACDDFg" Articulation="WT" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="871" DBName="ACDDFg" Articulation="WT" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="872" DBName="ACDDFg" Articulation="WT" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="873" DBName="ACDDFg" Articulation="WT" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="874" DBName="ACDDFg" Articulation="WT" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="875" DBName="ACDDFg" Articulation="WT" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="876" DBName="ACDDFg" Articulation="WT" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="877" DBName="ACDDFg" Articulation="WT" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="878" DBName="ACDDFg" Articulation="WT" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="879" DBName="ACDDFg" Articulation="WT" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="880" DBName="ACDDFg" Articulation="WT" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="881" DBName="ACDDFg" Articulation="WT" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="882" DBName="ACDDFg" Articulation="WT" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="883" DBName="ACDDFg" Articulation="WT" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="884" DBName="ACDDFg" Articulation="WT" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="885" DBName="ACDDFg" Articulation="WT" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="886" DBName="ACDDFg" Articulation="WT" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="887" DBName="ACDDFg" Articulation="WT" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="888" DBName="ACDDFg" Articulation="WT" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="889" DBName="ACDDFg" Articulation="WT" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="890" DBName="ACDDFg" Articulation="RelI" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="891" DBName="ACDDFg" Articulation="RelI" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1.0"/>
+    <Sample ID="892" DBName="ACDDFg" Articulation="RelI" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="893" DBName="ACDDFg" Articulation="RelI" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="894" DBName="ACDDFg" Articulation="RelI" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="895" DBName="ACDDFg" Articulation="RelI" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="896" DBName="ACDDFg" Articulation="RelI" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="897" DBName="ACDDFg" Articulation="RelI" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="898" DBName="ACDDFg" Articulation="RelI" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="899" DBName="ACDDFg" Articulation="RelI" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="900" DBName="ACDDFg" Articulation="RelI" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="901" DBName="ACDDFg" Articulation="RelI" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="902" DBName="ACDDFg" Articulation="RelI" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="903" DBName="ACDDFg" Articulation="RelI" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="904" DBName="ACDDFg" Articulation="RelI" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="905" DBName="ACDDFg" Articulation="RelI" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="906" DBName="ACDDFg" Articulation="RelI" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="907" DBName="ACDDFg" Articulation="RelI" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="908" DBName="ACDDFg" Articulation="RelI" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="909" DBName="ACDDFg" Articulation="RelI" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="910" DBName="ACDDFg" Articulation="Sli2D" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="911" DBName="ACDDFg" Articulation="Sli2D" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="912" DBName="ACDDFg" Articulation="Sli2D" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="913" DBName="ACDDFg" Articulation="Sli2D" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="914" DBName="ACDDFg" Articulation="Sli2D" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="915" DBName="ACDDFg" Articulation="Sli2D" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="916" DBName="ACDDFg" Articulation="Sli2D" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="917" DBName="ACDDFg" Articulation="Sli2D" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="918" DBName="ACDDFg" Articulation="Sli2D" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="919" DBName="ACDDFg" Articulation="Sli2D" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="920" DBName="ACDDFg" Articulation="Sli2D" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1.0"/>
+    <Sample ID="921" DBName="ACDDFg" Articulation="Sli2D" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="922" DBName="ACDDFg" Articulation="Sli2D" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="-13" Gain="1.0"/>
+    <Sample ID="923" DBName="ACDDFg" Articulation="Sli2D" RootNote="80" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="924" DBName="ACDDFg" Articulation="Sli2D" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1.0"/>
+    <Sample ID="925" DBName="ACDDFg" Articulation="Sli2D" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="926" DBName="ACDDFg" Articulation="Sli2D" RootNote="85" VelLayer="0"
+            Cycle="0" Tune="6" Gain="1.0"/>
+    <Sample ID="927" DBName="ACDDFg" Articulation="Sli2D" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1.0"/>
+    <Sample ID="928" DBName="ACDDFg" Articulation="Sli2D" RootNote="88" VelLayer="0"
+            Cycle="0" Tune="-21" Gain="1.0"/>
+    <Sample ID="929" DBName="ACDDFg" Articulation="Sli2U" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="930" DBName="ACDDFg" Articulation="Sli2U" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="931" DBName="ACDDFg" Articulation="Sli2U" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="932" DBName="ACDDFg" Articulation="Sli2U" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="933" DBName="ACDDFg" Articulation="Sli2U" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="934" DBName="ACDDFg" Articulation="Sli2U" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="935" DBName="ACDDFg" Articulation="Sli2U" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="936" DBName="ACDDFg" Articulation="Sli2U" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1.0"/>
+    <Sample ID="937" DBName="ACDDFg" Articulation="Sli2U" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="938" DBName="ACDDFg" Articulation="Sli2U" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="939" DBName="ACDDFg" Articulation="Sli2U" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="940" DBName="ACDDFg" Articulation="Sli2U" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1.0"/>
+    <Sample ID="941" DBName="ACDDFg" Articulation="Sli2U" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="-13" Gain="1.0"/>
+    <Sample ID="942" DBName="ACDDFg" Articulation="Sli2U" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1.0"/>
+    <Sample ID="943" DBName="ACDDFg" Articulation="Sli2U" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="944" DBName="ACDDFg" Articulation="Sli2U" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="945" DBName="ACDDFg" Articulation="Sli2U" RootNote="82" VelLayer="0"
+            Cycle="0" Tune="5" Gain="1.0"/>
+    <Sample ID="946" DBName="ACDDFg" Articulation="Sli2U" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1.0"/>
+    <Sample ID="947" DBName="ACDDFg" Articulation="Sli2U" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="948" DBName="ACDDFg" Articulation="Sli3D" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="949" DBName="ACDDFg" Articulation="Sli3D" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="950" DBName="ACDDFg" Articulation="Sli3D" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="951" DBName="ACDDFg" Articulation="Sli3D" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="952" DBName="ACDDFg" Articulation="Sli3D" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="953" DBName="ACDDFg" Articulation="Sli3D" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="954" DBName="ACDDFg" Articulation="Sli3D" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="955" DBName="ACDDFg" Articulation="Sli3D" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="956" DBName="ACDDFg" Articulation="Sli3D" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="957" DBName="ACDDFg" Articulation="Sli3D" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="958" DBName="ACDDFg" Articulation="Sli3D" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="959" DBName="ACDDFg" Articulation="Sli3D" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="960" DBName="ACDDFg" Articulation="Sli3D" RootNote="79" VelLayer="0"
+            Cycle="0" Tune="-10" Gain="1.0"/>
+    <Sample ID="961" DBName="ACDDFg" Articulation="Sli3D" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="-8" Gain="1.0"/>
+    <Sample ID="962" DBName="ACDDFg" Articulation="Sli3D" RootNote="82" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="963" DBName="ACDDFg" Articulation="Sli3D" RootNote="84" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="964" DBName="ACDDFg" Articulation="Sli3D" RootNote="86" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="965" DBName="ACDDFg" Articulation="Sli3D" RootNote="87" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="966" DBName="ACDDFg" Articulation="Sli3U" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="967" DBName="ACDDFg" Articulation="Sli3U" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="968" DBName="ACDDFg" Articulation="Sli3U" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="969" DBName="ACDDFg" Articulation="Sli3U" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="970" DBName="ACDDFg" Articulation="Sli3U" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="971" DBName="ACDDFg" Articulation="Sli3U" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="-12" Gain="1.0"/>
+    <Sample ID="972" DBName="ACDDFg" Articulation="Sli3U" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="973" DBName="ACDDFg" Articulation="Sli3U" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="974" DBName="ACDDFg" Articulation="Sli3U" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1.0"/>
+    <Sample ID="975" DBName="ACDDFg" Articulation="Sli3U" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="976" DBName="ACDDFg" Articulation="Sli3U" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="977" DBName="ACDDFg" Articulation="Sli3U" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="978" DBName="ACDDFg" Articulation="Sli3U" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="979" DBName="ACDDFg" Articulation="Sli3U" RootNote="78" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="980" DBName="ACDDFg" Articulation="Sli3U" RootNote="80" VelLayer="0"
+            Cycle="0" Tune="4" Gain="1.0"/>
+    <Sample ID="981" DBName="ACDDFg" Articulation="Sli3U" RootNote="81" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1.0"/>
+    <Sample ID="982" DBName="ACDDFg" Articulation="Sli3U" RootNote="83" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="983" DBName="ACDDFg" Articulation="Sli3U" RootNote="85" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="984" DBName="ACDDFg" Articulation="SliOD1" RootNote="55"
+            VelLayer="0" Cycle="0" Tune="-10" Gain="1.0"/>
+    <Sample ID="985" DBName="ACDDFg" Articulation="SliOD1" RootNote="55"
+            VelLayer="0" Cycle="1" Tune="-12" Gain="1.0"/>
+    <Sample ID="986" DBName="ACDDFg" Articulation="SliOD1" RootNote="57"
+            VelLayer="0" Cycle="0" Tune="14" Gain="1.0"/>
+    <Sample ID="987" DBName="ACDDFg" Articulation="SliOD1" RootNote="57"
+            VelLayer="0" Cycle="1" Tune="14" Gain="1.0"/>
+    <Sample ID="988" DBName="ACDDFg" Articulation="SliOD1" RootNote="59"
+            VelLayer="0" Cycle="0" Tune="-15" Gain="1.0"/>
+    <Sample ID="989" DBName="ACDDFg" Articulation="SliOD1" RootNote="59"
+            VelLayer="0" Cycle="1" Tune="-19" Gain="1.0"/>
+    <Sample ID="990" DBName="ACDDFg" Articulation="SliOD1" RootNote="60"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="991" DBName="ACDDFg" Articulation="SliOD1" RootNote="60"
+            VelLayer="0" Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="992" DBName="ACDDFg" Articulation="SliOD1" RootNote="62"
+            VelLayer="0" Cycle="0" Tune="-7" Gain="1.0"/>
+    <Sample ID="993" DBName="ACDDFg" Articulation="SliOD1" RootNote="62"
+            VelLayer="0" Cycle="1" Tune="-4" Gain="1.0"/>
+    <Sample ID="994" DBName="ACDDFg" Articulation="SliOD1" RootNote="64"
+            VelLayer="0" Cycle="0" Tune="-20" Gain="1.0"/>
+    <Sample ID="995" DBName="ACDDFg" Articulation="SliOD1" RootNote="64"
+            VelLayer="0" Cycle="1" Tune="-17" Gain="1.0"/>
+    <Sample ID="996" DBName="ACDDFg" Articulation="SliOD1" RootNote="66"
+            VelLayer="0" Cycle="0" Tune="-13" Gain="1.0"/>
+    <Sample ID="997" DBName="ACDDFg" Articulation="SliOD1" RootNote="66"
+            VelLayer="0" Cycle="1" Tune="-16" Gain="1.0"/>
+    <Sample ID="998" DBName="ACDDFg" Articulation="SliOD1" RootNote="67"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="999" DBName="ACDDFg" Articulation="SliOD1" RootNote="67"
+            VelLayer="0" Cycle="1" Tune="-8" Gain="1.0"/>
+    <Sample ID="1000" DBName="ACDDFg" Articulation="SliOD1" RootNote="69"
+            VelLayer="0" Cycle="0" Tune="-7" Gain="1.0"/>
+    <Sample ID="1001" DBName="ACDDFg" Articulation="SliOD1" RootNote="69"
+            VelLayer="0" Cycle="1" Tune="-5" Gain="1.0"/>
+    <Sample ID="1002" DBName="ACDDFg" Articulation="SliOD1" RootNote="71"
+            VelLayer="0" Cycle="0" Tune="6" Gain="1.0"/>
+    <Sample ID="1003" DBName="ACDDFg" Articulation="SliOD1" RootNote="71"
+            VelLayer="0" Cycle="1" Tune="6" Gain="1.0"/>
+    <Sample ID="1004" DBName="ACDDFg" Articulation="SliOD1" RootNote="72"
+            VelLayer="0" Cycle="0" Tune="8" Gain="1.0"/>
+    <Sample ID="1005" DBName="ACDDFg" Articulation="SliOD1" RootNote="72"
+            VelLayer="0" Cycle="1" Tune="8" Gain="1.0"/>
+    <Sample ID="1006" DBName="ACDDFg" Articulation="SliOD1" RootNote="74"
+            VelLayer="0" Cycle="0" Tune="-6" Gain="1.0"/>
+    <Sample ID="1007" DBName="ACDDFg" Articulation="SliOD1" RootNote="74"
+            VelLayer="0" Cycle="1" Tune="-9" Gain="1.0"/>
+    <Sample ID="1008" DBName="ACDDFg" Articulation="SliOD1" RootNote="76"
+            VelLayer="0" Cycle="0" Tune="-17" Gain="1.0"/>
+    <Sample ID="1009" DBName="ACDDFg" Articulation="SliOD1" RootNote="76"
+            VelLayer="0" Cycle="1" Tune="-16" Gain="1.0"/>
+    <Sample ID="1010" DBName="ACDDFg" Articulation="SliOD1" RootNote="78"
+            VelLayer="0" Cycle="0" Tune="-20" Gain="1.0"/>
+    <Sample ID="1011" DBName="ACDDFg" Articulation="SliOD1" RootNote="78"
+            VelLayer="0" Cycle="1" Tune="-16" Gain="1.0"/>
+    <Sample ID="1012" DBName="ACDDFg" Articulation="SliOD1" RootNote="79"
+            VelLayer="0" Cycle="0" Tune="-11" Gain="1.0"/>
+    <Sample ID="1013" DBName="ACDDFg" Articulation="SliOD1" RootNote="79"
+            VelLayer="0" Cycle="1" Tune="-8" Gain="1.0"/>
+    <Sample ID="1014" DBName="ACDDFg" Articulation="SliOD1" RootNote="81"
+            VelLayer="0" Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="1015" DBName="ACDDFg" Articulation="SliOD1" RootNote="81"
+            VelLayer="0" Cycle="1" Tune="-7" Gain="1.0"/>
+    <Sample ID="1016" DBName="ACDDFg" Articulation="SliOD1" RootNote="83"
+            VelLayer="0" Cycle="0" Tune="7" Gain="1.0"/>
+    <Sample ID="1017" DBName="ACDDFg" Articulation="SliOD1" RootNote="83"
+            VelLayer="0" Cycle="1" Tune="0" Gain="1.0"/>
+    <Sample ID="1018" DBName="ACDDFg" Articulation="SliOD1" RootNote="84"
+            VelLayer="0" Cycle="0" Tune="-16" Gain="1.0"/>
+    <Sample ID="1019" DBName="ACDDFg" Articulation="SliOD1" RootNote="84"
+            VelLayer="0" Cycle="1" Tune="-11" Gain="1.0"/>
+    <Sample ID="1020" DBName="ACDDFg" Articulation="SliOD1" RootNote="86"
+            VelLayer="0" Cycle="0" Tune="-16" Gain="1.0"/>
+    <Sample ID="1021" DBName="ACDDFg" Articulation="SliOD1" RootNote="86"
+            VelLayer="0" Cycle="1" Tune="-9" Gain="1.0"/>
+    <Sample ID="1022" DBName="ACDDFg" Articulation="SliOD1" RootNote="88"
+            VelLayer="0" Cycle="0" Tune="-19" Gain="1.0"/>
+    <Sample ID="1023" DBName="ACDDFg" Articulation="SliOD1" RootNote="88"
+            VelLayer="0" Cycle="1" Tune="-19" Gain="1.0"/>
+    <Sample ID="1024" DBName="ACDDFg" Articulation="SliOD2" RootNote="55"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1025" DBName="ACDDFg" Articulation="SliOD2" RootNote="57"
+            VelLayer="0" Cycle="0" Tune="20" Gain="1.0"/>
+    <Sample ID="1026" DBName="ACDDFg" Articulation="SliOD2" RootNote="59"
+            VelLayer="0" Cycle="0" Tune="12" Gain="1.0"/>
+    <Sample ID="1027" DBName="ACDDFg" Articulation="SliOD2" RootNote="60"
+            VelLayer="0" Cycle="0" Tune="13" Gain="1.0"/>
+    <Sample ID="1028" DBName="ACDDFg" Articulation="SliOD2" RootNote="62"
+            VelLayer="0" Cycle="0" Tune="7" Gain="1.0"/>
+    <Sample ID="1029" DBName="ACDDFg" Articulation="SliOD2" RootNote="64"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1030" DBName="ACDDFg" Articulation="SliOD2" RootNote="66"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1031" DBName="ACDDFg" Articulation="SliOD2" RootNote="67"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1032" DBName="ACDDFg" Articulation="SliOD2" RootNote="69"
+            VelLayer="0" Cycle="0" Tune="-6" Gain="1.0"/>
+    <Sample ID="1033" DBName="ACDDFg" Articulation="SliOD2" RootNote="71"
+            VelLayer="0" Cycle="0" Tune="8" Gain="1.0"/>
+    <Sample ID="1034" DBName="ACDDFg" Articulation="SliOD2" RootNote="72"
+            VelLayer="0" Cycle="0" Tune="9" Gain="1.0"/>
+    <Sample ID="1035" DBName="ACDDFg" Articulation="SliOD2" RootNote="74"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1036" DBName="ACDDFg" Articulation="SliOD2" RootNote="76"
+            VelLayer="0" Cycle="0" Tune="-4" Gain="1.0"/>
+    <Sample ID="1037" DBName="ACDDFg" Articulation="SliOD2" RootNote="78"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1038" DBName="ACDDFg" Articulation="SliOD2" RootNote="79"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1039" DBName="ACDDFg" Articulation="SliOD2" RootNote="81"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1040" DBName="ACDDFg" Articulation="SliOD2" RootNote="83"
+            VelLayer="0" Cycle="0" Tune="13" Gain="1.0"/>
+    <Sample ID="1041" DBName="ACDDFg" Articulation="SliOD2" RootNote="84"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1042" DBName="ACDDFg" Articulation="SliOD2" RootNote="86"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1043" DBName="ACDDFg" Articulation="SliOD2" RootNote="88"
+            VelLayer="0" Cycle="0" Tune="-11" Gain="1.0"/>
+    <Sample ID="1044" DBName="ACDDFg" Articulation="Tri2F" RootNote="55"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1045" DBName="ACDDFg" Articulation="Tri2F" RootNote="57"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1046" DBName="ACDDFg" Articulation="Tri2F" RootNote="59"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1047" DBName="ACDDFg" Articulation="Tri2F" RootNote="60"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1048" DBName="ACDDFg" Articulation="Tri2F" RootNote="62"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1049" DBName="ACDDFg" Articulation="Tri2F" RootNote="64"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1050" DBName="ACDDFg" Articulation="Tri2F" RootNote="66"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1051" DBName="ACDDFg" Articulation="Tri2F" RootNote="67"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1052" DBName="ACDDFg" Articulation="Tri2F" RootNote="69"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1053" DBName="ACDDFg" Articulation="Tri2F" RootNote="71"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1054" DBName="ACDDFg" Articulation="Tri2F" RootNote="72"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1055" DBName="ACDDFg" Articulation="Tri2F" RootNote="74"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1056" DBName="ACDDFg" Articulation="Tri2F" RootNote="76"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1057" DBName="ACDDFg" Articulation="Tri2F" RootNote="78"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1058" DBName="ACDDFg" Articulation="Tri2F" RootNote="79"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1059" DBName="ACDDFg" Articulation="Tri2F" RootNote="81"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1060" DBName="ACDDFg" Articulation="Tri2F" RootNote="83"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1061" DBName="ACDDFg" Articulation="Tri2F" RootNote="84"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1062" DBName="ACDDFg" Articulation="Tri2F" RootNote="86"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1063" DBName="ACDDFg" Articulation="Tri2SF" RootNote="55"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1064" DBName="ACDDFg" Articulation="Tri2SF" RootNote="57"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1065" DBName="ACDDFg" Articulation="Tri2SF" RootNote="59"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1066" DBName="ACDDFg" Articulation="Tri2SF" RootNote="60"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1067" DBName="ACDDFg" Articulation="Tri2SF" RootNote="62"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1068" DBName="ACDDFg" Articulation="Tri2SF" RootNote="64"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1069" DBName="ACDDFg" Articulation="Tri2SF" RootNote="66"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1070" DBName="ACDDFg" Articulation="Tri2SF" RootNote="67"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1071" DBName="ACDDFg" Articulation="Tri2SF" RootNote="69"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1072" DBName="ACDDFg" Articulation="Tri2SF" RootNote="71"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1073" DBName="ACDDFg" Articulation="Tri2SF" RootNote="72"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1074" DBName="ACDDFg" Articulation="Tri2SF" RootNote="74"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1075" DBName="ACDDFg" Articulation="Tri2SF" RootNote="76"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1076" DBName="ACDDFg" Articulation="Tri2SF" RootNote="78"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1077" DBName="ACDDFg" Articulation="Tri2SF" RootNote="79"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1078" DBName="ACDDFg" Articulation="Tri2SF" RootNote="81"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1079" DBName="ACDDFg" Articulation="Tri2SF" RootNote="83"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1080" DBName="ACDDFg" Articulation="Tri2SF" RootNote="84"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1081" DBName="ACDDFg" Articulation="Tri2SF" RootNote="86"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1082" DBName="ACDDFg" Articulation="Tri3F" RootNote="55"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1083" DBName="ACDDFg" Articulation="Tri3F" RootNote="57"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1084" DBName="ACDDFg" Articulation="Tri3F" RootNote="59"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1085" DBName="ACDDFg" Articulation="Tri3F" RootNote="60"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1086" DBName="ACDDFg" Articulation="Tri3F" RootNote="62"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1087" DBName="ACDDFg" Articulation="Tri3F" RootNote="64"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1088" DBName="ACDDFg" Articulation="Tri3F" RootNote="66"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1089" DBName="ACDDFg" Articulation="Tri3F" RootNote="67"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1090" DBName="ACDDFg" Articulation="Tri3F" RootNote="69"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1091" DBName="ACDDFg" Articulation="Tri3F" RootNote="71"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1092" DBName="ACDDFg" Articulation="Tri3F" RootNote="72"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1093" DBName="ACDDFg" Articulation="Tri3F" RootNote="74"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1094" DBName="ACDDFg" Articulation="Tri3F" RootNote="76"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1095" DBName="ACDDFg" Articulation="Tri3F" RootNote="78"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1096" DBName="ACDDFg" Articulation="Tri3F" RootNote="79"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1097" DBName="ACDDFg" Articulation="Tri3F" RootNote="81"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1098" DBName="ACDDFg" Articulation="Tri3F" RootNote="83"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1099" DBName="ACDDFg" Articulation="Tri3F" RootNote="84"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1100" DBName="ACDDFg" Articulation="Tri3SF" RootNote="55"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1101" DBName="ACDDFg" Articulation="Tri3SF" RootNote="57"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1102" DBName="ACDDFg" Articulation="Tri3SF" RootNote="59"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1103" DBName="ACDDFg" Articulation="Tri3SF" RootNote="60"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1104" DBName="ACDDFg" Articulation="Tri3SF" RootNote="62"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1105" DBName="ACDDFg" Articulation="Tri3SF" RootNote="64"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1106" DBName="ACDDFg" Articulation="Tri3SF" RootNote="66"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1107" DBName="ACDDFg" Articulation="Tri3SF" RootNote="67"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1108" DBName="ACDDFg" Articulation="Tri3SF" RootNote="69"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1109" DBName="ACDDFg" Articulation="Tri3SF" RootNote="71"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1110" DBName="ACDDFg" Articulation="Tri3SF" RootNote="72"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1111" DBName="ACDDFg" Articulation="Tri3SF" RootNote="74"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1112" DBName="ACDDFg" Articulation="Tri3SF" RootNote="76"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1113" DBName="ACDDFg" Articulation="Tri3SF" RootNote="78"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1114" DBName="ACDDFg" Articulation="Tri3SF" RootNote="79"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1115" DBName="ACDDFg" Articulation="Tri3SF" RootNote="81"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1116" DBName="ACDDFg" Articulation="Tri3SF" RootNote="83"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+    <Sample ID="1117" DBName="ACDDFg" Articulation="Tri3SF" RootNote="84"
+            VelLayer="0" Cycle="0" Tune="0" Gain="1.0"/>
+  </SampleInfo>
+</Infos>

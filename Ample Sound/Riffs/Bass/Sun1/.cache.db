@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="100_16_44_Blues_RockBlues_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Blues" cho=""
+        type="" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="100_16_84T_Funk_PrFunk_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Funk" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_16_84T_Funk_PrFunk_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Funk" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_16_84T_Funk_PrFunk_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Funk" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_16_84T_Funk_PrFunk_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Funk" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_16_84T_Funk_PrFunk_05" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Funk" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_16_84T_Funk_PrFunk_06" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Funk" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_16_84T_R&amp;B_Groove_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_16_84T_R&amp;B_Groove_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_16_84T_R&amp;B_Groove_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_16_84T_R&amp;B_Groove_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_16_84T_R&amp;B_Groove_05" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="100_16_84_Pop_PopRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Pop" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="100_16_84_Pop_PopRock_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="100" cat="Pop" cho=""
+        type="" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="106_16_84T_Jazz_2Step_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_16_84T_Jazz_2Step_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_16_84T_Jazz_Walking_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_16_84T_Jazz_Walking_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_16_84T_Jazz_Walking_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_16_84T_Jazz_Walking_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_16_84T_Jazz_Walking_05" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_8_84T_Jazz_2Step_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_8_84T_Jazz_2Step_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_8_84T_Jazz_Walking_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_8_84T_Jazz_Walking_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_8_84T_Jazz_Walking_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_8_84T_Jazz_Walking_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_8_84T_Jazz_Walking_05" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="Jazz" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_8_84T_R&amp;B_Groove_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="R&amp;B" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="106_8_84T_R&amp;B_Groove_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="106" cat="R&amp;B" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="110_16_84_Folk_PrFolk_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Folk_PrFolk_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Folk_PrFolk_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Folk_PrFolk_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Folk_PrFolk_05" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Folk_PrFolk_06" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Folk_PrFolk_07" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Folk_PrFolk_08" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Pop_PopRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="F" measures="1" quantize="1/8" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Pop_Pop_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Pop_Pop_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Pop_Pop_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_Pop_Pop_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_R&amp;B_Groove_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="R&amp;B" cho=""
+        type="" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_R&amp;B_Groove_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="R&amp;B" cho=""
+        type="" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_R&amp;B_Groove_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="R&amp;B" cho=""
+        type="" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_R&amp;B_Groove_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="R&amp;B" cho=""
+        type="" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_R&amp;B_Groove_05" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="R&amp;B" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_R&amp;B_Groove_06" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="R&amp;B" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_R&amp;B_Groove_07" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="R&amp;B" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_16_84_R&amp;B_Groove_08" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="R&amp;B" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="110_8_44T_Blues_ShuffleBlues_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Blues" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="4/4Tri" dist=""/>
+  <item FName="110_8_84T_Blues_ShuffleBlues_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Blues" cho=""
+        type="" db="" key="G#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="110_8_84T_Blues_ShuffleBlues_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="110" cat="Blues" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="114_16_84_Funk_PrFunk_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="114" cat="Funk" cho=""
+        type="" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="115_16_84_Rock_HardRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="115" cat="Rock" cho=""
+        type="" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="116_16_84_Rock_PrRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="116" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="116_16_84_Rock_PrRock_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="116" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="116_16_84_Rock_PrRock_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="116" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="116_16_84_Rock_PrRock_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="116" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="116_16_84_Rock_PrRock_05" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="116" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="118_16_84_Rock_HardRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="118" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="118_16_84_Rock_HardRock_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="118" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Country_Country_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Country" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Country_Country_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Country" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Country_Country_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Country" cho=""
+        type="" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Country_Country_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Country" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Country_Country_05" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Country" cho=""
+        type="" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Country_Country_06" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Country" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Pop_Pop_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Pop" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Pop_Pop_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Pop" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Pop_Pop_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Pop" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Pop_Pop_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Pop" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Pop_Pop_05" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Pop" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Pop_Pop_06" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Pop" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_16_84_Pop_Pop_07" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Pop" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="120_8_84T_Blues_ShuffleBlues_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="120" cat="Blues" cho=""
+        type="" db="" key="C#" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="122_16_84_Funk_PrFunk_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="122" cat="Funk" cho=""
+        type="" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="122_16_84_Funk_PrFunk_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="122" cat="Funk" cho=""
+        type="" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="122_16_84_Funk_PrFunk_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="122" cat="Funk" cho=""
+        type="" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="122_16_84_Funk_PrFunk_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="122" cat="Funk" cho=""
+        type="" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="122_16_84_Funk_PrFunk_05" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="122" cat="Funk" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="122_16_84_Funk_PrFunk_06" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="122" cat="Funk" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="122_16_84_Rock_PrRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="122" cat="Rock" cho=""
+        type="" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="122_16_84_Rock_PrRock_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="122" cat="Rock" cho=""
+        type="" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="122_16_84_Rock_PrRock_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="122" cat="Rock" cho=""
+        type="" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Pop_Pop_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Pop" cho=""
+        type="" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Rock_HardRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="130_16_84_Rock_HardRock_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="130" cat="Rock" cho=""
+        type="" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="135_32_84_Rock_SlapRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="135" cat="Rock" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/32" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="144_16_84_Rock_PrRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="144" cat="Rock" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="144_16_84_Rock_PrRock_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="144" cat="Rock" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="144_16_84_Rock_PrRock_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="144" cat="Rock" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="144_16_84_Rock_PrRock_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="144" cat="Rock" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="144_16_84_Rock_PrRock_05" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="144" cat="Rock" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="144_16_84_Rock_PrRock_06" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="144" cat="Rock" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="170_16_84_Rock_PrRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="170" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="170_16_84_Rock_PrRock_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="170" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="170_16_84_Rock_PrRock_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="170" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="170_16_84_Rock_PrRock_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="170" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="200_16_84_Rock_Punk_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="200" cat="Rock" cho=""
+        type="" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="200_16_84_Rock_Punk_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="200" cat="Rock" cho=""
+        type="" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="210_16_84_Pop_PopRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="210" cat="Pop" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="210_16_84_Pop_PopRock_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="210" cat="Pop" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="220_16_84_Rock_PrRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="220" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="220_16_84_Rock_PrRock_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="220" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="220_16_84_Rock_PrRock_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="220" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="220_16_84_Rock_PrRock_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="220" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="220_16_84_Rock_PrRock_05" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="220" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="220_16_84_Rock_PrRock_06" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="220" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="240_16_84_Rock_Punk_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="240" cat="Rock" cho=""
+        type="" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="240_16_84_Rock_Punk_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="240" cat="Rock" cho=""
+        type="" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="250_16_84_Rock_SlapRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="250" cat="Rock" cho=""
+        type="" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="60_8_84T_Blues_SlowBlues_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="60" cat="Blues" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="60_8_84T_Blues_SlowBlues_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="60" cat="Blues" cho=""
+        type="" db="" key="C" measures="1" quantize="1/8" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="70_16_84T_R&amp;B_Groove_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="70" cat="R&amp;B" cho=""
+        type="" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="70_16_84T_R&amp;B_Groove_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="70" cat="R&amp;B" cho=""
+        type="" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="70_16_84T_R&amp;B_Groove_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="70" cat="R&amp;B" cho=""
+        type="" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="70_16_84T_R&amp;B_Groove_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="70" cat="R&amp;B" cho=""
+        type="" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4Tri" dist=""/>
+  <item FName="80_8_44T_Blues_ShuffleBlues_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="80" cat="Blues" cho=""
+        type="" db="" key="F" measures="1" quantize="1/8" rating="0"
+        signature="4/4Tri" dist=""/>
+  <item FName="80_8_44T_Blues_ShuffleBlues_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="80" cat="Blues" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="4/4Tri" dist=""/>
+  <item FName="80_8_44T_Blues_ShuffleBlues_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="80" cat="Blues" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/8" rating="0"
+        signature="4/4Tri" dist=""/>
+  <item FName="80_8_44T_Blues_ShuffleBlues_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="80" cat="Blues" cho=""
+        type="" db="" key="F" measures="1" quantize="1/8" rating="0"
+        signature="4/4Tri" dist=""/>
+  <item FName="84_16_84_Rock_HardRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="84" cat="Rock" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="84_16_84_Rock_HardRock_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="84" cat="Rock" cho=""
+        type="" db="" key="A#" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+  <item FName="90_16_44_Blues_RockBlues_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Blues" cho=""
+        type="" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="90_16_44_Blues_RockBlues_02" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Blues" cho=""
+        type="" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="90_16_44_Blues_RockBlues_03" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Blues" cho=""
+        type="" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="90_16_44_Blues_RockBlues_04" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Blues" cho=""
+        type="" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="90_16_44_Blues_RockBlues_05" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Blues" cho=""
+        type="" db="" key="A" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="90_16_44_Blues_RockBlues_06" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Blues" cho=""
+        type="" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="90_16_44_Blues_RockBlues_07" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Blues" cho=""
+        type="" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="90_16_44_Blues_RockBlues_08" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Blues" cho=""
+        type="" db="" key="E" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="90_16_44_Blues_RockBlues_09" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Blues" cho=""
+        type="" db="" key="E" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="90_16_44_Blues_RockBlues_10" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Blues" cho=""
+        type="" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="90_16_44_Blues_RockBlues_11" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Blues" cho=""
+        type="" db="" key="D" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="90_16_44_Blues_RockBlues_12" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Blues" cho=""
+        type="" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="90_16_44_Blues_RockBlues_13" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Blues" cho=""
+        type="" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="90_16_44_Blues_RockBlues_14" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Blues" cho=""
+        type="" db="" key="G#" measures="1" quantize="1/16" rating="0"
+        signature="4/4" dist=""/>
+  <item FName="90_16_84_Pop_PopRock_01" ext=".briff" author="prodigyray"
+        LMT="2019-01-28T13:55:22.000+02:00" bpm="90" cat="Pop" cho=""
+        type="" db="" key="E" measures="1" quantize="1/16" rating="0"
+        signature="8/4" dist=""/>
+</cache>

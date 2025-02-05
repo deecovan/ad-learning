@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="Default" ext=".fxreverbstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Pop" cho="" type="" db="" key="" measures="500337040"
+        quantize="" rating="0" signature=""/>
+  <item FName="Hall 1" ext=".fxreverbstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Alternative" cho="" type="" db="" key="" measures="500337040"
+        quantize="" rating="0" signature=""/>
+  <item FName="Hall 2" ext=".fxreverbstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Alternative" cho="" type="" db="" key="" measures="500337040"
+        quantize="" rating="0" signature=""/>
+  <item FName="Hall Bright" ext=".fxreverbstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500337040" quantize=""
+        rating="0" signature=""/>
+  <item FName="Hall Deep" ext=".fxreverbstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Alternative" cho="" type="" db="" key="" measures="500337040"
+        quantize="" rating="0" signature=""/>
+  <item FName="Hall Delay" ext=".fxreverbstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500337040" quantize=""
+        rating="0" signature=""/>
+  <item FName="Large Hall 1" ext=".fxreverbstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500337040" quantize=""
+        rating="0" signature=""/>
+  <item FName="Large Hall 2" ext=".fxreverbstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500337040" quantize=""
+        rating="0" signature=""/>
+  <item FName="Large Hall Bright" ext=".fxreverbstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500337040" quantize=""
+        rating="0" signature=""/>
+  <item FName="Large Hall Deep" ext=".fxreverbstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500337040" quantize=""
+        rating="0" signature=""/>
+  <item FName="Large Hall Delay" ext=".fxreverbstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500337040" quantize=""
+        rating="0" signature=""/>
+  <item FName="Room 1" ext=".fxreverbstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Alternative" cho="" type="" db="" key="" measures="500337040"
+        quantize="" rating="0" signature=""/>
+  <item FName="Room 2" ext=".fxreverbstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Alternative" cho="" type="" db="" key="" measures="500337040"
+        quantize="" rating="0" signature=""/>
+  <item FName="Room Bright" ext=".fxreverbstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500337040" quantize=""
+        rating="0" signature=""/>
+  <item FName="Room Deep" ext=".fxreverbstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Alternative" cho="" type="" db="" key="" measures="500337040"
+        quantize="" rating="0" signature=""/>
+  <item FName="Room Delay" ext=".fxreverbstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500337040" quantize=""
+        rating="0" signature=""/>
+  <item FName="Small Hall 1" ext=".fxreverbstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500337040" quantize=""
+        rating="0" signature=""/>
+  <item FName="Small Hall 2" ext=".fxreverbstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500337040" quantize=""
+        rating="0" signature=""/>
+  <item FName="Small Hall Bright" ext=".fxreverbstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500337040" quantize=""
+        rating="0" signature=""/>
+  <item FName="Small Hall Deep" ext=".fxreverbstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500337040" quantize=""
+        rating="0" signature=""/>
+  <item FName="Small Hall Delay" ext=".fxreverbstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Alternative"
+        cho="" type="" db="" key="" measures="500337040" quantize=""
+        rating="0" signature=""/>
+</cache>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="100_16_84_R&amp;B_04" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="100" cat="R&amp;B" cho="Dm7 C"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="100_32_84_R&amp;B_01" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="100" cat="R&amp;B" cho="Dm7"
+        type="ARP" db="" key="F" measures="1" quantize="1/32" rating="0"
+        signature="8/4"/>
+  <item FName="60_16_84Tri_Blues_01" ext=".griff" author="Jiang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="60" cat="Blues" cho="E" type="Riff" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="60_16_84Tri_Blues_02" ext=".griff" author="Jiang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="60" cat="Blues" cho="A Bm7" type="Riff" db="" key="A" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="60_16_84Tri_Pop_03" ext=".griff" author="Jiang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="60" cat="Pop" cho="G C" type="Riff" db="" key="A#" measures="1"
+        quantize="1/16" rating="0" signature="8/4Tri"/>
+  <item FName="80_16_84_Pop_Str_01" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="80" cat="Pop" cho="Am7 C G"
+        type="Strum" db="" key="C" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="85_16_84_Metal_01" ext=".griff" author="Jiang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Metal" cho="E G A" type="Riff" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="85_16_84_Metal_01T" ext=".griff" author="Jiang" LMT="2023-05-29T16:00:30.000+02:00"
+        bpm="85" cat="Metal" cho="E G A" type="Riff" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="85_16_84_Metal_02" ext=".griff" author="Jiang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="85" cat="Metal" cho="E G A C" type="Riff" db="" key="E"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="90_16_84_Pop_Arp-01" ext=".griff" author="Jiang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Pop" cho="G C" type="ARP" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="90_16_84_Pop_NH_Arp_01" ext=".griff" author="Jiang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Pop" cho="Em" type="ARP" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="90_16_84_Pop_Str_02" ext=".griff" author="Jiang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Pop" cho="Em G" type="Strum" db="" key="E" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="90_16_84_R&amp;B_02" ext=".griff" author="Jiang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="R&amp;B" cho="Am" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="90_32_84_R&amp;B_05" ext=".griff" author="Jiang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="R&amp;B" cho="Am Bm7 CM9" type="Riff" db="" key="G"
+        measures="1" quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="95_16_84_R&amp;B_03" ext=".griff" author="Jiang" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="95" cat="R&amp;B" cho="Am" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+</cache>

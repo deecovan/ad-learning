@@ -1,3 +1,6 @@
 [submodule "blender/models/assets-slappy-000"]
 	path = blender/models/assets-slappy-000
 	url = https://github.com/deecovan/slappy.git
+[submodule "Godot/ad-assets-player"]
+	path = Godot/ad-assets-player
+	url = https://github.com/deecovan/ad-assets-player.git

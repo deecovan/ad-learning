@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="060-16-42-Other-04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="2/4"/>
+  <item FName="060-16-42-Other-05" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="2/4"/>
+  <item FName="060-16-43Tri-Folk-03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4Tri"/>
+  <item FName="060-16-43Tri-Folk-04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4Tri"/>
+  <item FName="060-16-43Tri-Folk-05" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4Tri"/>
+  <item FName="060-16-43Tri-Folk-06" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4Tri"/>
+  <item FName="060-16-43Tri-Folk-07" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4Tri"/>
+  <item FName="060-16-43Tri-Jazz-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Jazz" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4Tri"/>
+  <item FName="060-16-43Tri-Jazz-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Jazz" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4Tri"/>
+  <item FName="060-16-43Tri-POP-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4Tri"/>
+  <item FName="060-16-44Tri-Folk-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="060-16-44Tri-Folk-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="060-16-44Tri-Folk-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="060-16-44Tri-Folk-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="060-16-44Tri-Folk-05" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="060-16-44Tri-Folk-06" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="060-16-44Tri-Folk-07" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="060-16-44Tri-Folk-08" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="060-16-44Tri-Folk-09" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="060-16-44Tri-Folk-10" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="065-16-44-Alternative-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="65" cat="Alternative"
+        cho="" type="" db="" key="" measures="77735152" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="065-16-44-R&amp;B-11" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="65" cat="R&amp;B" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="065-16-44-R&amp;B-12" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="65" cat="R&amp;B" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="065-16-44-R&amp;B-13" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="65" cat="R&amp;B" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-42-Other-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="2/4"/>
+  <item FName="070-16-42-Other-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="2/4"/>
+  <item FName="070-16-42-Other-03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="2/4"/>
+  <item FName="070-16-44-Alternative-10" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Alternative"
+        cho="" type="" db="" key="" measures="77735152" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="070-16-44-Folk-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-05" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-06" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-07" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-08" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-09" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-10" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-11" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-12" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-13" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-14" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-15" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-16" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-17" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-18" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-19" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-20" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-21" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-22" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-23" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-24" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-25" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-26" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-27" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-28" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-29" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-30" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-31" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-32" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-33" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-34" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-35" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-36" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-Folk-37" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44-POP-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="070-16-44Tri-Folk01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="070-16-44Tri-Waltz-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="070-16-86-Folk-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="6/8"/>
+  <item FName="070-16-86-Folk-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="70" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="6/8"/>
+  <item FName="080-16-42-Other-10" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="2/4"/>
+  <item FName="080-16-43Tri-Folk-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4Tri"/>
+  <item FName="080-16-43Tri-Folk-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4Tri"/>
+  <item FName="080-16-43Tri-Rock-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4Tri"/>
+  <item FName="080-16-44-Alternative-06" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Alternative"
+        cho="" type="" db="" key="" measures="77735152" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="080-16-44-Alternative-07" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Alternative"
+        cho="" type="" db="" key="" measures="77735152" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="080-16-44-Alternative-08" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Alternative"
+        cho="" type="" db="" key="" measures="77735152" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="080-16-44-Folk-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="080-16-44-Folk-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="080-16-44-Folk-03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="080-16-44-POP-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="080-16-44-POP-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="080-16-44-POP-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="080-16-44-POP-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="080-16-44-POP-05" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="080-16-44Tri-Rock-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="080-16-44Tri-Rock-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="080-16-44Tri-Waltz-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="080-16-44Tri-Waltz-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="080-16-44Tri-Waltz-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="080-16-44Tri-Waltz-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="080-16-44Tri-Waltz-05" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="080-16-44Tri-Waltz-06" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="080-16-44Tri-Waltz-07" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="080-16-44Tri-Waltz-08" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="080-16-44Tri-Waltz-09" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="80" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="090-16-42-Other-08" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="2/4"/>
+  <item FName="090-16-42-Other-09" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="2/4"/>
+  <item FName="090-16-44-Alternative-09" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Alternative"
+        cho="" type="" db="" key="" measures="77735152" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="090-16-44-Folk-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Folk-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Folk-03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Folk-04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-01" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-03" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-04" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-05" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-06" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-07" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-08" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-09" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-10" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-11" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-12" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-13" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-14" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-15" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-16" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-17" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-18" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-19" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Metal-Chord E5-20" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-POP-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-POP-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-POP-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Reggae-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Reggae" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Reggae-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Reggae" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Reggae-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Reggae" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Reggae-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Reggae" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Reggae-05" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Reggae" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Reggae-06" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Reggae" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Reggae-07" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Reggae" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Reggae-08" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Reggae" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Reggae-09" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Reggae" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44-Reggae-10" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Reggae" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="090-16-44Tri-Folk-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="090-16-44Tri-Folk-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="90" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="100-16-43-Jazz-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Jazz" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4"/>
+  <item FName="100-16-44-Alternative-03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Alternative"
+        cho="" type="" db="" key="" measures="77735152" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="100-16-44-Cha-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Cha-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Cha-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Cha-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Cha-05" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-01" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-02" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-03" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-04" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-05" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-06" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-07" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-08" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-09" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-10" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-11" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-12" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-13" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-14" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-15" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-16" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-17" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-18" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-19" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-20" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-21" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-22" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-23" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-24" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-25" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-26" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-27" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-28" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-29" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-30" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-31" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-32" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-33" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-34" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-35" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-36" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-37" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-38" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-39" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Metal-Chord E5-40" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-POP-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-R&amp;B-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-R&amp;B-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-R&amp;B-03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-R&amp;B-04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-R&amp;B-05" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-R&amp;B-06" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-R&amp;B-07" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-R&amp;B-08" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-R&amp;B-09" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-R&amp;B-10" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="R&amp;B" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Rock-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Rock-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Rock-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Rock-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Samba-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Samba-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Samba-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Samba-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Samba-05" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="100-16-44-Samba-06" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="100" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Alternative-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Alternative"
+        cho="" type="" db="" key="" measures="77735152" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="110-16-44-Alternative-04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Alternative"
+        cho="" type="" db="" key="" measures="77735152" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="110-16-44-Alternative-05" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Alternative"
+        cho="" type="" db="" key="" measures="77735152" quantize="1/16"
+        rating="0" signature="4/4"/>
+  <item FName="110-16-44-Folk-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Folk-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Folk-03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Folk-04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Folk-05" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-05" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-06" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-07" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-08" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-09" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-10" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-11" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-12" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-13" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-14" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-15" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-16" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-17" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-18" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-19" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-20" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-21" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-22" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-23" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-24" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-25" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-26" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-27" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-28" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-29" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-30" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-31" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-32" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-33" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-34" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-35" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Funk-36" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Rock-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Rock-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Rock-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Rock-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Rock-05" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-81-44Tri-Folk-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="110-81-44Tri-Folk-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+  <item FName="120-16-42-Other-06" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="2/4"/>
+  <item FName="120-16-42-Other-07" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="2/4"/>
+  <item FName="120-16-43-Waltz-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Jazz" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4"/>
+  <item FName="120-16-43-Waltz-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Jazz" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4"/>
+  <item FName="120-16-43-Waltz-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Jazz" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4"/>
+  <item FName="120-16-43-Waltz-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Jazz" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4"/>
+  <item FName="120-16-43-Waltz-05" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Jazz" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4"/>
+  <item FName="120-16-43-Waltz-06" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Jazz" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="3/4"/>
+  <item FName="120-16-44-Flamenco-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Flamenco-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Flamenco-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Folk-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Folk-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Folk-03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-01" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-02" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-03" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-04" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-05" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-06" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-07" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-08" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-09" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-10" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-01" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-04" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-05" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-06" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-07" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-08" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-09" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-10" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-11" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-12" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-13" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-14" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-15" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-16" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-17" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-18" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-19" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-20" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-21" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-22" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-23" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-24" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-25" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-26" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-27" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-28" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-29" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-30" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-31" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-32" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-33" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-34" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-35" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-36" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-37" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-38" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-39" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-40" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-41" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-42" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-43" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-44" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-45" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-46" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-47" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-48" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-49" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Metal-Chord E5-50" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44Tri-Funky-001" ext=".strumseq" author="djjiajudd1"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44Tri-Funky-002" ext=".strumseq" author="djjiajudd1"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="120" cat="Funk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="130-16-44-Blues-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="130" cat="Blues" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="130-16-44-Blues-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="130" cat="Blues" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="130-16-44-Blues-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="130" cat="Blues" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="130-16-44-Blues-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="130" cat="Blues" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="130-16-44-Blues-05" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="130" cat="Blues" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="130-41-86-Folk01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="130" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/4" rating="0"
+        signature="6/8"/>
+  <item FName="130-81-44-Folk01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="130" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/8" rating="0"
+        signature="4/4"/>
+  <item FName="130-81-44Tri-Folk01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="130" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/8" rating="0"
+        signature="4/4Tri"/>
+  <item FName="130-81-44Tri-Folk02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="130" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/8" rating="0"
+        signature="4/4Tri"/>
+  <item FName="130-81-86-Folk01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="130" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/8" rating="0"
+        signature="6/8"/>
+  <item FName="150-16-44-Country-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Country" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Country-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Country" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Country-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Country" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Country-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Country" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Country-05" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Country" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-05" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-06" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-07" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-08" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-09" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-10" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-11" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-12" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-13" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-14" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="150-16-44-Rock-15" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="150" cat="Rock" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-03" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-04" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-05" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-06" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-07" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-08" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-09" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-10" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-11" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-12" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-13" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-14" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-15" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-16" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-17" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-18" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-19" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-Metal-Chord E5-20" ext=".strumseq" author="Ample sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Metal" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-POP-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-POP-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-POP-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-POP-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-POP-05" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-POP-06" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-POP-07" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-POP-08" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-POP-09" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-POP-10" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-16-44-POP-11" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Pop" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="160-81-86-Folk-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/8" rating="0"
+        signature="6/8"/>
+  <item FName="160-81-86-Folk-02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/8" rating="0"
+        signature="6/8"/>
+  <item FName="160-81-86-Folk-03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="160" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/8" rating="0"
+        signature="6/8"/>
+  <item FName="180-16-44-Flamenco-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="180" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="180-16-44-Flamenco-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="180" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="180-16-44-Flamenco-03" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="180" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="180-16-44-Flamenco-04" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="180" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="180-16-44-Flamenco-05" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="180" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="180-16-44-Flamenco-06" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="180" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="180-16-44-Flamenco-07" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="180" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="180-16-44-Flamenco-08" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="180" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="180-16-44-Flamenco-09" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="180" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="180-16-44-Flamenco-10" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="180" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="180-16-44-Flamenco-11" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="180" cat="Other" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="180-16-44-Jazz-01" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="180" cat="Jazz" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="180-16-44-Jazz-02" ext=".strumseq" author="AmpleSound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="180" cat="Jazz" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="200-16-86-Folk-01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="200" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="6/8"/>
+  <item FName="x060-16-44Tri-Folk-10-0" ext=".strumseq" author="AmpleSound"
+        LMT="2025-01-28T02:18:37.930+02:00" bpm="60" cat="Folk" cho=""
+        type="" db="" key="" measures="77735152" quantize="1/16" rating="0"
+        signature="4/4Tri"/>
+</cache>

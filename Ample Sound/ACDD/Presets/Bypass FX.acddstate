@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ACDD_STATE Name="Default" Ver="1.0.0" Author="Ample Sound" Category="Pop"
+            Type="Lead" Lib="Finger" Rating="0">
+  <Articulation Value="Sus"/>
+  <ArticulationUI ID="0"/>
+  <Position Value="0"/>
+  <Layer ID="1" Value="95"/>
+  <Layer ID="2" Value="63"/>
+  <Layer ID="3" Value="31"/>
+  <Control ID="4" Parameter="M-Pitch Bend"/>
+  <Control ID="6" Parameter="M-Vibrato"/>
+  <Control ID="12" Parameter="M-Master Vol"/>
+  <Control ID="15" Parameter="M-Pan"/>
+  <Control ID="16" Parameter="M-Expression"/>
+  <Control ID="69" Parameter="M-Hold Pedal Toggle"/>
+  <Parameter Name="M-Mic Left Vol" Value="1.0" Index="0"/>
+  <Parameter Name="M-Mic Right Vol" Value="1.0" Index="1"/>
+  <Parameter Name="M-Mic Side Vol" Value="1.0" Index="2"/>
+  <Parameter Name="M-Mic Amb Vol" Value="1.0" Index="3"/>
+  <Parameter Name="M-Master Vol" Value="1.0" Index="4"/>
+  <Parameter Name="M-Pan" Value="0.0" Index="5"/>
+  <Parameter Name="M-Key" Value="5.0" Index="6"/>
+  <Parameter Name="M-Expression" Value="0.0" Index="7"/>
+  <Parameter Name="M-FX Gain" Value="1.0" Index="8"/>
+  <Parameter Name="M-Rel Gain" Value="0.5" Index="9"/>
+  <Parameter Name="M-Breath Gain" Value="1.0" Index="10"/>
+  <Parameter Name="M-Blow Gain" Value="0.0" Index="11"/>
+  <Parameter Name="M-Blow Gain Enabled" Value="1.0" Index="12"/>
+  <Parameter Name="M-Play Mode" Value="0.0" Index="13"/>
+  <Parameter Name="M-Random Voice Head" Value="0.0" Index="14"/>
+  <Parameter Name="M-Loop Toggle" Value="0.0" Index="15"/>
+  <Parameter Name="M-Legato Mode" Value="0.0" Index="16"/>
+  <Parameter Name="S-Legato Smoothness" Value="25.0" Index="17"/>
+  <Parameter Name="M-Hold Pedal Toggle" Value="0.0" Index="18"/>
+  <Parameter Name="M-Pitch Bend" Value="0.0" Index="19"/>
+  <Parameter Name="M-Vibrato" Value="0.5199999809265137" Index="20"/>
+  <Parameter Name="FX-Bypassed" Value="-1.0" Index="21"/>
+  <Parameter Name="FX-Comp-Toggle" Value="-1.0" Index="22"/>
+  <Parameter Name="FX-Comp-AttackTime" Value="3.0" Index="23"/>
+  <Parameter Name="FX-Comp-ReleaseTime" Value="300.0" Index="24"/>
+  <Parameter Name="FX-Comp-SoftKnee" Value="0.0" Index="25"/>
+  <Parameter Name="FX-Comp-Thres" Value="-18.0" Index="26"/>
+  <Parameter Name="FX-Comp-Ratio" Value="2.0" Index="27"/>
+  <Parameter Name="FX-Comp-RMSDetection" Value="0.0" Index="28"/>
+  <Parameter Name="FX-Comp-AutoGain" Value="0.0" Index="29"/>
+  <Parameter Name="FX-Comp-AutoRelease" Value="0.0" Index="30"/>
+  <Parameter Name="FX-Comp-MakeupGain" Value="3.0" Index="31"/>
+  <Parameter Name="FX-Comp-CFAttackTime" Value="0.2000000029802322" Index="32"/>
+  <Parameter Name="FX-Comp-CFReleaseTime" Value="1.0" Index="33"/>
+  <Parameter Name="FX-EQ-Toggle" Value="1.0" Index="34"/>
+  <Parameter Name="FX-EQ-MakeupGain" Value="0.0" Index="35"/>
+  <Parameter Name="FX-EQ-FilterType1" Value="2.0" Index="36"/>
+  <Parameter Name="FX-EQ-FilterType2" Value="0.0" Index="37"/>
+  <Parameter Name="FX-EQ-FilterType3" Value="2.0" Index="38"/>
+  <Parameter Name="FX-EQ-FilterType4" Value="2.0" Index="39"/>
+  <Parameter Name="FX-EQ-FilterType5" Value="2.0" Index="40"/>
+  <Parameter Name="FX-EQ-FilterType6" Value="2.0" Index="41"/>
+  <Parameter Name="FX-EQ-FilterType7" Value="2.0" Index="42"/>
+  <Parameter Name="FX-EQ-FilterType8" Value="2.0" Index="43"/>
+  <Parameter Name="FX-EQ-Freq1" Value="3000.0" Index="44"/>
+  <Parameter Name="FX-EQ-Freq2" Value="100.0" Index="45"/>
+  <Parameter Name="FX-EQ-Freq3" Value="20.0" Index="46"/>
+  <Parameter Name="FX-EQ-Freq4" Value="20.0" Index="47"/>
+  <Parameter Name="FX-EQ-Freq5" Value="20.0" Index="48"/>
+  <Parameter Name="FX-EQ-Freq6" Value="20.0" Index="49"/>
+  <Parameter Name="FX-EQ-Freq7" Value="20.0" Index="50"/>
+  <Parameter Name="FX-EQ-Freq8" Value="20.0" Index="51"/>
+  <Parameter Name="FX-EQ-Q1" Value="0.75" Index="52"/>
+  <Parameter Name="FX-EQ-Q2" Value="1.0" Index="53"/>
+  <Parameter Name="FX-EQ-Q3" Value="1.0" Index="54"/>
+  <Parameter Name="FX-EQ-Q4" Value="1.0" Index="55"/>
+  <Parameter Name="FX-EQ-Q5" Value="1.0" Index="56"/>
+  <Parameter Name="FX-EQ-Q6" Value="1.0" Index="57"/>
+  <Parameter Name="FX-EQ-Q7" Value="1.0" Index="58"/>
+  <Parameter Name="FX-EQ-Q8" Value="1.0" Index="59"/>
+  <Parameter Name="FX-EQ-Gain1" Value="3.0" Index="60"/>
+  <Parameter Name="FX-EQ-Gain2" Value="0.0" Index="61"/>
+  <Parameter Name="FX-EQ-Gain3" Value="0.0" Index="62"/>
+  <Parameter Name="FX-EQ-Gain4" Value="0.0" Index="63"/>
+  <Parameter Name="FX-EQ-Gain5" Value="0.0" Index="64"/>
+  <Parameter Name="FX-EQ-Gain6" Value="0.0" Index="65"/>
+  <Parameter Name="FX-EQ-Gain7" Value="0.0" Index="66"/>
+  <Parameter Name="FX-EQ-Gain8" Value="0.0" Index="67"/>
+  <Parameter Name="FX-EQ-Order1" Value="2.0" Index="68"/>
+  <Parameter Name="FX-EQ-Order2" Value="2.0" Index="69"/>
+  <Parameter Name="FX-EQ-Order3" Value="2.0" Index="70"/>
+  <Parameter Name="FX-EQ-Order4" Value="2.0" Index="71"/>
+  <Parameter Name="FX-EQ-Order5" Value="2.0" Index="72"/>
+  <Parameter Name="FX-EQ-Order6" Value="2.0" Index="73"/>
+  <Parameter Name="FX-EQ-Order7" Value="2.0" Index="74"/>
+  <Parameter Name="FX-EQ-Order8" Value="2.0" Index="75"/>
+  <Parameter Name="FX-EQ-Activated1" Value="1.0" Index="76"/>
+  <Parameter Name="FX-EQ-Activated2" Value="1.0" Index="77"/>
+  <Parameter Name="FX-EQ-Activated3" Value="-1.0" Index="78"/>
+  <Parameter Name="FX-EQ-Activated4" Value="-1.0" Index="79"/>
+  <Parameter Name="FX-EQ-Activated5" Value="-1.0" Index="80"/>
+  <Parameter Name="FX-EQ-Activated6" Value="-1.0" Index="81"/>
+  <Parameter Name="FX-EQ-Activated7" Value="-1.0" Index="82"/>
+  <Parameter Name="FX-EQ-Activated8" Value="-1.0" Index="83"/>
+  <Parameter Name="FX-EQ-Enabled1" Value="1.0" Index="84"/>
+  <Parameter Name="FX-EQ-Enabled2" Value="1.0" Index="85"/>
+  <Parameter Name="FX-EQ-Enabled3" Value="-1.0" Index="86"/>
+  <Parameter Name="FX-EQ-Enabled4" Value="-1.0" Index="87"/>
+  <Parameter Name="FX-EQ-Enabled5" Value="-1.0" Index="88"/>
+  <Parameter Name="FX-EQ-Enabled6" Value="-1.0" Index="89"/>
+  <Parameter Name="FX-EQ-Enabled7" Value="-1.0" Index="90"/>
+  <Parameter Name="FX-EQ-Enabled8" Value="-1.0" Index="91"/>
+  <Parameter Name="FX-Delay-Toggle" Value="-1.0" Index="92"/>
+  <Parameter Name="FX-Delay-Grid" Value="5.0" Index="93"/>
+  <Parameter Name="FX-Delay-Send" Value="-30.0" Index="94"/>
+  <Parameter Name="FX-Delay-Send-Reverb" Value="-11.99999904632568" Index="95"/>
+  <Parameter Name="FX-Delay-Activated1" Value="1.0" Index="96"/>
+  <Parameter Name="FX-Delay-Activated2" Value="1.0" Index="97"/>
+  <Parameter Name="FX-Delay-Activated3" Value="-1.0" Index="98"/>
+  <Parameter Name="FX-Delay-Activated4" Value="-1.0" Index="99"/>
+  <Parameter Name="FX-Delay-Activated5" Value="-1.0" Index="100"/>
+  <Parameter Name="FX-Delay-Activated6" Value="-1.0" Index="101"/>
+  <Parameter Name="FX-Delay-Enabled1" Value="1.0" Index="102"/>
+  <Parameter Name="FX-Delay-Enabled2" Value="1.0" Index="103"/>
+  <Parameter Name="FX-Delay-Enabled3" Value="-1.0" Index="104"/>
+  <Parameter Name="FX-Delay-Enabled4" Value="-1.0" Index="105"/>
+  <Parameter Name="FX-Delay-Enabled5" Value="-1.0" Index="106"/>
+  <Parameter Name="FX-Delay-Enabled6" Value="-1.0" Index="107"/>
+  <Parameter Name="FX-Delay-Time1" Value="3.0" Index="108"/>
+  <Parameter Name="FX-Delay-Time2" Value="2.0" Index="109"/>
+  <Parameter Name="FX-Delay-Time3" Value="1.0" Index="110"/>
+  <Parameter Name="FX-Delay-Time4" Value="1.0" Index="111"/>
+  <Parameter Name="FX-Delay-Time5" Value="1.0" Index="112"/>
+  <Parameter Name="FX-Delay-Time6" Value="1.0" Index="113"/>
+  <Parameter Name="FX-Delay-Feedback1" Value="20.0" Index="114"/>
+  <Parameter Name="FX-Delay-Feedback2" Value="20.0" Index="115"/>
+  <Parameter Name="FX-Delay-Feedback3" Value="50.0" Index="116"/>
+  <Parameter Name="FX-Delay-Feedback4" Value="50.0" Index="117"/>
+  <Parameter Name="FX-Delay-Feedback5" Value="50.0" Index="118"/>
+  <Parameter Name="FX-Delay-Feedback6" Value="50.0" Index="119"/>
+  <Parameter Name="FX-Delay-Pan1" Value="-50.0" Index="120"/>
+  <Parameter Name="FX-Delay-Pan2" Value="50.0" Index="121"/>
+  <Parameter Name="FX-Delay-Pan3" Value="0.0" Index="122"/>
+  <Parameter Name="FX-Delay-Pan4" Value="0.0" Index="123"/>
+  <Parameter Name="FX-Delay-Pan5" Value="0.0" Index="124"/>
+  <Parameter Name="FX-Delay-Pan6" Value="0.0" Index="125"/>
+  <Parameter Name="FX-Delay-VolumeGain1" Value="0.0" Index="126"/>
+  <Parameter Name="FX-Delay-VolumeGain2" Value="0.0" Index="127"/>
+  <Parameter Name="FX-Delay-VolumeGain3" Value="0.0" Index="128"/>
+  <Parameter Name="FX-Delay-VolumeGain4" Value="0.0" Index="129"/>
+  <Parameter Name="FX-Delay-VolumeGain5" Value="0.0" Index="130"/>
+  <Parameter Name="FX-Delay-VolumeGain6" Value="0.0" Index="131"/>
+  <Parameter Name="FX-Delay-Highcut-Enabled1" Value="1.0" Index="132"/>
+  <Parameter Name="FX-Delay-Highcut-Enabled2" Value="1.0" Index="133"/>
+  <Parameter Name="FX-Delay-HighcutEnabled3" Value="-1.0" Index="134"/>
+  <Parameter Name="FX-Delay-HighcutEnabled4" Value="-1.0" Index="135"/>
+  <Parameter Name="FX-Delay-HighcutEnabled5" Value="-1.0" Index="136"/>
+  <Parameter Name="FX-Delay-HighcutEnabled6" Value="-1.0" Index="137"/>
+  <Parameter Name="FX-Delay-Lowcut-Enabled1" Value="1.0" Index="138"/>
+  <Parameter Name="FX-Delay-Lowcut-Enabled2" Value="1.0" Index="139"/>
+  <Parameter Name="FX-Delay-LowcutEnabled3" Value="-1.0" Index="140"/>
+  <Parameter Name="FX-Delay-LowcutEnabled4" Value="-1.0" Index="141"/>
+  <Parameter Name="FX-Delay-LowcutEnabled5" Value="-1.0" Index="142"/>
+  <Parameter Name="FX-Delay-LowcutEnabled6" Value="-1.0" Index="143"/>
+  <Parameter Name="FX-Delay-Highcut-Freq1" Value="6000.0" Index="144"/>
+  <Parameter Name="FX-Delay-Highcut-Freq2" Value="6000.0" Index="145"/>
+  <Parameter Name="FX-Delay-HighcutFreq3" Value="3000.0" Index="146"/>
+  <Parameter Name="FX-Delay-HighcutFreq4" Value="3000.0" Index="147"/>
+  <Parameter Name="FX-Delay-HighcutFreq5" Value="3000.0" Index="148"/>
+  <Parameter Name="FX-Delay-HighcutFreq6" Value="3000.0" Index="149"/>
+  <Parameter Name="FX-Delay-Lowcut-Freq1" Value="120.0" Index="150"/>
+  <Parameter Name="FX-Delay-Lowcut-Freq2" Value="150.0" Index="151"/>
+  <Parameter Name="FX-Delay-LowcutFreq3" Value="150.0" Index="152"/>
+  <Parameter Name="FX-Delay-LowcutFreq4" Value="150.0" Index="153"/>
+  <Parameter Name="FX-Delay-LowcutFreq5" Value="150.0" Index="154"/>
+  <Parameter Name="FX-Delay-LowcutFreq6" Value="150.0" Index="155"/>
+  <Parameter Name="FX-Reverb-Toggle" Value="1.0" Index="156"/>
+  <Parameter Name="FX-Reverb-BassGainEnabled" Value="-1.0" Index="157"/>
+  <Parameter Name="FX-Reverb-TrebleGainEnabled" Value="-1.0" Index="158"/>
+  <Parameter Name="FX-Reverb-IRType" Value="3.0" Index="159"/>
+  <Parameter Name="FX-Reverb-Size" Value="100.0" Index="160"/>
+  <Parameter Name="FX-Reverb-PreDelay" Value="0.0" Index="161"/>
+  <Parameter Name="FX-Reverb-BassGain" Value="0.0" Index="162"/>
+  <Parameter Name="FX-Reverb-TrebleGain" Value="0.0" Index="163"/>
+  <Parameter Name="FX-Reverb-VolumeGain" Value="0.0" Index="164"/>
+  <Parameter Name="FX-Reverb-Send" Value="-8.999999046325684" Index="165"/>
+  <Parameter Name="S-Bend Range" Value="2.0" Index="166"/>
+  <Parameter Name="S-Mod Pitch Range" Value="50.0" Index="167"/>
+  <Parameter Name="S-Mod Volume Range" Value="6.0" Index="168"/>
+  <Parameter Name="S-Mod Time" Value="280.0" Index="169"/>
+  <Parameter Name="S-Auto Mod Toggle" Value="1.0" Index="170"/>
+  <Parameter Name="S-Cycle Mode Switch" Value="0.0" Index="171"/>
+  <Parameter Name="Num Host Params" Value="0.0" Index="172"/>
+  <Parameter Name="FX-ChannelEQ-1-Toggle" Value="0.0" Index="173"/>
+  <Parameter Name="FX-ChannelEQ-2-Toggle" Value="0.0" Index="174"/>
+  <Parameter Name="FX-ChannelEQ-3-Toggle" Value="0.0" Index="175"/>
+  <Parameter Name="FX-ChannelEQ-4-Toggle" Value="0.0" Index="176"/>
+  <Parameter Name="FX-Channel-EQ-1-FilterType1" Value="2.0" Index="177"/>
+  <Parameter Name="FX-Channel-EQ-1-FilterType2" Value="2.0" Index="178"/>
+  <Parameter Name="FX-Channel-EQ-1-FilterType3" Value="2.0" Index="179"/>
+  <Parameter Name="FX-Channel-EQ-1-FilterType4" Value="2.0" Index="180"/>
+  <Parameter Name="FX-Channel-EQ-1-FilterType5" Value="2.0" Index="181"/>
+  <Parameter Name="FX-Channel-EQ-1-FilterType6" Value="2.0" Index="182"/>
+  <Parameter Name="FX-Channel-EQ-1-FilterType7" Value="2.0" Index="183"/>
+  <Parameter Name="FX-Channel-EQ-1-FilterType8" Value="2.0" Index="184"/>
+  <Parameter Name="FX-ChannelEQ-1-Freq1" Value="1000.0" Index="185"/>
+  <Parameter Name="FX-ChannelEQ-1-Freq2" Value="1000.0" Index="186"/>
+  <Parameter Name="FX-ChannelEQ-1-Freq3" Value="1000.0" Index="187"/>
+  <Parameter Name="FX-ChannelEQ-1-Freq4" Value="1000.0" Index="188"/>
+  <Parameter Name="FX-ChannelEQ-1-Freq5" Value="1000.0" Index="189"/>
+  <Parameter Name="FX-ChannelEQ-1-Freq6" Value="1000.0" Index="190"/>
+  <Parameter Name="FX-ChannelEQ-1-Freq7" Value="1000.0" Index="191"/>
+  <Parameter Name="FX-ChannelEQ-1-Freq8" Value="1000.0" Index="192"/>
+  <Parameter Name="FX-ChannelEQ-1-Q1" Value="1.0" Index="193"/>
+  <Parameter Name="FX-ChannelEQ-1-Q2" Value="1.0" Index="194"/>
+  <Parameter Name="FX-ChannelEQ-1-Q3" Value="1.0" Index="195"/>
+  <Parameter Name="FX-ChannelEQ-1-Q4" Value="1.0" Index="196"/>
+  <Parameter Name="FX-ChannelEQ-1-Q5" Value="1.0" Index="197"/>
+  <Parameter Name="FX-ChannelEQ-1-Q6" Value="1.0" Index="198"/>
+  <Parameter Name="FX-ChannelEQ-1-Q7" Value="1.0" Index="199"/>
+  <Parameter Name="FX-ChannelEQ-1-Q8" Value="1.0" Index="200"/>
+  <Parameter Name="FX-ChannelEQ-1-Gain1" Value="0.0" Index="201"/>
+  <Parameter Name="FX-ChannelEQ-1-Gain2" Value="0.0" Index="202"/>
+  <Parameter Name="FX-ChannelEQ-1-Gain3" Value="0.0" Index="203"/>
+  <Parameter Name="FX-ChannelEQ-1-Gain4" Value="0.0" Index="204"/>
+  <Parameter Name="FX-ChannelEQ-1-Gain5" Value="0.0" Index="205"/>
+  <Parameter Name="FX-ChannelEQ-1-Gain6" Value="0.0" Index="206"/>
+  <Parameter Name="FX-ChannelEQ-1-Gain7" Value="0.0" Index="207"/>
+  <Parameter Name="FX-ChannelEQ-1-Gain8" Value="0.0" Index="208"/>
+  <Parameter Name="FX-ChannelEQ-1-Order1" Value="2.0" Index="209"/>
+  <Parameter Name="FX-ChannelEQ-1-Order2" Value="2.0" Index="210"/>
+  <Parameter Name="FX-ChannelEQ-1-Order3" Value="2.0" Index="211"/>
+  <Parameter Name="FX-ChannelEQ-1-Order4" Value="2.0" Index="212"/>
+  <Parameter Name="FX-ChannelEQ-1-Order5" Value="2.0" Index="213"/>
+  <Parameter Name="FX-ChannelEQ-1-Order6" Value="2.0" Index="214"/>
+  <Parameter Name="FX-ChannelEQ-1-Order7" Value="2.0" Index="215"/>
+  <Parameter Name="FX-ChannelEQ-1-Order8" Value="2.0" Index="216"/>
+  <Parameter Name="FX-ChannelEQ-1-Activated1" Value="-1.0" Index="217"/>
+  <Parameter Name="FX-ChannelEQ-1-Activated2" Value="-1.0" Index="218"/>
+  <Parameter Name="FX-ChannelEQ-1-Activated3" Value="-1.0" Index="219"/>
+  <Parameter Name="FX-ChannelEQ-1-Activated4" Value="-1.0" Index="220"/>
+  <Parameter Name="FX-ChannelEQ-1-Activated5" Value="-1.0" Index="221"/>
+  <Parameter Name="FX-ChannelEQ-1-Activated6" Value="-1.0" Index="222"/>
+  <Parameter Name="FX-ChannelEQ-1-Activated7" Value="-1.0" Index="223"/>
+  <Parameter Name="FX-ChannelEQ-1-Activated8" Value="-1.0" Index="224"/>
+  <Parameter Name="FX-ChannelEQ-1-Enabled1" Value="-1.0" Index="225"/>
+  <Parameter Name="FX-ChannelEQ-1-Enabled2" Value="-1.0" Index="226"/>
+  <Parameter Name="FX-ChannelEQ-1-Enabled3" Value="-1.0" Index="227"/>
+  <Parameter Name="FX-ChannelEQ-1-Enabled4" Value="-1.0" Index="228"/>
+  <Parameter Name="FX-ChannelEQ-1-Enabled5" Value="-1.0" Index="229"/>
+  <Parameter Name="FX-ChannelEQ-1-Enabled6" Value="-1.0" Index="230"/>
+  <Parameter Name="FX-ChannelEQ-1-Enabled7" Value="-1.0" Index="231"/>
+  <Parameter Name="FX-ChannelEQ-1-Enabled8" Value="-1.0" Index="232"/>
+  <Parameter Name="FX-Channel-EQ-2-FilterType1" Value="2.0" Index="233"/>
+  <Parameter Name="FX-Channel-EQ-2-FilterType2" Value="2.0" Index="234"/>
+  <Parameter Name="FX-Channel-EQ-2-FilterType3" Value="2.0" Index="235"/>
+  <Parameter Name="FX-Channel-EQ-2-FilterType4" Value="2.0" Index="236"/>
+  <Parameter Name="FX-Channel-EQ-2-FilterType5" Value="2.0" Index="237"/>
+  <Parameter Name="FX-Channel-EQ-2-FilterType6" Value="2.0" Index="238"/>
+  <Parameter Name="FX-Channel-EQ-2-FilterType7" Value="2.0" Index="239"/>
+  <Parameter Name="FX-Channel-EQ-2-FilterType8" Value="2.0" Index="240"/>
+  <Parameter Name="FX-ChannelEQ-2-Freq1" Value="1000.0" Index="241"/>
+  <Parameter Name="FX-ChannelEQ-2-Freq2" Value="1000.0" Index="242"/>
+  <Parameter Name="FX-ChannelEQ-2-Freq3" Value="1000.0" Index="243"/>
+  <Parameter Name="FX-ChannelEQ-2-Freq4" Value="1000.0" Index="244"/>
+  <Parameter Name="FX-ChannelEQ-2-Freq5" Value="1000.0" Index="245"/>
+  <Parameter Name="FX-ChannelEQ-2-Freq6" Value="1000.0" Index="246"/>
+  <Parameter Name="FX-ChannelEQ-2-Freq7" Value="1000.0" Index="247"/>
+  <Parameter Name="FX-ChannelEQ-2-Freq8" Value="1000.0" Index="248"/>
+  <Parameter Name="FX-ChannelEQ-2-Q1" Value="1.0" Index="249"/>
+  <Parameter Name="FX-ChannelEQ-2-Q2" Value="1.0" Index="250"/>
+  <Parameter Name="FX-ChannelEQ-2-Q3" Value="1.0" Index="251"/>
+  <Parameter Name="FX-ChannelEQ-2-Q4" Value="1.0" Index="252"/>
+  <Parameter Name="FX-ChannelEQ-2-Q5" Value="1.0" Index="253"/>
+  <Parameter Name="FX-ChannelEQ-2-Q6" Value="1.0" Index="254"/>
+  <Parameter Name="FX-ChannelEQ-2-Q7" Value="1.0" Index="255"/>
+  <Parameter Name="FX-ChannelEQ-2-Q8" Value="1.0" Index="256"/>
+  <Parameter Name="FX-ChannelEQ-2-Gain1" Value="0.0" Index="257"/>
+  <Parameter Name="FX-ChannelEQ-2-Gain2" Value="0.0" Index="258"/>
+  <Parameter Name="FX-ChannelEQ-2-Gain3" Value="0.0" Index="259"/>
+  <Parameter Name="FX-ChannelEQ-2-Gain4" Value="0.0" Index="260"/>
+  <Parameter Name="FX-ChannelEQ-2-Gain5" Value="0.0" Index="261"/>
+  <Parameter Name="FX-ChannelEQ-2-Gain6" Value="0.0" Index="262"/>
+  <Parameter Name="FX-ChannelEQ-2-Gain7" Value="0.0" Index="263"/>
+  <Parameter Name="FX-ChannelEQ-2-Gain8" Value="0.0" Index="264"/>
+  <Parameter Name="FX-ChannelEQ-2-Order1" Value="2.0" Index="265"/>
+  <Parameter Name="FX-ChannelEQ-2-Order2" Value="2.0" Index="266"/>
+  <Parameter Name="FX-ChannelEQ-2-Order3" Value="2.0" Index="267"/>
+  <Parameter Name="FX-ChannelEQ-2-Order4" Value="2.0" Index="268"/>
+  <Parameter Name="FX-ChannelEQ-2-Order5" Value="2.0" Index="269"/>
+  <Parameter Name="FX-ChannelEQ-2-Order6" Value="2.0" Index="270"/>
+  <Parameter Name="FX-ChannelEQ-2-Order7" Value="2.0" Index="271"/>
+  <Parameter Name="FX-ChannelEQ-2-Order8" Value="2.0" Index="272"/>
+  <Parameter Name="FX-ChannelEQ-2-Activated1" Value="-1.0" Index="273"/>
+  <Parameter Name="FX-ChannelEQ-2-Activated2" Value="-1.0" Index="274"/>
+  <Parameter Name="FX-ChannelEQ-2-Activated3" Value="-1.0" Index="275"/>
+  <Parameter Name="FX-ChannelEQ-2-Activated4" Value="-1.0" Index="276"/>
+  <Parameter Name="FX-ChannelEQ-2-Activated5" Value="-1.0" Index="277"/>
+  <Parameter Name="FX-ChannelEQ-2-Activated6" Value="-1.0" Index="278"/>
+  <Parameter Name="FX-ChannelEQ-2-Activated7" Value="-1.0" Index="279"/>
+  <Parameter Name="FX-ChannelEQ-2-Activated8" Value="-1.0" Index="280"/>
+  <Parameter Name="FX-ChannelEQ-2-Enabled1" Value="-1.0" Index="281"/>
+  <Parameter Name="FX-ChannelEQ-2-Enabled2" Value="-1.0" Index="282"/>
+  <Parameter Name="FX-ChannelEQ-2-Enabled3" Value="-1.0" Index="283"/>
+  <Parameter Name="FX-ChannelEQ-2-Enabled4" Value="-1.0" Index="284"/>
+  <Parameter Name="FX-ChannelEQ-2-Enabled5" Value="-1.0" Index="285"/>
+  <Parameter Name="FX-ChannelEQ-2-Enabled6" Value="-1.0" Index="286"/>
+  <Parameter Name="FX-ChannelEQ-2-Enabled7" Value="-1.0" Index="287"/>
+  <Parameter Name="FX-ChannelEQ-2-Enabled8" Value="-1.0" Index="288"/>
+  <Parameter Name="FX-ChannelEQ-3-FilterType1" Value="2.0" Index="289"/>
+  <Parameter Name="FX-ChannelEQ-3-FilterType2" Value="2.0" Index="290"/>
+  <Parameter Name="FX-ChannelEQ-3-FilterType3" Value="2.0" Index="291"/>
+  <Parameter Name="FX-ChannelEQ-3-FilterType4" Value="2.0" Index="292"/>
+  <Parameter Name="FX-ChannelEQ-3-FilterType5" Value="2.0" Index="293"/>
+  <Parameter Name="FX-ChannelEQ-3-FilterType6" Value="2.0" Index="294"/>
+  <Parameter Name="FX-ChannelEQ-3-FilterType7" Value="2.0" Index="295"/>
+  <Parameter Name="FX-ChannelEQ-3-FilterType8" Value="2.0" Index="296"/>
+  <Parameter Name="FX-ChannelEQ-3-Freq1" Value="1000.0" Index="297"/>
+  <Parameter Name="FX-ChannelEQ-3-Freq2" Value="1000.0" Index="298"/>
+  <Parameter Name="FX-ChannelEQ-3-Freq3" Value="1000.0" Index="299"/>
+  <Parameter Name="FX-ChannelEQ-3-Freq4" Value="1000.0" Index="300"/>
+  <Parameter Name="FX-ChannelEQ-3-Freq5" Value="1000.0" Index="301"/>
+  <Parameter Name="FX-ChannelEQ-3-Freq6" Value="1000.0" Index="302"/>
+  <Parameter Name="FX-ChannelEQ-3-Freq7" Value="1000.0" Index="303"/>
+  <Parameter Name="FX-ChannelEQ-3-Freq8" Value="1000.0" Index="304"/>
+  <Parameter Name="FX-ChannelEQ-3-Q1" Value="1.0" Index="305"/>
+  <Parameter Name="FX-ChannelEQ-3-Q2" Value="1.0" Index="306"/>
+  <Parameter Name="FX-ChannelEQ-3-Q3" Value="1.0" Index="307"/>
+  <Parameter Name="FX-ChannelEQ-3-Q4" Value="1.0" Index="308"/>
+  <Parameter Name="FX-ChannelEQ-3-Q5" Value="1.0" Index="309"/>
+  <Parameter Name="FX-ChannelEQ-3-Q6" Value="1.0" Index="310"/>
+  <Parameter Name="FX-ChannelEQ-3-Q7" Value="1.0" Index="311"/>
+  <Parameter Name="FX-ChannelEQ-3-Q8" Value="1.0" Index="312"/>
+  <Parameter Name="FX-ChannelEQ-3-Gain1" Value="0.0" Index="313"/>
+  <Parameter Name="FX-ChannelEQ-3-Gain2" Value="0.0" Index="314"/>
+  <Parameter Name="FX-ChannelEQ-3-Gain3" Value="0.0" Index="315"/>
+  <Parameter Name="FX-ChannelEQ-3-Gain4" Value="0.0" Index="316"/>
+  <Parameter Name="FX-ChannelEQ-3-Gain5" Value="0.0" Index="317"/>
+  <Parameter Name="FX-ChannelEQ-3-Gain6" Value="0.0" Index="318"/>
+  <Parameter Name="FX-ChannelEQ-3-Gain7" Value="0.0" Index="319"/>
+  <Parameter Name="FX-ChannelEQ-3-Gain8" Value="0.0" Index="320"/>
+  <Parameter Name="FX-ChannelEQ-3-Order1" Value="2.0" Index="321"/>
+  <Parameter Name="FX-ChannelEQ-3-Order2" Value="2.0" Index="322"/>
+  <Parameter Name="FX-ChannelEQ-3-Order3" Value="2.0" Index="323"/>
+  <Parameter Name="FX-ChannelEQ-3-Order4" Value="2.0" Index="324"/>
+  <Parameter Name="FX-ChannelEQ-3-Order5" Value="2.0" Index="325"/>
+  <Parameter Name="FX-ChannelEQ-3-Order6" Value="2.0" Index="326"/>
+  <Parameter Name="FX-ChannelEQ-3-Order7" Value="2.0" Index="327"/>
+  <Parameter Name="FX-ChannelEQ-3-Order8" Value="2.0" Index="328"/>
+  <Parameter Name="FX-ChannelEQ-3-Activated1" Value="-1.0" Index="329"/>
+  <Parameter Name="FX-ChannelEQ-3-Activated2" Value="-1.0" Index="330"/>
+  <Parameter Name="FX-ChannelEQ-3-Activated3" Value="-1.0" Index="331"/>
+  <Parameter Name="FX-ChannelEQ-3-Activated4" Value="-1.0" Index="332"/>
+  <Parameter Name="FX-ChannelEQ-3-Activated5" Value="-1.0" Index="333"/>
+  <Parameter Name="FX-ChannelEQ-3-Activated6" Value="-1.0" Index="334"/>
+  <Parameter Name="FX-ChannelEQ-3-Activated7" Value="-1.0" Index="335"/>
+  <Parameter Name="FX-ChannelEQ-3-Activated8" Value="-1.0" Index="336"/>
+  <Parameter Name="FX-ChannelEQ-3-Enabled1" Value="-1.0" Index="337"/>
+  <Parameter Name="FX-ChannelEQ-3-Enabled2" Value="-1.0" Index="338"/>
+  <Parameter Name="FX-ChannelEQ-3-Enabled3" Value="-1.0" Index="339"/>
+  <Parameter Name="FX-ChannelEQ-3-Enabled4" Value="-1.0" Index="340"/>
+  <Parameter Name="FX-ChannelEQ-3-Enabled5" Value="-1.0" Index="341"/>
+  <Parameter Name="FX-ChannelEQ-3-Enabled6" Value="-1.0" Index="342"/>
+  <Parameter Name="FX-ChannelEQ-3-Enabled7" Value="-1.0" Index="343"/>
+  <Parameter Name="FX-ChannelEQ-3-Enabled8" Value="-1.0" Index="344"/>
+  <Parameter Name="FX-ChannelEQ-4-FilterType1" Value="2.0" Index="345"/>
+  <Parameter Name="FX-ChannelEQ-4-FilterType2" Value="2.0" Index="346"/>
+  <Parameter Name="FX-ChannelEQ-4-FilterType3" Value="2.0" Index="347"/>
+  <Parameter Name="FX-ChannelEQ-4-FilterType4" Value="2.0" Index="348"/>
+  <Parameter Name="FX-ChannelEQ-4-FilterType5" Value="2.0" Index="349"/>
+  <Parameter Name="FX-ChannelEQ-4-FilterType6" Value="2.0" Index="350"/>
+  <Parameter Name="FX-ChannelEQ-4-FilterType7" Value="2.0" Index="351"/>
+  <Parameter Name="FX-ChannelEQ-4-FilterType8" Value="2.0" Index="352"/>
+  <Parameter Name="FX-ChannelEQ-4-Freq1" Value="1000.0" Index="353"/>
+  <Parameter Name="FX-ChannelEQ-4-Freq2" Value="1000.0" Index="354"/>
+  <Parameter Name="FX-ChannelEQ-4-Freq3" Value="1000.0" Index="355"/>
+  <Parameter Name="FX-ChannelEQ-4-Freq4" Value="1000.0" Index="356"/>
+  <Parameter Name="FX-ChannelEQ-4-Freq5" Value="1000.0" Index="357"/>
+  <Parameter Name="FX-ChannelEQ-4-Freq6" Value="1000.0" Index="358"/>
+  <Parameter Name="FX-ChannelEQ-4-Freq7" Value="1000.0" Index="359"/>
+  <Parameter Name="FX-ChannelEQ-4-Freq8" Value="1000.0" Index="360"/>
+  <Parameter Name="FX-ChannelEQ-4-Q1" Value="1.0" Index="361"/>
+  <Parameter Name="FX-ChannelEQ-4-Q2" Value="1.0" Index="362"/>
+  <Parameter Name="FX-ChannelEQ-4-Q3" Value="1.0" Index="363"/>
+  <Parameter Name="FX-ChannelEQ-4-Q4" Value="1.0" Index="364"/>
+  <Parameter Name="FX-ChannelEQ-4-Q5" Value="1.0" Index="365"/>
+  <Parameter Name="FX-ChannelEQ-4-Q6" Value="1.0" Index="366"/>
+  <Parameter Name="FX-ChannelEQ-4-Q7" Value="1.0" Index="367"/>
+  <Parameter Name="FX-ChannelEQ-4-Q8" Value="1.0" Index="368"/>
+  <Parameter Name="FX-ChannelEQ-4-Gain1" Value="0.0" Index="369"/>
+  <Parameter Name="FX-ChannelEQ-4-Gain2" Value="0.0" Index="370"/>
+  <Parameter Name="FX-ChannelEQ-4-Gain3" Value="0.0" Index="371"/>
+  <Parameter Name="FX-ChannelEQ-4-Gain4" Value="0.0" Index="372"/>
+  <Parameter Name="FX-ChannelEQ-4-Gain5" Value="0.0" Index="373"/>
+  <Parameter Name="FX-ChannelEQ-4-Gain6" Value="0.0" Index="374"/>
+  <Parameter Name="FX-ChannelEQ-4-Gain7" Value="0.0" Index="375"/>
+  <Parameter Name="FX-ChannelEQ-4-Gain8" Value="0.0" Index="376"/>
+  <Parameter Name="FX-ChannelEQ-4-Order1" Value="2.0" Index="377"/>
+  <Parameter Name="FX-ChannelEQ-4-Order2" Value="2.0" Index="378"/>
+  <Parameter Name="FX-ChannelEQ-4-Order3" Value="2.0" Index="379"/>
+  <Parameter Name="FX-ChannelEQ-4-Order4" Value="2.0" Index="380"/>
+  <Parameter Name="FX-ChannelEQ-4-Order5" Value="2.0" Index="381"/>
+  <Parameter Name="FX-ChannelEQ-4-Order6" Value="2.0" Index="382"/>
+  <Parameter Name="FX-ChannelEQ-4-Order7" Value="2.0" Index="383"/>
+  <Parameter Name="FX-ChannelEQ-4-Order8" Value="2.0" Index="384"/>
+  <Parameter Name="FX-ChannelEQ-4-Activated1" Value="-1.0" Index="385"/>
+  <Parameter Name="FX-ChannelEQ-4-Activated2" Value="-1.0" Index="386"/>
+  <Parameter Name="FX-ChannelEQ-4-Activated3" Value="-1.0" Index="387"/>
+  <Parameter Name="FX-ChannelEQ-4-Activated4" Value="-1.0" Index="388"/>
+  <Parameter Name="FX-ChannelEQ-4-Activated5" Value="-1.0" Index="389"/>
+  <Parameter Name="FX-ChannelEQ-4-Activated6" Value="-1.0" Index="390"/>
+  <Parameter Name="FX-ChannelEQ-4-Activated7" Value="-1.0" Index="391"/>
+  <Parameter Name="FX-ChannelEQ-4-Activated8" Value="-1.0" Index="392"/>
+  <Parameter Name="FX-ChannelEQ-4-Enabled1" Value="-1.0" Index="393"/>
+  <Parameter Name="FX-ChannelEQ-4-Enabled2" Value="-1.0" Index="394"/>
+  <Parameter Name="FX-ChannelEQ-4-Enabled3" Value="-1.0" Index="395"/>
+  <Parameter Name="FX-ChannelEQ-4-Enabled4" Value="-1.0" Index="396"/>
+  <Parameter Name="FX-ChannelEQ-4-Enabled5" Value="-1.0" Index="397"/>
+  <Parameter Name="FX-ChannelEQ-4-Enabled6" Value="-1.0" Index="398"/>
+  <Parameter Name="FX-ChannelEQ-4-Enabled7" Value="-1.0" Index="399"/>
+  <Parameter Name="FX-ChannelEQ-4-Enabled8" Value="-1.0" Index="400"/>
+  <Parameter Name="M-Start Time" Value="85.0" Index="401"/>
+  <Parameter Name="M-Attack Time" Value="5.0" Index="402"/>
+  <Parameter Name="M-Decay Time" Value="500.0" Index="403"/>
+  <Parameter Name="M-Sustain DB" Value="0.0" Index="404"/>
+  <Parameter Name="M-Release Time" Value="50.0" Index="405"/>
+  <Parameter Name="M-KillTime" Value="300.0" Index="406"/>
+  <Parameter Name="S-Mod Start Time" Value="260.0" Index="407"/>
+  <Parameter Name="S-Mod Attack Time" Value="750.0" Index="408"/>
+  <Parameter Name="S-Mod Hold Time" Value="500.0" Index="409"/>
+  <Parameter Name="S-Mod Decay Time" Value="500.0" Index="410"/>
+  <Parameter Name="S-Mod Sustain" Value="0.0" Index="411"/>
+  <Parameter Name="M-SoundMode" Value="0.0" Index="412"/>
+  <Parameter Name="M-MicA Solo" Value="0.0" Index="413"/>
+  <Parameter Name="M-MicB Solo" Value="0.0" Index="414"/>
+  <Parameter Name="M-MicBody Solo" Value="0.0" Index="415"/>
+  <Parameter Name="M-MicAMB Solo" Value="0.0" Index="416"/>
+  <Parameter Name="M-MicA Mute" Value="0.0" Index="417"/>
+  <Parameter Name="M-MicB Mute" Value="0.0" Index="418"/>
+  <Parameter Name="M-MicBody Mute" Value="0.0" Index="419"/>
+  <Parameter Name="M-MicAMB Mute" Value="0.0" Index="420"/>
+  <Parameter Name="Master Tune" Value="440.0" Index="421"/>
+  <Parameter Name="Max Voices" Value="64.0" Index="422"/>
+  <Parameter Name="Vel Sensitivity" Value="50.0" Index="423"/>
+  <Parameter Name="Legato Time" Value="200.0" Index="424"/>
+  <Parameter Name="Off Velocity" Value="65.0" Index="425"/>
+  <Parameter Name="Auto Off Velocity" Value="1.0" Index="426"/>
+  <Parameter Name="FR noise Density" Value="0.5" Index="427"/>
+  <Parameter Name="S-Bend Mode" Value="-1.0" Index="428"/>
+  <DBName Value="ACDDFg"/>
+  <Tune-Path Value="C:\Users\ample\Documents\Ample Sound\ACDD\Tune\Tune_Default.ACDDFg"/>
+  <PresetDirectory PresetDir="C:\Users\ample\Documents\Ample Sound\ACDD\Presets"/>
+</ACDD_STATE>

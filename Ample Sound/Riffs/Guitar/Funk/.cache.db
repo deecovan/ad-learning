@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="100_16_44_Funk_01" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Funk" cho="Am7" type="Strum" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="100_16_84_Funk_02" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Funk" cho="Eb9" type="Strum" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="100_16_84_Funk_03" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Funk" cho="Em7 " type="Strum" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="100_16_84_Funk_04" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Funk" cho="Am7" type="Strum" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="100_16_84_Funk_05" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Funk" cho="Am7" type="Strum" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="100_16_84_Funk_06" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Funk" cho="Dm7" type="Strum" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="100_16_84_Funk_07" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Funk" cho="Em7" type="Strum" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="100_16_84_Funk_08" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="100" cat="Funk" cho="E7" type="Strum" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_44_Funk_02" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="A" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_44_Funk_03" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="D" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_44_Funk_04" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="A" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_44_Funk_05" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="E" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_44_Funk_06" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="E" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_44_Funk_07" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="E" type="Fill" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_44_Funk_08" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="A" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_44_Funk_09" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="A" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_44_Funk_10" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="A" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_44_Funk_11" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="E" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_44_Funk_12" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="E" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_44_Funk_13" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="E" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_44_Funk_14" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="Bm" type="Strum" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_84_Funk_01" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="Em7  A6" type="Strum" db="" key="D"
+        measures="2" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="110_16_84_Funk_02" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="Em7" type="Strum" db="" key="D" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_84_Funk_03" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="Asus A" type="Strum" db="" key="D"
+        measures="2" quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_84_Funk_04" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="Em7" type="Strum" db="" key="D" measures="2"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="110_16_84_Funk_05" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="110" cat="Funk" cho="Dm7 G7" type="Strum" db="" key="C"
+        measures="1" quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="110_16_84_Funk_J_01" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:28.000+02:00" bpm="110" cat="Funk" cho="A"
+        type="Riff" db="" key="C" measures="2" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120_16_44_Funk_01" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Funk" cho="E" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="120_16_44_Funk_02" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Funk" cho="A" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="120_16_44_Funk_03" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Funk" cho="A" type="Riff" db="" key="G" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="120_16_44_Funk_04" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Funk" cho="Am" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="120_16_44_Funk_05" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Funk" cho="Am" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="120_16_44_Funk_06" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Funk" cho="Am" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="120_16_44_Funk_07" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="120" cat="Funk" cho="Am" type="Riff" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="4/4"/>
+  <item FName="90_16_84_Funk_01" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Funk" cho="C7" type="Strum" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="90_16_84_Funk_02" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Funk" cho="C7" type="Strum" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="90_16_84_Funk_03" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="90" cat="Funk" cho="Em7" type="Strum" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="95_16_54_Funk_03" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="95" cat="Funk" cho="Am7" type="Strum" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="5/4"/>
+  <item FName="95_16_84_Funk_01" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="95" cat="Funk" cho="A7 G7" type="Strum" db="" key="D" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="95_16_84_Funk_02" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="95" cat="Funk" cho="Am7" type="Strum" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="95_16_84_Funk_04" ext=".griff" author="Ample Sound" LMT="2019-01-28T13:55:28.000+02:00"
+        bpm="95" cat="Funk" cho="Am7" type="Strum" db="" key="C" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+</cache>

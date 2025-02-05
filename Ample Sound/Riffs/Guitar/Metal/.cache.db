@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="100_16_84_Eclipse_Metal_05" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="100" cat="Metal" cho="E"
+        type="Riff" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="100_16_84_Eclipse_Metal_18" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="100" cat="Metal" cho="C F D#"
+        type="Riff" db="" key="D#" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="120_16_84_Eclipse_Metal_01" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="120" cat="Metal" cho="C#"
+        type="Riff" db="" key="C#" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="120_16_84_Eclipse_Metal_02" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="120" cat="Metal" cho="C#"
+        type="Riff" db="" key="C#" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="120_16_84_Eclipse_Metal_03" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="120" cat="Metal" cho="C#"
+        type="Riff" db="" key="C#" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="120_16_84_Eclipse_Metal_04" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="120" cat="Metal" cho="E D"
+        type="Riff" db="" key="G" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="120_16_84_Eclipse_Metal_06" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="120" cat="Metal" cho="C D#"
+        type="Riff" db="" key="D#" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="120_16_84_Eclipse_Metal_10" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="120" cat="Metal" cho="C"
+        type="Riff" db="" key="D#" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="120_16_84_Eclipse_Metal_14" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="120" cat="Metal" cho="D"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="120_16_84_Eclipse_Metal_15" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="120" cat="Metal" cho="D"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="120_16_84_Eclipse_Metal_16" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="120" cat="Metal" cho="D"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="120_16_84_Eclipse_Metal_17" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="120" cat="Metal" cho="D"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="120_16_84_Eclipse_Metal_19" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="120" cat="Metal" cho="C"
+        type="Riff" db="" key="D#" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="120_16_84_Eclipse_Metal_20" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="120" cat="Metal" cho="C"
+        type="Riff" db="" key="D#" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="130_16_84_Eclipse_Metal_11" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="130" cat="Metal" cho="C"
+        type="Riff" db="" key="D#" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="130_16_84_Eclipse_Metal_12" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="130" cat="Metal" cho="C"
+        type="Riff" db="" key="D#" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="130_16_84_Eclipse_Metal_13" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="130" cat="Metal" cho="C"
+        type="Riff" db="" key="D#" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="160_16_84_Eclipse_Metal_07" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="160" cat="Metal" cho="D"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="160_16_84_Eclipse_Metal_08" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="160" cat="Metal" cho="D"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="160_16_84_Eclipse_Metal_09" ext=".griff" author="Ample Sound"
+        LMT="2019-01-28T13:55:30.000+02:00" bpm="160" cat="Metal" cho="D E"
+        type="Riff" db="" key="F" measures="1" quantize="1/16" rating="0"
+        signature="8/4"/>
+  <item FName="Metal02_Eclipse_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="170" cat="Metal" cho="Cm" type="Riff" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Metal03_Eclipse_01" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="125" cat="Metal" cho="Cm" type="Riff" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Metal03_Eclipse_02" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="125" cat="Metal" cho="Cm" type="Riff" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Metal03_Eclipse_03" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="125" cat="Metal" cho="Cm" type="Riff" db="" key="D#" measures="1"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Metal03_Eclipse_04" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="125" cat="Metal" cho="Cm" type="Riff" db="" key="D#" measures="1"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Metal03_Eclipse_05" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="125" cat="Metal" cho="Cm" type="Riff" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Metal03_Eclipse_06" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="125" cat="Metal" cho="Cm" type="Riff" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Metal03_Eclipse_07" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="125" cat="Metal" cho="Cm" type="Riff" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Metal03_Eclipse_08" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="125" cat="Metal" cho="Cm" type="Riff" db="" key="D#" measures="1"
+        quantize="1/16" rating="0" signature="8/4"/>
+  <item FName="Metal03_Eclipse_09" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="125" cat="Metal" cho="Cm" type="Riff" db="" key="D#" measures="1"
+        quantize="1/32" rating="0" signature="8/4"/>
+  <item FName="Metal03_Eclipse_10" ext=".griff" author="Kane" LMT="2019-01-28T13:55:30.000+02:00"
+        bpm="125" cat="Metal" cho="Cm" type="Riff" db="" key="D#" measures="1"
+        quantize="1/32" rating="0" signature="8/4"/>
+</cache>

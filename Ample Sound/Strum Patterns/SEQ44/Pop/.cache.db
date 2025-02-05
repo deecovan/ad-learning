@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="110-16-44-Pop-L01" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="" measures="77387232" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Pop-L02" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="" measures="77387232" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Pop-L03" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="" measures="77387232" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Pop-L04" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="" measures="77387232" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Pop-L05" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="" measures="77387232" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Pop-L06" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="" measures="77387232" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Pop-s1" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="" measures="77387232" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="110-16-44-Pop-s2" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="" measures="77387232" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Pop-mute-s1" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="" measures="77387232" quantize="1/16" rating="0"
+        signature="4/4"/>
+  <item FName="120-16-44-Pop-mute-s2" ext=".strumseq" author="Ample Sound"
+        LMT="2019-01-28T13:55:26.000+02:00" bpm="110" cat="Pop" cho=""
+        type="" db="" key="" measures="77387232" quantize="1/16" rating="0"
+        signature="4/4"/>
+</cache>

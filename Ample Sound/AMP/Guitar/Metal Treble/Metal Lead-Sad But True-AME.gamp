@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<amp Ver="3.0.0" Author="Ample Sound" Category="Alternative" Rating="0">
+  <Parameter Name="AMP-Enabled" Value="1" Index="211"/>
+  <Parameter Name="AMP-Type-Index" Value="Metal Treble" Index="212"/>
+  <Parameter Name="AMP-57D-Tone" Value="6" Index="213"/>
+  <Parameter Name="AMP-57D-Gain" Value="12" Index="214"/>
+  <Parameter Name="AMP-57D-Master" Value="5.5" Index="215"/>
+  <Parameter Name="AMP-57D-PreODEnabled" Value="1" Index="216"/>
+  <Parameter Name="AMP-65T-Volume" Value="10" Index="217"/>
+  <Parameter Name="AMP-65T-Treble" Value="5.5" Index="218"/>
+  <Parameter Name="AMP-65T-Mid" Value="5.5" Index="219"/>
+  <Parameter Name="AMP-65T-Bass" Value="5.5" Index="220"/>
+  <Parameter Name="AMP-65T-Bright" Value="-1" Index="221"/>
+  <Parameter Name="AMP-65T-PreOD-Drive" Value="10" Index="222"/>
+  <Parameter Name="AMP-65T-PreOD-Level" Value="10" Index="223"/>
+  <Parameter Name="AMP-65T-Master" Value="5.5" Index="224"/>
+  <Parameter Name="AMP-65T-PreODEnabled" Value="1" Index="225"/>
+  <Parameter Name="AMP-JC120-Bright" Value="-1" Index="226"/>
+  <Parameter Name="AMP-JC120-Volume" Value="10" Index="227"/>
+  <Parameter Name="AMP-JC120-Treble" Value="5" Index="228"/>
+  <Parameter Name="AMP-JC120-Mid" Value="5" Index="229"/>
+  <Parameter Name="AMP-JC120-Bass" Value="5" Index="230"/>
+  <Parameter Name="AMP-JC120-Master" Value="5" Index="231"/>
+  <Parameter Name="AMP-JC120-Distortion" Value="10" Index="232"/>
+  <Parameter Name="AMP-JC120-Speed" Value="2" Index="233"/>
+  <Parameter Name="AMP-JC120-Depth" Value="1" Index="234"/>
+  <Parameter Name="AMP-JC120-Chorus" Value="0" Index="235"/>
+  <Parameter Name="AMP-Rock800-Presence" Value="5" Index="236"/>
+  <Parameter Name="AMP-Rock800-Bass" Value="5" Index="237"/>
+  <Parameter Name="AMP-Rock800-Mid" Value="5" Index="238"/>
+  <Parameter Name="AMP-Rock800-Treble" Value="5" Index="239"/>
+  <Parameter Name="AMP-Rock800-Master" Value="5" Index="240"/>
+  <Parameter Name="AMP-Rock800-Preamp" Value="10" Index="241"/>
+  <Parameter Name="AMP-Rock800-PreODEnabled" Value="1" Index="242"/>
+  <Parameter Name="AMP-Triple-ChannelIndex" Value="2" Index="243"/>
+  <Parameter Name="AMP-Triple-Ch3-Presence" Value="6" Index="244"/>
+  <Parameter Name="AMP-Triple-Ch3-Master" Value="5" Index="245"/>
+  <Parameter Name="AMP-Triple-Ch3-Gain" Value="10" Index="246"/>
+  <Parameter Name="AMP-Triple-Ch2-Presence" Value="7.5" Index="247"/>
+  <Parameter Name="AMP-Triple-Ch2-Master" Value="5" Index="248"/>
+  <Parameter Name="AMP-Triple-Ch2-Gain" Value="10" Index="249"/>
+  <Parameter Name="AMP-Triple-Ch1-Presence" Value="5" Index="250"/>
+  <Parameter Name="AMP-Triple-Ch1-Master" Value="5" Index="251"/>
+  <Parameter Name="AMP-Triple-Ch1-Gain" Value="10" Index="252"/>
+  <Parameter Name="AMP-Triple-Ch3-Bass" Value="5" Index="253"/>
+  <Parameter Name="AMP-Triple-Ch3-Mid" Value="5" Index="254"/>
+  <Parameter Name="AMP-Triple-Ch3-Treble" Value="5" Index="255"/>
+  <Parameter Name="AMP-Triple-Ch2-Bass" Value="5" Index="256"/>
+  <Parameter Name="AMP-Triple-Ch2-Mid" Value="5" Index="257"/>
+  <Parameter Name="AMP-Triple-Ch2-Treble" Value="5" Index="258"/>
+  <Parameter Name="AMP-Triple-Ch1-Bass" Value="5" Index="259"/>
+  <Parameter Name="AMP-Triple-Ch1-Mid" Value="5" Index="260"/>
+  <Parameter Name="AMP-Triple-Ch1-Treble" Value="5" Index="261"/>
+  <Parameter Name="AMP-Triple-Ch3-Mode" Value="0" Index="262"/>
+  <Parameter Name="AMP-Triple-Ch2-Mode" Value="0" Index="263"/>
+  <Parameter Name="AMP-Triple-Ch1-Mode" Value="0" Index="264"/>
+  <Parameter Name="AMP-Cabinet Mic1 Index" Value="Con87" Index="265"/>
+  <Parameter Name="AMP-Cabinet Mic2 Index" Value="Dyn57" Index="266"/>
+  <Parameter Name="AMP-Cabinet Type Index" Value="4x12-Ri" Index="267"/>
+  <Parameter Name="AMP-Cabinet Mic1 Pan" Value="0" Index="268"/>
+  <Parameter Name="AMP-Cabinet Mic2 Pan" Value="0" Index="269"/>
+  <Parameter Name="AMP-Cabinet Room Pan" Value="0" Index="270"/>
+  <Parameter Name="AMP-Cabinet DI Delay" Value="0" Index="271"/>
+  <Parameter Name="AMP-Cabinet Pan" Value="0" Index="272"/>
+  <Parameter Name="AMP-Cabinet Mic1 Gain" Value="1" Index="273"/>
+  <Parameter Name="AMP-Cabinet Mic2 Gain" Value="0.5" Index="274"/>
+  <Parameter Name="AMP-Cabinet Room Gain" Value="0.75" Index="275"/>
+  <Parameter Name="AMP-Cabinet DI Gain" Value="0.5" Index="276"/>
+  <Parameter Name="AMP-Cabinet Master" Value="1" Index="277"/>
+  <Parameter Name="AMP-Cabinet Mic1 Inverted" Value="-1" Index="278"/>
+  <Parameter Name="AMP-Cabinet Mic2 Inverted" Value="-1" Index="279"/>
+  <Parameter Name="AMP-Cabinet Room Inverted" Value="-1" Index="280"/>
+  <Parameter Name="AMP-Cabinet DI Inverted" Value="-1" Index="281"/>
+  <Parameter Name="AMP-Cabinet Mic1 Solo" Value="-1" Index="418"/>
+  <Parameter Name="AMP-Cabinet Mic2 Solo" Value="-1" Index="419"/>
+  <Parameter Name="AMP-Cabinet Room Solo" Value="-1" Index="420"/>
+  <Parameter Name="AMP-Cabinet DI Solo" Value="-1" Index="421"/>
+  <Parameter Name="AMP-Cabinet Solo" Value="-1" Index="422"/>
+  <Parameter Name="AMP-Cabinet Mic1 Mute" Value="-1" Index="423"/>
+  <Parameter Name="AMP-Cabinet Mic2 Mute" Value="-1" Index="424"/>
+  <Parameter Name="AMP-Cabinet Room Mute" Value="1" Index="425"/>
+  <Parameter Name="AMP-Cabinet DI Mute" Value="1" Index="426"/>
+  <Parameter Name="AMP-Cabinet Mute" Value="-1" Index="427"/>
+  <Parameter Name="AMP-57D-PreODType" Value="delux" Index="428"/>
+  <Parameter Name="AMP-65T-PreODType" Value="champ" Index="429"/>
+  <Parameter Name="AMP-JC120-PreODEnabled" Value="0" Index="430"/>
+  <Parameter Name="AMP-JC120-PreODType" Value="0" Index="431"/>
+  <Parameter Name="AMP-Rock800-PreODType" Value="delux" Index="432"/>
+  <Parameter Name="AMP-Triple-PreODEnabled" Value="1" Index="433"/>
+  <Parameter Name="AMP-Triple-PreODType" Value="bossHm2" Index="434"/>
+  <Parameter Name="Pedal-Champ-Drive" Value="10" Index="435"/>
+  <Parameter Name="Pedal-Champ-Level" Value="10" Index="436"/>
+  <Parameter Name="Pedal-Champ-Tone" Value="0" Index="437"/>
+  <Parameter Name="Pedal-Delux-Drive" Value="5" Index="438"/>
+  <Parameter Name="Pedal-Delux-Level" Value="5" Index="439"/>
+  <Parameter Name="Pedal-808-Tone" Value="5" Index="440"/>
+  <Parameter Name="Pedal-808-Drive" Value="10" Index="441"/>
+  <Parameter Name="Pedal-808-Level" Value="7.5" Index="442"/>
+  <Parameter Name="Pedal-HM2-Dist" Value="10" Index="443"/>
+  <Parameter Name="Pedal-HM2-Level" Value="5" Index="444"/>
+  <Parameter Name="Pedal-HM2-Bass" Value="0" Index="445"/>
+  <Parameter Name="Pedal-HM2-Treble" Value="0" Index="446"/>
+  <Parameter Name="Pedal-MT2-Dist" Value="8.5" Index="447"/>
+  <Parameter Name="Pedal-MT2-Level" Value="5" Index="448"/>
+  <Parameter Name="Pedal-MT2-Bass" Value="0" Index="449"/>
+  <Parameter Name="Pedal-MT2-Mid" Value="0" Index="450"/>
+  <Parameter Name="Pedal-MT2-MidFreq" Value="200" Index="451"/>
+  <Parameter Name="Pedal-MT2-Treble" Value="0" Index="452"/>
+</amp>

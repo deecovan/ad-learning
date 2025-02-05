@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Chords Author="Ample Sound" Category="Pop" Key="C">
+  <Chord ID="1" Root="C" Type="User" Pos="2">
+    <String ID="6" Fret="1"/>
+    <String ID="5" Fret="3"/>
+    <String ID="4" Fret="5"/>
+    <String ID="3" Fret="5"/>
+    <String ID="2" Fret="0"/>
+    <String ID="1" Fret="0"/>
+  </Chord>
+  <Chord ID="2" Root="C" Type="User" Pos="2">
+    <String ID="6" Fret="1"/>
+    <String ID="5" Fret="3"/>
+    <String ID="4" Fret="3"/>
+    <String ID="3" Fret="4"/>
+    <String ID="2" Fret="-1"/>
+    <String ID="1" Fret="-1"/>
+  </Chord>
+  <Chord ID="3" Root="C" Type="User" Pos="2">
+    <String ID="6" Fret="1"/>
+    <String ID="5" Fret="3"/>
+    <String ID="4" Fret="3"/>
+    <String ID="3" Fret="5"/>
+    <String ID="2" Fret="-1"/>
+    <String ID="1" Fret="-1"/>
+  </Chord>
+  <Chord ID="4" Root="C" Type="User" Pos="2">
+    <String ID="6" Fret="1"/>
+    <String ID="5" Fret="3"/>
+    <String ID="4" Fret="5"/>
+    <String ID="3" Fret="-1"/>
+    <String ID="2" Fret="-1"/>
+    <String ID="1" Fret="-1"/>
+  </Chord>
+  <Chord ID="5" Root="C" Type="User" Pos="2">
+    <String ID="6" Fret="3"/>
+    <String ID="5" Fret="5"/>
+    <String ID="4" Fret="9"/>
+    <String ID="3" Fret="-1"/>
+    <String ID="2" Fret="-1"/>
+    <String ID="1" Fret="-1"/>
+  </Chord>
+  <Chord ID="6" Root="F" Type="5" Pos="1">
+    <String ID="6" Fret="1"/>
+    <String ID="5" Fret="3"/>
+    <String ID="4" Fret="3"/>
+    <String ID="3" Fret="-1"/>
+    <String ID="2" Fret="-1"/>
+    <String ID="1" Fret="-1"/>
+  </Chord>
+  <Chord ID="7" Root="C" Type="User" Pos="2">
+    <String ID="6" Fret="3"/>
+    <String ID="5" Fret="5"/>
+    <String ID="4" Fret="7"/>
+    <String ID="3" Fret="-1"/>
+    <String ID="2" Fret="-1"/>
+    <String ID="1" Fret="-1"/>
+  </Chord>
+  <Chord ID="8" Root="G" Type="5" Pos="1">
+    <String ID="6" Fret="3"/>
+    <String ID="5" Fret="5"/>
+    <String ID="4" Fret="5"/>
+    <String ID="3" Fret="-1"/>
+    <String ID="2" Fret="-1"/>
+    <String ID="1" Fret="-1"/>
+  </Chord>
+  <Chord ID="9" Root="C" Type="User" Pos="2">
+    <String ID="6" Fret="5"/>
+    <String ID="5" Fret="7"/>
+    <String ID="4" Fret="7"/>
+    <String ID="3" Fret="-1"/>
+    <String ID="2" Fret="-1"/>
+    <String ID="1" Fret="-1"/>
+  </Chord>
+  <Chord ID="10" Root="C" Type="User" Pos="2">
+    <String ID="6" Fret="5"/>
+    <String ID="5" Fret="7"/>
+    <String ID="4" Fret="10"/>
+    <String ID="3" Fret="-1"/>
+    <String ID="2" Fret="-1"/>
+    <String ID="1" Fret="-1"/>
+  </Chord>
+  <Chord ID="11" Root="C" Type="User" Pos="2">
+    <String ID="6" Fret="5"/>
+    <String ID="5" Fret="7"/>
+    <String ID="4" Fret="9"/>
+    <String ID="3" Fret="-1"/>
+    <String ID="2" Fret="-1"/>
+    <String ID="1" Fret="-1"/>
+  </Chord>
+  <Chord ID="12" Root="G" Type="Maj" Pos="3">
+    <String ID="6" Fret="3"/>
+    <String ID="5" Fret="5"/>
+    <String ID="4" Fret="5"/>
+    <String ID="3" Fret="4"/>
+    <String ID="2" Fret="3"/>
+    <String ID="1" Fret="3"/>
+  </Chord>
+  <Chord ID="13" Root="C" Type="Maj" Pos="1">
+    <String ID="6" Fret="-1"/>
+    <String ID="5" Fret="3"/>
+    <String ID="4" Fret="2"/>
+    <String ID="3" Fret="0"/>
+    <String ID="2" Fret="1"/>
+    <String ID="1" Fret="0"/>
+  </Chord>
+  <Chord ID="14" Root="A" Type="Maj" Pos="1">
+    <String ID="6" Fret="-1"/>
+    <String ID="5" Fret="0"/>
+    <String ID="4" Fret="2"/>
+    <String ID="3" Fret="2"/>
+    <String ID="2" Fret="2"/>
+    <String ID="1" Fret="0"/>
+  </Chord>
+  <Chord ID="15" Root="D" Type="min" Pos="1">
+    <String ID="6" Fret="-1"/>
+    <String ID="5" Fret="-1"/>
+    <String ID="4" Fret="0"/>
+    <String ID="3" Fret="2"/>
+    <String ID="2" Fret="3"/>
+    <String ID="1" Fret="1"/>
+  </Chord>
+  <Chord ID="16" Root="F" Type="min" Pos="1">
+    <String ID="6" Fret="1"/>
+    <String ID="5" Fret="3"/>
+    <String ID="4" Fret="3"/>
+    <String ID="3" Fret="1"/>
+    <String ID="2" Fret="1"/>
+    <String ID="1" Fret="1"/>
+  </Chord>
+  <Chord ID="17" Root="E" Type="min" Pos="1">
+    <String ID="6" Fret="0"/>
+    <String ID="5" Fret="2"/>
+    <String ID="4" Fret="2"/>
+    <String ID="3" Fret="0"/>
+    <String ID="2" Fret="0"/>
+    <String ID="1" Fret="0"/>
+  </Chord>
+  <Chord ID="18" Root="F" Type="Maj" Pos="1">
+    <String ID="6" Fret="1"/>
+    <String ID="5" Fret="3"/>
+    <String ID="4" Fret="3"/>
+    <String ID="3" Fret="2"/>
+    <String ID="2" Fret="1"/>
+    <String ID="1" Fret="1"/>
+  </Chord>
+  <Chord ID="19" Root="D" Type="Maj" Pos="1">
+    <String ID="6" Fret="-1"/>
+    <String ID="5" Fret="-1"/>
+    <String ID="4" Fret="0"/>
+    <String ID="3" Fret="2"/>
+    <String ID="2" Fret="3"/>
+    <String ID="1" Fret="2"/>
+  </Chord>
+  <Chord ID="20" Root="G" Type="Maj" Pos="1">
+    <String ID="6" Fret="3"/>
+    <String ID="5" Fret="2"/>
+    <String ID="4" Fret="0"/>
+    <String ID="3" Fret="0"/>
+    <String ID="2" Fret="0"/>
+    <String ID="1" Fret="3"/>
+  </Chord>
+  <Chord ID="21" Root="E" Type="Maj" Pos="1">
+    <String ID="6" Fret="0"/>
+    <String ID="5" Fret="2"/>
+    <String ID="4" Fret="2"/>
+    <String ID="3" Fret="1"/>
+    <String ID="2" Fret="0"/>
+    <String ID="1" Fret="0"/>
+  </Chord>
+  <Chord ID="22" Root="A" Type="min" Pos="1">
+    <String ID="6" Fret="-1"/>
+    <String ID="5" Fret="0"/>
+    <String ID="4" Fret="2"/>
+    <String ID="3" Fret="2"/>
+    <String ID="2" Fret="1"/>
+    <String ID="1" Fret="0"/>
+  </Chord>
+  <Chord ID="23" Root="A#" Type="Maj" Pos="1">
+    <String ID="6" Fret="-1"/>
+    <String ID="5" Fret="1"/>
+    <String ID="4" Fret="3"/>
+    <String ID="3" Fret="3"/>
+    <String ID="2" Fret="3"/>
+    <String ID="1" Fret="1"/>
+  </Chord>
+  <Chord ID="24" Root="G" Type="7" Pos="1">
+    <String ID="6" Fret="3"/>
+    <String ID="5" Fret="2"/>
+    <String ID="4" Fret="0"/>
+    <String ID="3" Fret="0"/>
+    <String ID="2" Fret="0"/>
+    <String ID="1" Fret="1"/>
+  </Chord>
+</Chords>

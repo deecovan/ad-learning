@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="Ambience" ext=".acddstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Ambience" db="Finger" key="" measures="66613264"
+        quantize="" rating="0" signature=""/>
+  <item FName="Black" ext=".acddstate" author="Yi Yang" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Lead" db="Finger" key="" measures="66613264"
+        quantize="" rating="0" signature=""/>
+  <item FName="Bright Dadi" ext=".acddstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Lead" db="Finger" key="" measures="66613264"
+        quantize="" rating="0" signature=""/>
+  <item FName="Bypass FX" ext=".acddstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Lead" db="Finger" key="" measures="66613264"
+        quantize="" rating="0" signature=""/>
+  <item FName="Default" ext=".acddstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Lead" db="Finger" key="" measures="66613264"
+        quantize="" rating="0" signature=""/>
+  <item FName="Mono 1" ext=".acddstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Lead" db="Finger" key="" measures="66613264"
+        quantize="" rating="0" signature=""/>
+  <item FName="The Singing of Dragon" ext=".acddstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Pop" cho=""
+        type="Lead" db="Finger" key="" measures="66613264" quantize=""
+        rating="0" signature=""/>
+  <item FName="The Unsullied" ext=".acddstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Lead" db="Finger" key="" measures="66613264"
+        quantize="" rating="0" signature=""/>
+  <item FName="The Untamed" ext=".acddstate" author="Ample Sound" LMT="2024-11-30T09:00:00.000+02:00"
+        bpm="0" cat="Pop" cho="" type="Lead" db="Finger" key="" measures="66613264"
+        quantize="" rating="0" signature=""/>
+</cache>

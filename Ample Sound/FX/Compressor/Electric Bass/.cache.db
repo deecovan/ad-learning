@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="Electric Bass Dot" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Other" cho=""
+        type="" db="" key="" measures="500319040" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Bass Jump" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Other" cho=""
+        type="" db="" key="" measures="500319040" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Bass Pick" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Rock" cho=""
+        type="" db="" key="" measures="500319040" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Bass Slap" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Funk" cho=""
+        type="" db="" key="" measures="500319040" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Bass Slap 1" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Funk" cho=""
+        type="" db="" key="" measures="500319040" quantize="" rating="0"
+        signature=""/>
+  <item FName="Electric Bass Slap 2" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Funk" cho=""
+        type="" db="" key="" measures="500319040" quantize="" rating="0"
+        signature=""/>
+  <item FName="Fretless Bass Compression" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Jazz" cho=""
+        type="" db="" key="" measures="500319040" quantize="" rating="0"
+        signature=""/>
+  <item FName="Hard Rock Bass" ext=".fxcompstate" author="Ample Sound"
+        LMT="2024-11-30T09:00:00.000+02:00" bpm="0" cat="Rock" cho=""
+        type="" db="" key="" measures="500319040" quantize="" rating="0"
+        signature=""/>
+</cache>

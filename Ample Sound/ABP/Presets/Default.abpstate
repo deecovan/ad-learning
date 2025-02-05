@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<AEB_STATE Name="Default" Ver="3.5.0" Author="Ample Sound" Category="Rock"
+<AEB_STATE Name="Default" Ver="3.6.0" Author="Ample Sound" Category="Rock"
            Dist="Clean" Type="Rhythm" Lib="Finger" Rating="0">
   <Articulation Value="Sus"/>
   <Position Value="0"/>
   <Riff-Path Value="C:\Users\ample\Documents\Ample Sound\Riffs\Bass"/>
-  <Riff Author="prodigyray" Category="Rock" Measures="1" Time-Signature="8/4"
+  <Riff Author="prodigyray" Category="Rock" Measures="2" Time-Signature="4/4"
         Quantize="1/16" Tempo="122" Key="G" Type="Riff" Chord="" Rating="0"
-        Path="C:\Users\ample\Documents\Ample Sound\Riffs\Bass\Sun1" Name="122_16_84_Rock_PrRock_03">
-    <String ID="4">
+        numStr="4" Ver="1.1" Inst="ABP" Path="C:\Users\ample\Documents\Ample Sound\Riffs\Bass\Sun1"
+        Name="122_16_84_Rock_PrRock_03" Ext="">
+    <String ID="4" note="40">
       <Note FX="0" Velocity="70" Off-Velocity="64" Begin="3" End="4" Articulation="Sus"
             Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
             Duration-Percentage="100"/>
@@ -37,7 +38,7 @@
         <Bend-Point Position="0.25" Value="0"/>
       </Note>
     </String>
-    <String ID="3">
+    <String ID="3" note="45">
       <Note FX="0" Velocity="70" Off-Velocity="64" Begin="1" End="2" Articulation="Sus"
             Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
             Duration-Percentage="100"/>
@@ -96,7 +97,6 @@
   <Parameter Name="M-Fret Sound" Value="1" Index="15"/>
   <Parameter Name="M-Fade In" Value="0" Index="16"/>
   <Parameter Name="M-Capo" Value="0" Index="17"/>
-  <Parameter Name="M-Pitch Bend" Value="0" Index="18"/>
   <Parameter Name="M-Vibrato" Value="0" Index="19"/>
   <Parameter Name="R-Feedback" Value="1" Index="20"/>
   <Parameter Name="R-Metronome" Value="1" Index="21"/>
@@ -180,7 +180,7 @@
   <Parameter Name="FX-EQ-Order8" Value="2" Index="99"/>
   <Parameter Name="FX-EQ-Activated1" Value="-1" Index="100"/>
   <Parameter Name="FX-EQ-Activated2" Value="1" Index="101"/>
-  <Parameter Name="FX-EQ-Activated3" Value="1" Index="102"/>
+  <Parameter Name="FX-EQ-Activated3" Value="-1" Index="102"/>
   <Parameter Name="FX-EQ-Activated4" Value="-1" Index="103"/>
   <Parameter Name="FX-EQ-Activated5" Value="-1" Index="104"/>
   <Parameter Name="FX-EQ-Activated6" Value="-1" Index="105"/>
@@ -333,7 +333,7 @@
   <Parameter Name="AMP-Cabinet Mic2 Gain" Value="0.5" Index="252"/>
   <Parameter Name="AMP-Cabinet Room Gain" Value="0.5" Index="253"/>
   <Parameter Name="AMP-Cabinet DI Gain" Value="0.5" Index="254"/>
-  <Parameter Name="AMP-Cabinet Master" Value="1" Index="255"/>
+  <Parameter Name="AMP-Cabinet Master" Value="0.9" Index="255"/>
   <Parameter Name="AMP-Cabinet Mic1 Inverted" Value="-1" Index="256"/>
   <Parameter Name="AMP-Cabinet Mic2 Inverted" Value="-1" Index="257"/>
   <Parameter Name="AMP-Cabinet Room Inverted" Value="-1" Index="258"/>
@@ -364,7 +364,6 @@
   <Parameter Name="M-Sustain DB" Value="0" Index="283"/>
   <Parameter Name="M-Release Time" Value="50" Index="284"/>
   <Parameter Name="Num Host Params" Value="0" Index="285"/>
-  <Parameter Name="R-Play Toggle" Value="0" Index="286"/>
   <Parameter Name="T-Play Toggle" Value="0" Index="287"/>
   <Parameter Name="T-Playback Toggle" Value="0" Index="288"/>
   <Parameter Name="T-Track Index" Value="0" Index="289"/>

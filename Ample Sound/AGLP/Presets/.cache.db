@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cache>
+  <item FName="80s Solo" ext=".aglpstate" author="Ample Sound" LMT="2023-06-07T16:50:48.000+02:00"
+        bpm="414" cat="Rock" cho="" type="Lead" db="Neck" key="" measures="2054846656"
+        quantize="" rating="0" signature="" dist="Distortion"/>
+  <item FName="80s Solo(ARP)" ext=".aglpstate" author="Ample Sound" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="414" cat="Rock" cho="" type="Rhythm" db="Neck+Bridge" key=""
+        measures="2054846656" quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Ambience Harmonic" ext=".aglpstate" author="Ample Sound"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="414" cat="Pop" cho=""
+        type="Ambience" db="Neck" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Distortion"/>
+  <item FName="Blue and White Porcelain" ext=".aglpstate" author="Xingmin Zhong"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="414" cat="Pop" cho=""
+        type="Rhythm" db="Neck+Bridge" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Bypass FXs" ext=".aglpstate" author="Ample Sound" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="414" cat="Rock" cho="" type="Rhythm" db="Neck" key="" measures="2054846656"
+        quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Default" ext=".aglpstate" author="Ample Sound" LMT="2023-06-07T16:50:48.000+02:00"
+        bpm="414" cat="Rock" cho="" type="Lead" db="Bridge" key="" measures="2054846656"
+        quantize="" rating="0" signature="" dist="Distortion"/>
+  <item FName="Dont Cry" ext=".aglpstate" author="Guns N Roses" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="414" cat="Rock" cho="" type="Rhythm" db="Bridge" key=""
+        measures="2054846656" quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Dont Cry(Solo)" ext=".aglpstate" author="Guns N Roses"
+        LMT="2023-06-07T16:50:48.000+02:00" bpm="414" cat="Rock" cho=""
+        type="Lead" db="Bridge" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Distortion"/>
+  <item FName="Em9" ext=".aglpstate" author="Ample Sound" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="414" cat="Metal" cho="" type="Rhythm" db="Neck+Bridge" key=""
+        measures="2054846656" quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Em9(Solo)" ext=".aglpstate" author="Ample Sound" LMT="2023-06-07T16:50:48.000+02:00"
+        bpm="414" cat="Metal" cho="" type="Lead" db="Bridge" key="" measures="2054846656"
+        quantize="" rating="0" signature="" dist="Metal"/>
+  <item FName="Em9(Strum)" ext=".aglpstate" author="Ample Sound" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="414" cat="Metal" cho="" type="Rhythm" db="Bridge" key=""
+        measures="2054846656" quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Gotten" ext=".aglpstate" author="Slash" LMT="2023-06-07T16:50:48.000+02:00"
+        bpm="414" cat="Rock" cho="" type="Rhythm" db="Neck+Bridge" key=""
+        measures="2054846656" quantize="" rating="0" signature="" dist="Clean"/>
+  <item FName="Gotten(Lick)" ext=".aglpstate" author="Slash" LMT="2023-06-07T16:50:48.000+02:00"
+        bpm="414" cat="Rock" cho="" type="Lead" db="Neck" key="" measures="2054846656"
+        quantize="" rating="0" signature="" dist="Overdrive"/>
+  <item FName="Hotel California" ext=".aglpstate" author="The Eagles"
+        LMT="2023-06-07T16:50:48.000+02:00" bpm="414" cat="Rock" cho=""
+        type="Lead" db="Bridge" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Distortion"/>
+  <item FName="Illusion" ext=".aglpstate" author="Ample Sound" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="414" cat="Metal" cho="" type="Rhythm" db="Bridge" key=""
+        measures="2054846656" quantize="" rating="0" signature="" dist="Metal"/>
+  <item FName="Knockin on Heavens Door" ext=".aglpstate" author="Guns N Roses"
+        LMT="2023-06-07T16:50:48.000+02:00" bpm="414" cat="Rock" cho=""
+        type="Rhythm" db="Neck+Bridge" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Nightrain" ext=".aglpstate" author="Guns N Roses" LMT="2023-06-07T16:50:48.000+02:00"
+        bpm="414" cat="Metal" cho="" type="Rhythm" db="Bridge" key=""
+        measures="2054846656" quantize="" rating="0" signature="" dist="Distortion"/>
+  <item FName="November Rain" ext=".aglpstate" author="Guns N Roses"
+        LMT="2023-06-07T16:50:48.000+02:00" bpm="414" cat="Rock" cho=""
+        type="Lead" db="Neck" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Overdrive"/>
+  <item FName="Paradise City" ext=".aglpstate" author="Guns N Roses"
+        LMT="2023-06-07T16:50:48.000+02:00" bpm="414" cat="Rock" cho=""
+        type="Rhythm" db="Neck+Bridge" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Prison Break" ext=".aglpstate" author="Ample Sound" LMT="2023-06-07T16:50:48.000+02:00"
+        bpm="414" cat="Metal" cho="" type="Rhythm" db="Bridge" key=""
+        measures="2054846656" quantize="" rating="0" signature="" dist="Metal"/>
+  <item FName="Prison Break(ARP1)" ext=".aglpstate" author="Ample Sound"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="414" cat="Rock" cho=""
+        type="Rhythm" db="Neck+Bridge" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Overdrive"/>
+  <item FName="Prison Break(ARP2)" ext=".aglpstate" author="Ample Sound"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="414" cat="Rock" cho=""
+        type="Rhythm" db="Neck" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Overdrive"/>
+  <item FName="Stairway to Heaven" ext=".aglpstate" author="Led Zeppelin"
+        LMT="2023-06-07T16:50:48.000+02:00" bpm="414" cat="Rock" cho=""
+        type="Lead" db="Bridge" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Distortion"/>
+  <item FName="Sweet Child O Mine" ext=".aglpstate" author="Guns N Roses"
+        LMT="2023-06-07T16:50:48.000+02:00" bpm="414" cat="Metal" cho=""
+        type="Lead" db="Neck" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Distortion"/>
+  <item FName="Take it Easy" ext=".aglpstate" author="The Eagles" LMT="2023-06-07T16:50:48.000+02:00"
+        bpm="414" cat="Rock" cho="" type="Lead" db="Neck" key="" measures="2054846656"
+        quantize="" rating="0" signature="" dist="Overdrive"/>
+  <item FName="The Silence of Faling Flower" ext=".aglpstate" author="Ample Sound"
+        LMT="2023-06-07T16:50:48.000+02:00" bpm="414" cat="Metal" cho=""
+        type="Rhythm" db="Bridge" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Metal"/>
+  <item FName="The Silence of Faling Flower(ARP)" ext=".aglpstate" author="Ample Sound"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="414" cat="Metal" cho=""
+        type="Rhythm" db="Neck+Bridge" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Overdrive"/>
+  <item FName="Use to Love Her" ext=".aglpstate" author="Guns N Roses"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="414" cat="Rock" cho=""
+        type="Lead" db="Neck+Bridge" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Clean"/>
+  <item FName="Walk This Way" ext=".aglpstate" author="Aerosmith" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="414" cat="Rock" cho="" type="Rhythm" db="Bridge" key=""
+        measures="2054846656" quantize="" rating="0" signature="" dist="Overdrive"/>
+  <item FName="Walk This Way(Solo)" ext=".aglpstate" author="Aerosmith"
+        LMT="2022-08-23T11:47:06.000+02:00" bpm="414" cat="Rock" cho=""
+        type="Lead" db="Neck" key="" measures="2054846656" quantize=""
+        rating="0" signature="" dist="Distortion"/>
+  <item FName="World on Fire" ext=".aglpstate" author="Slash" LMT="2022-08-23T11:47:06.000+02:00"
+        bpm="414" cat="Metal" cho="" type="Rhythm" db="Bridge" key=""
+        measures="2054846656" quantize="" rating="0" signature="" dist="Metal"/>
+</cache>

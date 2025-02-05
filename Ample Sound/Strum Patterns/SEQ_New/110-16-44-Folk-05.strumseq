@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Pattern Author="Ample Sound" Category="Folk" Time-Signature="4/4" Quantize="1/16"
+         BPM="110">
+  <Note Note="67" Velocity="85" Begin="1" End="3"/>
+  <Note Note="69" Velocity="80" Begin="4" End="4"/>
+  <Note Note="67" Velocity="75" Begin="4" End="4"/>
+  <Note Note="69" Velocity="80" Begin="7" End="8"/>
+  <Note Note="67" Velocity="85" Begin="7" End="8"/>
+  <Note Note="78" Velocity="90" Begin="5" End="6"/>
+  <Note Note="67" Velocity="80" Begin="9" End="11"/>
+  <Note Note="65" Velocity="70" Begin="9" End="11"/>
+  <Note Note="69" Velocity="90" Begin="12" End="12"/>
+  <Note Note="67" Velocity="85" Begin="12" End="12"/>
+  <Note Note="78" Velocity="95" Begin="13" End="14"/>
+  <Note Note="71" Velocity="85" Begin="15" End="16"/>
+  <Note Note="69" Velocity="70" Begin="15" End="16"/>
+  <Note Note="67" Velocity="80" Begin="15" End="16"/>
+  <Note Note="65" Velocity="75" Begin="1" End="3"/>
+  <Note Note="65" Velocity="70" Begin="7" End="8"/>
+  <Note Note="64" Velocity="85" Begin="1" End="3"/>
+  <Note Note="64" Velocity="80" Begin="9" End="11"/>
+</Pattern>
