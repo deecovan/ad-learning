@@ -1,0 +1,2 @@
+C:\Projects\ad-learning\blender\models\assets-slappy-000\models\house-003-untextured.blend
+C:\Projects\ad-learning\blender\models\assets-slappy-000\models\house-003-textured.blend
