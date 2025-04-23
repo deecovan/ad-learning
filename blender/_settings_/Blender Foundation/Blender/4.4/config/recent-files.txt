@@ -1,2 +1,3 @@
-C:\Projects\ad-learning\blender\models\assets-slappy-000\models\house-003-untextured.blend
-C:\Projects\ad-learning\blender\models\assets-slappy-000\models\house-003-textured.blend
+C:\Projects\Godot-4.1\h-flyer\assets\mooney\mooney.blend
+C:\Projects\Godot-4.1\h-flyer\assets\mooney\buildings.blend
+C:\Projects\Godot-4.1\h-flyer\assets\building_meshes\buildings.blend
